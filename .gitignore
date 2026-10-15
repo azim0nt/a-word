@@ -1,0 +1,20 @@
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+.vite/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db

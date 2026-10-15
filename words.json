@@ -1,0 +1,496 @@
+[
+    {
+        "module": "1a",
+        "title": "Module 1a",
+        "words": [
+            {
+                "word": "class",
+                "uzbek": "sinf, guruh",
+                "russian": "класс, группа"
+            },
+            {
+                "word": "classmate",
+                "uzbek": "sinfdosh, kursdosh",
+                "russian": "одноклассник, однокурсник"
+            },
+            {
+                "word": "country",
+                "uzbek": "mamlakat, davlat",
+                "russian": "страна"
+            },
+            {
+                "word": "nationality",
+                "uzbek": "millat, fuqarolik",
+                "russian": "национальность, гражданство"
+            },
+            {
+                "word": "new",
+                "uzbek": "yangi",
+                "russian": "новый"
+            },
+            {
+                "word": "Australia — Australian",
+                "uzbek": "Avstraliya — Avstraliyalik",
+                "russian": "Австралия — австралийский / австралиец"
+            },
+            {
+                "word": "Brazil — Brazilian",
+                "uzbek": "Braziliya — Braziliyalik",
+                "russian": "Бразилия — бразильский / бразилец"
+            },
+            {
+                "word": "Canada — Canadian",
+                "uzbek": "Kanada — Kanadalik",
+                "russian": "Канада — канадский / канадец"
+            },
+            {
+                "word": "China — Chinese",
+                "uzbek": "Xitoy — Xitoylik",
+                "russian": "Китай — китайский / китаец"
+            },
+            {
+                "word": "Egypt — Egyptian",
+                "uzbek": "Misr — Misrlik",
+                "russian": "Египет — египетский / египтянин"
+            },
+            {
+                "word": "Hungary — Hungarian",
+                "uzbek": "Vengriya — Vengriyalik",
+                "russian": "Венгрия — венгерский / венгр"
+            },
+            {
+                "word": "Japan — Japanese",
+                "uzbek": "Yaponiya — Yaponiyalik",
+                "russian": "Япония — японский / японец"
+            },
+            {
+                "word": "Mexico — Mexican",
+                "uzbek": "Meksika — Meksikalik",
+                "russian": "Мексика — мексиканский / мексиканец"
+            },
+            {
+                "word": "Peru — Peruvian",
+                "uzbek": "Peru — Perualik",
+                "russian": "Перу — перуанский / перуанец"
+            },
+            {
+                "word": "Russia — Russian",
+                "uzbek": "Rossiya — Rusiyalik",
+                "russian": "Россия — русский / россиянин"
+            },
+            {
+                "word": "Spain — Spanish",
+                "uzbek": "Ispaniya — Ispaniyalik",
+                "russian": "Испания — испанский / испанец"
+            },
+            {
+                "word": "Turkey — Turkish",
+                "uzbek": "Turkiya — Turk",
+                "russian": "Турция — турецкий / турок"
+            },
+            {
+                "word": "UK — British",
+                "uzbek": "Buyuk Britaniya — Britaniyalik",
+                "russian": "Великобритания — британский / британец"
+            },
+            {
+                "word": "USA — American",
+                "uzbek": "AQSh — Amerikalik",
+                "russian": "США — американский / американец"
+            },
+            {
+                "word": "And you?",
+                "uzbek": "Siz-chi? Sizchi?",
+                "russian": "А вы? А ты?"
+            },
+            {
+                "word": "Hello. / Hi.",
+                "uzbek": "Salom.",
+                "russian": "Здравствуйте. / Привет."
+            },
+            {
+                "word": "I'm from...",
+                "uzbek": "Men ...dan/dan kelganman.",
+                "russian": "Я из..."
+            },
+            {
+                "word": "I'm... / My name's...",
+                "uzbek": "Mening ismim...",
+                "russian": "Меня зовут..."
+            },
+            {
+                "word": "Me too!",
+                "uzbek": "Men ham!",
+                "russian": "Я тоже!"
+            },
+            {
+                "word": "Nice to meet you (too).",
+                "uzbek": "Tanishganimdan xursandman (men ham).",
+                "russian": "Приятно познакомиться (и мне тоже)."
+            },
+            {
+                "word": "Right?",
+                "uzbek": "Shundaymi? To'g'rimi?",
+                "russian": "Правда? Верно?"
+            },
+            {
+                "word": "What's your name?",
+                "uzbek": "Ismingiz nima?",
+                "russian": "Как вас зовут?"
+            },
+            {
+                "word": "Where are you from?",
+                "uzbek": "Qayerdansiz? Qayer yerliksan?",
+                "russian": "Откуда вы?"
+            },
+            {
+                "word": "Where in...?",
+                "uzbek": "...ning qayeridan? Qaysi shahardan?",
+                "russian": "Где именно в...?"
+            },
+            {
+                "word": "Yes. / Yeah.",
+                "uzbek": "Ha. / Ha (norasmiy).",
+                "russian": "Да. / Ага."
+            }
+        ]
+    },
+    {
+        "module": "1b",
+        "title": "Module 1b",
+        "words": [
+            {
+                "word": "credit card",
+                "uzbek": "kredit karta",
+                "russian": "кредитная карта"
+            },
+            {
+                "word": "double",
+                "uzbek": "ikki kishilik, qo'sh",
+                "russian": "двойной, на двоих"
+            },
+            {
+                "word": "here",
+                "uzbek": "bu yerda, mana",
+                "russian": "здесь, вот"
+            },
+            {
+                "word": "ID card",
+                "uzbek": "shaxsiy guvohnoma",
+                "russian": "удостоверение личности"
+            },
+            {
+                "word": "late",
+                "uzbek": "kech, kechikkan",
+                "russian": "поздно, опоздавший"
+            },
+            {
+                "word": "(mobile) phone",
+                "uzbek": "(mobil) telefon",
+                "russian": "(мобильный) телефон"
+            },
+            {
+                "word": "surname",
+                "uzbek": "familiya",
+                "russian": "фамилия"
+            },
+            {
+                "word": "telephone / phone",
+                "uzbek": "telefon",
+                "russian": "телефон"
+            },
+            {
+                "word": "zero — a/one hundred",
+                "uzbek": "noldan yuz gacha",
+                "russian": "от нуля до ста"
+            },
+            {
+                "word": "Miss",
+                "uzbek": "Xonim (turmushga chiqmagan)",
+                "russian": "Мисс (незамужняя женщина)"
+            },
+            {
+                "word": "Mr",
+                "uzbek": "Janob (erkak)",
+                "russian": "Господин, Мистер"
+            },
+            {
+                "word": "Mrs",
+                "uzbek": "Xonim (turmushga chiqqan)",
+                "russian": "Миссис (замужняя женщина)"
+            },
+            {
+                "word": "Ms",
+                "uzbek": "Xonim (nikoh holati noma'lum)",
+                "russian": "Мс (нейтральное обращение к женщине)"
+            },
+            {
+                "word": "Here's...",
+                "uzbek": "Mana...",
+                "russian": "Вот..."
+            },
+            {
+                "word": "How old are you? I'm... (years old).",
+                "uzbek": "Yoshingiz nechida? Men ... yoshdaman.",
+                "russian": "Сколько вам лет? Мне ... лет."
+            },
+            {
+                "word": "No.",
+                "uzbek": "Yo'q.",
+                "russian": "Нет."
+            },
+            {
+                "word": "OK.",
+                "uzbek": "Yaxshi, xo'p.",
+                "russian": "Хорошо. Ладно. Окей."
+            },
+            {
+                "word": "What's your email address?",
+                "uzbek": "Email manzilingiz nima?",
+                "russian": "Какой у вас адрес электронной почты?"
+            },
+            {
+                "word": "What's your phone number? It's...",
+                "uzbek": "Telefon raqamingiz nima? Bu...",
+                "russian": "Какой у вас номер телефона? Это..."
+            }
+        ]
+    },
+    {
+        "module": "1c",
+        "title": "Module 1c",
+        "words": [
+            {
+                "word": "chocolate",
+                "uzbek": "shokolad",
+                "russian": "шоколад"
+            },
+            {
+                "word": "different",
+                "uzbek": "har xil, boshqacha",
+                "russian": "другой, различный"
+            },
+            {
+                "word": "friend",
+                "uzbek": "do'st",
+                "russian": "друг, подруга"
+            },
+            {
+                "word": "job",
+                "uzbek": "ish, kasb",
+                "russian": "работа, должность"
+            },
+            {
+                "word": "married",
+                "uzbek": "turmush qurgan, oilali",
+                "russian": "женатый / замужем"
+            },
+            {
+                "word": "single",
+                "uzbek": "bo'ydoq, turmush qurmagan",
+                "russian": "холостой, незамужняя"
+            },
+            {
+                "word": "spaghetti",
+                "uzbek": "spagetti (makaron)",
+                "russian": "спагетти"
+            },
+            {
+                "word": "unemployed",
+                "uzbek": "ishsiz",
+                "russian": "безработный"
+            },
+            {
+                "word": "chef",
+                "uzbek": "oshpaz, bosh oshpaz",
+                "russian": "шеф-повар"
+            },
+            {
+                "word": "dentist",
+                "uzbek": "stomatolog, tish shifokori",
+                "russian": "стоматолог, зубной врач"
+            },
+            {
+                "word": "doctor",
+                "uzbek": "shifokor, doktor",
+                "russian": "врач, доктор"
+            },
+            {
+                "word": "electrician",
+                "uzbek": "elektrik, elektr ustasi",
+                "russian": "электрик"
+            },
+            {
+                "word": "engineer",
+                "uzbek": "muhandis",
+                "russian": "инженер"
+            },
+            {
+                "word": "manager",
+                "uzbek": "menejer, rahbar",
+                "russian": "менеджер, руководитель"
+            },
+            {
+                "word": "mechanic",
+                "uzbek": "mexanik, usta",
+                "russian": "механик, автомеханик"
+            },
+            {
+                "word": "nurse",
+                "uzbek": "hamshira, tibbiyot xodimi",
+                "russian": "медсестра, медбрат"
+            },
+            {
+                "word": "taxi driver",
+                "uzbek": "taksi haydovchisi",
+                "russian": "таксист"
+            },
+            {
+                "word": "waiter",
+                "uzbek": "ofitsiant",
+                "russian": "официант"
+            },
+            {
+                "word": "This is...",
+                "uzbek": "Bu ... (tanishtiruv)",
+                "russian": "Это... (при знакомстве)"
+            },
+            {
+                "word": "What do you do?",
+                "uzbek": "Siz nima ish qilasiz?",
+                "russian": "Чем вы занимаетесь? Кем работаете?"
+            },
+            {
+                "word": "I'm a(n)...",
+                "uzbek": "Men ... man (kasb)",
+                "russian": "Я... (профессия)"
+            },
+            {
+                "word": "Who...?",
+                "uzbek": "Kim...?",
+                "russian": "Кто...?"
+            }
+        ]
+    },
+    {
+        "module": "1d",
+        "title": "Module 1d",
+        "words": [
+            {
+                "word": "address",
+                "uzbek": "manzil",
+                "russian": "адрес"
+            },
+            {
+                "word": "first name",
+                "uzbek": "ism (birinchi ism)",
+                "russian": "имя"
+            },
+            {
+                "word": "occupation",
+                "uzbek": "kasb, mashg'ulot",
+                "russian": "профессия, занятие"
+            },
+            {
+                "word": "passport",
+                "uzbek": "pasport",
+                "russian": "паспорт"
+            },
+            {
+                "word": "street / road / avenue",
+                "uzbek": "ko'cha / yo'l / prospekt",
+                "russian": "улица / дорога / проспект"
+            },
+            {
+                "word": "Good afternoon.",
+                "uzbek": "Xayrli kun.",
+                "russian": "Добрый день."
+            },
+            {
+                "word": "Good evening.",
+                "uzbek": "Xayrli kech.",
+                "russian": "Добрый вечер."
+            },
+            {
+                "word": "Good morning.",
+                "uzbek": "Xayrli tong.",
+                "russian": "Доброе утро."
+            },
+            {
+                "word": "Goodbye. / Bye.",
+                "uzbek": "Xayr. / Xayr (norasmiy).",
+                "russian": "До свидания. / Пока."
+            },
+            {
+                "word": "Goodnight.",
+                "uzbek": "Xayrli tun.",
+                "russian": "Спокойной ночи."
+            },
+            {
+                "word": "Great.",
+                "uzbek": "Ajoyib! Zo'r!",
+                "russian": "Отлично! Замечательно!"
+            },
+            {
+                "word": "Have a nice day.",
+                "uzbek": "Yaxshi kun tilayman.",
+                "russian": "Хорошего дня!"
+            },
+            {
+                "word": "How are you?",
+                "uzbek": "Yaxshimisiz? Qandaysiz?",
+                "russian": "Как вы? Как дела?"
+            },
+            {
+                "word": "How's it going?",
+                "uzbek": "Ishlar qanday? Nima gaplar?",
+                "russian": "Как дела? Как идут дела?"
+            },
+            {
+                "word": "(I'm) fine.",
+                "uzbek": "Yaxshiman, rahmat.",
+                "russian": "Я в порядке. Хорошо."
+            },
+            {
+                "word": "I'm OK.",
+                "uzbek": "Men yaxshiman (odatiy holat).",
+                "russian": "Я в порядке (нейтральный ответ)."
+            },
+            {
+                "word": "I'm very well.",
+                "uzbek": "Men juda yaxshiman.",
+                "russian": "Я очень хорошо."
+            },
+            {
+                "word": "Not bad.",
+                "uzbek": "Yomon emas.",
+                "russian": "Неплохо."
+            },
+            {
+                "word": "See you later / tomorrow.",
+                "uzbek": "Keyinroq / ertaga ko'rishguncha.",
+                "russian": "До встречи / До завтра."
+            },
+            {
+                "word": "See you.",
+                "uzbek": "Ko'rishguncha.",
+                "russian": "Пока. До встречи."
+            },
+            {
+                "word": "Take care.",
+                "uzbek": "O'zingizga e'tibor bering.",
+                "russian": "Берегите себя."
+            },
+            {
+                "word": "Thank you. / Thanks.",
+                "uzbek": "Rahmat. / Tashakkur.",
+                "russian": "Спасибо."
+            },
+            {
+                "word": "You too.",
+                "uzbek": "Sizga ham.",
+                "russian": "И вам тоже."
+            }
+        ]
+    }
+]

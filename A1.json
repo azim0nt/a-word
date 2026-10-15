@@ -1,0 +1,4467 @@
+[
+    {
+        "module": "1a",
+        "title": "Module 1a",
+        "words": [
+            {
+                "word": "class",
+                "uzbek": "sinf, guruh",
+                "russian": "класс, группа"
+            },
+            {
+                "word": "classmate",
+                "uzbek": "sinfdosh, kursdosh",
+                "russian": "одноклассник, однокурсник"
+            },
+            {
+                "word": "country",
+                "uzbek": "mamlakat, davlat",
+                "russian": "страна"
+            },
+            {
+                "word": "nationality",
+                "uzbek": "millat, fuqarolik",
+                "russian": "национальность, гражданство"
+            },
+            {
+                "word": "new",
+                "uzbek": "yangi",
+                "russian": "новый"
+            },
+            {
+                "word": "Australia — Australian",
+                "uzbek": "Avstraliya — Avstraliyalik",
+                "russian": "Австралия — австралийский / австралиец"
+            },
+            {
+                "word": "Brazil — Brazilian",
+                "uzbek": "Braziliya — Braziliyalik",
+                "russian": "Бразилия — бразильский / бразилец"
+            },
+            {
+                "word": "Canada — Canadian",
+                "uzbek": "Kanada — Kanadalik",
+                "russian": "Канада — канадский / канадец"
+            },
+            {
+                "word": "China — Chinese",
+                "uzbek": "Xitoy — Xitoylik",
+                "russian": "Китай — китайский / китаец"
+            },
+            {
+                "word": "Egypt — Egyptian",
+                "uzbek": "Misr — Misrlik",
+                "russian": "Египет — египетский / египтянин"
+            },
+            {
+                "word": "Hungary — Hungarian",
+                "uzbek": "Vengriya — Vengriyalik",
+                "russian": "Венгрия — венгерский / венгр"
+            },
+            {
+                "word": "Japan — Japanese",
+                "uzbek": "Yaponiya — Yaponiyalik",
+                "russian": "Япония — японский / японец"
+            },
+            {
+                "word": "Mexico — Mexican",
+                "uzbek": "Meksika — Meksikalik",
+                "russian": "Мексика — мексиканский / мексиканец"
+            },
+            {
+                "word": "Peru — Peruvian",
+                "uzbek": "Peru — Perualik",
+                "russian": "Перу — перуанский / перуанец"
+            },
+            {
+                "word": "Russia — Russian",
+                "uzbek": "Rossiya — Rusiyalik",
+                "russian": "Россия — русский / россиянин"
+            },
+            {
+                "word": "Spain — Spanish",
+                "uzbek": "Ispaniya — Ispaniyalik",
+                "russian": "Испания — испанский / испанец"
+            },
+            {
+                "word": "Turkey — Turkish",
+                "uzbek": "Turkiya — Turk",
+                "russian": "Турция — турецкий / турок"
+            },
+            {
+                "word": "UK — British",
+                "uzbek": "Buyuk Britaniya — Britaniyalik",
+                "russian": "Великобритания — британский / британец"
+            },
+            {
+                "word": "USA — American",
+                "uzbek": "AQSh — Amerikalik",
+                "russian": "США — американский / американец"
+            },
+            {
+                "word": "And you?",
+                "uzbek": "Siz-chi? Sizchi?",
+                "russian": "А вы? А ты?"
+            },
+            {
+                "word": "Hello. / Hi.",
+                "uzbek": "Salom.",
+                "russian": "Здравствуйте. / Привет."
+            },
+            {
+                "word": "I'm from...",
+                "uzbek": "Men ...dan/dan kelganman.",
+                "russian": "Я из..."
+            },
+            {
+                "word": "I'm... / My name's...",
+                "uzbek": "Mening ismim...",
+                "russian": "Меня зовут..."
+            },
+            {
+                "word": "Me too!",
+                "uzbek": "Men ham!",
+                "russian": "Я тоже!"
+            },
+            {
+                "word": "Nice to meet you (too).",
+                "uzbek": "Tanishganimdan xursandman (men ham).",
+                "russian": "Приятно познакомиться (и мне тоже)."
+            },
+            {
+                "word": "Right?",
+                "uzbek": "Shundaymi? To'g'rimi?",
+                "russian": "Правда? Верно?"
+            },
+            {
+                "word": "What's your name?",
+                "uzbek": "Ismingiz nima?",
+                "russian": "Как вас зовут?"
+            },
+            {
+                "word": "Where are you from?",
+                "uzbek": "Qayerdansiz? Qayer yerliksan?",
+                "russian": "Откуда вы?"
+            },
+            {
+                "word": "Where in...?",
+                "uzbek": "...ning qayeridan? Qaysi shahardan?",
+                "russian": "Где именно в...?"
+            },
+            {
+                "word": "Yes. / Yeah.",
+                "uzbek": "Ha. / Ha (norasmiy).",
+                "russian": "Да. / Ага."
+            }
+        ]
+    },
+    {
+        "module": "1b",
+        "title": "Module 1b",
+        "words": [
+            {
+                "word": "credit card",
+                "uzbek": "kredit karta",
+                "russian": "кредитная карта"
+            },
+            {
+                "word": "double",
+                "uzbek": "ikki kishilik, qo'sh",
+                "russian": "двойной, на двоих"
+            },
+            {
+                "word": "here",
+                "uzbek": "bu yerda, mana",
+                "russian": "здесь, вот"
+            },
+            {
+                "word": "ID card",
+                "uzbek": "shaxsiy guvohnoma",
+                "russian": "удостоверение личности"
+            },
+            {
+                "word": "late",
+                "uzbek": "kech, kechikkan",
+                "russian": "поздно, опоздавший"
+            },
+            {
+                "word": "(mobile) phone",
+                "uzbek": "(mobil) telefon",
+                "russian": "(мобильный) телефон"
+            },
+            {
+                "word": "surname",
+                "uzbek": "familiya",
+                "russian": "фамилия"
+            },
+            {
+                "word": "telephone / phone",
+                "uzbek": "telefon",
+                "russian": "телефон"
+            },
+            {
+                "word": "zero — a/one hundred",
+                "uzbek": "noldan yuz gacha",
+                "russian": "от нуля до ста"
+            },
+            {
+                "word": "Miss",
+                "uzbek": "Xonim (turmushga chiqmagan)",
+                "russian": "Мисс (незамужняя женщина)"
+            },
+            {
+                "word": "Mr",
+                "uzbek": "Janob (erkak)",
+                "russian": "Господин, Мистер"
+            },
+            {
+                "word": "Mrs",
+                "uzbek": "Xonim (turmushga chiqqan)",
+                "russian": "Миссис (замужняя женщина)"
+            },
+            {
+                "word": "Ms",
+                "uzbek": "Xonim (nikoh holati noma'lum)",
+                "russian": "Мс (нейтральное обращение к женщине)"
+            },
+            {
+                "word": "Here's...",
+                "uzbek": "Mana...",
+                "russian": "Вот..."
+            },
+            {
+                "word": "How old are you? I'm... (years old).",
+                "uzbek": "Yoshingiz nechida? Men ... yoshdaman.",
+                "russian": "Сколько вам лет? Мне ... лет."
+            },
+            {
+                "word": "No.",
+                "uzbek": "Yo'q.",
+                "russian": "Нет."
+            },
+            {
+                "word": "OK.",
+                "uzbek": "Yaxshi, xo'p.",
+                "russian": "Хорошо. Ладно. Окей."
+            },
+            {
+                "word": "What's your email address?",
+                "uzbek": "Email manzilingiz nima?",
+                "russian": "Какой у вас адрес электронной почты?"
+            },
+            {
+                "word": "What's your phone number? It's...",
+                "uzbek": "Telefon raqamingiz nima? Bu...",
+                "russian": "Какой у вас номер телефона? Это..."
+            }
+        ]
+    },
+    {
+        "module": "1c",
+        "title": "Module 1c",
+        "words": [
+            {
+                "word": "chocolate",
+                "uzbek": "shokolad",
+                "russian": "шоколад"
+            },
+            {
+                "word": "different",
+                "uzbek": "har xil, boshqacha",
+                "russian": "другой, различный"
+            },
+            {
+                "word": "friend",
+                "uzbek": "do'st",
+                "russian": "друг, подруга"
+            },
+            {
+                "word": "job",
+                "uzbek": "ish, kasb",
+                "russian": "работа, должность"
+            },
+            {
+                "word": "married",
+                "uzbek": "turmush qurgan, oilali",
+                "russian": "женатый / замужем"
+            },
+            {
+                "word": "single",
+                "uzbek": "bo'ydoq, turmush qurmagan",
+                "russian": "холостой, незамужняя"
+            },
+            {
+                "word": "spaghetti",
+                "uzbek": "spagetti (makaron)",
+                "russian": "спагетти"
+            },
+            {
+                "word": "unemployed",
+                "uzbek": "ishsiz",
+                "russian": "безработный"
+            },
+            {
+                "word": "chef",
+                "uzbek": "oshpaz, bosh oshpaz",
+                "russian": "шеф-повар"
+            },
+            {
+                "word": "dentist",
+                "uzbek": "stomatolog, tish shifokori",
+                "russian": "стоматолог, зубной врач"
+            },
+            {
+                "word": "doctor",
+                "uzbek": "shifokor, doktor",
+                "russian": "врач, доктор"
+            },
+            {
+                "word": "electrician",
+                "uzbek": "elektrik, elektr ustasi",
+                "russian": "электрик"
+            },
+            {
+                "word": "engineer",
+                "uzbek": "muhandis",
+                "russian": "инженер"
+            },
+            {
+                "word": "manager",
+                "uzbek": "menejer, rahbar",
+                "russian": "менеджер, руководитель"
+            },
+            {
+                "word": "mechanic",
+                "uzbek": "mexanik, usta",
+                "russian": "механик, автомеханик"
+            },
+            {
+                "word": "nurse",
+                "uzbek": "hamshira, tibbiyot xodimi",
+                "russian": "медсестра, медбрат"
+            },
+            {
+                "word": "taxi driver",
+                "uzbek": "taksi haydovchisi",
+                "russian": "таксист"
+            },
+            {
+                "word": "waiter",
+                "uzbek": "ofitsiant",
+                "russian": "официант"
+            },
+            {
+                "word": "This is...",
+                "uzbek": "Bu ... (tanishtiruv)",
+                "russian": "Это... (при знакомстве)"
+            },
+            {
+                "word": "What do you do?",
+                "uzbek": "Siz nima ish qilasiz?",
+                "russian": "Чем вы занимаетесь? Кем работаете?"
+            },
+            {
+                "word": "I'm a(n)...",
+                "uzbek": "Men ... man (kasb)",
+                "russian": "Я... (профессия)"
+            },
+            {
+                "word": "Who...?",
+                "uzbek": "Kim...?",
+                "russian": "Кто...?"
+            }
+        ]
+    },
+    {
+        "module": "1d",
+        "title": "Module 1d",
+        "words": [
+            {
+                "word": "address",
+                "uzbek": "manzil",
+                "russian": "адрес"
+            },
+            {
+                "word": "first name",
+                "uzbek": "ism (birinchi ism)",
+                "russian": "имя"
+            },
+            {
+                "word": "occupation",
+                "uzbek": "kasb, mashg'ulot",
+                "russian": "профессия, занятие"
+            },
+            {
+                "word": "passport",
+                "uzbek": "pasport",
+                "russian": "паспорт"
+            },
+            {
+                "word": "street / road / avenue",
+                "uzbek": "ko'cha / yo'l / prospekt",
+                "russian": "улица / дорога / проспект"
+            },
+            {
+                "word": "Good afternoon.",
+                "uzbek": "Xayrli kun.",
+                "russian": "Добрый день."
+            },
+            {
+                "word": "Good evening.",
+                "uzbek": "Xayrli kech.",
+                "russian": "Добрый вечер."
+            },
+            {
+                "word": "Good morning.",
+                "uzbek": "Xayrli tong.",
+                "russian": "Доброе утро."
+            },
+            {
+                "word": "Goodbye. / Bye.",
+                "uzbek": "Xayr. / Xayr (norasmiy).",
+                "russian": "До свидания. / Пока."
+            },
+            {
+                "word": "Goodnight.",
+                "uzbek": "Xayrli tun.",
+                "russian": "Спокойной ночи."
+            },
+            {
+                "word": "Great.",
+                "uzbek": "Ajoyib! Zo'r!",
+                "russian": "Отлично! Замечательно!"
+            },
+            {
+                "word": "Have a nice day.",
+                "uzbek": "Yaxshi kun tilayman.",
+                "russian": "Хорошего дня!"
+            },
+            {
+                "word": "How are you?",
+                "uzbek": "Yaxshimisiz? Qandaysiz?",
+                "russian": "Как вы? Как дела?"
+            },
+            {
+                "word": "How's it going?",
+                "uzbek": "Ishlar qanday? Nima gaplar?",
+                "russian": "Как дела? Как идут дела?"
+            },
+            {
+                "word": "(I'm) fine.",
+                "uzbek": "Yaxshiman, rahmat.",
+                "russian": "Я в порядке. Хорошо."
+            },
+            {
+                "word": "I'm OK.",
+                "uzbek": "Men yaxshiman (odatiy holat).",
+                "russian": "Я в порядке (нейтральный ответ)."
+            },
+            {
+                "word": "I'm very well.",
+                "uzbek": "Men juda yaxshiman.",
+                "russian": "Я очень хорошо."
+            },
+            {
+                "word": "Not bad.",
+                "uzbek": "Yomon emas.",
+                "russian": "Неплохо."
+            },
+            {
+                "word": "See you later / tomorrow.",
+                "uzbek": "Keyinroq / ertaga ko'rishguncha.",
+                "russian": "До встречи / До завтра."
+            },
+            {
+                "word": "See you.",
+                "uzbek": "Ko'rishguncha.",
+                "russian": "Пока. До встречи."
+            },
+            {
+                "word": "Take care.",
+                "uzbek": "O'zingizga e'tibor bering.",
+                "russian": "Берегите себя."
+            },
+            {
+                "word": "Thank you. / Thanks.",
+                "uzbek": "Rahmat. / Tashakkur.",
+                "russian": "Спасибо."
+            },
+            {
+                "word": "You too.",
+                "uzbek": "Sizga ham.",
+                "russian": "И вам тоже."
+            }
+        ]
+    },
+    {
+        "module": "2a",
+        "title": "Module 2a",
+        "words": [
+            {
+                "word": "bag",
+                "uzbek": "sumka, xalta",
+                "russian": "сумка, пакет"
+            },
+            {
+                "word": "boy",
+                "uzbek": "o'g'il bola",
+                "russian": "мальчик, парень"
+            },
+            {
+                "word": "child — children",
+                "uzbek": "bola — bolalar",
+                "russian": "ребёнок — дети"
+            },
+            {
+                "word": "family",
+                "uzbek": "oila",
+                "russian": "семья"
+            },
+            {
+                "word": "girl",
+                "uzbek": "qiz bola",
+                "russian": "девочка, девушка"
+            },
+            {
+                "word": "guys",
+                "uzbek": "bolalar, do'stlar (norasmiy)",
+                "russian": "ребята, парни (неформально)"
+            },
+            {
+                "word": "headphones",
+                "uzbek": "quloqchinlar",
+                "russian": "наушники"
+            },
+            {
+                "word": "man — men",
+                "uzbek": "erkak — erkaklar",
+                "russian": "мужчина — мужчины"
+            },
+            {
+                "word": "me",
+                "uzbek": "men (tushum kelishigi)",
+                "russian": "меня, мне, мной"
+            },
+            {
+                "word": "next to",
+                "uzbek": "yonida, qo'shni",
+                "russian": "рядом с"
+            },
+            {
+                "word": "nice",
+                "uzbek": "yoqimli, chiroyli, yaxshi",
+                "russian": "приятный, хороший, милый"
+            },
+            {
+                "word": "person — people",
+                "uzbek": "odam — odamlar",
+                "russian": "человек — люди"
+            },
+            {
+                "word": "photo",
+                "uzbek": "rasm, surat",
+                "russian": "фотография, снимок"
+            },
+            {
+                "word": "post",
+                "uzbek": "post (internet)",
+                "russian": "пост, публикация"
+            },
+            {
+                "word": "selfie",
+                "uzbek": "selfie, o'z-o'zini suratga olish",
+                "russian": "селфи"
+            },
+            {
+                "word": "(over) there",
+                "uzbek": "u yerda, ana u yoqda",
+                "russian": "там, вон там"
+            },
+            {
+                "word": "very",
+                "uzbek": "juda, g'oyat",
+                "russian": "очень"
+            },
+            {
+                "word": "wallet",
+                "uzbek": "hamyon",
+                "russian": "кошелёк"
+            },
+            {
+                "word": "woman — women",
+                "uzbek": "ayol — ayollar",
+                "russian": "женщина — женщины"
+            },
+            {
+                "word": "brother",
+                "uzbek": "aka, uka",
+                "russian": "брат"
+            },
+            {
+                "word": "daughter",
+                "uzbek": "qiz (farzand)",
+                "russian": "дочь"
+            },
+            {
+                "word": "father / dad",
+                "uzbek": "ota / dadam",
+                "russian": "отец / папа"
+            },
+            {
+                "word": "grandfather / grandpa",
+                "uzbek": "buva / bobo",
+                "russian": "дедушка"
+            },
+            {
+                "word": "grandmother / grandma",
+                "uzbek": "buvi / momо",
+                "russian": "бабушка"
+            },
+            {
+                "word": "grandparents",
+                "uzbek": "bobо va buvi",
+                "russian": "бабушка и дедушка"
+            },
+            {
+                "word": "husband",
+                "uzbek": "er (turmush o'rtog'i, erkak)",
+                "russian": "муж"
+            },
+            {
+                "word": "mother / mum",
+                "uzbek": "ona / onam",
+                "russian": "мать / мама"
+            },
+            {
+                "word": "parents",
+                "uzbek": "ota-ona",
+                "russian": "родители"
+            },
+            {
+                "word": "sister",
+                "uzbek": "opa, singil",
+                "russian": "сестра"
+            },
+            {
+                "word": "son",
+                "uzbek": "o'g'il (farzand)",
+                "russian": "сын"
+            },
+            {
+                "word": "wife",
+                "uzbek": "xotin (turmush o'rtog'i, ayol)",
+                "russian": "жена"
+            }
+        ]
+    },
+    {
+        "module": "2b",
+        "title": "Module 2b",
+        "words": [
+            {
+                "word": "baby",
+                "uzbek": "chaqaloq, go'dak",
+                "russian": "младенец, малыш"
+            },
+            {
+                "word": "backpack",
+                "uzbek": "ryukzak, orqa sumka",
+                "russian": "рюкзак"
+            },
+            {
+                "word": "brush",
+                "uzbek": "cho'tka, mo'yqalam",
+                "russian": "щётка, кисть"
+            },
+            {
+                "word": "but",
+                "uzbek": "lekin, ammo",
+                "russian": "но, однако"
+            },
+            {
+                "word": "camera",
+                "uzbek": "kamera, fotoaparat",
+                "russian": "фотоаппарат, камера"
+            },
+            {
+                "word": "clothes",
+                "uzbek": "kiyimlar",
+                "russian": "одежда"
+            },
+            {
+                "word": "key",
+                "uzbek": "kalit",
+                "russian": "ключ"
+            },
+            {
+                "word": "notebook",
+                "uzbek": "daftar, bloknot",
+                "russian": "тетрадь, блокнот"
+            },
+            {
+                "word": "pen",
+                "uzbek": "ruchka, qalam",
+                "russian": "ручка"
+            },
+            {
+                "word": "relax",
+                "uzbek": "dam olmoq, tinchlanmoq",
+                "russian": "расслабляться, отдыхать"
+            },
+            {
+                "word": "sunglasses",
+                "uzbek": "quyosh ko'zoynaklari",
+                "russian": "солнечные очки"
+            },
+            {
+                "word": "tablet",
+                "uzbek": "planshet",
+                "russian": "планшет"
+            },
+            {
+                "word": "trip",
+                "uzbek": "safar, sayohat",
+                "russian": "поездка, путешествие"
+            },
+            {
+                "word": "umbrella",
+                "uzbek": "soyabon, yomg'ir soyaboni",
+                "russian": "зонт, зонтик"
+            },
+            {
+                "word": "wait",
+                "uzbek": "kutmoq",
+                "russian": "ждать, подождать"
+            },
+            {
+                "word": "watch",
+                "uzbek": "soat (qo'l soati)",
+                "russian": "наручные часы"
+            },
+            {
+                "word": "Good. / That's good.",
+                "uzbek": "Yaxshi. / Bu yaxshi.",
+                "russian": "Хорошо. / Это хорошо."
+            },
+            {
+                "word": "What about...?",
+                "uzbek": "...chi? ...haqida nima deysan?",
+                "russian": "А как насчёт...?"
+            }
+        ]
+    },
+    {
+        "module": "2c",
+        "title": "Module 2c",
+        "words": [
+            {
+                "word": "amazing",
+                "uzbek": "ajoyib, hayratlanarli",
+                "russian": "удивительный, потрясающий"
+            },
+            {
+                "word": "big",
+                "uzbek": "katta, yirik",
+                "russian": "большой"
+            },
+            {
+                "word": "car",
+                "uzbek": "avtomobil, mashina",
+                "russian": "машина, автомобиль"
+            },
+            {
+                "word": "cheap",
+                "uzbek": "arzon",
+                "russian": "дешёвый"
+            },
+            {
+                "word": "colour",
+                "uzbek": "rang",
+                "russian": "цвет"
+            },
+            {
+                "word": "colourful",
+                "uzbek": "rangli, rang-barang",
+                "russian": "красочный, яркий"
+            },
+            {
+                "word": "expensive",
+                "uzbek": "qimmat, narxi baland",
+                "russian": "дорогой, дорогостоящий"
+            },
+            {
+                "word": "film",
+                "uzbek": "film, kino",
+                "russian": "фильм, кино"
+            },
+            {
+                "word": "flower",
+                "uzbek": "gul",
+                "russian": "цветок"
+            },
+            {
+                "word": "funny",
+                "uzbek": "kulgili, hazilkash",
+                "russian": "смешной, забавный"
+            },
+            {
+                "word": "hat",
+                "uzbek": "shapka, do'ppi",
+                "russian": "шляпа, шапка"
+            },
+            {
+                "word": "kind",
+                "uzbek": "mehribon, yaxshi qalbli",
+                "russian": "добрый, любезный"
+            },
+            {
+                "word": "lamp",
+                "uzbek": "chiroq, lampa",
+                "russian": "лампа"
+            },
+            {
+                "word": "lots of",
+                "uzbek": "ko'p, juda ko'p",
+                "russian": "много, масса"
+            },
+            {
+                "word": "mirror",
+                "uzbek": "oyna (ko'zgu)",
+                "russian": "зеркало"
+            },
+            {
+                "word": "old (= not new)",
+                "uzbek": "eski, qadimiy",
+                "russian": "старый (не новый)"
+            },
+            {
+                "word": "small",
+                "uzbek": "kichik, kichkina",
+                "russian": "маленький, небольшой"
+            },
+            {
+                "word": "strange",
+                "uzbek": "g'alati, notanish",
+                "russian": "странный, необычный"
+            },
+            {
+                "word": "thing",
+                "uzbek": "narsa, buyum",
+                "russian": "вещь, предмет"
+            },
+            {
+                "word": "black",
+                "uzbek": "qora",
+                "russian": "чёрный"
+            },
+            {
+                "word": "blue",
+                "uzbek": "ko'k, moviy",
+                "russian": "синий, голубой"
+            },
+            {
+                "word": "brown",
+                "uzbek": "jigarrang",
+                "russian": "коричневый"
+            },
+            {
+                "word": "green",
+                "uzbek": "yashil",
+                "russian": "зелёный"
+            },
+            {
+                "word": "grey",
+                "uzbek": "kulrang",
+                "russian": "серый"
+            },
+            {
+                "word": "orange",
+                "uzbek": "to'q sariq, apelsin rangi",
+                "russian": "оранжевый"
+            },
+            {
+                "word": "pink",
+                "uzbek": "pushti rang",
+                "russian": "розовый"
+            },
+            {
+                "word": "purple",
+                "uzbek": "binafsha rang",
+                "russian": "фиолетовый"
+            },
+            {
+                "word": "red",
+                "uzbek": "qizil",
+                "russian": "красный"
+            },
+            {
+                "word": "white",
+                "uzbek": "oq",
+                "russian": "белый"
+            },
+            {
+                "word": "yellow",
+                "uzbek": "sariq",
+                "russian": "жёлтый"
+            }
+        ]
+    },
+    {
+        "module": "2d",
+        "title": "Module 2d",
+        "words": [
+            {
+                "word": "age",
+                "uzbek": "yosh",
+                "russian": "возраст"
+            },
+            {
+                "word": "cool",
+                "uzbek": "zo'r, ajoyib (norasmiy)",
+                "russian": "классный, крутой (неформально)"
+            },
+            {
+                "word": "cousin",
+                "uzbek": "amaki/tog'a yoki amma/xola farzandi",
+                "russian": "двоюродный брат / двоюродная сестра"
+            },
+            {
+                "word": "flatmate",
+                "uzbek": "kvartira / uy hamrohi",
+                "russian": "сосед по квартире"
+            },
+            {
+                "word": "friendly",
+                "uzbek": "samimiy, do'stona",
+                "russian": "дружелюбный, приветливый"
+            },
+            {
+                "word": "neighbour",
+                "uzbek": "qo'shni",
+                "russian": "сосед"
+            },
+            {
+                "word": "park",
+                "uzbek": "park, bog'",
+                "russian": "парк"
+            },
+            {
+                "word": "really (= very)",
+                "uzbek": "juda, haqiqatan ham",
+                "russian": "очень, по-настоящему"
+            },
+            {
+                "word": "beautiful",
+                "uzbek": "go'zal, chiroyli",
+                "russian": "красивый, прекрасный"
+            },
+            {
+                "word": "chubby",
+                "uzbek": "semizroq, to'la (yumshoq ma'noda)",
+                "russian": "пухлый, пухленький"
+            },
+            {
+                "word": "dark",
+                "uzbek": "qoʻng'ir, qora (soch, ko'z rangi)",
+                "russian": "тёмный (о волосах, глазах)"
+            },
+            {
+                "word": "eye",
+                "uzbek": "ko'z",
+                "russian": "глаз"
+            },
+            {
+                "word": "fair",
+                "uzbek": "sariqish, och rangli (soch yoki teri)",
+                "russian": "светлый (о волосах, коже)"
+            },
+            {
+                "word": "good-looking",
+                "uzbek": "kelishgan, chiroyli ko'rinishli",
+                "russian": "привлекательный, симпатичный"
+            },
+            {
+                "word": "hair",
+                "uzbek": "soch",
+                "russian": "волосы"
+            },
+            {
+                "word": "handsome",
+                "uzbek": "kelishgan (erkak uchun)",
+                "russian": "красивый, привлекательный (о мужчине)"
+            },
+            {
+                "word": "in his/her 20s",
+                "uzbek": "20 yoshlarda",
+                "russian": "в возрасте двадцати лет (20–29)"
+            },
+            {
+                "word": "long",
+                "uzbek": "uzun",
+                "russian": "длинный"
+            },
+            {
+                "word": "old (= not young)",
+                "uzbek": "keksa, qarigan",
+                "russian": "пожилой, старый (не молодой)"
+            },
+            {
+                "word": "short",
+                "uzbek": "past bo'yli, kalta",
+                "russian": "низкий (о росте), короткий"
+            },
+            {
+                "word": "slim",
+                "uzbek": "ingichka, ozg'in",
+                "russian": "стройный, худощавый"
+            },
+            {
+                "word": "tall",
+                "uzbek": "baland bo'yli",
+                "russian": "высокий"
+            },
+            {
+                "word": "young",
+                "uzbek": "yosh, yoshlikdagi",
+                "russian": "молодой"
+            }
+        ]
+    },
+    {
+        "module": "3a",
+        "title": "Module 3a",
+        "words": [
+            {
+                "word": "air conditioning / AC",
+                "uzbek": "konditsioner, havo sovutgich",
+                "russian": "кондиционер"
+            },
+            {
+                "word": "all",
+                "uzbek": "hamma, barchasi",
+                "russian": "все, весь, вся"
+            },
+            {
+                "word": "also",
+                "uzbek": "ham, shuningdek",
+                "russian": "также, тоже"
+            },
+            {
+                "word": "flat",
+                "uzbek": "kvartira, xonadon",
+                "russian": "квартира"
+            },
+            {
+                "word": "fridge",
+                "uzbek": "muzlatgich, xolodilnik",
+                "russian": "холодильник"
+            },
+            {
+                "word": "house",
+                "uzbek": "uy, turar joy (alohida bino)",
+                "russian": "дом (отдельное здание)"
+            },
+            {
+                "word": "room",
+                "uzbek": "xona, bo'lma",
+                "russian": "комната"
+            },
+            {
+                "word": "shop",
+                "uzbek": "do'kon, magazin",
+                "russian": "магазин"
+            },
+            {
+                "word": "television / TV",
+                "uzbek": "televizor",
+                "russian": "телевизор"
+            },
+            {
+                "word": "balcony",
+                "uzbek": "balkon",
+                "russian": "балкон"
+            },
+            {
+                "word": "bathroom",
+                "uzbek": "hammom, vanna xonasi",
+                "russian": "ванная комната"
+            },
+            {
+                "word": "bedroom",
+                "uzbek": "yotoqxona",
+                "russian": "спальня"
+            },
+            {
+                "word": "door",
+                "uzbek": "eshik",
+                "russian": "дверь"
+            },
+            {
+                "word": "downstairs",
+                "uzbek": "pastki qavat, pastda",
+                "russian": "внизу, на нижнем этаже"
+            },
+            {
+                "word": "garage",
+                "uzbek": "garaj",
+                "russian": "гараж"
+            },
+            {
+                "word": "garden",
+                "uzbek": "bog', hovli",
+                "russian": "сад, огород"
+            },
+            {
+                "word": "kitchen",
+                "uzbek": "oshxona",
+                "russian": "кухня"
+            },
+            {
+                "word": "living room",
+                "uzbek": "mehmonxona, yashash xonasi",
+                "russian": "гостиная"
+            },
+            {
+                "word": "swimming pool",
+                "uzbek": "suzish havzasi, basseyn",
+                "russian": "бассейн"
+            },
+            {
+                "word": "upstairs",
+                "uzbek": "yuqori qavat, tepada",
+                "russian": "наверху, на верхнем этаже"
+            },
+            {
+                "word": "wall",
+                "uzbek": "devor",
+                "russian": "стена"
+            },
+            {
+                "word": "window",
+                "uzbek": "deraza",
+                "russian": "окно"
+            },
+            {
+                "word": "How many...?",
+                "uzbek": "Nechta...? Qancha...?",
+                "russian": "Сколько...? (для счётных)"
+            }
+        ]
+    },
+    {
+        "module": "3b",
+        "title": "Module 3b",
+        "words": [
+            {
+                "word": "box",
+                "uzbek": "quti",
+                "russian": "коробка, ящик"
+            },
+            {
+                "word": "floor",
+                "uzbek": "pol; qavat",
+                "russian": "пол; этаж"
+            },
+            {
+                "word": "armchair",
+                "uzbek": "kreslo",
+                "russian": "кресло"
+            },
+            {
+                "word": "bed",
+                "uzbek": "karavot, to'shak",
+                "russian": "кровать"
+            },
+            {
+                "word": "bookcase",
+                "uzbek": "kitob javoni",
+                "russian": "книжный шкаф"
+            },
+            {
+                "word": "chair",
+                "uzbek": "stul",
+                "russian": "стул"
+            },
+            {
+                "word": "coffee table",
+                "uzbek": "koffe stoli, past stol",
+                "russian": "журнальный столик"
+            },
+            {
+                "word": "curtain",
+                "uzbek": "parda",
+                "russian": "занавеска, штора"
+            },
+            {
+                "word": "desk",
+                "uzbek": "yozuv stoli",
+                "russian": "письменный стол"
+            },
+            {
+                "word": "rug",
+                "uzbek": "gilamcha, kichik gilam",
+                "russian": "ковёр, коврик"
+            },
+            {
+                "word": "sofa",
+                "uzbek": "divan, sofa",
+                "russian": "диван"
+            },
+            {
+                "word": "cooker",
+                "uzbek": "pechka, plita",
+                "russian": "плита (для приготовления пищи)"
+            },
+            {
+                "word": "microwave",
+                "uzbek": "mikroto'lqinli pech",
+                "russian": "микроволновая печь"
+            },
+            {
+                "word": "washing machine",
+                "uzbek": "kir yuvish mashinasi",
+                "russian": "стиральная машина"
+            },
+            {
+                "word": "behind",
+                "uzbek": "orqasida, ketida",
+                "russian": "за, позади"
+            },
+            {
+                "word": "in",
+                "uzbek": "ichida, -da/-de",
+                "russian": "в, внутри"
+            },
+            {
+                "word": "in front of",
+                "uzbek": "oldida, qarshisida",
+                "russian": "перед, напротив"
+            },
+            {
+                "word": "next to",
+                "uzbek": "yonida, qo'shni",
+                "russian": "рядом с"
+            },
+            {
+                "word": "on",
+                "uzbek": "ustida, tepasida",
+                "russian": "на (поверхности)"
+            },
+            {
+                "word": "under",
+                "uzbek": "ostida, tagida",
+                "russian": "под"
+            },
+            {
+                "word": "That's right / wrong.",
+                "uzbek": "Bu to'g'ri / noto'g'ri.",
+                "russian": "Это правильно / неправильно."
+            }
+        ]
+    },
+    {
+        "module": "3c",
+        "title": "Module 3c",
+        "words": [
+            {
+                "word": "interesting",
+                "uzbek": "qiziqarli",
+                "russian": "интересный"
+            },
+            {
+                "word": "near",
+                "uzbek": "yaqin, yaqinda",
+                "russian": "близко, рядом"
+            },
+            {
+                "word": "neighbourhood",
+                "uzbek": "mahalla, qo'shnichilik",
+                "russian": "район, окрестности"
+            },
+            {
+                "word": "performer",
+                "uzbek": "ijrochi, artis",
+                "russian": "исполнитель, артист"
+            },
+            {
+                "word": "place",
+                "uzbek": "joy, makon",
+                "russian": "место"
+            },
+            {
+                "word": "visit",
+                "uzbek": "tashrif buyurmoq, borib ko'rmoq",
+                "russian": "посещать, навещать"
+            },
+            {
+                "word": "bank",
+                "uzbek": "bank",
+                "russian": "банк"
+            },
+            {
+                "word": "café",
+                "uzbek": "kafe",
+                "russian": "кафе"
+            },
+            {
+                "word": "cinema",
+                "uzbek": "kino, kinoteatr",
+                "russian": "кинотеатр"
+            },
+            {
+                "word": "hospital",
+                "uzbek": "kasalxona, shifoxona",
+                "russian": "больница, госпиталь"
+            },
+            {
+                "word": "market",
+                "uzbek": "bozor",
+                "russian": "рынок"
+            },
+            {
+                "word": "museum",
+                "uzbek": "muzey",
+                "russian": "музей"
+            },
+            {
+                "word": "police station",
+                "uzbek": "politsiya bo'limi",
+                "russian": "полицейский участок"
+            },
+            {
+                "word": "shopping centre / mall",
+                "uzbek": "savdo markazi, mol",
+                "russian": "торговый центр"
+            },
+            {
+                "word": "square",
+                "uzbek": "maydon",
+                "russian": "площадь"
+            },
+            {
+                "word": "station",
+                "uzbek": "vokzal, stansiya",
+                "russian": "вокзал, станция"
+            },
+            {
+                "word": "theatre",
+                "uzbek": "teatr",
+                "russian": "театр"
+            }
+        ]
+    },
+    {
+        "module": "3d",
+        "title": "Module 3d",
+        "words": [
+            {
+                "word": "a five-minute walk",
+                "uzbek": "besh daqiqalik yurish",
+                "russian": "пять минут пешком"
+            },
+            {
+                "word": "between",
+                "uzbek": "orasida, o'rtasida",
+                "russian": "между"
+            },
+            {
+                "word": "cat",
+                "uzbek": "mushuk",
+                "russian": "кошка, кот"
+            },
+            {
+                "word": "central heating",
+                "uzbek": "markaziy isitish tizimi",
+                "russian": "центральное отопление"
+            },
+            {
+                "word": "dining room",
+                "uzbek": "ovqat xonasi, oshxona (alohida xona)",
+                "russian": "столовая"
+            },
+            {
+                "word": "far",
+                "uzbek": "uzoq, olisda",
+                "russian": "далеко, далёкий"
+            },
+            {
+                "word": "furniture",
+                "uzbek": "mebel",
+                "russian": "мебель"
+            },
+            {
+                "word": "house / flat to let",
+                "uzbek": "ijaraga beriladigan uy / kvartira",
+                "russian": "дом / квартира сдаётся"
+            },
+            {
+                "word": "just",
+                "uzbek": "atigi, faqat (masofa uchun)",
+                "russian": "всего, прямо (о расстоянии)"
+            },
+            {
+                "word": "large",
+                "uzbek": "katta, keng",
+                "russian": "большой, просторный"
+            },
+            {
+                "word": "now",
+                "uzbek": "hozir, ayni paytda",
+                "russian": "сейчас, теперь"
+            },
+            {
+                "word": "opposite",
+                "uzbek": "qarshisida, ro'parasida",
+                "russian": "напротив"
+            },
+            {
+                "word": "pet",
+                "uzbek": "uy hayvoni",
+                "russian": "домашнее животное"
+            },
+            {
+                "word": "quiet",
+                "uzbek": "tinch, sokin",
+                "russian": "тихий, спокойный"
+            },
+            {
+                "word": "underground",
+                "uzbek": "metro, er osti yo'li",
+                "russian": "метро"
+            },
+            {
+                "word": "WC",
+                "uzbek": "hojatxona, tualet",
+                "russian": "туалет, WC"
+            },
+            {
+                "word": "No problem.",
+                "uzbek": "Muammo yo'q. Hech gap emas.",
+                "russian": "Нет проблем."
+            },
+            {
+                "word": "Thank you (very much).",
+                "uzbek": "Rahmat (katta rahmat).",
+                "russian": "Спасибо (большое)."
+            },
+            {
+                "word": "Thanks a lot.",
+                "uzbek": "Ko'p rahmat, juda katta rahmat.",
+                "russian": "Большое спасибо."
+            },
+            {
+                "word": "You're welcome.",
+                "uzbek": "Iltimos, marhamat.",
+                "russian": "Пожалуйста (в ответ на спасибо)."
+            }
+        ]
+    },
+    {
+        "module": "4a",
+        "title": "Module 4a",
+        "words": [
+            {
+                "word": "blog",
+                "uzbek": "blog",
+                "russian": "блог"
+            },
+            {
+                "word": "breakfast",
+                "uzbek": "nonushta",
+                "russian": "завтрак"
+            },
+            {
+                "word": "check",
+                "uzbek": "tekshirmoq, ko'rib chiqmoq",
+                "russian": "проверять"
+            },
+            {
+                "word": "clean up",
+                "uzbek": "tozalamoq, tartibga keltirmoq",
+                "russian": "убирать, наводить порядок"
+            },
+            {
+                "word": "come round",
+                "uzbek": "tashrif buyurmoq, kelib qolmoq",
+                "russian": "заходить в гости"
+            },
+            {
+                "word": "dinner",
+                "uzbek": "kechki ovqat, tushlik",
+                "russian": "обед, ужин (основной приём пищи)"
+            },
+            {
+                "word": "early",
+                "uzbek": "erta, vaqtidan oldin",
+                "russian": "рано, ранний"
+            },
+            {
+                "word": "finish",
+                "uzbek": "tugatmoq, tugamoq",
+                "russian": "заканчивать, заканчиваться"
+            },
+            {
+                "word": "get",
+                "uzbek": "olmoq, qabul qilmoq",
+                "russian": "получать, становиться"
+            },
+            {
+                "word": "get up",
+                "uzbek": "turmoq (uyqуdan), o'rnidan turmoq",
+                "russian": "вставать (с постели)"
+            },
+            {
+                "word": "go",
+                "uzbek": "bormoq, ketmoq",
+                "russian": "идти, ехать"
+            },
+            {
+                "word": "go to bed",
+                "uzbek": "yotmoq, uxlashga ketmoq",
+                "russian": "ложиться спать"
+            },
+            {
+                "word": "half",
+                "uzbek": "yarim",
+                "russian": "половина"
+            },
+            {
+                "word": "home",
+                "uzbek": "uy, uyga",
+                "russian": "дом, домой"
+            },
+            {
+                "word": "life",
+                "uzbek": "hayot, kun tartib",
+                "russian": "жизнь"
+            },
+            {
+                "word": "lunch",
+                "uzbek": "tushlik",
+                "russian": "обед"
+            },
+            {
+                "word": "make",
+                "uzbek": "qilmoq, tayyorlamoq",
+                "russian": "делать, готовить"
+            },
+            {
+                "word": "mess",
+                "uzbek": "tartibsizlik, iflozlik",
+                "russian": "беспорядок"
+            },
+            {
+                "word": "noise",
+                "uzbek": "shovqin, gur-gur",
+                "russian": "шум"
+            },
+            {
+                "word": "o'clock",
+                "uzbek": "soat (aniq vaqt uchun)",
+                "russian": "ровно (в такое-то время)"
+            },
+            {
+                "word": "past",
+                "uzbek": "o'tgan (vaqt uchun)",
+                "russian": "после (в сочетании со временем)"
+            },
+            {
+                "word": "shower",
+                "uzbek": "dush",
+                "russian": "душ"
+            },
+            {
+                "word": "start",
+                "uzbek": "boshlash, boshlanmoq",
+                "russian": "начинать, начинаться"
+            },
+            {
+                "word": "study",
+                "uzbek": "o'qimoq, o'rganmoq",
+                "russian": "учиться, изучать"
+            },
+            {
+                "word": "then",
+                "uzbek": "keyin, shundan so'ng",
+                "russian": "потом, затем"
+            },
+            {
+                "word": "tired",
+                "uzbek": "charchagan, toliqgan",
+                "russian": "уставший"
+            },
+            {
+                "word": "watch",
+                "uzbek": "tomosha qilmoq, ko'rmoq",
+                "russian": "смотреть (телевизор, фильм)"
+            },
+            {
+                "word": "with",
+                "uzbek": "bilan",
+                "russian": "с, вместе с"
+            },
+            {
+                "word": "work",
+                "uzbek": "ish / ishlash",
+                "russian": "работа / работать"
+            },
+            {
+                "word": "Of course.",
+                "uzbek": "Albatta. Shubhasiz.",
+                "russian": "Конечно."
+            }
+        ]
+    },
+    {
+        "module": "4b",
+        "title": "Module 4b",
+        "words": [
+            {
+                "word": "class (= lesson)",
+                "uzbek": "dars, mashg'ulot",
+                "russian": "урок, занятие"
+            },
+            {
+                "word": "every",
+                "uzbek": "har bir, har",
+                "russian": "каждый"
+            },
+            {
+                "word": "fan",
+                "uzbek": "muxlis, hayron qoluvchi",
+                "russian": "болельщик, поклонник"
+            },
+            {
+                "word": "like",
+                "uzbek": "yoqtirmoq, sevmoq",
+                "russian": "любить, нравиться"
+            },
+            {
+                "word": "match",
+                "uzbek": "o'yin, musobaqa",
+                "russian": "матч, игра"
+            },
+            {
+                "word": "week",
+                "uzbek": "hafta",
+                "russian": "неделя"
+            },
+            {
+                "word": "weekday",
+                "uzbek": "ish kuni, hafta ichi",
+                "russian": "будний день"
+            },
+            {
+                "word": "weekend",
+                "uzbek": "dam olish kuni, hafta oхiri",
+                "russian": "выходные (суббота и воскресенье)"
+            },
+            {
+                "word": "(a) quarter",
+                "uzbek": "chorak, o'n besh daqiqa",
+                "russian": "четверть (пятнадцать минут)"
+            },
+            {
+                "word": "a.m.",
+                "uzbek": "ertalab (tun yaridan kunduzgacha)",
+                "russian": "до полудня (утром)"
+            },
+            {
+                "word": "from... to...",
+                "uzbek": "...dan ...gacha",
+                "russian": "с... до..."
+            },
+            {
+                "word": "midnight",
+                "uzbek": "tun yarisi",
+                "russian": "полночь"
+            },
+            {
+                "word": "noon",
+                "uzbek": "tush payt, soat o'n ikki",
+                "russian": "полдень"
+            },
+            {
+                "word": "p.m.",
+                "uzbek": "kunduzi / kechqurun (tushdan yarim tungacha)",
+                "russian": "после полудня (вечером)"
+            },
+            {
+                "word": "to",
+                "uzbek": "gacha (soatdan oldin)",
+                "russian": "без (в выражении времени)"
+            },
+            {
+                "word": "Monday",
+                "uzbek": "Dushanba",
+                "russian": "понедельник"
+            },
+            {
+                "word": "Tuesday",
+                "uzbek": "Seshanba",
+                "russian": "вторник"
+            },
+            {
+                "word": "Wednesday",
+                "uzbek": "Chorshanba",
+                "russian": "среда"
+            },
+            {
+                "word": "Thursday",
+                "uzbek": "Payshanba",
+                "russian": "четверг"
+            },
+            {
+                "word": "Friday",
+                "uzbek": "Juma",
+                "russian": "пятница"
+            },
+            {
+                "word": "Saturday",
+                "uzbek": "Shanba",
+                "russian": "суббота"
+            },
+            {
+                "word": "Sunday",
+                "uzbek": "Yakshanba",
+                "russian": "воскресенье"
+            },
+            {
+                "word": "What time...?",
+                "uzbek": "Soat nechalarda...? Qachon...?",
+                "russian": "В котором часу...?"
+            },
+            {
+                "word": "What's the time?",
+                "uzbek": "Soat necha? Vaqt qancha?",
+                "russian": "Который час?"
+            }
+        ]
+    },
+    {
+        "module": "4c",
+        "title": "Module 4c",
+        "words": [
+            {
+                "word": "by (+ transport)",
+                "uzbek": "...bilan (transport)",
+                "russian": "на (виде транспорта)"
+            },
+            {
+                "word": "centre",
+                "uzbek": "markaz, shahar markazi",
+                "russian": "центр, центр города"
+            },
+            {
+                "word": "city",
+                "uzbek": "shahar (katta)",
+                "russian": "город (большой)"
+            },
+            {
+                "word": "drive",
+                "uzbek": "haydamoq, mashinada bormoq",
+                "russian": "водить машину, ехать на машине"
+            },
+            {
+                "word": "get around",
+                "uzbek": "shahar bo'ylab yurmoq, harakatlanmoq",
+                "russian": "передвигаться по городу"
+            },
+            {
+                "word": "kilometre / km",
+                "uzbek": "kilometr",
+                "russian": "километр"
+            },
+            {
+                "word": "on foot",
+                "uzbek": "piyoda",
+                "russian": "пешком"
+            },
+            {
+                "word": "or",
+                "uzbek": "yoki",
+                "russian": "или"
+            },
+            {
+                "word": "over (= more than)",
+                "uzbek": "ortiq, dan ko'p",
+                "russian": "более, свыше"
+            },
+            {
+                "word": "public transport",
+                "uzbek": "jamoat transporti",
+                "russian": "общественный транспорт"
+            },
+            {
+                "word": "rent",
+                "uzbek": "ijaraga olmoq",
+                "russian": "арендовать, снимать"
+            },
+            {
+                "word": "ride",
+                "uzbek": "minib yurmoq (velosiped, mototsikl)",
+                "russian": "ездить (на велосипеде, мотоцикле)"
+            },
+            {
+                "word": "see",
+                "uzbek": "ko'rmoq",
+                "russian": "видеть"
+            },
+            {
+                "word": "take",
+                "uzbek": "minmoq (transport), olmoq",
+                "russian": "ехать (на транспорте), брать"
+            },
+            {
+                "word": "tourist",
+                "uzbek": "turist, sayyoh",
+                "russian": "турист"
+            },
+            {
+                "word": "walk",
+                "uzbek": "piyoda yurmoq",
+                "russian": "ходить пешком"
+            },
+            {
+                "word": "water",
+                "uzbek": "suv (transport uchun)",
+                "russian": "вода (для транспорта)"
+            },
+            {
+                "word": "bike",
+                "uzbek": "velosiped",
+                "russian": "велосипед"
+            },
+            {
+                "word": "boat",
+                "uzbek": "qayiq, kema",
+                "russian": "лодка, катер"
+            },
+            {
+                "word": "bus",
+                "uzbek": "avtobus",
+                "russian": "автобус"
+            },
+            {
+                "word": "motorbike",
+                "uzbek": "mototsikl",
+                "russian": "мотоцикл"
+            },
+            {
+                "word": "train",
+                "uzbek": "poyezd, temir yo'l",
+                "russian": "поезд"
+            },
+            {
+                "word": "tram",
+                "uzbek": "tram, tramvay",
+                "russian": "трамвай"
+            },
+            {
+                "word": "How do you get to...?",
+                "uzbek": "...ga qanday borasiz?",
+                "russian": "Как вы добираетесь до...?"
+            }
+        ]
+    },
+    {
+        "module": "4d",
+        "title": "Module 4d",
+        "words": [
+            {
+                "word": "about",
+                "uzbek": "haqida, taxminan",
+                "russian": "о, около, примерно"
+            },
+            {
+                "word": "at all",
+                "uzbek": "umuman (emas), hech",
+                "russian": "вообще (не), ни в коем случае"
+            },
+            {
+                "word": "chat",
+                "uzbek": "suhbatlashmoq, gaplashmoq",
+                "russian": "болтать, общаться"
+            },
+            {
+                "word": "do",
+                "uzbek": "qilmoq, bajarmoq",
+                "russian": "делать"
+            },
+            {
+                "word": "favourite",
+                "uzbek": "sevimli, eng yaxshi ko'rgan",
+                "russian": "любимый"
+            },
+            {
+                "word": "fun",
+                "uzbek": "qiziqarli, zavqli",
+                "russian": "веселье, веселый"
+            },
+            {
+                "word": "go out",
+                "uzbek": "tashqariga chiqmoq, sayr qilmoq",
+                "russian": "выходить, гулять"
+            },
+            {
+                "word": "hour",
+                "uzbek": "soat (vaqt birligi)",
+                "russian": "час"
+            },
+            {
+                "word": "housework",
+                "uzbek": "uy ishlari",
+                "russian": "домашняя работа (по дому)"
+            },
+            {
+                "word": "language",
+                "uzbek": "til",
+                "russian": "язык"
+            },
+            {
+                "word": "online",
+                "uzbek": "internetda, onlayn",
+                "russian": "онлайн, в интернете"
+            },
+            {
+                "word": "spend time",
+                "uzbek": "vaqt o'tkazmoq",
+                "russian": "проводить время"
+            },
+            {
+                "word": "Come again?",
+                "uzbek": "Yana ayta olasizmi? Nima dedingiz?",
+                "russian": "Простите, что вы сказали? Можете повторить?"
+            },
+            {
+                "word": "Do you mean...?",
+                "uzbek": "...demoqchimisiz?",
+                "russian": "Вы имеете в виду...?"
+            },
+            {
+                "word": "I mean...",
+                "uzbek": "Ya'ni..., menimcha...",
+                "russian": "Я имею в виду..."
+            },
+            {
+                "word": "I see.",
+                "uzbek": "Tushundim. Angladim.",
+                "russian": "Понятно. Я понял(а)."
+            },
+            {
+                "word": "Say that/it again?",
+                "uzbek": "Yana bir marta ayting? Qaytarsangiz?",
+                "russian": "Повторите, пожалуйста?"
+            },
+            {
+                "word": "What do you mean?",
+                "uzbek": "Nima demoqchisiz?",
+                "russian": "Что вы имеете в виду?"
+            },
+            {
+                "word": "What's that again?",
+                "uzbek": "Bu nima edi? Yana bir marta?",
+                "russian": "Что это такое? Повторите, пожалуйста."
+            }
+        ]
+    },
+    {
+        "module": "5a",
+        "title": "Module 5a",
+        "words": [
+            {
+                "word": "busy",
+                "uzbek": "band, ishg'ul",
+                "russian": "занятый"
+            },
+            {
+                "word": "hang out",
+                "uzbek": "birga vaqt o'tkazmoq (norasmiy)",
+                "russian": "тусоваться, проводить время"
+            },
+            {
+                "word": "play",
+                "uzbek": "o'ynash; chalmoq (musiqa)",
+                "russian": "играть"
+            },
+            {
+                "word": "sport",
+                "uzbek": "sport",
+                "russian": "спорт"
+            },
+            {
+                "word": "video",
+                "uzbek": "video",
+                "russian": "видео"
+            },
+            {
+                "word": "video games",
+                "uzbek": "video o'yinlar",
+                "russian": "видеоигры"
+            },
+            {
+                "word": "athletics",
+                "uzbek": "atletika, engil atletika",
+                "russian": "лёгкая атлетика"
+            },
+            {
+                "word": "basketball",
+                "uzbek": "basketbol",
+                "russian": "баскетбол"
+            },
+            {
+                "word": "cycling",
+                "uzbek": "velosiped sporti, velosport",
+                "russian": "велоспорт, езда на велосипеде"
+            },
+            {
+                "word": "gymnastics",
+                "uzbek": "gimnastika",
+                "russian": "гимнастика"
+            },
+            {
+                "word": "running",
+                "uzbek": "yugurish",
+                "russian": "бег"
+            },
+            {
+                "word": "swimming",
+                "uzbek": "suzish",
+                "russian": "плавание"
+            },
+            {
+                "word": "table tennis",
+                "uzbek": "stol tennisi, ping-pong",
+                "russian": "настольный теннис"
+            },
+            {
+                "word": "tennis",
+                "uzbek": "tennis",
+                "russian": "теннис"
+            },
+            {
+                "word": "always",
+                "uzbek": "har doim, doimo",
+                "russian": "всегда"
+            },
+            {
+                "word": "usually",
+                "uzbek": "odatda, ko'pincha",
+                "russian": "обычно"
+            },
+            {
+                "word": "often",
+                "uzbek": "tez-tez, ko'p marta",
+                "russian": "часто"
+            },
+            {
+                "word": "sometimes",
+                "uzbek": "ba'zan, ba'zida",
+                "russian": "иногда"
+            },
+            {
+                "word": "never",
+                "uzbek": "hech qachon",
+                "russian": "никогда"
+            },
+            {
+                "word": "When...?",
+                "uzbek": "Qachon...?",
+                "russian": "Когда...?"
+            }
+        ]
+    },
+    {
+        "module": "5b",
+        "title": "Module 5b",
+        "words": [
+            {
+                "word": "begin",
+                "uzbek": "boshlamoq, boshlanmoq",
+                "russian": "начинать, начинаться"
+            },
+            {
+                "word": "boring",
+                "uzbek": "zerikarli, qiziqarsiz",
+                "russian": "скучный"
+            },
+            {
+                "word": "can't stand",
+                "uzbek": "yoqtirmaslik, chiday olmaslik",
+                "russian": "терпеть не мочь, не выносить"
+            },
+            {
+                "word": "comfortable",
+                "uzbek": "qulay, yoqimli",
+                "russian": "удобный, комфортный"
+            },
+            {
+                "word": "enjoy",
+                "uzbek": "yoqtirmoq, zavqlanmoq",
+                "russian": "наслаждаться, любить (процесс)"
+            },
+            {
+                "word": "love",
+                "uzbek": "juda yoqtirmoq, sevmoq",
+                "russian": "обожать, очень любить"
+            },
+            {
+                "word": "popcorn",
+                "uzbek": "popkorn",
+                "russian": "попкорн"
+            },
+            {
+                "word": "screen",
+                "uzbek": "ekran",
+                "russian": "экран"
+            },
+            {
+                "word": "adventure film",
+                "uzbek": "sarguzasht filmi",
+                "russian": "приключенческий фильм"
+            },
+            {
+                "word": "animated film",
+                "uzbek": "multfilm, animatsion film",
+                "russian": "анимационный фильм, мультфильм"
+            },
+            {
+                "word": "comedy",
+                "uzbek": "komediya",
+                "russian": "комедия"
+            },
+            {
+                "word": "horror film",
+                "uzbek": "qo'rqinchli film",
+                "russian": "фильм ужасов"
+            },
+            {
+                "word": "musical",
+                "uzbek": "myuzikl",
+                "russian": "мюзикл"
+            },
+            {
+                "word": "science-fiction (sci-fi) film",
+                "uzbek": "fantastik film, ilmiy fantastika",
+                "russian": "фантастический фильм, научная фантастика"
+            }
+        ]
+    },
+    {
+        "module": "5c",
+        "title": "Module 5c",
+        "words": [
+            {
+                "word": "activity",
+                "uzbek": "faoliyat, mashg'ulot",
+                "russian": "деятельность, занятие"
+            },
+            {
+                "word": "article",
+                "uzbek": "maqola",
+                "russian": "статья"
+            },
+            {
+                "word": "computer",
+                "uzbek": "kompyuter",
+                "russian": "компьютер"
+            },
+            {
+                "word": "console",
+                "uzbek": "o'yin konsoli",
+                "russian": "игровая консоль"
+            },
+            {
+                "word": "free time",
+                "uzbek": "bo'sh vaqt",
+                "russian": "свободное время"
+            },
+            {
+                "word": "go shopping",
+                "uzbek": "xarid qilmoq, do'konga bormoq",
+                "russian": "ходить по магазинам"
+            },
+            {
+                "word": "gym",
+                "uzbek": "sport zali, gimnastika zali",
+                "russian": "спортивный зал, тренажёрный зал"
+            },
+            {
+                "word": "magazine",
+                "uzbek": "jurnal",
+                "russian": "журнал"
+            },
+            {
+                "word": "only",
+                "uzbek": "faqat, atigi",
+                "russian": "только, лишь"
+            },
+            {
+                "word": "per cent (%)",
+                "uzbek": "foiz",
+                "russian": "процент"
+            },
+            {
+                "word": "popular",
+                "uzbek": "mashhur, ommabop",
+                "russian": "популярный"
+            },
+            {
+                "word": "social media",
+                "uzbek": "ijtimoiy tarmoqlar",
+                "russian": "социальные сети"
+            },
+            {
+                "word": "teenager / teen",
+                "uzbek": "o'smir, o'spirin (13-19 yosh)",
+                "russian": "подросток"
+            },
+            {
+                "word": "use",
+                "uzbek": "foydalanmoq, ishlatmoq",
+                "russian": "использовать, пользоваться"
+            }
+        ]
+    },
+    {
+        "module": "5d",
+        "title": "Module 5d",
+        "words": [
+            {
+                "word": "news",
+                "uzbek": "yangiliklar",
+                "russian": "новости"
+            },
+            {
+                "word": "surf the internet",
+                "uzbek": "internetda ko'rmoq, sayohat qilmoq",
+                "russian": "сёрфить интернет, просматривать интернет"
+            },
+            {
+                "word": "How / What about...?",
+                "uzbek": "...chi? ...haqida nima deysan?",
+                "russian": "А как насчёт...? Что насчёт...?"
+            },
+            {
+                "word": "I'm afraid I don't like...",
+                "uzbek": "Afsuski, men ...ni yoqtirmayman.",
+                "russian": "Боюсь, мне не нравится..."
+            },
+            {
+                "word": "I'm not sure about that.",
+                "uzbek": "Bunga aniq emas ulgurmas man.",
+                "russian": "Я не уверен(а) в этом."
+            },
+            {
+                "word": "I'm not free.",
+                "uzbek": "Men band eman, vaqtim yo'q.",
+                "russian": "Я не свободен / не свободна."
+            },
+            {
+                "word": "Let's...",
+                "uzbek": "Keling...qilaylik. Yuring...",
+                "russian": "Давай(те)..."
+            },
+            {
+                "word": "Nice idea!",
+                "uzbek": "Yaxshi fikr! Zo'r g'oya!",
+                "russian": "Отличная идея!"
+            },
+            {
+                "word": "No, let's do something else.",
+                "uzbek": "Yo'q, boshqa narsa qilaylik.",
+                "russian": "Нет, давай сделаем что-нибудь другое."
+            },
+            {
+                "word": "That sounds like fun.",
+                "uzbek": "Bu qiziqarli eshitiladi.",
+                "russian": "Звучит весело."
+            },
+            {
+                "word": "That sounds nice.",
+                "uzbek": "Bu yaxshi eshitiladi.",
+                "russian": "Звучит приятно."
+            },
+            {
+                "word": "That's a great idea.",
+                "uzbek": "Bu ajoyib fikr!",
+                "russian": "Это отличная идея!"
+            },
+            {
+                "word": "Yes, let's do that.",
+                "uzbek": "Ha, shuni qilaylik.",
+                "russian": "Да, давайте это сделаем."
+            }
+        ]
+    },
+    {
+        "module": "6a",
+        "title": "Module 6a",
+        "words": [
+            {
+                "word": "cook",
+                "uzbek": "pishirmoq, oshpazlik qilmoq",
+                "russian": "готовить (еду)"
+            },
+            {
+                "word": "dance",
+                "uzbek": "raqs tushmoq",
+                "russian": "танцевать"
+            },
+            {
+                "word": "draw",
+                "uzbek": "chizmoq, rasm solmoq",
+                "russian": "рисовать"
+            },
+            {
+                "word": "fast",
+                "uzbek": "tez, tezlik bilan",
+                "russian": "быстро, быстрый"
+            },
+            {
+                "word": "flyer",
+                "uzbek": "varaqacha, reklama qog'ozi",
+                "russian": "листовка, флаер"
+            },
+            {
+                "word": "French",
+                "uzbek": "frantsuz tili",
+                "russian": "французский язык"
+            },
+            {
+                "word": "help",
+                "uzbek": "yordam bermoq",
+                "russian": "помогать"
+            },
+            {
+                "word": "piano",
+                "uzbek": "pianino, fortepiano",
+                "russian": "пианино, фортепиано"
+            },
+            {
+                "word": "run",
+                "uzbek": "yugurmoq",
+                "russian": "бегать, бежать"
+            },
+            {
+                "word": "sing",
+                "uzbek": "qo'shiq aytmoq, kuylash",
+                "russian": "петь"
+            },
+            {
+                "word": "ski",
+                "uzbek": "chang'i uchmoq, ski qilmoq",
+                "russian": "кататься на лыжах"
+            },
+            {
+                "word": "swim",
+                "uzbek": "suzmoq",
+                "russian": "плавать"
+            },
+            {
+                "word": "type",
+                "uzbek": "matn termoq, yozmoq (kompyuterda)",
+                "russian": "печатать (на клавиатуре)"
+            },
+            {
+                "word": "well",
+                "uzbek": "yaxshi (qilamoq)",
+                "russian": "хорошо (делать что-либо)"
+            },
+            {
+                "word": "chemistry",
+                "uzbek": "kimyo",
+                "russian": "химия"
+            },
+            {
+                "word": "mathematics / maths",
+                "uzbek": "matematika",
+                "russian": "математика"
+            },
+            {
+                "word": "physics",
+                "uzbek": "fizika",
+                "russian": "физика"
+            }
+        ]
+    },
+    {
+        "module": "6b",
+        "title": "Module 6b",
+        "words": [
+            {
+                "word": "after",
+                "uzbek": "keyin, so'ng",
+                "russian": "после, потом"
+            },
+            {
+                "word": "episode",
+                "uzbek": "epizod, qism (serial)",
+                "russian": "эпизод, серия"
+            },
+            {
+                "word": "leave",
+                "uzbek": "ketmoq, tark etmoq",
+                "russian": "уходить, уезжать"
+            },
+            {
+                "word": "lecturer",
+                "uzbek": "o'qituvchi (oliy ta'lim), lektor",
+                "russian": "лектор, преподаватель"
+            },
+            {
+                "word": "library",
+                "uzbek": "kutubxona",
+                "russian": "библиотека"
+            },
+            {
+                "word": "live",
+                "uzbek": "yashamoq",
+                "russian": "жить, проживать"
+            },
+            {
+                "word": "story",
+                "uzbek": "hikoya, qissa",
+                "russian": "рассказ, история"
+            },
+            {
+                "word": "teach",
+                "uzbek": "o'rgatmoq, dars bermoq",
+                "russian": "учить, преподавать"
+            },
+            {
+                "word": "tell",
+                "uzbek": "aytmoq, gapirib bermoq",
+                "russian": "говорить, рассказывать"
+            },
+            {
+                "word": "think",
+                "uzbek": "o'ylamoq, fikr yuritmoq",
+                "russian": "думать, считать"
+            },
+            {
+                "word": "town",
+                "uzbek": "shaharcha, qishloq shahri",
+                "russian": "город (небольшой)"
+            },
+            {
+                "word": "TV programme",
+                "uzbek": "televizion ko'rsatuv",
+                "russian": "телевизионная программа"
+            },
+            {
+                "word": "Why?",
+                "uzbek": "Nega? Nima uchun?",
+                "russian": "Почему? Зачем?"
+            },
+            {
+                "word": "year",
+                "uzbek": "yil",
+                "russian": "год"
+            },
+            {
+                "word": "biology",
+                "uzbek": "biologiya",
+                "russian": "биология"
+            },
+            {
+                "word": "geography",
+                "uzbek": "geografiya",
+                "russian": "география"
+            },
+            {
+                "word": "history",
+                "uzbek": "tarix",
+                "russian": "история"
+            },
+            {
+                "word": "IT (Information Technology)",
+                "uzbek": "informatika, axborot texnologiyalari",
+                "russian": "информационные технологии, информатика"
+            },
+            {
+                "word": "English literature",
+                "uzbek": "ingliz adabiyoti",
+                "russian": "английская литература"
+            },
+            {
+                "word": "first",
+                "uzbek": "birinchi",
+                "russian": "первый"
+            },
+            {
+                "word": "second",
+                "uzbek": "ikkinchi",
+                "russian": "второй"
+            },
+            {
+                "word": "third",
+                "uzbek": "uchinchi",
+                "russian": "третий"
+            },
+            {
+                "word": "fourth, fifth, sixth...",
+                "uzbek": "to'rtinchi, beshinchi, oltinchi...",
+                "russian": "четвёртый, пятый, шестой..."
+            }
+        ]
+    },
+    {
+        "module": "6c",
+        "title": "Module 6c",
+        "words": [
+            {
+                "word": "because",
+                "uzbek": "chunki, sababi",
+                "russian": "потому что, так как"
+            },
+            {
+                "word": "birthday",
+                "uzbek": "tug'ilgan kun",
+                "russian": "день рождения"
+            },
+            {
+                "word": "break",
+                "uzbek": "tanaffus, dam olish vaqti",
+                "russian": "перерыв, каникулы"
+            },
+            {
+                "word": "cold",
+                "uzbek": "sovuq",
+                "russian": "холодный"
+            },
+            {
+                "word": "end",
+                "uzbek": "tugamoq, yakunlanmoq",
+                "russian": "заканчиваться, завершаться"
+            },
+            {
+                "word": "go on holiday",
+                "uzbek": "ta'tilga chiqmoq, sayohatga bormoq",
+                "russian": "уходить в отпуск, ехать в отпуск"
+            },
+            {
+                "word": "hot",
+                "uzbek": "issiq",
+                "russian": "жаркий, горячий"
+            },
+            {
+                "word": "month",
+                "uzbek": "oy",
+                "russian": "месяц"
+            },
+            {
+                "word": "other",
+                "uzbek": "boshqa, qolgan",
+                "russian": "другой, остальной"
+            },
+            {
+                "word": "same",
+                "uzbek": "bir xil, o'sha",
+                "russian": "такой же, одинаковый"
+            },
+            {
+                "word": "schedule",
+                "uzbek": "jadval, ish tartibi",
+                "russian": "расписание, график"
+            },
+            {
+                "word": "season",
+                "uzbek": "fasl, mavsim",
+                "russian": "время года, сезон"
+            },
+            {
+                "word": "so",
+                "uzbek": "shuning uchun; shunday qilib",
+                "russian": "поэтому, так, очень"
+            },
+            {
+                "word": "January",
+                "uzbek": "Yanvar",
+                "russian": "январь"
+            },
+            {
+                "word": "February",
+                "uzbek": "Fevral",
+                "russian": "февраль"
+            },
+            {
+                "word": "March",
+                "uzbek": "Mart",
+                "russian": "март"
+            },
+            {
+                "word": "April",
+                "uzbek": "Aprel",
+                "russian": "апрель"
+            },
+            {
+                "word": "May",
+                "uzbek": "May",
+                "russian": "май"
+            },
+            {
+                "word": "June",
+                "uzbek": "Iyun",
+                "russian": "июнь"
+            },
+            {
+                "word": "July",
+                "uzbek": "Iyul",
+                "russian": "июль"
+            },
+            {
+                "word": "August",
+                "uzbek": "Avgust",
+                "russian": "август"
+            },
+            {
+                "word": "September",
+                "uzbek": "Sentabr",
+                "russian": "сентябрь"
+            },
+            {
+                "word": "October",
+                "uzbek": "Oktabr",
+                "russian": "октябрь"
+            },
+            {
+                "word": "November",
+                "uzbek": "Noyabr",
+                "russian": "ноябрь"
+            },
+            {
+                "word": "December",
+                "uzbek": "Dekabr",
+                "russian": "декабрь"
+            },
+            {
+                "word": "winter",
+                "uzbek": "qish",
+                "russian": "зима"
+            },
+            {
+                "word": "spring",
+                "uzbek": "bahor",
+                "russian": "весна"
+            },
+            {
+                "word": "summer",
+                "uzbek": "yoz",
+                "russian": "лето"
+            },
+            {
+                "word": "autumn",
+                "uzbek": "kuz",
+                "russian": "осень"
+            },
+            {
+                "word": "What's the date today?",
+                "uzbek": "Bugun necha? Bugungi sana?",
+                "russian": "Какое сегодня число?"
+            }
+        ]
+    },
+    {
+        "module": "6d",
+        "title": "Module 6d",
+        "words": [
+            {
+                "word": "art",
+                "uzbek": "san'at, tasviriy san'at",
+                "russian": "искусство, рисование"
+            },
+            {
+                "word": "assignment",
+                "uzbek": "topshiriq, vazifa",
+                "russian": "задание, домашняя работа"
+            },
+            {
+                "word": "borrow",
+                "uzbek": "qarz olmoq, o'zlashtirib olmoq",
+                "russian": "брать взаймы, одалживать"
+            },
+            {
+                "word": "buy",
+                "uzbek": "sotib olmoq",
+                "russian": "покупать"
+            },
+            {
+                "word": "course",
+                "uzbek": "kurs, ta'lim kursi",
+                "russian": "курс, курс обучения"
+            },
+            {
+                "word": "difficult",
+                "uzbek": "qiyin, murakkab",
+                "russian": "трудный, сложный"
+            },
+            {
+                "word": "do my homework",
+                "uzbek": "uyga vazifani bajarmoq",
+                "russian": "делать домашнее задание"
+            },
+            {
+                "word": "easy",
+                "uzbek": "oson, sodda",
+                "russian": "лёгкий, простой"
+            },
+            {
+                "word": "exam",
+                "uzbek": "imtihon",
+                "russian": "экзамен"
+            },
+            {
+                "word": "fellow student",
+                "uzbek": "kursdosh, o'quvchi do'st",
+                "russian": "сокурсник, одноклассник"
+            },
+            {
+                "word": "give",
+                "uzbek": "bermoq",
+                "russian": "давать"
+            },
+            {
+                "word": "learn",
+                "uzbek": "o'rganmoq, bilim olmoq",
+                "russian": "учиться, изучать"
+            },
+            {
+                "word": "need",
+                "uzbek": "kerak bo'lmoq, zarur bo'lmoq",
+                "russian": "нуждаться, нужно"
+            },
+            {
+                "word": "practice",
+                "uzbek": "mashq, amaliyot",
+                "russian": "практика, упражнение"
+            },
+            {
+                "word": "problem",
+                "uzbek": "muammo, masala",
+                "russian": "проблема, задача"
+            },
+            {
+                "word": "project",
+                "uzbek": "loyiha, amaliy ish",
+                "russian": "проект, учебный проект"
+            },
+            {
+                "word": "test",
+                "uzbek": "test, sinov ishi",
+                "russian": "тест, контрольная работа"
+            },
+            {
+                "word": "Anyway,...",
+                "uzbek": "Qolaversa, baribir...",
+                "russian": "В общем, во всяком случае..."
+            },
+            {
+                "word": "I'm afraid not.",
+                "uzbek": "Afsuski, yo'q.",
+                "russian": "Боюсь, что нет."
+            },
+            {
+                "word": "Sure.",
+                "uzbek": "Albatta. Xo'p.",
+                "russian": "Конечно. Разумеется."
+            },
+            {
+                "word": "That's (really) nice of you.",
+                "uzbek": "Bu sizdan juda mehribon (yaxshi). Rahmat.",
+                "russian": "Это (очень) мило с вашей стороны."
+            },
+            {
+                "word": "That's OK.",
+                "uzbek": "Yaxshi. Muammo yo'q.",
+                "russian": "Всё в порядке. Нормально."
+            }
+        ]
+    },
+    {
+        "module": "7a",
+        "title": "Module 7a",
+        "words": [
+            {
+                "word": "delicious",
+                "uzbek": "mazali, juda yoqimli",
+                "russian": "вкусный, восхитительный"
+            },
+            {
+                "word": "order",
+                "uzbek": "buyurtma bermoq / buyurtma",
+                "russian": "заказывать / заказ"
+            },
+            {
+                "word": "pay",
+                "uzbek": "to'lamoq",
+                "russian": "платить, оплачивать"
+            },
+            {
+                "word": "pound",
+                "uzbek": "funt sterling (valyuta)",
+                "russian": "фунт стерлингов"
+            },
+            {
+                "word": "smoothie",
+                "uzbek": "smuti (meva ichimligi)",
+                "russian": "смузи"
+            },
+            {
+                "word": "want",
+                "uzbek": "xohlamoq, istamoq",
+                "russian": "хотеть"
+            },
+            {
+                "word": "apple",
+                "uzbek": "olma",
+                "russian": "яблоко"
+            },
+            {
+                "word": "bread",
+                "uzbek": "non",
+                "russian": "хлеб"
+            },
+            {
+                "word": "butter",
+                "uzbek": "sariyog'",
+                "russian": "масло (сливочное)"
+            },
+            {
+                "word": "carrot",
+                "uzbek": "sabzi",
+                "russian": "морковь"
+            },
+            {
+                "word": "cheese",
+                "uzbek": "pishloq",
+                "russian": "сыр"
+            },
+            {
+                "word": "cherry",
+                "uzbek": "gilos",
+                "russian": "вишня, черешня"
+            },
+            {
+                "word": "chips",
+                "uzbek": "qovurilgan kartoshka (chips)",
+                "russian": "картофель фри, чипсы"
+            },
+            {
+                "word": "fish",
+                "uzbek": "baliq",
+                "russian": "рыба"
+            },
+            {
+                "word": "fruit",
+                "uzbek": "meva",
+                "russian": "фрукт"
+            },
+            {
+                "word": "lettuce",
+                "uzbek": "salat (o'simlik)",
+                "russian": "листовой салат"
+            },
+            {
+                "word": "milk",
+                "uzbek": "sut",
+                "russian": "молоко"
+            },
+            {
+                "word": "mushroom",
+                "uzbek": "qo'ziqorin",
+                "russian": "гриб"
+            },
+            {
+                "word": "onion",
+                "uzbek": "piyoz",
+                "russian": "лук"
+            },
+            {
+                "word": "orange",
+                "uzbek": "apelsin",
+                "russian": "апельсин"
+            },
+            {
+                "word": "peach",
+                "uzbek": "shaftoli",
+                "russian": "персик"
+            },
+            {
+                "word": "potato",
+                "uzbek": "kartoshka",
+                "russian": "картофель, картошка"
+            },
+            {
+                "word": "rice",
+                "uzbek": "guruch, sholi",
+                "russian": "рис"
+            },
+            {
+                "word": "strawberry",
+                "uzbek": "qulupnay",
+                "russian": "клубника"
+            },
+            {
+                "word": "vegetable",
+                "uzbek": "sabzavot",
+                "russian": "овощ"
+            }
+        ]
+    },
+    {
+        "module": "7b",
+        "title": "Module 7b",
+        "words": [
+            {
+                "word": "dessert",
+                "uzbek": "shirinlik, desert",
+                "russian": "десерт"
+            },
+            {
+                "word": "drink",
+                "uzbek": "ichimlik",
+                "russian": "напиток"
+            },
+            {
+                "word": "left",
+                "uzbek": "qolgan, ortiqcha",
+                "russian": "оставшийся"
+            },
+            {
+                "word": "menu",
+                "uzbek": "menyu",
+                "russian": "меню"
+            },
+            {
+                "word": "share",
+                "uzbek": "bo'lishmoq, birga eymoq",
+                "russian": "делиться, разделить"
+            },
+            {
+                "word": "cake",
+                "uzbek": "pirog, tort",
+                "russian": "торт, пирог"
+            },
+            {
+                "word": "chicken",
+                "uzbek": "tovuq go'shti",
+                "russian": "курица, куриное мясо"
+            },
+            {
+                "word": "egg",
+                "uzbek": "tuxum",
+                "russian": "яйцо"
+            },
+            {
+                "word": "iced tea",
+                "uzbek": "muzli choy",
+                "russian": "холодный чай, айс-ти"
+            },
+            {
+                "word": "juice",
+                "uzbek": "sharbat, shira",
+                "russian": "сок"
+            },
+            {
+                "word": "mineral water",
+                "uzbek": "mineral suv",
+                "russian": "минеральная вода"
+            },
+            {
+                "word": "salad",
+                "uzbek": "salat",
+                "russian": "салат"
+            },
+            {
+                "word": "sandwich",
+                "uzbek": "sendvich",
+                "russian": "сэндвич, бутерброд"
+            },
+            {
+                "word": "sauce",
+                "uzbek": "sous",
+                "russian": "соус"
+            },
+            {
+                "word": "soup",
+                "uzbek": "sho'rva, sup",
+                "russian": "суп"
+            },
+            {
+                "word": "tea",
+                "uzbek": "choy",
+                "russian": "чай"
+            },
+            {
+                "word": "tomato",
+                "uzbek": "pomidor",
+                "russian": "помидор"
+            },
+            {
+                "word": "tuna",
+                "uzbek": "tuna (baliq)",
+                "russian": "тунец"
+            },
+            {
+                "word": "All right.",
+                "uzbek": "Yaxshi, xo'p, mayli.",
+                "russian": "Хорошо. Ладно."
+            },
+            {
+                "word": "Anything else?",
+                "uzbek": "Yana nimadir kerakmi?",
+                "russian": "Что-нибудь ещё?"
+            },
+            {
+                "word": "How can I help you?",
+                "uzbek": "Sizga qanday yordam bera olaman?",
+                "russian": "Чем могу помочь?"
+            },
+            {
+                "word": "I'd like...",
+                "uzbek": "Men...ni xohlar edim / Menga...bering.",
+                "russian": "Я бы хотел(а)... / Мне, пожалуйста..."
+            },
+            {
+                "word": "Would you like...?",
+                "uzbek": "...xohlaysizmi? Siz uchun...olayinmi?",
+                "russian": "Хотите ли вы...?"
+            }
+        ]
+    },
+    {
+        "module": "7c",
+        "title": "Module 7c",
+        "words": [
+            {
+                "word": "a pair of",
+                "uzbek": "bir juft",
+                "russian": "пара (чего-либо)"
+            },
+            {
+                "word": "choose",
+                "uzbek": "tanlash, saralash",
+                "russian": "выбирать"
+            },
+            {
+                "word": "outfit",
+                "uzbek": "kiyim-bosh to'plami, kostyum",
+                "russian": "наряд, комплект одежды"
+            },
+            {
+                "word": "stylish",
+                "uzbek": "zamonaviy, moda bo'yicha",
+                "russian": "стильный, модный"
+            },
+            {
+                "word": "wardrobe",
+                "uzbek": "shkaf (kiyimlar uchun), garderob",
+                "russian": "шкаф для одежды, гардероб"
+            },
+            {
+                "word": "wear",
+                "uzbek": "kiymoq, ustida bo'lmoq",
+                "russian": "носить (одежду), быть в (чём-либо)"
+            },
+            {
+                "word": "boots",
+                "uzbek": "etiklarт, botinkalar",
+                "russian": "сапоги, ботинки"
+            },
+            {
+                "word": "dress",
+                "uzbek": "ko'ylak (ayollar uchun)",
+                "russian": "платье"
+            },
+            {
+                "word": "jacket",
+                "uzbek": "kurtka, jaket",
+                "russian": "куртка, пиджак"
+            },
+            {
+                "word": "jumper",
+                "uzbek": "sviter, jumper",
+                "russian": "свитер, джемпер"
+            },
+            {
+                "word": "shirt",
+                "uzbek": "ko'ylak (erkaklar uchun)",
+                "russian": "рубашка"
+            },
+            {
+                "word": "shoes",
+                "uzbek": "oyoq kiyim, tuflilar",
+                "russian": "туфли, ботинки"
+            },
+            {
+                "word": "shorts",
+                "uzbek": "shortilar, kalta shim",
+                "russian": "шорты"
+            },
+            {
+                "word": "skirt",
+                "uzbek": "yubka",
+                "russian": "юбка"
+            },
+            {
+                "word": "suit",
+                "uzbek": "kostyum (erkaklar uchun)",
+                "russian": "костюм"
+            },
+            {
+                "word": "tie",
+                "uzbek": "galstuk",
+                "russian": "галстук"
+            },
+            {
+                "word": "top",
+                "uzbek": "bluzka, qo'ng'iroqli kiyim (ustki)",
+                "russian": "топ, блузка (верхняя часть одежды)"
+            },
+            {
+                "word": "trainers",
+                "uzbek": "krossovkalar, sport oyoq kiyimi",
+                "russian": "кроссовки"
+            },
+            {
+                "word": "trousers",
+                "uzbek": "shim",
+                "russian": "брюки, штаны"
+            },
+            {
+                "word": "T-shirt",
+                "uzbek": "futbolka",
+                "russian": "футболка"
+            }
+        ]
+    },
+    {
+        "module": "7d",
+        "title": "Module 7d",
+        "words": [
+            {
+                "word": "call",
+                "uzbek": "chaqirmoq, qo'ng'iroq qilmoq",
+                "russian": "звонить, называть"
+            },
+            {
+                "word": "customer",
+                "uzbek": "mijoz, xaridor",
+                "russian": "покупатель, клиент"
+            },
+            {
+                "word": "each",
+                "uzbek": "har biri, har bir",
+                "russian": "каждый, по..."
+            },
+            {
+                "word": "floor",
+                "uzbek": "qavat (bino)",
+                "russian": "этаж"
+            },
+            {
+                "word": "have a lesson",
+                "uzbek": "dars o'tmoq, dars olmoq",
+                "russian": "брать урок, посещать занятие"
+            },
+            {
+                "word": "help",
+                "uzbek": "yordam",
+                "russian": "помощь"
+            },
+            {
+                "word": "leather",
+                "uzbek": "charm, ko'n",
+                "russian": "кожа, кожаный"
+            },
+            {
+                "word": "look around",
+                "uzbek": "ko'z yugurtirmoq, ko'rib chiqmoq",
+                "russian": "осматриваться, смотреть (по сторонам)"
+            },
+            {
+                "word": "maybe",
+                "uzbek": "balki, ehtimol",
+                "russian": "может быть, возможно"
+            },
+            {
+                "word": "million",
+                "uzbek": "million",
+                "russian": "миллион"
+            },
+            {
+                "word": "note",
+                "uzbek": "banknot, pul qog'ozi",
+                "russian": "банкнота, купюра"
+            },
+            {
+                "word": "office",
+                "uzbek": "ofis, idora",
+                "russian": "офис, кабинет"
+            },
+            {
+                "word": "present",
+                "uzbek": "sovg'a",
+                "russian": "подарок"
+            },
+            {
+                "word": "shop assistant",
+                "uzbek": "sotuvchi, do'kon xodimi",
+                "russian": "продавец, сотрудник магазина"
+            },
+            {
+                "word": "show",
+                "uzbek": "ko'rsatmoq",
+                "russian": "показывать"
+            },
+            {
+                "word": "thousand",
+                "uzbek": "ming",
+                "russian": "тысяча"
+            },
+            {
+                "word": "by (credit) card",
+                "uzbek": "kredit karta bilan to'lamoq",
+                "russian": "по (кредитной) карте"
+            },
+            {
+                "word": "cent",
+                "uzbek": "sent (valyuta)",
+                "russian": "цент"
+            },
+            {
+                "word": "euro",
+                "uzbek": "evro (valyuta)",
+                "russian": "евро"
+            },
+            {
+                "word": "in cash",
+                "uzbek": "naqd pul bilan to'lamoq",
+                "russian": "наличными"
+            },
+            {
+                "word": "pence",
+                "uzbek": "pens (ingliz valyutasi)",
+                "russian": "пенсы (монеты)"
+            },
+            {
+                "word": "price",
+                "uzbek": "narx",
+                "russian": "цена"
+            },
+            {
+                "word": "receipt",
+                "uzbek": "chek, kassa cheki",
+                "russian": "квитанция, чек"
+            },
+            {
+                "word": "Here you are.",
+                "uzbek": "Mana, oling. Buyuring.",
+                "russian": "Вот, пожалуйста."
+            },
+            {
+                "word": "How much are they?",
+                "uzbek": "Ular necha pul? Narxi qancha?",
+                "russian": "Сколько они стоят?"
+            },
+            {
+                "word": "How much is it?",
+                "uzbek": "Bu necha pul? Narxi necha?",
+                "russian": "Сколько это стоит?"
+            },
+            {
+                "word": "Just looking.",
+                "uzbek": "Shunchaki ko'rayapman.",
+                "russian": "Просто смотрю."
+            }
+        ]
+    },
+    {
+        "module": "8a",
+        "title": "Module 8a",
+        "words": [
+            {
+                "word": "at the moment",
+                "uzbek": "hozir, ayni paytda",
+                "russian": "в данный момент"
+            },
+            {
+                "word": "carry",
+                "uzbek": "ko'tarmoq, olib yurmoq",
+                "russian": "нести, носить"
+            },
+            {
+                "word": "communicate",
+                "uzbek": "muloqot qilmoq",
+                "russian": "общаться, связываться"
+            },
+            {
+                "word": "communication",
+                "uzbek": "muloqot, aloqa",
+                "russian": "общение, связь"
+            },
+            {
+                "word": "decorate",
+                "uzbek": "bezamoq, pardozlamoq",
+                "russian": "украшать"
+            },
+            {
+                "word": "drink",
+                "uzbek": "ichmoq",
+                "russian": "пить"
+            },
+            {
+                "word": "eat",
+                "uzbek": "yemoq",
+                "russian": "есть, кушать"
+            },
+            {
+                "word": "hold",
+                "uzbek": "ushlamoq, tutmoq",
+                "russian": "держать"
+            },
+            {
+                "word": "lantern",
+                "uzbek": "fonar, chiroq",
+                "russian": "фонарь"
+            },
+            {
+                "word": "make a video call",
+                "uzbek": "video qo'ng'iroq qilmoq",
+                "russian": "делать видеозвонок"
+            },
+            {
+                "word": "ready",
+                "uzbek": "tayyor",
+                "russian": "готовый"
+            },
+            {
+                "word": "remember",
+                "uzbek": "eslamoq, yodda tutmoq",
+                "russian": "помнить, вспоминать"
+            },
+            {
+                "word": "science",
+                "uzbek": "fan, ilm",
+                "russian": "наука"
+            },
+            {
+                "word": "serious",
+                "uzbek": "jiddiy",
+                "russian": "серьёзный"
+            },
+            {
+                "word": "sit",
+                "uzbek": "o'tirmoq",
+                "russian": "сидеть"
+            },
+            {
+                "word": "sleep",
+                "uzbek": "uxlamoq",
+                "russian": "спать"
+            },
+            {
+                "word": "stand",
+                "uzbek": "turmoq (oyoqda)",
+                "russian": "стоять"
+            },
+            {
+                "word": "talk on the phone",
+                "uzbek": "telefonda gaplashmoq",
+                "russian": "разговаривать по телефону"
+            },
+            {
+                "word": "What are you up to?",
+                "uzbek": "Nima qilyapsiz? / Nima bilan band?",
+                "russian": "Чем занимаешься?"
+            }
+        ]
+    },
+    {
+        "module": "8b",
+        "title": "Module 8b",
+        "words": [
+            {
+                "word": "app",
+                "uzbek": "ilova (dastur)",
+                "russian": "приложение"
+            },
+            {
+                "word": "delete",
+                "uzbek": "o'chirmoq",
+                "russian": "удалять"
+            },
+            {
+                "word": "download",
+                "uzbek": "yuklab olmoq",
+                "russian": "скачивать"
+            },
+            {
+                "word": "file",
+                "uzbek": "fayl",
+                "russian": "файл"
+            },
+            {
+                "word": "message",
+                "uzbek": "xabar",
+                "russian": "сообщение"
+            },
+            {
+                "word": "receive",
+                "uzbek": "qabul qilmoq, olmoq",
+                "russian": "получать"
+            },
+            {
+                "word": "send",
+                "uzbek": "yubormoq",
+                "russian": "отправлять"
+            },
+            {
+                "word": "song",
+                "uzbek": "qo'shiq",
+                "russian": "песня"
+            },
+            {
+                "word": "text message",
+                "uzbek": "SMS xabar, matnli xabar",
+                "russian": "текстовое сообщение, смс"
+            },
+            {
+                "word": "together",
+                "uzbek": "birga, birgalikda",
+                "russian": "вместе"
+            },
+            {
+                "word": "try",
+                "uzbek": "urinib ko'rmoq, harakat qilmoq",
+                "russian": "пробовать, стараться"
+            },
+            {
+                "word": "upload",
+                "uzbek": "yuklash (internetga)",
+                "russian": "загружать (в интернет)"
+            },
+            {
+                "word": "voice message",
+                "uzbek": "ovozli xabar",
+                "russian": "голосовое сообщение"
+            }
+        ]
+    },
+    {
+        "module": "8c",
+        "title": "Module 8c",
+        "words": [
+            {
+                "word": "adventure",
+                "uzbek": "sarguzasht, macera",
+                "russian": "приключение"
+            },
+            {
+                "word": "available",
+                "uzbek": "mavjud, bor, olish mumkin",
+                "russian": "доступный, имеющийся"
+            },
+            {
+                "word": "be worth",
+                "uzbek": "arziydi, qiymati bor",
+                "russian": "стоит, того стоит"
+            },
+            {
+                "word": "channel",
+                "uzbek": "kanal (TV yoki internet)",
+                "russian": "канал"
+            },
+            {
+                "word": "character",
+                "uzbek": "qahramon, belgi",
+                "russian": "персонаж, характер"
+            },
+            {
+                "word": "device",
+                "uzbek": "qurilma, mosalama",
+                "russian": "устройство, прибор"
+            },
+            {
+                "word": "dislike",
+                "uzbek": "yoqtirmaslik",
+                "russian": "не любить, не нравиться"
+            },
+            {
+                "word": "famous",
+                "uzbek": "mashhur",
+                "russian": "знаменитый, известный"
+            },
+            {
+                "word": "free",
+                "uzbek": "bepul; erkin",
+                "russian": "бесплатный; свободный"
+            },
+            {
+                "word": "join",
+                "uzbek": "qo'shilmoq, a'zo bo'lmoq",
+                "russian": "присоединиться, вступить"
+            },
+            {
+                "word": "latest",
+                "uzbek": "eng yangi, so'nggi",
+                "russian": "последний, новейший"
+            },
+            {
+                "word": "more",
+                "uzbek": "ko'proq",
+                "russian": "больше, ещё"
+            },
+            {
+                "word": "per",
+                "uzbek": "har bir, da (miqdor)",
+                "russian": "в, за (единицу)"
+            },
+            {
+                "word": "photographer",
+                "uzbek": "fotograf",
+                "russian": "фотограф"
+            },
+            {
+                "word": "season",
+                "uzbek": "mavsum, fasl",
+                "russian": "сезон, время года"
+            },
+            {
+                "word": "series",
+                "uzbek": "seriya, serial",
+                "russian": "серия, сериал"
+            },
+            {
+                "word": "stream",
+                "uzbek": "onlayn tomosha qilmoq / tinglash",
+                "russian": "стримить, смотреть онлайн"
+            },
+            {
+                "word": "streaming service",
+                "uzbek": "onlayn ko'rish xizmati",
+                "russian": "стриминговый сервис"
+            },
+            {
+                "word": "take a photo",
+                "uzbek": "rasm olmoq, surga tushmoq",
+                "russian": "сделать фотографию"
+            },
+            {
+                "word": "cartoon",
+                "uzbek": "multfilm",
+                "russian": "мультфильм"
+            },
+            {
+                "word": "game show",
+                "uzbek": "o'yin ko'rsatuvi",
+                "russian": "игровое шоу"
+            },
+            {
+                "word": "sitcom",
+                "uzbek": "situatsion komediya",
+                "russian": "ситком"
+            },
+            {
+                "word": "talent show",
+                "uzbek": "iste'dod ko'rsatuvi",
+                "russian": "шоу талантов"
+            },
+            {
+                "word": "talk show",
+                "uzbek": "suhbat ko'rsatuvi",
+                "russian": "ток-шоу"
+            },
+            {
+                "word": "the news",
+                "uzbek": "yangiliklar (dasturi)",
+                "russian": "новости"
+            },
+            {
+                "word": "weather forecast",
+                "uzbek": "ob-havo ma'lumoti",
+                "russian": "прогноз погоды"
+            },
+            {
+                "word": "wildlife documentary",
+                "uzbek": "yovvoyi tabiat haqida hujjatli film",
+                "russian": "документальный фильм о дикой природе"
+            },
+            {
+                "word": "What's on?",
+                "uzbek": "Nima ko'rsatilmoqda?",
+                "russian": "Что идёт?"
+            }
+        ]
+    },
+    {
+        "module": "8d",
+        "title": "Module 8d",
+        "words": [
+            {
+                "word": "answer the phone",
+                "uzbek": "telefonga javob bermoq",
+                "russian": "отвечать на звонок"
+            },
+            {
+                "word": "hate",
+                "uzbek": "yomon ko'rmoq, nafratlanmoq",
+                "russian": "ненавидеть"
+            },
+            {
+                "word": "laugh out loud",
+                "uzbek": "ovoz chiqarib kulmoq",
+                "russian": "смеяться вслух"
+            },
+            {
+                "word": "make a phone call",
+                "uzbek": "qo'ng'iroq qilmoq",
+                "russian": "позвонить"
+            },
+            {
+                "word": "right now",
+                "uzbek": "hozir, ayni shu daqiqada",
+                "russian": "прямо сейчас"
+            },
+            {
+                "word": "tonight",
+                "uzbek": "bu kecha, bugun kechqurun",
+                "russian": "сегодня вечером"
+            },
+            {
+                "word": "Be right back.",
+                "uzbek": "Hozir qaytaman.",
+                "russian": "Сейчас вернусь."
+            },
+            {
+                "word": "Can I speak/talk to…, please?",
+                "uzbek": "…bilan gaplashsam bo'ladimi?",
+                "russian": "Можно поговорить с…, пожалуйста?"
+            },
+            {
+                "word": "Can I take/leave a message?",
+                "uzbek": "Xabar qoldirsam/olsam bo'ladimi?",
+                "russian": "Могу я принять/оставить сообщение?"
+            },
+            {
+                "word": "Hold on a minute.",
+                "uzbek": "Bir daqiqa kuting.",
+                "russian": "Подождите минуту."
+            },
+            {
+                "word": "Is… there, please?",
+                "uzbek": "…o'sherdami, iltimos?",
+                "russian": "… там, пожалуйста?"
+            },
+            {
+                "word": "It's… / This is…",
+                "uzbek": "Bu…men / Men…",
+                "russian": "Это…"
+            },
+            {
+                "word": "Just a sec/second.",
+                "uzbek": "Bir soniya.",
+                "russian": "Одну секунду."
+            },
+            {
+                "word": "Just kidding.",
+                "uzbek": "Hazillashyapman.",
+                "russian": "Я шучу."
+            }
+        ]
+    },
+    {
+        "module": "9a",
+        "title": "Module 9a",
+        "words": [
+            {
+                "word": "beach",
+                "uzbek": "plyaj, qirg'oq",
+                "russian": "пляж, берег"
+            },
+            {
+                "word": "stadium",
+                "uzbek": "stadion",
+                "russian": "стадион"
+            },
+            {
+                "word": "band",
+                "uzbek": "guruh (musiqa)",
+                "russian": "группа, музыкальная группа"
+            },
+            {
+                "word": "concert",
+                "uzbek": "konsert",
+                "russian": "концерт"
+            },
+            {
+                "word": "buy souvenirs",
+                "uzbek": "suvenir sotib olmoq",
+                "russian": "покупать сувениры"
+            },
+            {
+                "word": "go sightseeing",
+                "uzbek": "diqqatga sazovor joylarni kezmoq",
+                "russian": "осматривать достопримечательности"
+            },
+            {
+                "word": "fantastic",
+                "uzbek": "ajoyib, zo'r",
+                "russian": "фантастический, замечательный"
+            },
+            {
+                "word": "exciting",
+                "uzbek": "hayajonli, qiziqarli",
+                "russian": "захватывающий, волнующий"
+            },
+            {
+                "word": "lovely",
+                "uzbek": "chiroyli, yoqimli",
+                "russian": "прекрасный, приятный"
+            },
+            {
+                "word": "crowded",
+                "uzbek": "gavjum, odamlar to'la",
+                "russian": "многолюдный, переполненный"
+            },
+            {
+                "word": "awful",
+                "uzbek": "dahshatli, yomon",
+                "russian": "ужасный, отвратительный"
+            },
+            {
+                "word": "terrible",
+                "uzbek": "dahshatli, og'ir",
+                "russian": "ужасный, страшный"
+            },
+            {
+                "word": "yesterday",
+                "uzbek": "kecha",
+                "russian": "вчера"
+            },
+            {
+                "word": "ago",
+                "uzbek": "oldin (vaqt)",
+                "russian": "назад (о времени)"
+            },
+            {
+                "word": "last week / last night",
+                "uzbek": "o'tgan hafta / kecha kechqurun",
+                "russian": "на прошлой неделе / вчера вечером"
+            },
+            {
+                "word": "alone",
+                "uzbek": "yolg'iz",
+                "russian": "один, в одиночестве"
+            },
+            {
+                "word": "It's sunny.",
+                "uzbek": "Quyoshli kun.",
+                "russian": "Солнечно."
+            },
+            {
+                "word": "It's cloudy.",
+                "uzbek": "Bulutli havo.",
+                "russian": "Облачно."
+            },
+            {
+                "word": "It's windy.",
+                "uzbek": "Shamol bor.",
+                "russian": "Ветрено."
+            },
+            {
+                "word": "It's raining.",
+                "uzbek": "Yomg'ir yog'yapti.",
+                "russian": "Идёт дождь."
+            },
+            {
+                "word": "It's snowing.",
+                "uzbek": "Qor yog'yapti.",
+                "russian": "Идёт снег."
+            },
+            {
+                "word": "What's the weather like?",
+                "uzbek": "Havo qanday?",
+                "russian": "Какая погода?"
+            }
+        ]
+    },
+    {
+        "module": "9b",
+        "title": "Module 9b",
+        "words": [
+            {
+                "word": "island",
+                "uzbek": "orol",
+                "russian": "остров"
+            },
+            {
+                "word": "sand",
+                "uzbek": "qum",
+                "russian": "песок"
+            },
+            {
+                "word": "sea turtle",
+                "uzbek": "dengiz toshbaqasi",
+                "russian": "морская черепаха"
+            },
+            {
+                "word": "find",
+                "uzbek": "topmoq",
+                "russian": "находить, найти"
+            },
+            {
+                "word": "stay",
+                "uzbek": "qolmoq, turmoq",
+                "russian": "оставаться, останавливаться"
+            },
+            {
+                "word": "stop",
+                "uzbek": "to'xtatmoq, to'xtamoq",
+                "russian": "останавливаться, прекращать"
+            },
+            {
+                "word": "view",
+                "uzbek": "manzara, ko'rinish",
+                "russian": "вид, пейзаж"
+            },
+            {
+                "word": "go surfing",
+                "uzbek": "serfing qilmoq",
+                "russian": "заниматься сёрфингом"
+            },
+            {
+                "word": "sunbathe",
+                "uzbek": "quyoshda yotmoq",
+                "russian": "загорать"
+            },
+            {
+                "word": "go hiking",
+                "uzbek": "piyoda sayohat qilmoq (tog'da)",
+                "russian": "ходить в поход, заниматься хайкингом"
+            },
+            {
+                "word": "go scuba diving",
+                "uzbek": "suv osti sho'ng'in qilmoq",
+                "russian": "заниматься дайвингом"
+            },
+            {
+                "word": "do water sports",
+                "uzbek": "suv sportlari bilan shug'ullanmoq",
+                "russian": "заниматься водными видами спорта"
+            },
+            {
+                "word": "taste local food",
+                "uzbek": "mahalliy taomlarni tatib ko'rmoq",
+                "russian": "пробовать местную еду"
+            }
+        ]
+    },
+    {
+        "module": "9c",
+        "title": "Module 9c",
+        "words": [
+            {
+                "word": "company",
+                "uzbek": "kompaniya, shirkat",
+                "russian": "компания, фирма"
+            },
+            {
+                "word": "personal computer",
+                "uzbek": "shaxsiy kompyuter",
+                "russian": "персональный компьютер"
+            },
+            {
+                "word": "product",
+                "uzbek": "mahsulot",
+                "russian": "продукт, товар"
+            },
+            {
+                "word": "clever",
+                "uzbek": "aqlli, zakiy",
+                "russian": "умный, сообразительный"
+            },
+            {
+                "word": "creative",
+                "uzbek": "ijodiy, yaratuvchan",
+                "russian": "творческий, креативный"
+            },
+            {
+                "word": "successful",
+                "uzbek": "muvaffaqiyatli",
+                "russian": "успешный"
+            },
+            {
+                "word": "create",
+                "uzbek": "yaratmoq",
+                "russian": "создавать"
+            },
+            {
+                "word": "build",
+                "uzbek": "qurmoq, yaratmoq",
+                "russian": "строить, создавать"
+            },
+            {
+                "word": "return",
+                "uzbek": "qaytmoq, qaytarmoq",
+                "russian": "возвращаться, вернуть"
+            },
+            {
+                "word": "next",
+                "uzbek": "keyingi, navbatdagi",
+                "russian": "следующий"
+            },
+            {
+                "word": "mistake",
+                "uzbek": "xato",
+                "russian": "ошибка"
+            },
+            {
+                "word": "college",
+                "uzbek": "kollej, oliy o'quv yurti",
+                "russian": "колледж"
+            },
+            {
+                "word": "be born",
+                "uzbek": "tug'ilmoq",
+                "russian": "родиться"
+            },
+            {
+                "word": "grow up",
+                "uzbek": "voyaga yetmoq, ulg'aymoq",
+                "russian": "вырастать, взрослеть"
+            },
+            {
+                "word": "get a job",
+                "uzbek": "ish topmoq",
+                "russian": "получить работу"
+            },
+            {
+                "word": "go to university",
+                "uzbek": "universitetga bormoq / o'qimoq",
+                "russian": "поступить в университет"
+            },
+            {
+                "word": "get a degree",
+                "uzbek": "diplom olmoq",
+                "russian": "получить диплом / степень"
+            },
+            {
+                "word": "get married",
+                "uzbek": "uylanmoq / turmushga chiqmoq",
+                "russian": "жениться / выйти замуж"
+            },
+            {
+                "word": "have a child",
+                "uzbek": "farzand ko'rmoq",
+                "russian": "иметь ребёнка / родить"
+            },
+            {
+                "word": "die",
+                "uzbek": "vafot etmoq, o'lmoq",
+                "russian": "умирать, умереть"
+            }
+        ]
+    },
+    {
+        "module": "9d",
+        "title": "Module 9d",
+        "words": [
+            {
+                "word": "seafood",
+                "uzbek": "dengiz mahsulotlari",
+                "russian": "морепродукты"
+            },
+            {
+                "word": "traditional",
+                "uzbek": "an'anaviy",
+                "russian": "традиционный"
+            },
+            {
+                "word": "village",
+                "uzbek": "qishloq",
+                "russian": "деревня, село"
+            },
+            {
+                "word": "ticket",
+                "uzbek": "chipta, bilet",
+                "russian": "билет"
+            },
+            {
+                "word": "check sth out",
+                "uzbek": "ko'rib chiqmoq, sinab ko'rmoq",
+                "russian": "проверить, посмотреть на что-либо"
+            },
+            {
+                "word": "happy",
+                "uzbek": "xursand, baxtli",
+                "russian": "счастливый, довольный"
+            },
+            {
+                "word": "excited",
+                "uzbek": "hayajonlangan",
+                "russian": "взволнованный, возбуждённый"
+            },
+            {
+                "word": "bored",
+                "uzbek": "zerikkan",
+                "russian": "скучающий"
+            },
+            {
+                "word": "sad",
+                "uzbek": "g'amgin, qayg'uli",
+                "russian": "грустный, печальный"
+            },
+            {
+                "word": "Really?",
+                "uzbek": "Haqiqatanmi? Rostdanmi?",
+                "russian": "Правда? Серьёзно?"
+            },
+            {
+                "word": "Oh dear!",
+                "uzbek": "Voy! Ajabо!",
+                "russian": "О боже! Ой!"
+            },
+            {
+                "word": "That's wonderful!",
+                "uzbek": "Bu ajoyib!",
+                "russian": "Это замечательно!"
+            },
+            {
+                "word": "That's too bad.",
+                "uzbek": "Bu juda yomon.",
+                "russian": "Как жаль. Это плохо."
+            },
+            {
+                "word": "That's a shame.",
+                "uzbek": "Bu juda achinarli.",
+                "russian": "Как жаль. Это стыдно."
+            },
+            {
+                "word": "I'm sorry to hear that.",
+                "uzbek": "Buni eshitib qayg'urdim.",
+                "russian": "Мне жаль это слышать."
+            },
+            {
+                "word": "Have a great/wonderful time.",
+                "uzbek": "Yaxshi vaqt o'tkazing!",
+                "russian": "Хорошо проведите время!"
+            },
+            {
+                "word": "How wonderful/exciting!",
+                "uzbek": "Qanday ajoyib/hayajonli!",
+                "russian": "Как замечательно/захватывающе!"
+            },
+            {
+                "word": "Dear…",
+                "uzbek": "Hurmatli… / Aziz…",
+                "russian": "Дорогой… / Уважаемый…"
+            },
+            {
+                "word": "Best wishes…",
+                "uzbek": "Eng yaxshi tilaklar bilan…",
+                "russian": "С наилучшими пожеланиями…"
+            },
+            {
+                "word": "Love…",
+                "uzbek": "Mehr bilan… / Sevgi bilan…",
+                "russian": "С любовью…"
+            },
+            {
+                "word": "Yours…",
+                "uzbek": "Hurmat bilan…",
+                "russian": "С уважением… / Искренне Ваш…"
+            },
+            {
+                "word": "Bye for now…",
+                "uzbek": "Hozircha xayr…",
+                "russian": "Пока на этом всё…"
+            },
+            {
+                "word": "See you soon…",
+                "uzbek": "Tez orada ko'rishguncha…",
+                "russian": "До скорой встречи…"
+            }
+        ]
+    },
+    {
+        "module": "10a",
+        "title": "Module 10a",
+        "words": [
+            {
+                "word": "picnic",
+                "uzbek": "piknik, ochiq havoda ovqat",
+                "russian": "пикник"
+            },
+            {
+                "word": "party",
+                "uzbek": "bayram, ziyofat",
+                "russian": "вечеринка, праздник"
+            },
+            {
+                "word": "dinner party",
+                "uzbek": "kechki ovqat ziyofati",
+                "russian": "званый ужин"
+            },
+            {
+                "word": "e-card",
+                "uzbek": "elektron otkritka",
+                "russian": "электронная открытка"
+            },
+            {
+                "word": "tree",
+                "uzbek": "daraxt",
+                "russian": "дерево"
+            },
+            {
+                "word": "forest",
+                "uzbek": "o'rmon",
+                "russian": "лес"
+            },
+            {
+                "word": "plant",
+                "uzbek": "ekmoq",
+                "russian": "сажать, сеять"
+            },
+            {
+                "word": "special",
+                "uzbek": "maxsus, alohida",
+                "russian": "особенный, специальный"
+            },
+            {
+                "word": "before",
+                "uzbek": "avval, oldin",
+                "russian": "до, раньше, прежде"
+            },
+            {
+                "word": "bring",
+                "uzbek": "olib kelmoq",
+                "russian": "приносить, приводить"
+            },
+            {
+                "word": "come",
+                "uzbek": "kelmoq",
+                "russian": "приходить, приезжать"
+            },
+            {
+                "word": "plan",
+                "uzbek": "reja, niyat",
+                "russian": "план, замысел"
+            },
+            {
+                "word": "volunteer",
+                "uzbek": "ko'ngilli (ot)",
+                "russian": "доброволец, волонтёр"
+            },
+            {
+                "word": "Happy birthday!",
+                "uzbek": "Tug'ilgan kuningiz bilan!",
+                "russian": "С днём рождения!"
+            },
+            {
+                "word": "Congratulations!",
+                "uzbek": "Tabriklayman! Muborak bo'lsin!",
+                "russian": "Поздравляю! С успехом!"
+            },
+            {
+                "word": "Good luck!",
+                "uzbek": "Omad tilayman!",
+                "russian": "Удачи! Желаю успеха!"
+            },
+            {
+                "word": "Enjoy your meal!",
+                "uzbek": "Xo'rakingiz halol bo'lsin!",
+                "russian": "Приятного аппетита!"
+            },
+            {
+                "word": "Have fun!",
+                "uzbek": "Yaxshi o'tkazing! Ko'nglingiz xush bo'lsin!",
+                "russian": "Веселитесь! Получайте удовольствие!"
+            },
+            {
+                "word": "Get well soon!",
+                "uzbek": "Tez tuzaling! Sog'ayib keting!",
+                "russian": "Скорейшего выздоровления!"
+            },
+            {
+                "word": "Happy New Year!",
+                "uzbek": "Yangi yil muborak!",
+                "russian": "С Новым годом!"
+            },
+            {
+                "word": "Have a nice trip!",
+                "uzbek": "Yaxshi safar bo'lsin!",
+                "russian": "Счастливого пути! Приятного путешествия!"
+            }
+        ]
+    },
+    {
+        "module": "10b",
+        "title": "Module 10b",
+        "words": [
+            {
+                "word": "environment",
+                "uzbek": "atrof-muhit",
+                "russian": "окружающая среда"
+            },
+            {
+                "word": "everyone",
+                "uzbek": "hamma, barcha",
+                "russian": "все, каждый"
+            },
+            {
+                "word": "litter",
+                "uzbek": "axlat (ko'chada)",
+                "russian": "мусор (на улице)"
+            },
+            {
+                "word": "mayor",
+                "uzbek": "shahar hokimi, mer",
+                "russian": "мэр, городской голова"
+            },
+            {
+                "word": "organise",
+                "uzbek": "tashkil qilmoq",
+                "russian": "организовывать"
+            },
+            {
+                "word": "river",
+                "uzbek": "daryo",
+                "russian": "река"
+            },
+            {
+                "word": "mountain",
+                "uzbek": "tog'",
+                "russian": "гора"
+            },
+            {
+                "word": "lake",
+                "uzbek": "ko'l",
+                "russian": "озеро"
+            },
+            {
+                "word": "sea",
+                "uzbek": "dengiz",
+                "russian": "море"
+            },
+            {
+                "word": "desert",
+                "uzbek": "cho'l, sahro",
+                "russian": "пустыня"
+            },
+            {
+                "word": "rainforest",
+                "uzbek": "tropik o'rmon",
+                "russian": "тропический лес"
+            }
+        ]
+    },
+    {
+        "module": "10c",
+        "title": "Module 10c",
+        "words": [
+            {
+                "word": "protect",
+                "uzbek": "himoya qilmoq, asramoq",
+                "russian": "защищать, охранять"
+            },
+            {
+                "word": "save",
+                "uzbek": "saqlamoq, qutqarmoq",
+                "russian": "спасать, сохранять"
+            },
+            {
+                "word": "donate",
+                "uzbek": "xayriya qilmoq, bag'ishlamoq",
+                "russian": "жертвовать, делать пожертвование"
+            },
+            {
+                "word": "raise money",
+                "uzbek": "pul yig'moq (mablag' yig'ish)",
+                "russian": "собирать деньги"
+            },
+            {
+                "word": "adopt",
+                "uzbek": "qabul qilmoq, asrab olmoq",
+                "russian": "усыновлять / принять (животное)"
+            },
+            {
+                "word": "celebrate",
+                "uzbek": "nishonlamoq, bayram qilmoq",
+                "russian": "праздновать, отмечать"
+            },
+            {
+                "word": "endangered",
+                "uzbek": "yo'q bo'lib ketish xavfida",
+                "russian": "находящийся под угрозой исчезновения"
+            },
+            {
+                "word": "at risk",
+                "uzbek": "xavf ostida",
+                "russian": "под угрозой, в зоне риска"
+            },
+            {
+                "word": "international",
+                "uzbek": "xalqaro",
+                "russian": "международный"
+            },
+            {
+                "word": "national",
+                "uzbek": "milliy, davlat",
+                "russian": "национальный, государственный"
+            },
+            {
+                "word": "organisation",
+                "uzbek": "tashkilot",
+                "russian": "организация"
+            },
+            {
+                "word": "species",
+                "uzbek": "tur (biologik)",
+                "russian": "вид (биологический)"
+            },
+            {
+                "word": "symbol",
+                "uzbek": "ramz, belgi",
+                "russian": "символ, знак"
+            },
+            {
+                "word": "volunteer",
+                "uzbek": "ko'ngilli bo'lmoq (fe'l)",
+                "russian": "добровольно участвовать, волонтёрить"
+            },
+            {
+                "word": "lion",
+                "uzbek": "sher",
+                "russian": "лев"
+            },
+            {
+                "word": "tiger",
+                "uzbek": "yo'lbars",
+                "russian": "тигр"
+            },
+            {
+                "word": "elephant",
+                "uzbek": "fil",
+                "russian": "слон"
+            },
+            {
+                "word": "dolphin",
+                "uzbek": "delfin",
+                "russian": "дельфин"
+            },
+            {
+                "word": "whale",
+                "uzbek": "kit",
+                "russian": "кит"
+            },
+            {
+                "word": "bear",
+                "uzbek": "ayiq",
+                "russian": "медведь"
+            },
+            {
+                "word": "eagle",
+                "uzbek": "burgut",
+                "russian": "орёл"
+            },
+            {
+                "word": "gorilla",
+                "uzbek": "gorilla",
+                "russian": "горилла"
+            },
+            {
+                "word": "kangaroo",
+                "uzbek": "kenguru",
+                "russian": "кенгуру"
+            }
+        ]
+    },
+    {
+        "module": "10d",
+        "title": "Module 10d",
+        "words": [
+            {
+                "word": "go fishing",
+                "uzbek": "baliq ovlamoq",
+                "russian": "ходить на рыбалку"
+            },
+            {
+                "word": "water park",
+                "uzbek": "suv parki",
+                "russian": "аквапарк"
+            },
+            {
+                "word": "basket",
+                "uzbek": "savat, korzinka",
+                "russian": "корзина"
+            },
+            {
+                "word": "forget",
+                "uzbek": "unutmoq",
+                "russian": "забывать, забыть"
+            },
+            {
+                "word": "hope",
+                "uzbek": "umid qilmoq, orzu qilmoq",
+                "russian": "надеяться"
+            },
+            {
+                "word": "invite",
+                "uzbek": "taklif qilmoq",
+                "russian": "приглашать"
+            },
+            {
+                "word": "nearby",
+                "uzbek": "yaqin atrofda, qo'shni",
+                "russian": "поблизости, недалеко"
+            },
+            {
+                "word": "prepare",
+                "uzbek": "tayyorlamoq",
+                "russian": "готовить, подготавливать"
+            },
+            {
+                "word": "swimsuit",
+                "uzbek": "suzish libosi, kupalni",
+                "russian": "купальник, плавки"
+            },
+            {
+                "word": "I can't wait!",
+                "uzbek": "Sabrsizlik bilan kutayapman!",
+                "russian": "Не могу дождаться! Я так жду!"
+            },
+            {
+                "word": "Sure, why not?",
+                "uzbek": "Albatta, nega yo'q?",
+                "russian": "Конечно, а почему нет?"
+            },
+            {
+                "word": "I'd love to.",
+                "uzbek": "Xursandlik bilan / Juda xohlar edim.",
+                "russian": "Я бы с удовольствием."
+            },
+            {
+                "word": "Maybe some other time.",
+                "uzbek": "Balki boshqa safar.",
+                "russian": "Может быть, в другой раз."
+            },
+            {
+                "word": "Let me know.",
+                "uzbek": "Menga xabar bering.",
+                "russian": "Дайте мне знать. Сообщите мне."
+            },
+            {
+                "word": "Do you want to…?",
+                "uzbek": "Xohlaysizmi…?",
+                "russian": "Ты хочешь…?"
+            },
+            {
+                "word": "Would you like to…?",
+                "uzbek": "Xohlar edingizmi…? (rasmiy taklif)",
+                "russian": "Не хотели бы вы…? (вежливое приглашение)"
+            }
+        ]
+    }
+]
