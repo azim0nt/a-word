@@ -1,0 +1,800 @@
+{
+  "p1": [
+    {
+      "pos": "adj.",
+      "uz": "hayron qolgan, lol bo'lgan",
+      "ru": "изумлённый, поражённый",
+      "en": "Extremely surprised or amazed.",
+      "ex1": "The director exclaimed, astonished that nothing had been left to chance in the flip.",
+      "ex2": "He was astonished when the troubling tumble turned out to be a newfound twist.",
+      "word": "astonished",
+      "example": "She was astonished by the stunt performer's immeasurable skill right then and there."
+    },
+    {
+      "pos": "n.",
+      "uz": "muvofiqlаshtiruvchi",
+      "ru": "координатор",
+      "en": "A person who organises and manages different parts of a project.",
+      "ex1": "She astonished the producer by acting as coordinator right then and there.",
+      "ex2": "The director praised the coordinator for the immeasurable planning behind the stunt flip.",
+      "word": "coordinator",
+      "example": "The coordinator ensured nothing was left to chance during the padded stunt."
+    },
+    {
+      "pos": "idiom",
+      "uz": "xayolga kelmoq",
+      "ru": "приходить в голову, мелькнуть в мыслях",
+      "en": "To briefly think of something; to occur to someone.",
+      "ex1": "Astonished by the flip, it crossed the director's mind to show off the twist.",
+      "ex2": "Nothing troubling crossed the coordinator's mind — nothing had been left to chance.",
+      "word": "cross one's mind",
+      "example": "It never crossed her mind that the stunt would become just another day at the office."
+    },
+    {
+      "pos": "n.",
+      "uz": "rejissor, direktor",
+      "ru": "режиссёр, директор",
+      "en": "A person who supervises the making of a film or manages an organisation.",
+      "ex1": "Nothing was left to chance — the director oversaw every padded tumble and flip.",
+      "ex2": "She crossed the director's mind as a newfound stunt coordinator for the transport scene.",
+      "word": "director",
+      "example": "The director astonished the producer by deciding right then and there to keep the stunt."
+    },
+    {
+      "pos": "v.",
+      "uz": "tushirmoq, tashlаmoq",
+      "ru": "бросать, падать",
+      "en": "To let something fall; or to suddenly decrease.",
+      "ex1": "Astonished, the director told the coordinator to drop the troubling twist from the scene.",
+      "ex2": "Nothing was left to chance — she dropped the flip and transport to avoid a tumble.",
+      "word": "drop",
+      "example": "The stunt performer dropped into the padded foundation right then and there."
+    },
+    {
+      "pos": "n.",
+      "uz": "ag'darilish, sakrash",
+      "ru": "кувырок, переворот",
+      "en": "A quick rotation in the air; a sudden turn.",
+      "ex1": "Nothing was left to chance — the coordinator padded the foundation for every flip.",
+      "ex2": "The newfound twist turned into a troubling flip that crossed the producer's mind.",
+      "word": "flip",
+      "example": "The stunt performer astonished the director with an immeasurable flip right then and there."
+    },
+    {
+      "pos": "n.",
+      "uz": "asos, zamin",
+      "ru": "основание, фундамент",
+      "en": "The base or groundwork on which something is built.",
+      "ex1": "She astonished the director by building the immeasurable foundation of the stunt right there.",
+      "ex2": "The coordinator laid the foundation for the troubling flip and tumble twist.",
+      "word": "foundation",
+      "example": "The padded foundation was set up to ensure nothing was left to chance during the stunt."
+    },
+    {
+      "pos": "adj.",
+      "uz": "o'lchaб bo'lmaydigan, cheksiz",
+      "ru": "безмерный, огромный",
+      "en": "Too large, great, or extreme to be measured.",
+      "ex1": "Nothing was left to chance — the coordinator brought immeasurable attention to the padded flip.",
+      "ex2": "The newfound twist revealed an immeasurable troubling complexity in the transport stunt.",
+      "word": "immeasurable",
+      "example": "Her immeasurable skill as a stunt performer astonished the director right then and there."
+    },
+    {
+      "pos": "phrase",
+      "uz": "urinish sifatida, maqsadida",
+      "ru": "в попытке, пытаясь",
+      "en": "Trying to achieve something, especially when the outcome is uncertain.",
+      "ex1": "The director dropped the twist in an attempt to leave nothing to chance.",
+      "ex2": "In an attempt to astonish the producer, the coordinator padded the foundation stunt.",
+      "word": "in an attempt to",
+      "example": "In an attempt to show off, the stunt performer added a troubling flip right then and there."
+    },
+    {
+      "pos": "idiom",
+      "uz": "odatdagidek ish kuni",
+      "ru": "обычный рабочий день, ничего особенного",
+      "en": "Used to describe something impressive done as if it is completely routine.",
+      "ex1": "Astonished, the director called the tumble just another day at the office.",
+      "ex2": "Nothing was left to chance — for the coordinator, the padded stunt was just another day.",
+      "word": "just another day at the office",
+      "example": "The stunt performer completed the immeasurable flip — just another day at the office."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yangi topilgan, yangi kashf qilingan",
+      "ru": "вновь обретённый, недавно открытый",
+      "en": "Recently discovered or experienced for the first time.",
+      "ex1": "The stunt produced a newfound twist that crossed the producer's mind as troubling.",
+      "ex2": "Nothing was left to chance — the newfound flip technique transformed the foundation.",
+      "word": "newfound",
+      "example": "Her newfound immeasurable skill astonished the director right then and there."
+    },
+    {
+      "pos": "phrase",
+      "uz": "hech narsa tasodifga qoldirilmaydi",
+      "ru": "ничего не оставлено на волю случая",
+      "en": "Everything is carefully planned with no room for accidents.",
+      "ex1": "Astonished, the director confirmed nothing was left to chance in the immeasurable flip.",
+      "ex2": "In an attempt to astonish the producer, the stunt team left nothing to chance.",
+      "word": "nothing is left to chance",
+      "example": "The coordinator ensured nothing was left to chance during the padded stunt performance."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yumshatilgan, yo'rg'alangan",
+      "ru": "мягкий, подбитый набивкой",
+      "en": "Filled with soft material to protect against injury.",
+      "ex1": "Astonished by the twist, the coordinator confirmed the padded tumble was immeasurable.",
+      "ex2": "The director ensured every stunt performer wore padded transport gear right then and there.",
+      "word": "padded",
+      "example": "The padded foundation was essential — nothing was left to chance during the stunt flip."
+    },
+    {
+      "pos": "n.",
+      "uz": "prodyuser, ishlab chiqaruvchi",
+      "ru": "продюсер",
+      "en": "A person who oversees the financial and business aspects of a film or show.",
+      "ex1": "Nothing was left to chance — the producer approved every padded stunt and twist.",
+      "ex2": "In an attempt to astonish the producer, the director added a newfound flip and tumble.",
+      "word": "producer",
+      "example": "The producer was astonished when the stunt coordinator completed the immeasurable flip."
+    },
+    {
+      "pos": "phrase",
+      "uz": "hozir va shu joyda",
+      "ru": "прямо тут и сейчас, немедленно",
+      "en": "Immediately and at that specific place and moment.",
+      "ex1": "Nothing was left to chance — the coordinator confirmed the padded foundation right then.",
+      "ex2": "She performed the immeasurable tumble twist right then and there, in an attempt to show off.",
+      "word": "(right) then and there",
+      "example": "Astonished by the flip, the director decided right then and there to keep the stunt."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ko'z-ko'z qilmoq, maqtanmoq",
+      "ru": "хвастаться, выставлять напоказ",
+      "en": "To display your abilities to impress others.",
+      "ex1": "Astonished, the director told her not to show off — nothing should be left to chance.",
+      "ex2": "The newfound twist was her way to show off the immeasurable foundation of the stunt.",
+      "word": "show off",
+      "example": "In an attempt to show off, the stunt performer added a troubling flip right then and there."
+    },
+    {
+      "pos": "phrase",
+      "uz": "birortaga biror taassurot qoldirmoq",
+      "ru": "производить на кого-то впечатление чего-то",
+      "en": "To give someone a particular impression of something.",
+      "ex1": "Right then and there, the flip struck the director as troubling yet astonishing.",
+      "ex2": "In an attempt to astonish, the newfound twist struck the coordinator as a risky show-off.",
+      "word": "strike sb as sth",
+      "example": "The stunt struck the producer as immeasurable — nothing had been left to chance."
+    },
+    {
+      "pos": "n.",
+      "uz": "xavfli harakat, fokus",
+      "ru": "трюк",
+      "en": "A dangerous or difficult action, especially in a film.",
+      "ex1": "Right then and there, the stunt crossed the director's mind as immeasurable and troubling.",
+      "ex2": "In an attempt to show off, the stunt performer added a newfound tumble and twist.",
+      "word": "stunt",
+      "example": "The astonishing padded stunt left nothing to chance — the coordinator managed every flip."
+    },
+    {
+      "pos": "n.",
+      "uz": "kaskadyor, xavfli harakatlar ijrochisi",
+      "ru": "каскадёр",
+      "en": "A person who performs dangerous actions in place of an actor.",
+      "ex1": "Nothing was left to chance — the coordinator padded every foundation for the stunt performer.",
+      "ex2": "In an attempt to show off, the stunt performer added a troubling tumble and twist.",
+      "word": "stunt performer",
+      "example": "The stunt performer astonished the director with an immeasurable flip right then and there."
+    },
+    {
+      "pos": "v.",
+      "uz": "ko'chirmoq, tashimoq",
+      "ru": "переносить, перевозить",
+      "en": "To carry or move something from one place to another.",
+      "ex1": "Nothing was left to chance — the team transported the flip equipment right then and there.",
+      "ex2": "In an attempt to astonish the director, they transported the immeasurable stunt setup.",
+      "word": "transport",
+      "example": "The coordinator astonished the producer by transporting the padded stunt foundation right there."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xavotirli, bezovta qiluvchi",
+      "ru": "тревожный, беспокоящий",
+      "en": "Causing worry or concern.",
+      "ex1": "Nothing was left to chance — the coordinator resolved the troubling flip and tumble.",
+      "ex2": "In an attempt to astonish the producer, the newfound stunt became troubling and immeasurable.",
+      "word": "troubling",
+      "example": "The troubling twist during the padded stunt astonished the director right then and there."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "ag'darilib tushmoq / yiqilish",
+      "ru": "кувыркаться / падение",
+      "en": "To fall or roll in an uncontrolled way.",
+      "ex1": "In an attempt to show off, the troubling tumble flip was added by the newfound coordinator.",
+      "ex2": "Astonished, the director confirmed the padded foundation absorbed the immeasurable tumble.",
+      "word": "tumble",
+      "example": "The stunt performer's astonishing tumble left nothing to chance right then and there."
+    },
+    {
+      "pos": "n.",
+      "uz": "burilish, g'ayrioddiy holat",
+      "ru": "поворот, неожиданный элемент",
+      "en": "A sudden or unexpected change or development.",
+      "ex1": "In an attempt to show off, the stunt performer added a troubling flip and immeasurable twist.",
+      "ex2": "The coordinator dropped the troubling twist from the padded stunt foundation.",
+      "word": "twist",
+      "example": "The newfound twist astonished the director right then and there — nothing was left to chance."
+    },
+    {
+      "pos": "adj.",
+      "uz": "amalga oshirish mumkin bo'lmagan",
+      "ru": "недостижимый",
+      "en": "Not possible to accomplish or reach.",
+      "ex1": "Nothing was left to chance — what seemed unachievable became just another day at the office.",
+      "ex2": "In an attempt to show off, the troubling stunt twist appeared unachievable right then and there.",
+      "word": "unachievable",
+      "example": "The immeasurable flip seemed unachievable, but the stunt performer astonished everyone."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "n.",
+      "uz": "abstrakt rasm",
+      "ru": "абстрактная живопись",
+      "en": "A style of painting that uses shapes, colours, and textures rather than realistic images.",
+      "ex1": "The director exclaimed that the abstract painting theme was lifelike and by the book.",
+      "ex2": "Her newfound interest in abstract painting crossed her mind during the big screen rehearsal.",
+      "word": "abstract painting",
+      "example": "She was astonished by the vivid brushstrokes in the abstract painting behind the scenes."
+    },
+    {
+      "pos": "n.",
+      "uz": "fon, orqa toraf",
+      "ru": "фон, задний план",
+      "en": "The area behind the main subject in a picture or scene; also a person's history.",
+      "ex1": "Behind the scenes, the sketch showed a lifelike background for the still life portrait.",
+      "ex2": "She was a bookworm with a background in realistic paintings and big screen themes.",
+      "word": "background",
+      "example": "The vivid abstract painting in the background astonished the director at the rehearsal."
+    },
+    {
+      "pos": "idiom",
+      "uz": "sirlarini yashirmaydigan",
+      "ru": "быть открытой книгой, не иметь секретов",
+      "en": "To have no secrets; to be easy to understand.",
+      "ex1": "The bookworm director said the abstract painting theme was an open book to him.",
+      "ex2": "Behind the scenes, the portrait sketch was an open book — lifelike and by the book.",
+      "word": "be an open book",
+      "example": "She was an open book — her vivid brushstrokes revealed everything behind the scenes."
+    },
+    {
+      "pos": "phrase",
+      "uz": "parda ortida",
+      "ru": "за кулисами",
+      "en": "In a place or way that is not seen by the public.",
+      "ex1": "She was a bookworm who binge-watched big screen rehearsals behind the scenes.",
+      "ex2": "The lifelike still life portrait was co-created behind the scenes by the theme coordinator.",
+      "word": "behind the scenes",
+      "example": "Behind the scenes, the director used vivid brushstrokes to sketch the abstract painting."
+    },
+    {
+      "pos": "n.",
+      "uz": "kino ekrani",
+      "ru": "большой экран, кино",
+      "en": "The cinema; films shown in cinemas rather than on television.",
+      "ex1": "The bookworm binge-watched every big screen rehearsal to portray a lifelike portrait.",
+      "ex2": "Behind the scenes, the director used a sketch to plan the big screen still life theme.",
+      "word": "big screen",
+      "example": "Her vivid abstract painting theme astonished the big screen director behind the scenes."
+    },
+    {
+      "pos": "v.",
+      "uz": "ketma-ket ko'rmoq",
+      "ru": "смотреть запоем",
+      "en": "To watch multiple episodes of a TV show or films in one sitting.",
+      "ex1": "The bookworm binge-watched abstract painting documentaries to sketch a lifelike portrait.",
+      "ex2": "Behind the scenes, the director binge-watched theme rehearsals for the big screen.",
+      "word": "binge-watch",
+      "example": "She binge-watched big screen rehearsals behind the scenes to study vivid brushstrokes."
+    },
+    {
+      "pos": "n.",
+      "uz": "kitobxon, ko'p o'quvchi",
+      "ru": "книжный червь, книголюб",
+      "en": "A person who loves reading and spends a lot of time doing it.",
+      "ex1": "She was a bookworm who sketched lifelike portraits behind the scenes.",
+      "ex2": "Behind the scenes, the bookworm used brushstrokes to portray a realistic still life.",
+      "word": "bookworm",
+      "example": "The bookworm director was astonished by the vivid abstract painting theme at the rehearsal."
+    },
+    {
+      "pos": "n.",
+      "uz": "mo'yqalam zarbasi",
+      "ru": "мазок кисти",
+      "en": "A single stroke of a paintbrush used in creating a painting.",
+      "ex1": "Behind the scenes, the bookworm sketched lifelike brushstrokes for the big screen portrait.",
+      "ex2": "The realistic still life theme was built brushstroke by brushstroke behind the scenes.",
+      "word": "brushstroke",
+      "example": "Her vivid brushstrokes astonished the director at the abstract painting rehearsal."
+    },
+    {
+      "pos": "idiom",
+      "uz": "qoidalarga ko'ra, nizomga muvofiq",
+      "ru": "по правилам, строго по инструкции",
+      "en": "Following rules or instructions exactly.",
+      "ex1": "Behind the scenes, the bookworm applied brushstrokes by the book for the still life.",
+      "ex2": "She was an open book — her lifelike portrait was done by the book behind the scenes.",
+      "word": "by the book",
+      "example": "The director insisted everything be done by the book during the abstract painting rehearsal."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hayotiy, jonli ko'rinadigan",
+      "ru": "реалистичный, живой",
+      "en": "Resembling real life very closely.",
+      "ex1": "Behind the scenes, the bookworm sketched a lifelike portrait theme by the book.",
+      "ex2": "The still life rehearsal resulted in a lifelike realistic painting done behind the scenes.",
+      "word": "lifelike",
+      "example": "Her vivid brushstrokes created a lifelike abstract painting that astonished the big screen."
+    },
+    {
+      "pos": "n.",
+      "uz": "qiziqarli kitob",
+      "ru": "захватывающая книга",
+      "en": "A book that is so exciting you cannot stop reading it.",
+      "ex1": "She binge-watched the big screen adaptation of the vivid page-turner by the book.",
+      "ex2": "Behind the scenes, the director sketched a lifelike portrait inspired by the page-turner.",
+      "word": "page-turner",
+      "example": "The bookworm said the abstract painting guide was a page-turner behind the scenes."
+    },
+    {
+      "pos": "n.",
+      "uz": "portret",
+      "ru": "портрет",
+      "en": "A painting, drawing, or photograph of a person.",
+      "ex1": "The bookworm director astonished the big screen team with a realistic brushstroke portrait.",
+      "ex2": "Behind the scenes, the still life portrait was done by the book with vivid theme brushstrokes.",
+      "word": "portrait",
+      "example": "She sketched a vivid lifelike portrait behind the scenes for the abstract painting theme."
+    },
+    {
+      "pos": "adj.",
+      "uz": "realistik, hayotiy",
+      "ru": "реалистичный",
+      "en": "Showing things as they are in real life.",
+      "ex1": "The bookworm binge-watched big screen rehearsals to create a lifelike, realistic theme.",
+      "ex2": "Behind the scenes, the still life was done by the book with realistic abstract brushstrokes.",
+      "word": "realistic",
+      "example": "Her vivid brushstrokes created a realistic portrait that astonished the director behind the scenes."
+    },
+    {
+      "pos": "n.",
+      "uz": "mashq, repetitsiya",
+      "ru": "репетиция",
+      "en": "A practice session for a performance.",
+      "ex1": "She binge-watched the big screen rehearsal to sketch a lifelike bookworm portrait.",
+      "ex2": "The realistic still life brushstroke theme was perfected during the final rehearsal.",
+      "word": "rehearsal",
+      "example": "Behind the scenes, the director ran a vivid abstract painting rehearsal by the book."
+    },
+    {
+      "pos": "n./v.",
+      "uz": "chizib ko'rmoq / eskiz",
+      "ru": "набросок, эскиз",
+      "en": "A rough drawing or painting done quickly; to draw roughly.",
+      "ex1": "The bookworm binge-watched the big screen rehearsal and sketched realistic brushstrokes.",
+      "ex2": "She sketched a still life by the book — vivid and astonishingly realistic.",
+      "word": "sketch",
+      "example": "Behind the scenes, she sketched a vivid lifelike portrait for the abstract painting theme."
+    },
+    {
+      "pos": "n.",
+      "uz": "natyurmort",
+      "ru": "натюрморт",
+      "en": "A painting or drawing of inanimate objects, such as fruit or flowers.",
+      "ex1": "Behind the scenes, the bookworm sketched a still life portrait by the book.",
+      "ex2": "The abstract painting theme incorporated a realistic still life during the rehearsal.",
+      "word": "still life",
+      "example": "Her vivid brushstrokes created a lifelike still life that astonished the big screen director."
+    },
+    {
+      "pos": "n.",
+      "uz": "mavzu",
+      "ru": "тема",
+      "en": "The main subject or idea in a work of art, literature, or music.",
+      "ex1": "She binge-watched realistic portrait rehearsals to understand the bookworm theme.",
+      "ex2": "Behind the scenes, the still life sketch built a lifelike brushstroke theme by the book.",
+      "word": "theme",
+      "example": "The vivid abstract painting theme astonished the director behind the big screen scenes."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yorqin, aniq",
+      "ru": "яркий, живой",
+      "en": "Producing clear, strong images in the mind; very bright or intense.",
+      "ex1": "Behind the scenes, the bookworm binge-watched vivid big screen rehearsal sketches.",
+      "ex2": "The vivid still life portrait was done by the book — lifelike and realistic behind the scenes.",
+      "word": "vivid",
+      "example": "Her vivid brushstrokes astonished the director with a lifelike abstract painting theme."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "phrase",
+      "uz": "kulgili narsa, kulgu",
+      "ru": "хороший смех, что-то смешное",
+      "en": "Something that is very funny; an enjoyable, amusing experience.",
+      "ex1": "She had a good laugh on the spot when the puppetry illustration came in handy.",
+      "ex2": "In the long run, taking pride in a good laugh makes it all worthwhile.",
+      "word": "a good laugh",
+      "example": "The puppet show was a good laugh — the puppeteer kept everyone going with soothing poetry."
+    },
+    {
+      "pos": "idiom",
+      "uz": "qo'l kelmoq, foydali bo'lmoq",
+      "ru": "пригодиться",
+      "en": "To be useful when needed.",
+      "ex1": "In the long run, taking pride in poetry keeps you going and comes in handy.",
+      "ex2": "She had a good laugh when the soothing puppet handle came in handy.",
+      "word": "come in handy",
+      "example": "Her puppetry skills came in handy on the spot during the dynamic illustration."
+    },
+    {
+      "pos": "adj.",
+      "uz": "dinamik, faol",
+      "ru": "динамичный, энергичный",
+      "en": "Full of energy and constantly changing or active.",
+      "ex1": "She took pride in her dynamic handle on puppetry — it made it all worthwhile.",
+      "ex2": "In the long run, a dynamic approach to illustration keeps you going.",
+      "word": "dynamic",
+      "example": "The dynamic puppeteer illustrated poetry with soothing, vivid puppetry on the spot."
+    },
+    {
+      "pos": "n.",
+      "uz": "dasta, tutqich",
+      "ru": "ручка, рукоять",
+      "en": "A part of an object designed to be held; also a way of dealing with something.",
+      "ex1": "The puppeteer had a good laugh when the handle came in handy for soothing poetry.",
+      "ex2": "In the long run, taking pride in the handle of puppetry makes it all worthwhile.",
+      "word": "handle",
+      "example": "She kept track of the puppet's handle on the spot during the dynamic illustration."
+    },
+    {
+      "pos": "phrase",
+      "uz": "obro'ga ega bo'lmoq",
+      "ru": "иметь репутацию, быть известным чем-то",
+      "en": "To be well known for a particular quality or behaviour.",
+      "ex1": "She had a reputation for taking pride in illustration on the spot.",
+      "ex2": "In the long run, having a reputation for puppetry comes in handy.",
+      "word": "have a reputation for",
+      "example": "The puppeteer had a reputation for dynamic soothing poetry that kept everyone going."
+    },
+    {
+      "pos": "phrase",
+      "uz": "qiyinchilik ko'rmoq",
+      "ru": "испытывать затруднение, с трудом",
+      "en": "To find something hard to do.",
+      "ex1": "The puppeteer had difficulty in illustrating dynamic poetry in the long run.",
+      "ex2": "In an attempt to make it worthwhile, she had difficulty in handling the soothing puppetry.",
+      "word": "have difficulty (in)",
+      "example": "She had difficulty in keeping track of the puppet's handle on the spot."
+    },
+    {
+      "pos": "phrase",
+      "uz": "niyati yo'q",
+      "ru": "не иметь намерения",
+      "en": "To definitely not plan to do something.",
+      "ex1": "In the long run, she had no intention of taking her dynamic poetry skills for granted.",
+      "ex2": "The puppeteer had no intention of losing track of the handle during the illustration.",
+      "word": "have no intention of",
+      "example": "She had no intention of giving up puppetry — it was soothing and worthwhile."
+    },
+    {
+      "pos": "phrase",
+      "uz": "barcha sifatlarga ega bo'lmoq",
+      "ru": "иметь всё необходимое для успеха",
+      "en": "To have the necessary qualities to succeed at something.",
+      "ex1": "In the long run, taking pride in illustration means having what it takes.",
+      "ex2": "The puppeteer had what it takes to keep everyone going with dynamic poetry.",
+      "word": "have what it takes",
+      "example": "She had what it takes to be a dynamic puppeteer — soothing, on the spot, and worthwhile."
+    },
+    {
+      "pos": "v.",
+      "uz": "tasvirlamoq, misollar bilan ko'rsatmoq",
+      "ru": "иллюстрировать, пояснять",
+      "en": "To explain or make something clear by using examples, pictures, or stories.",
+      "ex1": "She took pride in her ability to illustrate puppetry — it came in handy in the long run.",
+      "ex2": "In the long run, illustrating poetry with puppetry keeps everyone going.",
+      "word": "illustrate",
+      "example": "The puppeteer illustrated dynamic poetry on the spot in a soothing and worthwhile way."
+    },
+    {
+      "pos": "phrase",
+      "uz": "uzoq muddatda, oxir-oqibat",
+      "ru": "в долгосрочной перспективе",
+      "en": "Over a long period of time; eventually.",
+      "ex1": "She had no intention of giving up — in the long run, it comes in handy.",
+      "ex2": "Dynamic illustration and poetry keep you going in the long run.",
+      "word": "in the long run",
+      "example": "In the long run, taking pride in soothing puppetry makes it all worthwhile."
+    },
+    {
+      "pos": "phrase",
+      "uz": "birovni davom ettirishga undamoq",
+      "ru": "поддерживать кого-то, помогать продолжать",
+      "en": "To give someone the energy or motivation to continue.",
+      "ex1": "In the long run, taking pride in illustration keeps you going and makes it worthwhile.",
+      "ex2": "The puppeteer had what it takes to keep everyone going on the spot.",
+      "word": "keep sb going",
+      "example": "The soothing poetry kept the audience going throughout the dynamic puppetry show."
+    },
+    {
+      "pos": "phrase",
+      "uz": "nazorat qilmoq, kuzatib bormoq",
+      "ru": "следить за, отслеживать",
+      "en": "To continue to know or be informed about something.",
+      "ex1": "In the long run, keeping track of soothing poetry keeps you going.",
+      "ex2": "The puppeteer kept track of every worthwhile illustration with dynamic pride.",
+      "word": "keep track of",
+      "example": "She kept track of the puppet's handle on the spot during the dynamic illustration."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bunga arziydigan qilmoq",
+      "ru": "оправдать всё это, сделать стоящим",
+      "en": "To make an effort feel rewarding and justified.",
+      "ex1": "In the long run, taking pride in illustration makes it all worthwhile.",
+      "ex2": "She had what it takes to keep going and make the puppetry worthwhile.",
+      "word": "make it (all) worthwhile",
+      "example": "The soothing puppet show made it all worthwhile — the dynamic poetry kept everyone going."
+    },
+    {
+      "pos": "phrase",
+      "uz": "darrov, o'sha joyda",
+      "ru": "на месте, немедленно",
+      "en": "Immediately and at the place in question.",
+      "ex1": "She had what it takes to handle puppetry on the spot and make it worthwhile.",
+      "ex2": "In the long run, taking pride in illustration on the spot comes in handy.",
+      "word": "on the spot",
+      "example": "The puppeteer illustrated dynamic soothing poetry on the spot — it kept everyone going."
+    },
+    {
+      "pos": "n.",
+      "uz": "she'riyat",
+      "ru": "поэзия",
+      "en": "Literary work in the form of poems, using rhythm and imagery.",
+      "ex1": "In the long run, taking pride in soothing poetry makes every puppetry performance worthwhile.",
+      "ex2": "She had what it takes to illustrate dynamic poetry on the spot.",
+      "word": "poetry",
+      "example": "The soothing poetry illustrated by the puppeteer kept the dynamic audience going."
+    },
+    {
+      "pos": "n.",
+      "uz": "qo'g'irchoq",
+      "ru": "кукла (театральная)",
+      "en": "A figure moved by strings, rods, or a hand, used in entertainment.",
+      "ex1": "In the long run, taking pride in the puppet's handle makes the performance worthwhile.",
+      "ex2": "She had what it takes to illustrate poetry with a dynamic puppet on the spot.",
+      "word": "puppet",
+      "example": "The puppeteer's dynamic soothing puppet illustration kept everyone going on the spot."
+    },
+    {
+      "pos": "n.",
+      "uz": "qo'g'irchoqboz",
+      "ru": "кукловод",
+      "en": "A person who controls puppets in a performance.",
+      "ex1": "In the long run, a puppeteer who takes pride in illustration keeps the audience going.",
+      "ex2": "She had what it takes to be a puppeteer — dynamic, soothing, and worthwhile.",
+      "word": "puppeteer",
+      "example": "The dynamic puppeteer illustrated soothing poetry on the spot — it made it all worthwhile."
+    },
+    {
+      "pos": "n.",
+      "uz": "qo'g'irchoq teatri",
+      "ru": "кукольное искусство",
+      "en": "The art of making and performing with puppets.",
+      "ex1": "In the long run, taking pride in soothing puppetry comes in handy on the spot.",
+      "ex2": "She had what it takes to illustrate poetry through dynamic, worthwhile puppetry.",
+      "word": "puppetry",
+      "example": "Her dynamic puppetry illustration kept everyone going and made it all worthwhile."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tinchlantiruvchan, yumshatuvchi",
+      "ru": "успокаивающий",
+      "en": "Gently calming or reducing pain or stress.",
+      "ex1": "In the long run, soothing puppetry illustration makes it all worthwhile.",
+      "ex2": "She had what it takes to illustrate soothing poetry on the spot with dynamic puppetry.",
+      "word": "soothing",
+      "example": "The soothing poetry illustrated by the dynamic puppeteer kept everyone going."
+    },
+    {
+      "pos": "phrase",
+      "uz": "g'ururlanmoq, qadrlаmoq",
+      "ru": "гордиться, дорожить",
+      "en": "To feel pleased and satisfied about something you have done.",
+      "ex1": "The puppeteer took pride in illustrating poetry on the spot with a worthwhile handle.",
+      "ex2": "In the long run, taking pride in puppetry makes it all worthwhile.",
+      "word": "take pride in",
+      "example": "She took pride in her dynamic soothing puppetry — it kept everyone going in the long run."
+    },
+    {
+      "pos": "phrase",
+      "uz": "qadrlamaslik, oddiy hisoblаmoq",
+      "ru": "принимать как должное",
+      "en": "To fail to appreciate the value of something.",
+      "ex1": "In the long run, taking illustration for granted loses what it takes to keep going.",
+      "ex2": "The puppeteer never took pride for granted — it kept the dynamic poetry worthwhile.",
+      "word": "take sth for granted",
+      "example": "She had no intention of taking soothing puppetry for granted — it was dynamic and worthwhile."
+    }
+  ],
+  "p4": [
+    {
+      "pos": "adj.",
+      "uz": "tavsiya etiladigan, ma'qul",
+      "ru": "целесообразный, рекомендуемый",
+      "en": "Wise or sensible to do in a particular situation.",
+      "ex1": "She ruled out the impersonal venue — attending an outstanding open-air event was advisable.",
+      "ex2": "The advisable approach was to implement a packed shuttle for the domestic attendees.",
+      "word": "advisable",
+      "example": "It was advisable to book the open-air shuttle well in advance for the family-oriented event."
+    },
+    {
+      "pos": "adj./n.",
+      "uz": "havaskor",
+      "ru": "любитель, дилетант",
+      "en": "A person who does something for enjoyment rather than as a profession.",
+      "ex1": "She ruled out the impersonal venue for the family-oriented amateur shuttle gathering.",
+      "ex2": "In the coming year, the advisable approach is to implement amateur open-air events.",
+      "word": "amateur",
+      "example": "The amateur attendee took an outstanding pose at the open-air domestic event."
+    },
+    {
+      "pos": "n.",
+      "uz": "ishtirokchi, kelgan kishi",
+      "ru": "участник, присутствующий",
+      "en": "A person who is present at an event.",
+      "ex1": "The shuttle transported domestic attendees to the remarkable packed venue.",
+      "ex2": "She ruled out the impersonal option — every advisable attendee deserved exceptional treatment.",
+      "word": "attendee",
+      "example": "Every attendee at the outstanding open-air event took an exceptional family-oriented pose."
+    },
+    {
+      "pos": "adj.",
+      "uz": "mahalliy, ichki",
+      "ru": "внутренний, домашний",
+      "en": "Relating to the home country; not foreign.",
+      "ex1": "She ruled out the impersonal international venue for the exceptional domestic gathering.",
+      "ex2": "In the coming year, family-oriented domestic events are advisable to implement.",
+      "word": "domestic",
+      "example": "Domestic attendees took an advisable shuttle to the outstanding open-air event."
+    },
+    {
+      "pos": "adj.",
+      "uz": "g'ayrioddiy, ajoyib",
+      "ru": "исключительный, выдающийся",
+      "en": "Unusually good or remarkable.",
+      "ex1": "She ruled out the impersonal shuttle for the exceptional domestic remarkable gathering.",
+      "ex2": "In the coming year, implementing exceptional open-air advisable events is a priority.",
+      "word": "exceptional",
+      "example": "The open-air event was exceptional — every attendee took an outstanding family-oriented pose."
+    },
+    {
+      "pos": "adj.",
+      "uz": "oilaga mo'ljallangan",
+      "ru": "ориентированный на семью",
+      "en": "Designed to be enjoyed by or suitable for the whole family.",
+      "ex1": "She ruled out the impersonal venue for the exceptional family-oriented domestic gathering.",
+      "ex2": "In the coming year, advisable family-oriented events are remarkable to implement.",
+      "word": "family-oriented",
+      "example": "The outstanding family-oriented open-air event attracted domestic attendees by shuttle."
+    },
+    {
+      "pos": "adj.",
+      "uz": "shaxssiz, sovuq",
+      "ru": "безличный, холодный",
+      "en": "Not showing personal feelings or warmth; not relating to a specific person.",
+      "ex1": "The domestic shuttle felt impersonal — the advisable option was a remarkable open-air pose.",
+      "ex2": "In the coming year, implementing an impersonal approach is not advisable for attendees.",
+      "word": "impersonal",
+      "example": "She ruled out the impersonal venue and chose an outstanding family-oriented open-air event."
+    },
+    {
+      "pos": "v.",
+      "uz": "amalga oshirmoq, joriy qilmoq",
+      "ru": "внедрять, осуществлять",
+      "en": "To put a plan or system into action.",
+      "ex1": "In the coming year, it is remarkable to implement open-air family-oriented events.",
+      "ex2": "The coordinator ruled out the impersonal option and implemented an outstanding pose plan.",
+      "word": "implement",
+      "example": "She implemented an advisable shuttle to transport exceptional domestic attendees."
+    },
+    {
+      "pos": "phrase",
+      "uz": "kelgusi yilda",
+      "ru": "в наступающем году",
+      "en": "During the next year; in the near future.",
+      "ex1": "The advisable shuttle for domestic attendees will be implemented in the coming year.",
+      "ex2": "Exceptional family-oriented gatherings are remarkable to rule out in the coming year.",
+      "word": "in the coming year",
+      "example": "In the coming year, she plans to implement an outstanding open-air family-oriented event."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ochiq havo, ochiq maydon",
+      "ru": "на открытом воздухе",
+      "en": "Taking place outdoors.",
+      "ex1": "She ruled out the impersonal venue for the exceptional open-air domestic gathering.",
+      "ex2": "In the coming year, advisable open-air events are remarkable to implement.",
+      "word": "open-air",
+      "example": "The open-air family-oriented event was outstanding — every attendee arrived by shuttle."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ajoyib, a'lo",
+      "ru": "выдающийся, превосходный",
+      "en": "Exceptionally good; very impressive.",
+      "ex1": "She ruled out the impersonal venue — the shuttle led to an outstanding remarkable pose.",
+      "ex2": "In the coming year, implementing outstanding family-oriented events is advisable.",
+      "word": "outstanding",
+      "example": "The outstanding open-air event attracted exceptional family-oriented domestic attendees."
+    },
+    {
+      "pos": "phrase",
+      "uz": "to'la, liq to'la",
+      "ru": "набитый, полный",
+      "en": "Completely full of something.",
+      "ex1": "She was astonished — the family-oriented venue was packed with exceptional attendees.",
+      "ex2": "In the coming year, an advisable open-air event packed with attendees is remarkable.",
+      "word": "packed with",
+      "example": "The shuttle was packed with domestic attendees heading to the outstanding open-air event."
+    },
+    {
+      "pos": "v.",
+      "uz": "muammo tug'dirmoq; pozaga turmoq",
+      "ru": "создавать, ставить (проблему); позировать",
+      "en": "To present or create a problem; or to position yourself for a photo.",
+      "ex1": "She posed an advisable question about implementing exceptional family-oriented events.",
+      "ex2": "In the coming year, the domestic shuttle poses a remarkable opportunity for attendees.",
+      "word": "pose",
+      "example": "The outstanding open-air event posed no impersonal challenge — attendees arrived by shuttle."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hayratlanarli, e'tiborli",
+      "ru": "замечательный, примечательный",
+      "en": "Worthy of attention because of being unusual or exceptional.",
+      "ex1": "She ruled out the impersonal option — the outstanding event was remarkable to implement.",
+      "ex2": "In the coming year, advisable remarkable events are exceptional for domestic attendees.",
+      "word": "remarkable",
+      "example": "The open-air family-oriented event was remarkable — domestic attendees arrived packed by shuttle."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "rad etmoq, istisno qilmoq",
+      "ru": "исключать, отвергать",
+      "en": "To decide that something is impossible or not worth considering.",
+      "ex1": "In the coming year, ruling out the shuttle is not advisable for domestic attendees.",
+      "ex2": "She ruled out impersonal options to implement an exceptional family-oriented gathering.",
+      "word": "rule sth out",
+      "example": "She ruled out the impersonal venue and implemented an outstanding open-air family event."
+    },
+    {
+      "pos": "n.",
+      "uz": "yo'lovchi avtobus/transport",
+      "ru": "шаттл, рейсовый транспорт",
+      "en": "A vehicle that makes regular short trips between two places.",
+      "ex1": "She ruled out the impersonal option and implemented an advisable shuttle for attendees.",
+      "ex2": "In the coming year, a remarkable shuttle packed with exceptional attendees is advisable.",
+      "word": "shuttle",
+      "example": "The shuttle transported domestic attendees to the outstanding open-air family-oriented event."
+    }
+  ]
+}

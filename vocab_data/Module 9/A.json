@@ -1,0 +1,436 @@
+{
+  "p1": [
+    {
+      "pos": "n.",
+      "uz": "qo'lga kirishlik, qulay bo'lish",
+      "ru": "доступность",
+      "en": "The quality of being easy to reach, use, or understand.",
+      "ex1": "The host city approved new regulation to ensure accessibility for all companions.",
+      "ex2": "Navigation and accessibility were key concerns for runners-up at the ceremony.",
+      "word": "accessibility",
+      "example": "Accessibility at the prestigious venue was improved for athletes with a disability."
+    },
+    {
+      "pos": "adj.",
+      "uz": "mohir, ustalik bilan",
+      "ru": "умелый, искусный",
+      "en": "Very skilled or proficient at something.",
+      "ex1": "Adept runners-up overcome disturbing obstacles to prove their fitness.",
+      "ex2": "The skilled, adept companion tracked routes and secured approval for the ceremony.",
+      "word": "adept",
+      "example": "She was adept at navigation and tracking routes to the prestigious venue."
+    },
+    {
+      "pos": "n.",
+      "uz": "tasdiqlash, ruxsat",
+      "ru": "одобрение, утверждение",
+      "en": "Official agreement or permission for something.",
+      "ex1": "She received approval from the regulation committee for the accessible ceremony.",
+      "ex2": "RSVP confirmation served as proof of approval for the runner-up companion.",
+      "word": "approval",
+      "example": "The host city required legal approval before tracking athletes at the prestigious venue."
+    },
+    {
+      "pos": "v.",
+      "uz": "tasdiqlаmoq, ma'qullаmoq",
+      "ru": "одобрять, санкционировать",
+      "en": "To officially agree to something or think it is acceptable.",
+      "ex1": "She approved of the legal proof submitted by the skilled, adept companion.",
+      "ex2": "The committee approved of tracking runners-up at the prestigious ceremony.",
+      "word": "approve (of)",
+      "example": "The host city approved of the regulation ensuring accessibility at the venue."
+    },
+    {
+      "pos": "n.",
+      "uz": "marosim, tantana",
+      "ru": "церемония",
+      "en": "A formal public event or celebration.",
+      "ex1": "Legal proof of disability accessibility was required before the ceremony RSVP.",
+      "ex2": "She was glued to the screen tracking the ceremony at the prestigious venue.",
+      "word": "ceremony",
+      "example": "The runner-up received approval to attend the prestigious ceremony at the host city venue."
+    },
+    {
+      "pos": "n.",
+      "uz": "hamroh, do'st",
+      "ru": "спутник, компаньон",
+      "en": "A person or animal with whom you spend time.",
+      "ex1": "The adept companion tracked the runner-up to ensure secure approval at the ceremony.",
+      "ex2": "A skilled companion proves indispensable when overcoming disturbing regulation barriers.",
+      "word": "companion",
+      "example": "Her companion helped navigate accessibility at the prestigious host city venue."
+    },
+    {
+      "pos": "n.",
+      "uz": "nogironlik, imkoniyatlar chegarasi",
+      "ru": "инвалидность, ограниченные возможности",
+      "en": "A physical or mental condition that limits a person's movements or activities.",
+      "ex1": "She approved of the legal proof confirming disability accessibility at the ceremony venue.",
+      "ex2": "Overcoming a disability requires skilled companions, adept navigation, and secure tracking.",
+      "word": "disability",
+      "example": "Accessibility for athletes with a disability was a key regulation at the host city."
+    },
+    {
+      "pos": "adj.",
+      "uz": "bezovta qiluvchi, xavotirli",
+      "ru": "тревожный, беспокоящий",
+      "en": "Causing worry, anxiety, or distress.",
+      "ex1": "She found the tracking of privacy during the ceremony legally disturbing.",
+      "ex2": "The runner-up overcame disturbing obstacles to secure approval at the host city.",
+      "word": "disturbing",
+      "example": "The disturbing lack of accessibility at the prestigious venue was overcome with new regulation."
+    },
+    {
+      "pos": "n.",
+      "uz": "mos kelish, to'g'ri kelish",
+      "ru": "соответствие, подходящесть",
+      "en": "The way something matches or suits a particular purpose or person.",
+      "ex1": "Her adept navigation skills were a natural fit for tracking the prestigious ceremony.",
+      "ex2": "A legal and secure fit between regulation and privacy was approved by the host city.",
+      "word": "fit",
+      "example": "The venue's accessibility was a perfect fit for athletes with a disability."
+    },
+    {
+      "pos": "adv.",
+      "uz": "yangi, hozirgina",
+      "ru": "свежо, только что",
+      "en": "Very recently; just made or prepared.",
+      "ex1": "The freshly secured venue tracking system overcame disturbing privacy concerns.",
+      "ex2": "Freshly approved regulation ensured accessibility at the host city ceremony.",
+      "word": "freshly",
+      "example": "She was freshly approved as a runner-up companion at the prestigious ceremony."
+    },
+    {
+      "pos": "phrase",
+      "uz": "ko'zini uzolmasdan qaramoq",
+      "ru": "прилипнуть к (экрану и т.д.)",
+      "en": "Unable to stop watching or paying attention to something.",
+      "ex1": "The companion was glued to the navigation system securing accessibility at the venue.",
+      "ex2": "He was glued to the legal proof confirming disability approval at the host city.",
+      "word": "glued to",
+      "example": "She was glued to the screen tracking the runner-up at the prestigious ceremony."
+    },
+    {
+      "pos": "phrase",
+      "uz": "osonlik bilan o'tmoq, hech qiyinchiliksiz",
+      "ru": "жить легко, не иметь проблем",
+      "en": "To have a situation without difficulties or challenges.",
+      "ex1": "She overcame disability barriers — she never had it easy at prestigious ceremonies.",
+      "ex2": "Adept companions do not have it easy tracking accessibility at a disturbing venue.",
+      "word": "have it easy",
+      "example": "Unlike runners-up, the host city organisers did not have it easy overcoming regulation."
+    },
+    {
+      "pos": "phrase",
+      "uz": "uzoq qolmoq, keng tarqalmoq",
+      "ru": "здесь надолго, прочно вошедший в жизнь",
+      "en": "Permanent and unlikely to go away.",
+      "ex1": "Accessibility standards for disability companions are here to stay at every host city.",
+      "ex2": "The RSVP system proved to be here to stay as proof of ceremony approval.",
+      "word": "here to stay",
+      "example": "Legal tracking regulation for prestigious ceremonies is here to stay."
+    },
+    {
+      "pos": "n.",
+      "uz": "mezbon shahar",
+      "ru": "город-организатор",
+      "en": "The city chosen to organise and stage a large event.",
+      "ex1": "She tracked the navigation to the prestigious ceremony in the secure host city.",
+      "ex2": "Legal RSVP regulation was put in place by the host city for runner-up companions.",
+      "word": "host city",
+      "example": "The host city approved accessible venues for athletes with a disability."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qonuniy, huquqiy",
+      "ru": "законный, юридический",
+      "en": "Permitted by or relating to the law.",
+      "ex1": "The adept companion secured legal RSVP approval for the prestigious ceremony.",
+      "ex2": "Tracking runners-up without legal regulation was considered disturbing by the host city.",
+      "word": "legal",
+      "example": "Legal proof of disability was required before the host city approved venue accessibility."
+    },
+    {
+      "pos": "v.",
+      "uz": "ko'chib o'tmoq, migratsiya qilmoq",
+      "ru": "мигрировать, переселяться",
+      "en": "To move from one place to another, often regularly.",
+      "ex1": "She migrated freshly approved companions to the prestigious ceremony venue.",
+      "ex2": "Legal regulation tracks how athletes migrate and secure accessibility at the host city.",
+      "word": "migrate",
+      "example": "Athletes migrate to the host city to overcome accessibility and navigation barriers."
+    },
+    {
+      "pos": "n.",
+      "uz": "yo'nalish topish, navigatsiya",
+      "ru": "навигация, ориентирование",
+      "en": "The process of finding your way from one place to another.",
+      "ex1": "The host city approved a freshly secured navigation system for disability companions.",
+      "ex2": "Legal and disturbing navigation barriers were overcome through RSVP regulation.",
+      "word": "navigation",
+      "example": "Adept navigation helped the companion track accessibility at the prestigious venue."
+    },
+    {
+      "pos": "phrase",
+      "uz": "o'sib bormoq, ortib bormoq",
+      "ru": "на подъёме, растёт",
+      "en": "Increasing or becoming more common.",
+      "ex1": "Legal tracking of runners-up at host city venues is on the rise.",
+      "ex2": "Privacy concerns about navigation regulation are on the rise and here to stay.",
+      "word": "on the rise",
+      "example": "Accessibility standards for disability companions are on the rise at prestigious ceremonies."
+    },
+    {
+      "pos": "v.",
+      "uz": "yengmoq, g'alaba qozonmoq",
+      "ru": "преодолевать, побеждать",
+      "en": "To succeed in dealing with a problem or difficulty.",
+      "ex1": "Adept companions overcome legal navigation challenges to secure ceremony approval.",
+      "ex2": "Runners-up overcome disability obstacles to receive freshly secured RSVP approval.",
+      "word": "overcome",
+      "example": "She overcame disturbing accessibility barriers at the prestigious host city venue."
+    },
+    {
+      "pos": "adj.",
+      "uz": "obro'li, nufuzli",
+      "ru": "престижный, авторитетный",
+      "en": "Respected and admired, usually because of being important or successful.",
+      "ex1": "Accessibility at the prestigious venue was secured with freshly approved navigation.",
+      "ex2": "A prestigious host city tracks adept companions and ensures disability approval.",
+      "word": "prestigious",
+      "example": "She was runner-up at the most prestigious ceremony hosted by the legal host city."
+    },
+    {
+      "pos": "n.",
+      "uz": "shaxsiy hayot, maxfiylik",
+      "ru": "конфиденциальность, личное пространство",
+      "en": "The right to keep your personal life and information away from others.",
+      "ex1": "She approved of the secure RSVP system to protect companion privacy at the ceremony.",
+      "ex2": "On the rise: privacy concerns about navigation tracking at host city events.",
+      "word": "privacy",
+      "example": "Legal regulation of tracking raised disturbing privacy concerns at the prestigious venue."
+    },
+    {
+      "pos": "n.",
+      "uz": "isbot, tasdiqlash",
+      "ru": "доказательство, подтверждение",
+      "en": "Evidence that shows something is true or has happened.",
+      "ex1": "She presented freshly signed proof of navigation approval to the host city companion.",
+      "ex2": "The runner-up submitted proof of accessibility compliance to overcome disturbing regulation.",
+      "word": "proof",
+      "example": "Legal proof of disability was required to secure RSVP approval at the prestigious ceremony."
+    },
+    {
+      "pos": "n.",
+      "uz": "qoida, tartib",
+      "ru": "регулирование, правило",
+      "en": "An official rule made by a government or authority.",
+      "ex1": "RSVP regulation was freshly approved to overcome disturbing disability barriers.",
+      "ex2": "Tracking runners-up at ceremonies requires secure, legal regulation and proof.",
+      "word": "regulation",
+      "example": "Legal regulation ensured accessibility and navigation at the prestigious host city venue."
+    },
+    {
+      "pos": "abbr.",
+      "uz": "taklif javobini bildirish (kelasiz/kelmasligingiz)",
+      "ru": "RSVP — просьба подтвердить присутствие",
+      "en": "An abbreviation used to ask someone to reply to an invitation.",
+      "ex1": "The host city required RSVP confirmation to secure disability accessibility at the venue.",
+      "ex2": "RSVP regulation for runner-up companions is here to stay at host city ceremonies.",
+      "word": "RSVP",
+      "example": "She submitted her RSVP as legal proof of approval for the prestigious ceremony."
+    },
+    {
+      "pos": "n.",
+      "uz": "ikkinchi o'rin egasi",
+      "ru": "занявший второе место, призёр",
+      "en": "The person or team that finishes second in a competition.",
+      "ex1": "She was adept at navigation and tracked the runner-up to the host city venue.",
+      "ex2": "Legal proof of RSVP was required for every runner-up companion at the ceremony.",
+      "word": "runner-up",
+      "example": "The runner-up received freshly secured approval to attend the prestigious ceremony."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xavfsiz, ishonchli",
+      "ru": "безопасный, надёжный",
+      "en": "Safe and protected from danger or harm.",
+      "ex1": "The host city ensured a freshly secured, legal accessibility process for the ceremony.",
+      "ex2": "RSVP proof and regulation made the runner-up's companion access secure.",
+      "word": "secure",
+      "example": "A secure navigation system was approved to track companions at the prestigious venue."
+    },
+    {
+      "pos": "adj.",
+      "uz": "malakali, tajribali",
+      "ru": "квалифицированный, умелый",
+      "en": "Having or involving special ability or training.",
+      "ex1": "The host city employed freshly skilled staff to overcome disturbing regulation barriers.",
+      "ex2": "Skilled runners-up overcome disability challenges to secure prestigious ceremony approval.",
+      "word": "skilled",
+      "example": "A skilled, adept companion tracked navigation and secured accessibility at the venue."
+    },
+    {
+      "pos": "v.",
+      "uz": "kuzatmoq, izidan bormoq",
+      "ru": "отслеживать, следить",
+      "en": "To follow or monitor the movements of someone or something.",
+      "ex1": "She tracked the runner-up's navigation to secure RSVP approval at the ceremony.",
+      "ex2": "Tracking companions at prestigious events raises disturbing privacy concerns on the rise.",
+      "word": "track",
+      "example": "Legal regulation required the host city to track accessibility compliance at the venue."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'tkazish joyi, manzil",
+      "ru": "место проведения, площадка",
+      "en": "The place where an event is held.",
+      "ex1": "She tracked navigation to the secure, legal venue with her adept companion.",
+      "ex2": "RSVP proof was required before runners-up could access the prestigious ceremony venue.",
+      "word": "venue",
+      "example": "The prestigious ceremony venue was freshly approved by the host city for disability accessibility."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "n.",
+      "uz": "taraqqiyot, rivojlanish",
+      "ru": "прогресс, развитие",
+      "en": "A development or improvement in something.",
+      "ex1": "She retained content about advances in digital overload and notification regulation.",
+      "ex2": "A disturbing advance in dependency on notification filtering weakens secure retention.",
+      "word": "advance",
+      "example": "Vast advances in navigation technology have made tracking runners-up at ceremonies easier."
+    },
+    {
+      "pos": "phrase",
+      "uz": "pulsiz bo'lmoq, naqdi yo'q bo'lmoq",
+      "ru": "быть без денег, быть на мели",
+      "en": "To have no money.",
+      "ex1": "Being broke weakened her ability to register for advancing navigation certification.",
+      "ex2": "He processed the reminder and retained content — being broke was not here to stay.",
+      "word": "be broke",
+      "example": "She was broke after overspending on vast content and notification overload subscriptions."
+    },
+    {
+      "pos": "n.",
+      "uz": "kontent, ma'lumot",
+      "ru": "контент, содержание",
+      "en": "Information or material available online or in media.",
+      "ex1": "Retaining content advances her ability to multitask and process reminders efficiently.",
+      "ex2": "A vast overload of content weakens dependency on secure navigation registration.",
+      "word": "content",
+      "example": "She was glued to vast amounts of content and struggled to filter notification overload."
+    },
+    {
+      "pos": "n.",
+      "uz": "qaram bo'lish, bog'liqlik",
+      "ru": "зависимость",
+      "en": "The state of relying on something or someone too much.",
+      "ex1": "She processed the disturbing advance in digital dependency and registered her concern.",
+      "ex2": "Vast content overload creates a dependency that multitasking cannot easily overcome.",
+      "word": "dependency",
+      "example": "Dependency on notification overload weakens the ability to filter and retain content."
+    },
+    {
+      "pos": "v.",
+      "uz": "filtrlash, saralash",
+      "ru": "фильтровать, отбирать",
+      "en": "To remove unwanted elements from something; to select carefully.",
+      "ex1": "Multitasking weakens your ability to filter and process reminders effectively.",
+      "ex2": "Registering a filter for content and notification advances secure dependency management.",
+      "word": "filter",
+      "example": "She filtered notification overload to retain only the most vast and relevant content."
+    },
+    {
+      "pos": "v.",
+      "uz": "bir vaqtda bir necha ish qilmoq",
+      "ru": "многозадачность, делать несколько дел одновременно",
+      "en": "To do several things at the same time.",
+      "ex1": "She registered the advance in multitasking technology to filter vast content overload.",
+      "ex2": "Multitasking weakens the ability to process and retain reminders and vast content.",
+      "word": "multitask",
+      "example": "Dependency on notification overload makes it harder to multitask and retain content."
+    },
+    {
+      "pos": "n.",
+      "uz": "xabarnoma, bildirishnoma",
+      "ru": "уведомление",
+      "en": "A message or alert that informs you of something.",
+      "ex1": "She registered a reminder to filter disturbing notification dependency advances.",
+      "ex2": "Vast notification overload is on the rise and weakens multitasking and content processing.",
+      "word": "notification",
+      "example": "Notification overload weakened her ability to filter and retain vast content."
+    },
+    {
+      "pos": "n.",
+      "uz": "haddan tashqari yuklanish",
+      "ru": "перегрузка",
+      "en": "An excessive amount of something that is too much to handle.",
+      "ex1": "She registered a reminder to process the vast overload before it advanced further.",
+      "ex2": "Dependency on notification overload is here to stay and weakens multitasking capacity.",
+      "word": "overload",
+      "example": "Content and notification overload weakened her ability to filter and retain information."
+    },
+    {
+      "pos": "v.",
+      "uz": "qayta ishlash, o'zlashtirmoq",
+      "ru": "обрабатывать, усваивать",
+      "en": "To deal with or handle information in an organised way.",
+      "ex1": "Retaining and processing reminders advances secure navigation and content filtering.",
+      "ex2": "Dependency on overload weakens the ability to filter and process registered content.",
+      "word": "process",
+      "example": "She struggled to process vast content and notification overload while multitasking."
+    },
+    {
+      "pos": "v.",
+      "uz": "qayd etmoq, ro'yxatdan o'tmoq",
+      "ru": "регистрировать, записывать",
+      "en": "To record information officially; or to notice something.",
+      "ex1": "Advances in digital security require users to register and process dependency settings.",
+      "ex2": "Multitasking weakens the ability to register and retain notifications and vast content.",
+      "word": "register",
+      "example": "She registered a reminder to filter notification overload and retain vast content."
+    },
+    {
+      "pos": "n.",
+      "uz": "eslatma",
+      "ru": "напоминание",
+      "en": "Something that makes you remember to do something.",
+      "ex1": "A disturbing advance in dependency weakened her ability to respond to reminders.",
+      "ex2": "Multitasking and content overload make it harder to register and act on reminders.",
+      "word": "reminder",
+      "example": "She set a reminder to filter notification overload and retain vast, processed content."
+    },
+    {
+      "pos": "v.",
+      "uz": "saqlab qolmoq, esda tutmoq",
+      "ru": "сохранять, удерживать",
+      "en": "To keep or continue to have something; to remember information.",
+      "ex1": "She registered a reminder to process and retain advances in secure navigation.",
+      "ex2": "Dependency on multitasking weakens your ability to retain reminders and registered content.",
+      "word": "retain",
+      "example": "Notification overload weakened her ability to retain vast, filtered content."
+    },
+    {
+      "pos": "adj.",
+      "uz": "keng, ulkan",
+      "ru": "огромный, обширный",
+      "en": "Very great in size, amount, or extent.",
+      "ex1": "She registered a reminder to process the vast advance in dependency and content.",
+      "ex2": "Vast notification overload is on the rise and weakens multitasking and registration.",
+      "word": "vast",
+      "example": "A vast overload of notifications and content weakened her ability to filter and retain."
+    },
+    {
+      "pos": "v.",
+      "uz": "kuchsizlashtirmoq, susaytirmoq",
+      "ru": "ослаблять, подрывать",
+      "en": "To make or become less strong.",
+      "ex1": "Multitasking advances weaken secure registration and content processing.",
+      "ex2": "A disturbing dependency on overload weakens the ability to filter and retain reminders.",
+      "word": "weaken",
+      "example": "Notification overload and vast content dependency weaken the ability to retain information."
+    }
+  ]
+}

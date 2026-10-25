@@ -31,16 +31,32 @@ export function normalizeWordData(word, levelId, moduleId, index) {
 }
 
 export function parseDictionary(data, levelId = 'A1') {
-  if (!Array.isArray(data)) {
+  if (!Array.isArray(data) && (!data || typeof data !== 'object')) {
     return {
       valid: false,
-      error: 'Invalid dictionary format. Expected an array of modules.',
+      error: 'Invalid dictionary format. Expected an array or a module map.',
       modules: [],
       totalWords: 0,
     };
   }
 
-  const modules = data
+  const rawModules = Array.isArray(data)
+    ? data
+    : Object.entries(data).flatMap(([moduleName, parts]) => {
+      if (!parts || typeof parts !== 'object' || Array.isArray(parts)) {
+        return [];
+      }
+
+      return Object.entries(parts).map(([partName, pages]) => ({
+        module: `${moduleName}-${partName}`,
+        title: `${moduleName} ${partName.toUpperCase()}`,
+        words: Object.values(pages ?? {}).flatMap((pageWords) => (
+          Array.isArray(pageWords) ? pageWords : []
+        )),
+      }));
+    });
+
+  const modules = rawModules
     .map((module, moduleIndex) => {
       const moduleId = sanitizeText(module?.module ?? `module-${moduleIndex + 1}`, `module-${moduleIndex + 1}`);
       const title = sanitizeText(module?.title ?? moduleId, moduleId);

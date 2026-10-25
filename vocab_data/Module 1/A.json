@@ -1,0 +1,666 @@
+{
+  "p1": [
+    {
+      "pos": "v.",
+      "uz": "tan olmoq",
+      "ru": "признавать",
+      "en": "To confess or accept that something is true, often unwillingly.",
+      "ex1": "He admitted feeling nervous before the exam.",
+      "ex2": "They admitted the plan had some serious flaws.",
+      "word": "admit",
+      "example": "She finally admitted that she had made a mistake."
+    },
+    {
+      "pos": "prep.",
+      "uz": "qarshi",
+      "ru": "против",
+      "en": "In opposition to someone or something.",
+      "ex1": "Are you for or against the new policy?",
+      "ex2": "She voted against the proposal at the meeting.",
+      "word": "against",
+      "example": "He was against the idea of moving to another city."
+    },
+    {
+      "pos": "phrase",
+      "uz": "xotirjam, erkin",
+      "ru": "непринуждённо, свободно",
+      "en": "Feeling relaxed and comfortable in a situation.",
+      "ex1": "She felt completely at ease with her new colleagues.",
+      "ex2": "He put the nervous guest at ease with a warm smile.",
+      "word": "at ease",
+      "example": "The teacher made the students feel at ease during the test."
+    },
+    {
+      "pos": "idiom",
+      "uz": "juda oson bo'lmoq",
+      "ru": "пара пустяков",
+      "en": "To be very easy to do.",
+      "ex1": "Don't worry — fixing this bug will be a piece of cake.",
+      "ex2": "He said the job interview was a piece of cake.",
+      "word": "be a piece of cake",
+      "example": "The final exam was a piece of cake for her."
+    },
+    {
+      "pos": "phrase",
+      "uz": "biror narsani qo'llab-quvvatlamoq",
+      "ru": "быть за что-либо",
+      "en": "To support or agree with something.",
+      "ex1": "The manager is in favour of flexible working hours.",
+      "ex2": "Are you in favour of the new environmental policy?",
+      "word": "be in favour of sth",
+      "example": "Most students are in favour of shorter school days."
+    },
+    {
+      "pos": "idiom",
+      "uz": "nihoyatda xursand bo'lmoq",
+      "ru": "быть на седьмом небе от счастья",
+      "en": "To be extremely happy and excited.",
+      "ex1": "He was over the moon after his team won the championship.",
+      "ex2": "They were over the moon to hear the good news.",
+      "word": "be over the moon",
+      "example": "She was over the moon when she got the scholarship."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bosim ostida bo'lmoq",
+      "ru": "быть под давлением",
+      "en": "To be in a stressful situation where you must perform or decide quickly.",
+      "ex1": "He works best when he is under pressure.",
+      "ex2": "She felt under pressure to finish the project on time.",
+      "word": "be under pressure",
+      "example": "Teachers are often under pressure to improve test scores."
+    },
+    {
+      "pos": "n.",
+      "uz": "byudjet, moliyaviy reja",
+      "ru": "бюджет",
+      "en": "A plan showing how much money you have and how you will spend it.",
+      "ex1": "They had to cut costs to stay within the budget.",
+      "ex2": "Planning a budget helps you avoid unnecessary spending.",
+      "word": "budget",
+      "example": "The school has a limited budget for extracurricular activities."
+    },
+    {
+      "pos": "phrase",
+      "uz": "jonlanmoq, faollashmoq",
+      "ru": "оживать",
+      "en": "To become exciting, active, or interesting.",
+      "ex1": "Her novel really comes to life in the final chapters.",
+      "ex2": "The classroom came to life when the teacher started the experiment.",
+      "word": "come to life",
+      "example": "The city comes to life during the festival season."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "g'oya topmoq / o'ylab topmoq",
+      "ru": "придумать (идею)",
+      "en": "To think of or produce a new idea or plan.",
+      "ex1": "Can you come up with a better title for the essay?",
+      "ex2": "The team came up with an innovative marketing strategy.",
+      "word": "come up with (an idea)",
+      "example": "She came up with a brilliant solution to the problem."
+    },
+    {
+      "pos": "n. phrase",
+      "uz": "muloqot ko'nikmalari",
+      "ru": "навыки общения",
+      "en": "The ability to share information clearly and effectively with others.",
+      "ex1": "She improved her communication skills by joining a debate club.",
+      "ex2": "Employers often value strong communication skills in candidates.",
+      "word": "communication skills",
+      "example": "Good communication skills are essential in any workplace."
+    },
+    {
+      "pos": "v.",
+      "uz": "nazorat qilmoq, boshqarmoq",
+      "ru": "контролировать",
+      "en": "To have power over something and manage how it works.",
+      "ex1": "The government aims to control inflation.",
+      "ex2": "You need to control the speed of the machine carefully.",
+      "word": "control",
+      "example": "He struggled to control his emotions during the argument."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "hal qilmoq, muomala qilmoq",
+      "ru": "справляться, иметь дело с",
+      "en": "To handle, manage, or take action regarding something.",
+      "ex1": "We need to deal with this issue before it gets worse.",
+      "ex2": "He had to deal with a lot of stress at work.",
+      "word": "deal with",
+      "example": "She knows how to deal with difficult customers professionally."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "kamaymoq / kamayish",
+      "ru": "уменьшаться / уменьшение",
+      "en": "To become smaller in size, amount, or number; the act of reducing.",
+      "ex1": "There has been a decrease in air pollution this year.",
+      "ex2": "Sales decreased sharply during the economic crisis.",
+      "word": "decrease",
+      "example": "The number of students decreased after the holidays."
+    },
+    {
+      "pos": "adj.",
+      "uz": "talab qiluvchi, qiyin",
+      "ru": "требовательный, сложный",
+      "en": "Requiring a lot of effort, skill, or patience.",
+      "ex1": "The training programme was physically demanding.",
+      "ex2": "She found the new role extremely demanding but rewarding.",
+      "word": "demanding",
+      "example": "Being a doctor is one of the most demanding jobs in the world."
+    },
+    {
+      "pos": "v.",
+      "uz": "boshidan kechirmoq",
+      "ru": "испытывать, переживать",
+      "en": "To feel or go through something directly.",
+      "ex1": "He experienced a sense of achievement after completing the marathon.",
+      "ex2": "Many people experience stress during exam periods.",
+      "word": "experience",
+      "example": "Travellers often experience culture shock in new countries."
+    },
+    {
+      "pos": "n.",
+      "uz": "fikr-mulohaza, qayta aloqa",
+      "ru": "обратная связь",
+      "en": "Comments or reactions from others about your work or behaviour.",
+      "ex1": "He welcomed feedback from his colleagues to improve his performance.",
+      "ex2": "Please share your feedback after using the new app.",
+      "word": "feedback",
+      "example": "The teacher gave the students detailed feedback on their essays."
+    },
+    {
+      "pos": "n.",
+      "uz": "mablag', fond",
+      "ru": "фонд, средства",
+      "en": "A sum of money saved or collected for a particular purpose.",
+      "ex1": "They raised a large fund to support local charities.",
+      "ex2": "The government allocated a special fund for education reform.",
+      "word": "fund",
+      "example": "The school set up a fund to help students buy textbooks."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'sish, rivojlanish",
+      "ru": "рост, развитие",
+      "en": "The process of increasing or developing over time.",
+      "ex1": "Personal growth often comes from facing challenges.",
+      "ex2": "Economic growth has slowed down in recent months.",
+      "word": "growth",
+      "example": "The company showed impressive growth in just one year."
+    },
+    {
+      "pos": "n.",
+      "uz": "ta'sir, natija",
+      "ru": "воздействие, влияние",
+      "en": "A strong effect or influence that something has on another.",
+      "ex1": "The new law had a positive impact on air quality.",
+      "ex2": "The teacher's words had a lasting impact on his students.",
+      "word": "impact",
+      "example": "Social media has had a huge impact on modern communication."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "oshmoq / oshish",
+      "ru": "увеличиваться / увеличение",
+      "en": "To become or make greater in number, amount, or degree.",
+      "ex1": "There has been a sharp increase in online learning.",
+      "ex2": "Exercise can increase your energy levels significantly.",
+      "word": "increase",
+      "example": "The school fees will increase by 10% next year."
+    },
+    {
+      "pos": "v.",
+      "uz": "ta'sir ko'rsatmoq",
+      "ru": "влиять",
+      "en": "To have an effect on how someone thinks or acts.",
+      "ex1": "Her parents greatly influenced her career choices.",
+      "ex2": "Music has the power to influence your mood.",
+      "word": "influence",
+      "example": "Advertising can strongly influence consumer behaviour."
+    },
+    {
+      "pos": "n.",
+      "uz": "ilhom, rag'bat",
+      "ru": "вдохновение",
+      "en": "A feeling of excitement that gives you new ideas or motivation.",
+      "ex1": "She found inspiration in her grandmother's stories.",
+      "ex2": "The speech gave the volunteers a great deal of inspiration.",
+      "word": "inspiration",
+      "example": "Nature was the main inspiration behind the artist's work."
+    },
+    {
+      "pos": "phrase",
+      "uz": "muhim emas",
+      "ru": "неважно, не имеет значения",
+      "en": "Used to say that something is not important.",
+      "ex1": "'I forgot to bring the book.' 'It doesn't matter, we have a copy.'",
+      "ex2": "It doesn't matter how long it takes, as long as you do it well.",
+      "word": "it doesn't matter",
+      "example": "It doesn't matter if you make a mistake — just keep trying."
+    },
+    {
+      "pos": "adj.",
+      "uz": "cheklangan",
+      "ru": "ограниченный",
+      "en": "Small in amount or restricted in some way.",
+      "ex1": "Access to clean water is still limited in some regions.",
+      "ex2": "The library has a limited number of books on this topic.",
+      "word": "limited",
+      "example": "We have limited time, so let's focus on the key points."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'pchilik",
+      "ru": "большинство",
+      "en": "More than half of a group.",
+      "ex1": "A large majority voted in favour of the new rule.",
+      "ex2": "The majority of people prefer to shop online these days.",
+      "word": "majority",
+      "example": "The majority of students passed the final exam."
+    },
+    {
+      "pos": "phrase",
+      "uz": "yutuqlarga erishmoq, rivojlanmoq",
+      "ru": "делать успехи, прогрессировать",
+      "en": "To move forward or improve over time.",
+      "ex1": "The team is making good progress on the new project.",
+      "ex2": "You need to make progress every day to reach your goals.",
+      "word": "(make) progress",
+      "example": "She has made excellent progress in her English studies."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qo'lda bajariladigan",
+      "ru": "ручной, физический",
+      "en": "Done by hand rather than by machine.",
+      "ex1": "This car has a manual gearbox.",
+      "ex2": "He prefers manual tools to electric ones.",
+      "word": "manual",
+      "example": "Many factories are replacing manual work with automation."
+    },
+    {
+      "pos": "adj.",
+      "uz": "aqliy, ruhiy",
+      "ru": "умственный, психический",
+      "en": "Relating to the mind or thinking.",
+      "ex1": "Solving puzzles is a great mental workout.",
+      "ex2": "Mental strength is just as important as physical ability.",
+      "word": "mental",
+      "example": "Physical exercise can also improve your mental health."
+    },
+    {
+      "pos": "n.",
+      "uz": "ozchilik",
+      "ru": "меньшинство",
+      "en": "Less than half of a group; a small group that differs from the majority.",
+      "ex1": "Minority languages deserve protection and support.",
+      "ex2": "A small minority of people still doubt climate change.",
+      "word": "minority",
+      "example": "Only a minority of students disagreed with the new timetable."
+    },
+    {
+      "pos": "phrase",
+      "uz": "(bu) unday emas",
+      "ru": "(не) так, (не) является фактом",
+      "en": "Used to say something is (or is not) true or factual.",
+      "ex1": "It's not the case that all teenagers are lazy.",
+      "ex2": "Many assume success is only about talent, but that's rarely the case.",
+      "word": "(not) the case",
+      "example": "People think learning a language is difficult, but that's not always the case."
+    },
+    {
+      "pos": "adj.",
+      "uz": "jismoniy",
+      "ru": "физический",
+      "en": "Relating to the body rather than the mind.",
+      "ex1": "The job requires a lot of physical effort.",
+      "ex2": "She enjoys physical challenges like rock climbing.",
+      "word": "physical",
+      "example": "Physical activity is essential for a healthy lifestyle."
+    },
+    {
+      "pos": "phrase",
+      "uz": "muhim rol o'ynamoq",
+      "ru": "играть важную / значимую роль",
+      "en": "To be an important part of something.",
+      "ex1": "Technology plays a significant role in modern healthcare.",
+      "ex2": "Volunteers play an important role in disaster relief efforts.",
+      "word": "play an important / a significant role",
+      "example": "Parents play an important role in their children's education."
+    },
+    {
+      "pos": "n./adj.",
+      "uz": "salohiyat / potentsial",
+      "ru": "потенциал / потенциальный",
+      "en": "The ability or capacity to develop or succeed in the future.",
+      "ex1": "This project has great potential for growth.",
+      "ex2": "The teacher saw potential in even the weakest students.",
+      "word": "potential",
+      "example": "Every student has the potential to achieve great things."
+    },
+    {
+      "pos": "adv.",
+      "uz": "ancha, biroz",
+      "ru": "довольно, скорее",
+      "en": "To a certain degree; more precisely.",
+      "ex1": "I'd rather stay home tonight than go to the party.",
+      "ex2": "The weather is rather cold for this time of year.",
+      "word": "rather",
+      "example": "The exam was rather difficult, but most students passed."
+    },
+    {
+      "pos": "v.",
+      "uz": "tavsiya qilmoq",
+      "ru": "рекомендовать",
+      "en": "To suggest that someone should do or use something.",
+      "ex1": "The doctor recommended that she rest for a week.",
+      "ex2": "Can you recommend a good restaurant nearby?",
+      "word": "recommend",
+      "example": "I would recommend this book to anyone interested in history."
+    },
+    {
+      "pos": "v.",
+      "uz": "rad etmoq",
+      "ru": "отклонять, отвергать",
+      "en": "To refuse to accept or approve something.",
+      "ex1": "His application was rejected because of missing documents.",
+      "ex2": "She rejected the offer and decided to start her own business.",
+      "word": "reject",
+      "example": "The committee rejected the proposal due to lack of funding."
+    },
+    {
+      "pos": "v.",
+      "uz": "qayta yozmoq",
+      "ru": "переписывать",
+      "en": "To write something again in a different or improved way.",
+      "ex1": "He decided to rewrite the entire report from scratch.",
+      "ex2": "After feedback, she rewrote the first paragraph completely.",
+      "word": "rewrite",
+      "example": "The teacher asked the student to rewrite the essay more clearly."
+    },
+    {
+      "pos": "n.",
+      "uz": "xavfsizlik",
+      "ru": "безопасность",
+      "en": "The state of being protected from harm or danger.",
+      "ex1": "The company prioritises the safety of its employees.",
+      "ex2": "Wearing a helmet is important for your safety while cycling.",
+      "word": "safety",
+      "example": "Road safety is a major concern in urban areas."
+    },
+    {
+      "pos": "phrase",
+      "uz": "mamnun bo'lmoq",
+      "ru": "доволен чем-либо",
+      "en": "Pleased or content with something.",
+      "ex1": "Are you satisfied with the service you received?",
+      "ex2": "He was not fully satisfied with his performance.",
+      "word": "satisfied with",
+      "example": "She was satisfied with the results of her hard work."
+    },
+    {
+      "pos": "n.",
+      "uz": "jadval, reja",
+      "ru": "расписание, план",
+      "en": "A plan that shows when things will happen.",
+      "ex1": "She manages a very busy schedule every week.",
+      "ex2": "We need to adjust the schedule to meet the deadline.",
+      "word": "schedule",
+      "example": "The train schedule has been updated due to roadworks."
+    },
+    {
+      "pos": "adj.",
+      "uz": "muhim, sezilarli",
+      "ru": "значительный, существенный",
+      "en": "Important or large enough to have a noticeable effect.",
+      "ex1": "The discovery made a significant contribution to science.",
+      "ex2": "His absence had a significant impact on the team's performance.",
+      "word": "significant",
+      "example": "There has been a significant improvement in air quality."
+    },
+    {
+      "pos": "n.",
+      "uz": "manba",
+      "ru": "источник",
+      "en": "The place, person, or thing that something comes from.",
+      "ex1": "Please cite your sources at the end of the essay.",
+      "ex2": "Sunlight is the primary source of energy for plants.",
+      "word": "source",
+      "example": "The internet is a major source of information today."
+    },
+    {
+      "pos": "v.",
+      "uz": "qo'llab-quvvatlamoq",
+      "ru": "поддерживать (=соглашаться)",
+      "en": "To agree with and help promote an idea or person.",
+      "ex1": "Do you support the new school policy?",
+      "ex2": "She publicly supported the campaign for better public transport.",
+      "word": "support (=agree)",
+      "example": "Most of the class supported the idea of a class trip."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "chalg'itmoq, unutmoq",
+      "ru": "отвлечься от чего-либо",
+      "en": "To stop thinking about something by doing something else.",
+      "ex1": "He watched a film to take his mind off the stressful week.",
+      "ex2": "Listening to music helps me take my mind off worries.",
+      "word": "take one's mind off",
+      "example": "A short walk can help you take your mind off problems."
+    },
+    {
+      "pos": "idiom",
+      "uz": "ijodiy o'ylamoq",
+      "ru": "мыслить нестандартно",
+      "en": "To think in a creative and unconventional way.",
+      "ex1": "The project requires students to think outside the box.",
+      "ex2": "She always thinks outside the box when solving problems.",
+      "word": "think outside the box",
+      "example": "Good entrepreneurs know how to think outside the box."
+    },
+    {
+      "pos": "prep.",
+      "uz": "davomida",
+      "ru": "на протяжении (лет)",
+      "en": "During the whole period of something.",
+      "ex1": "She remained loyal to her team throughout the project.",
+      "ex2": "Throughout history, people have faced and overcome challenges.",
+      "word": "throughout (the years)",
+      "example": "The company has grown significantly throughout the years."
+    },
+    {
+      "pos": "conj.",
+      "uz": "qachon bo'lmasin",
+      "ru": "всякий раз, когда",
+      "en": "At any time or every time that something happens.",
+      "ex1": "You can call me whenever you need help.",
+      "ex2": "Whenever she sings, the whole room falls silent.",
+      "word": "whenever",
+      "example": "Whenever I feel stressed, I go for a walk."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Men ham butunlay roziman.",
+      "ru": "Полностью согласен.",
+      "en": "Used to strongly agree with what someone has said.",
+      "ex1": "When she said teamwork is essential, he said he couldn't agree more.",
+      "ex2": "I couldn't agree more with your point about the importance of reading.",
+      "word": "I couldn't agree more.",
+      "example": "'Learning a second language opens many doors.' 'I couldn't agree more.'"
+    }
+  ],
+  "p2": [
+    {
+      "pos": "v.",
+      "uz": "tartiblamoq, tashkil etmoq",
+      "ru": "организовывать, устраивать",
+      "en": "To plan or organise something in advance.",
+      "ex1": "Can you arrange a meeting for next Tuesday?",
+      "ex2": "He arranged all the books on the shelf alphabetically.",
+      "word": "arrange",
+      "example": "She arranged a surprise party for her friend's birthday."
+    },
+    {
+      "pos": "v.",
+      "uz": "oshirmoq, kuchaytirmoq",
+      "ru": "повышать, усиливать",
+      "en": "To increase or improve something.",
+      "ex1": "The new campaign boosted sales by 30%.",
+      "ex2": "Positive feedback can boost a student's confidence significantly.",
+      "word": "boost",
+      "example": "Exercise can boost your energy and mood."
+    },
+    {
+      "pos": "v.",
+      "uz": "hamkorlik qilmoq",
+      "ru": "сотрудничать",
+      "en": "To work together with others towards a shared goal.",
+      "ex1": "The two countries agreed to cooperate on environmental issues.",
+      "ex2": "Students cooperated well during the group presentation.",
+      "word": "cooperate",
+      "example": "All team members must cooperate to finish the project on time."
+    },
+    {
+      "pos": "n. phrase",
+      "uz": "tanqidiy fikrlash ko'nikmalari",
+      "ru": "навыки критического мышления",
+      "en": "The ability to analyse information carefully and make reasoned judgements.",
+      "ex1": "The course is designed to develop students' critical thinking skills.",
+      "ex2": "She used her critical thinking skills to evaluate the data.",
+      "word": "critical thinking skills",
+      "example": "Critical thinking skills are vital for success in higher education."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ekologik toza",
+      "ru": "экологически чистый",
+      "en": "Not harmful to the environment.",
+      "ex1": "The new packaging is eco-friendly and fully recyclable.",
+      "ex2": "They switched to eco-friendly transport to cut emissions.",
+      "word": "eco-friendly",
+      "example": "More people are choosing eco-friendly products to reduce pollution."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ta'limiy, marifatli",
+      "ru": "образовательный, познавательный",
+      "en": "Providing useful knowledge or information.",
+      "ex1": "The museum offers a range of educational programmes for children.",
+      "ex2": "She prefers educational games over simple entertainment apps.",
+      "word": "educational",
+      "example": "The documentary was both entertaining and educational."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qiziqarli, ko'ngilochar",
+      "ru": "развлекательный, занимательный",
+      "en": "Interesting and enjoyable to watch, listen to, or take part in.",
+      "ex1": "He is known for his entertaining lectures.",
+      "ex2": "The evening was entertaining thanks to the live music.",
+      "word": "entertaining",
+      "example": "The film was entertaining from start to finish."
+    },
+    {
+      "pos": "v.",
+      "uz": "hosil qilmoq, tashkil etmoq",
+      "ru": "формировать, образовывать",
+      "en": "To create or develop something, or to come together as a group.",
+      "ex1": "Ice forms when water temperature drops below zero.",
+      "ex2": "She helped form a new environmental club at school.",
+      "word": "form",
+      "example": "The students formed a study group before the exams."
+    },
+    {
+      "pos": "v.",
+      "uz": "muloqot qilmoq, o'zaro ta'sir ko'rsatmoq",
+      "ru": "взаимодействовать, общаться",
+      "en": "To communicate or work together with others.",
+      "ex1": "The app allows users to interact with each other in real time.",
+      "ex2": "She interacts confidently with both students and colleagues.",
+      "word": "interact",
+      "example": "Children learn social skills when they interact with their peers."
+    },
+    {
+      "pos": "n.",
+      "uz": "majburiyatlar",
+      "ru": "обязательства",
+      "en": "Things you are required or expected to do.",
+      "ex1": "He took his obligations to his team very seriously.",
+      "ex2": "Students must be aware of their obligations regarding attendance.",
+      "word": "obligations",
+      "example": "As a citizen, you have certain rights and obligations."
+    },
+    {
+      "pos": "adv.",
+      "uz": "ayniqsa",
+      "ru": "особенно, в особенности",
+      "en": "More than usual; especially.",
+      "ex1": "I particularly enjoyed the last chapter of the book.",
+      "ex2": "The weather was particularly cold this January.",
+      "word": "particularly",
+      "example": "She is particularly good at maths and science."
+    },
+    {
+      "pos": "v.",
+      "uz": "kamaytirmoq",
+      "ru": "уменьшать, снижать",
+      "en": "To make something smaller or less in size, amount, or degree.",
+      "ex1": "Regular exercise helps to reduce the risk of heart disease.",
+      "ex2": "The company reduced its prices to attract more customers.",
+      "word": "reduce",
+      "example": "We should reduce the amount of plastic we use every day."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qoniqarli, mamnuniyat baxsh etuvchi",
+      "ru": "удовлетворяющий, приятный",
+      "en": "Giving a sense of pleasure or fulfilment.",
+      "ex1": "It is satisfying to finish a project you have worked hard on.",
+      "ex2": "She found her new job far more satisfying than the previous one.",
+      "word": "satisfying",
+      "example": "Helping others can be one of the most satisfying experiences."
+    },
+    {
+      "pos": "v.",
+      "uz": "muloqotda bo'lmoq, odamlar bilan suhbatlashmoq",
+      "ru": "общаться, социализироваться",
+      "en": "To spend time with other people in a friendly and relaxed way.",
+      "ex1": "She loves to socialise with her colleagues after work.",
+      "ex2": "Moving to a new city can make it harder to socialise at first.",
+      "word": "socialise",
+      "example": "It's important to socialise regularly to maintain good mental health."
+    },
+    {
+      "pos": "adv.",
+      "uz": "maxsus ravishda, aniq",
+      "ru": "специально, конкретно",
+      "en": "For a particular purpose or in a precise way.",
+      "ex1": "I specifically asked for a window seat on the flight.",
+      "ex2": "The rules apply specifically to students in Year 10 and above.",
+      "word": "specifically",
+      "example": "The course is designed specifically for advanced learners."
+    },
+    {
+      "pos": "phrase",
+      "uz": "menga yoqadi / qiziqtiradi",
+      "ru": "что-то привлекает меня",
+      "en": "Something interests or attracts you.",
+      "ex1": "Outdoor adventures appeal to him more than indoor activities.",
+      "ex2": "The design of the new phone appeals to young consumers.",
+      "word": "sth appeals to me",
+      "example": "The idea of studying abroad really appeals to me."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Masalan, ...",
+      "ru": "Например, ...",
+      "en": "Used to give an example of what you have just said.",
+      "ex1": "There are many benefits to learning English. For instance, it improves job prospects.",
+      "ex2": "You can improve your health in simple ways. For instance, drink more water every day.",
+      "word": "For instance, ...",
+      "example": "Many cities have reduced pollution. For instance, Oslo banned diesel cars."
+    }
+  ]
+}

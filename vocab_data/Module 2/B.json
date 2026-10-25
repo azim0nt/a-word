@@ -1,0 +1,1310 @@
+{
+  "p1": [
+    {
+      "pos": "v.",
+      "uz": "yaqinlashmoq",
+      "ru": "приближаться, подходить",
+      "en": "To come near or nearer to someone or something.",
+      "ex1": "He approached the shore slowly, not wanting to make a sound.",
+      "ex2": "A strange shadow approached them from the darkness.",
+      "word": "approach",
+      "example": "She approached the cottage carefully in the moonlight."
+    },
+    {
+      "pos": "idiom",
+      "uz": "mutlaqo xotirjam",
+      "ru": "спокойный как удав, невозмутимый",
+      "en": "Completely calm and relaxed, even in a stressful situation.",
+      "ex1": "He gave his speech as cool as a cucumber, without any nerves.",
+      "ex2": "While everyone panicked, she stood there as cool as a cucumber.",
+      "word": "as cool as a cucumber",
+      "example": "Despite the emergency, she remained as cool as a cucumber."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xabardor, biladigan",
+      "ru": "осведомлённый, знающий",
+      "en": "Knowing that something exists or is happening.",
+      "ex1": "Are you aware of the emergency services number?",
+      "ex2": "He became aware of someone watching him in silence.",
+      "word": "aware",
+      "example": "She was aware of the strange shadow drifting near the shore."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hayron qolgan, chalg'igan",
+      "ru": "озадаченный, сбитый с толку",
+      "en": "Completely confused and unable to understand something.",
+      "ex1": "The police were baffled by the lack of evidence.",
+      "ex2": "He looked baffled when she pointed to the rope near the oar.",
+      "word": "baffled",
+      "example": "She was baffled by the peculiar noise coming from the cottage."
+    },
+    {
+      "pos": "idiom",
+      "uz": "yengillik bilan nafas olmoq",
+      "ru": "вздохнуть с облегчением",
+      "en": "To feel relieved after a stressful or worrying situation ends.",
+      "ex1": "He breathed a sigh of relief after confirming everyone was safe.",
+      "ex2": "They breathed a sigh of relief when the emergency services arrived.",
+      "word": "breathe a sigh of relief",
+      "example": "She breathed a sigh of relief when she finally reached the shore."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "tasodifan topmoq, duch kelmoq",
+      "ru": "наткнуться, встретить случайно",
+      "en": "To find or meet something or someone by chance.",
+      "ex1": "She came across a peculiar seal near the rocks.",
+      "ex2": "They came across a remote village while drifting along the coast.",
+      "word": "come across",
+      "example": "He came across an old rope and lifebelt near the cottage."
+    },
+    {
+      "pos": "v.",
+      "uz": "tasdiqlаmoq",
+      "ru": "подтверждать",
+      "en": "To make sure that something is definitely true or correct.",
+      "ex1": "He confirmed the identity of the person by the moonlight.",
+      "ex2": "Can you confirm what you saw near the shore?",
+      "word": "confirm",
+      "example": "She called to confirm that the emergency services were on their way."
+    },
+    {
+      "pos": "adj.",
+      "uz": "chalg'igan, tushunmagan",
+      "ru": "растерянный, запутавшийся",
+      "en": "Unable to understand something clearly.",
+      "ex1": "She felt confused when she saw the rope untied.",
+      "ex2": "The baffled and confused crew muttered to each other in silence.",
+      "word": "confused",
+      "example": "He was confused by the shadow drifting silently past the oar."
+    },
+    {
+      "pos": "n.",
+      "uz": "kichik uy, qishloq uyi",
+      "ru": "коттедж, домик",
+      "en": "A small, simple house, usually in the countryside.",
+      "ex1": "She gazed at the moonlit cottage from the water.",
+      "ex2": "The pale light coming from the cottage guided them to safety.",
+      "word": "cottage",
+      "example": "They found shelter in a remote cottage near the shore."
+    },
+    {
+      "pos": "n.",
+      "uz": "jasurlik, botirlik",
+      "ru": "смелость, мужество",
+      "en": "The ability to do something difficult or dangerous without fear.",
+      "ex1": "She showed great courage by diving into the cold water.",
+      "ex2": "He summoned all his courage before approaching the shadow.",
+      "word": "courage",
+      "example": "It took a lot of courage to drift alone in the dark."
+    },
+    {
+      "pos": "v.",
+      "uz": "qichqirmoq",
+      "ru": "кричать, восклицать",
+      "en": "To shout or call out loudly.",
+      "ex1": "He cried for help, but nobody heard him in the silence.",
+      "ex2": "They cried out when they saw the lifebelt floating near the shore.",
+      "word": "cry (=shout)",
+      "example": "She cried out as the boat began to slide toward the rocks."
+    },
+    {
+      "pos": "n.",
+      "uz": "tong, tongotар",
+      "ru": "рассвет",
+      "en": "The time of day when light first appears in the sky.",
+      "ex1": "They waited in silence until dawn before making a move.",
+      "ex2": "The pale light of dawn revealed the remote cottage on the hill.",
+      "word": "dawn",
+      "example": "By dawn, the boat had drifted far from the shore."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "siljib ketmoq, oqib ketmoq",
+      "ru": "уплывать, сноситься течением",
+      "en": "To be carried slowly by water or wind.",
+      "ex1": "He watched the oar drift silently away in the moonlight.",
+      "ex2": "They drifted out without realising how far they had gone.",
+      "word": "drift (out)",
+      "example": "The boat began to drift out toward the open sea."
+    },
+    {
+      "pos": "n.",
+      "uz": "favqulodda xizmatlar",
+      "ru": "экстренные службы",
+      "en": "Police, fire brigade, and ambulance services that respond to crises.",
+      "ex1": "The emergency services arrived within minutes of the call.",
+      "ex2": "He confirmed that the emergency services had been contacted.",
+      "word": "emergency services",
+      "example": "She called the emergency services as soon as she saw the danger."
+    },
+    {
+      "pos": "v.",
+      "uz": "suzmoq, qalqib yurmoq",
+      "ru": "плавать на поверхности, парить",
+      "en": "To rest or move on the surface of water without sinking.",
+      "ex1": "She watched the rope float away as the boat drifted out.",
+      "ex2": "A pale shadow floated silently across the surface of the water.",
+      "word": "float",
+      "example": "The lifebelt floated near the shore in the moonlight."
+    },
+    {
+      "pos": "v.",
+      "uz": "uzoq tikilib qarаmoq",
+      "ru": "пристально смотреть, глядеть",
+      "en": "To look steadily at something for a long time.",
+      "ex1": "He stood on the shore, gazing at the distant cottage.",
+      "ex2": "They gazed in silence as the seal disappeared into the water.",
+      "word": "gaze",
+      "example": "She gazed at the moonlight reflecting on the water."
+    },
+    {
+      "pos": "v.",
+      "uz": "aniqlаmoq, tanib olmoq",
+      "ru": "определять, опознавать",
+      "en": "To recognise and name someone or something.",
+      "ex1": "He identified the rope as the one they had untied earlier.",
+      "ex2": "The emergency services were able to identify the drifting boat.",
+      "word": "identify",
+      "example": "She struggled to identify the shadow in the pale moonlight."
+    },
+    {
+      "pos": "phrase",
+      "uz": "jimlikda, indamay",
+      "ru": "в тишине, молча",
+      "en": "Without making any sound; quietly.",
+      "ex1": "She sat in silence, gazing at the moonlit shore.",
+      "ex2": "He approached the cottage in silence so as not to be heard.",
+      "word": "in silence",
+      "example": "They rowed in silence, listening for any strange sound."
+    },
+    {
+      "pos": "n.",
+      "uz": "linza, ko'zoynak shishi",
+      "ru": "линза, объектив",
+      "en": "A curved piece of glass used in cameras or glasses to focus light.",
+      "ex1": "He looked through the lens to identify the shape on the shore.",
+      "ex2": "The camera lens captured the moonlight reflecting on the water.",
+      "word": "lens",
+      "example": "She pressed the lens of her camera against the window."
+    },
+    {
+      "pos": "n.",
+      "uz": "qutqaruv halqasi",
+      "ru": "спасательный круг",
+      "en": "A ring-shaped device thrown to someone in water to help them float.",
+      "ex1": "A lifebelt was tied to the rope near the shore.",
+      "ex2": "She was relieved to see the lifebelt floating close by.",
+      "word": "lifebelt",
+      "example": "He grabbed the lifebelt and threw it toward the drifting boat."
+    },
+    {
+      "pos": "n.",
+      "uz": "oy nuri",
+      "ru": "лунный свет",
+      "en": "The light from the moon at night.",
+      "ex1": "She could just make out the oar in the moonlight.",
+      "ex2": "By moonlight, they could see a shadow drifting near the shore.",
+      "word": "moonlight",
+      "example": "The cottage looked eerie in the pale moonlight."
+    },
+    {
+      "pos": "v.",
+      "uz": "g'o'ldiramoq, shivirlаmoq",
+      "ru": "бормотать, мямлить",
+      "en": "To speak quietly and unclearly, often when annoyed or thinking.",
+      "ex1": "She muttered to herself as she untied the rope in the dark.",
+      "ex2": "They muttered to each other in silence, unsure what to do.",
+      "word": "mutter",
+      "example": "He muttered something confused under his breath."
+    },
+    {
+      "pos": "n.",
+      "uz": "eshkak",
+      "ru": "весло",
+      "en": "A long pole with a flat blade used to row a boat.",
+      "ex1": "She gripped the oar tightly as the boat drifted out.",
+      "ex2": "He used the oar to push away from the shore.",
+      "word": "oar",
+      "example": "One of the oars had slipped into the water during the night."
+    },
+    {
+      "pos": "adj.",
+      "uz": "oqargan, rangpar",
+      "ru": "бледный",
+      "en": "Light in colour; or looking white due to illness or shock.",
+      "ex1": "The pale moonlight made the shore look ghostly.",
+      "ex2": "He looked pale and tense as the boat drifted further out.",
+      "word": "pale",
+      "example": "Her face went pale when she saw the shadow near the cottage."
+    },
+    {
+      "pos": "adj.",
+      "uz": "g'alati, qo'rqinchli",
+      "ru": "странный, необычный",
+      "en": "Strange or unusual in a way that is hard to explain.",
+      "ex1": "She noticed a peculiar shape floating near the lifebelt.",
+      "ex2": "He had a peculiar feeling that someone was watching them.",
+      "word": "peculiar",
+      "example": "There was a peculiar silence over the water at dawn."
+    },
+    {
+      "pos": "v.",
+      "uz": "sinchiklab qarаmoq",
+      "ru": "всматриваться, вглядываться",
+      "en": "To look carefully at something, especially when it is hard to see.",
+      "ex1": "He peered into the darkness, trying to identify the shape.",
+      "ex2": "They peered through the fog, searching for the cottage.",
+      "word": "peer",
+      "example": "She peered through the lens at the shadow on the shore."
+    },
+    {
+      "pos": "v.",
+      "uz": "ko'ndirmoq, ishontirmoq",
+      "ru": "убеждать, уговаривать",
+      "en": "To convince someone to do something through reasoning or argument.",
+      "ex1": "He persuaded the others not to drift any further out.",
+      "ex2": "It took courage to persuade the group to call the emergency services.",
+      "word": "persuade",
+      "example": "She persuaded him to stay close to the shore."
+    },
+    {
+      "pos": "v.",
+      "uz": "isbotlamoq",
+      "ru": "доказывать",
+      "en": "To show that something is definitely true.",
+      "ex1": "He proved that the rope had been deliberately untied.",
+      "ex2": "It was hard to prove what had happened in the darkness.",
+      "word": "prove",
+      "example": "She had to prove that the shadow near the shore was real."
+    },
+    {
+      "pos": "adj.",
+      "uz": "uzoq, yolg'iz",
+      "ru": "отдалённый, изолированный",
+      "en": "Far away from towns and other people; isolated.",
+      "ex1": "They found themselves on a remote part of the shore.",
+      "ex2": "Help was hard to reach in such a remote place.",
+      "word": "remote",
+      "example": "The cottage was in a remote location, far from any road."
+    },
+    {
+      "pos": "n.",
+      "uz": "arqon",
+      "ru": "верёвка, канат",
+      "en": "A thick, strong cord made of twisted fibres.",
+      "ex1": "She used the rope to pull the lifebelt toward the shore.",
+      "ex2": "He held the rope tightly as the boat began to drift out.",
+      "word": "rope",
+      "example": "The rope that had tied the boat had been untied."
+    },
+    {
+      "pos": "v.",
+      "uz": "shoshmoq, yugurmoq",
+      "ru": "мчаться, бросаться",
+      "en": "To move or act very quickly.",
+      "ex1": "He rushed to call the emergency services.",
+      "ex2": "They rushed out of the cottage when they heard the cry.",
+      "word": "rush",
+      "example": "She rushed to the shore as soon as she saw the boat drifting."
+    },
+    {
+      "pos": "n.",
+      "uz": "muhr baliq (dengiz hayvoni)",
+      "ru": "тюлень",
+      "en": "A large sea animal with flippers that lives near coasts.",
+      "ex1": "She peered through the lens and saw a seal floating nearby.",
+      "ex2": "The pale shape turned out to be a seal, not a shadow.",
+      "word": "seal",
+      "example": "A seal was resting silently on the rocks near the shore."
+    },
+    {
+      "pos": "n.",
+      "uz": "soya",
+      "ru": "тень",
+      "en": "A dark shape made when something blocks light.",
+      "ex1": "She peered at the shadow near the cottage but couldn't identify it.",
+      "ex2": "The shadow gave her a tense, uneasy feeling.",
+      "word": "shadow",
+      "example": "A large shadow drifted across the moonlit water."
+    },
+    {
+      "pos": "v.",
+      "uz": "titramоq, qaltiramoq",
+      "ru": "дрожать (от холода или страха)",
+      "en": "To shake slightly because of cold or fear.",
+      "ex1": "He shivered as the cold air drifted in from the shore.",
+      "ex2": "They shivered in silence, listening for any strange sound.",
+      "word": "shiver",
+      "example": "She shivered in the pale moonlight, gripping the oar."
+    },
+    {
+      "pos": "n.",
+      "uz": "qirg'оq",
+      "ru": "берег",
+      "en": "The land along the edge of a sea, lake, or river.",
+      "ex1": "She could see the pale outline of the cottage from the shore.",
+      "ex2": "The lifebelt washed up on the shore at dawn.",
+      "word": "shore",
+      "example": "They rowed toward the shore as quickly as they could."
+    },
+    {
+      "pos": "v.",
+      "uz": "sirpanmoq",
+      "ru": "скользить",
+      "en": "To move smoothly along a surface.",
+      "ex1": "She slid the rope carefully under the lifebelt.",
+      "ex2": "The boat began to slide toward the rocks in the darkness.",
+      "word": "slide",
+      "example": "The oar slid off the side of the boat into the water."
+    },
+    {
+      "pos": "v.",
+      "uz": "sirpanib ketmoq, yiqilmoq",
+      "ru": "поскользнуться, выскользнуть",
+      "en": "To lose balance and slide accidentally.",
+      "ex1": "The rope slipped out of his hands as the boat drifted out.",
+      "ex2": "He slipped trying to tiptoe away from the cottage.",
+      "word": "slip",
+      "example": "She slipped on the wet rocks near the shore."
+    },
+    {
+      "pos": "v.",
+      "uz": "tikilib qаramoq",
+      "ru": "пристально смотреть, уставиться",
+      "en": "To look at something for a long time without moving your eyes.",
+      "ex1": "He stared in silence at the moonlight on the water.",
+      "ex2": "They stared at the drifting boat, baffled by what was happening.",
+      "word": "stare",
+      "example": "She stared at the shadow near the shore, unable to identify it."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ta'sirchan, tarang",
+      "ru": "напряжённый, тревожный",
+      "en": "Feeling nervous or unable to relax because of worry.",
+      "ex1": "She felt tense as the shadow drifted closer.",
+      "ex2": "He looked pale and tense, clutching the rope tightly.",
+      "word": "tense",
+      "example": "The atmosphere in the cottage was tense and silent."
+    },
+    {
+      "pos": "v.",
+      "uz": "oyoq uchida yurmoq",
+      "ru": "ходить на цыпочках",
+      "en": "To walk quietly on the tips of your toes to avoid making noise.",
+      "ex1": "He tiptoed to the shore, trying not to slip on the wet rocks.",
+      "ex2": "They tiptoed in silence, unsure what lay ahead.",
+      "word": "tiptoe",
+      "example": "She tiptoed past the cottage to avoid waking anyone."
+    },
+    {
+      "pos": "v.",
+      "uz": "qoqilib ketmoq",
+      "ru": "споткнуться",
+      "en": "To catch your foot on something and nearly fall.",
+      "ex1": "She tripped trying to rush toward the shore.",
+      "ex2": "Be careful not to trip on the oar lying on the deck.",
+      "word": "trip",
+      "example": "He tripped over the rope in the dark and nearly fell."
+    },
+    {
+      "pos": "v.",
+      "uz": "echmoq, bo'shashtirmoq",
+      "ru": "развязывать, отвязывать",
+      "en": "To undo a knot or release something that was tied.",
+      "ex1": "She untied the lifebelt from the side of the boat.",
+      "ex2": "He untied the rope and let the boat drift out slowly.",
+      "word": "untie",
+      "example": "Someone had untied the rope during the night."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ko'rinadigan, ko'zga tashlanadigan",
+      "ru": "видимый, заметный",
+      "en": "Able to be seen.",
+      "ex1": "The shadow was barely visible in the moonlight.",
+      "ex2": "By dawn, the shore was clearly visible from the boat.",
+      "word": "visible",
+      "example": "The pale cottage was just visible through the fog."
+    },
+    {
+      "pos": "v.",
+      "uz": "shivirlаmoq",
+      "ru": "шептать",
+      "en": "To speak very quietly so only the person next to you can hear.",
+      "ex1": "He whispered to confirm that the rope had been untied.",
+      "ex2": "They whispered to each other as they tiptoed past the cottage.",
+      "word": "whisper",
+      "example": "She whispered his name so as not to disturb the silence."
+    },
+    {
+      "pos": "v.",
+      "uz": "baqirmoq, qichqirmoq",
+      "ru": "кричать, орать",
+      "en": "To shout very loudly.",
+      "ex1": "She yelled at him to grab the lifebelt.",
+      "ex2": "They yelled into the darkness but heard no reply.",
+      "word": "yell",
+      "example": "He yelled for help when the boat began to drift out."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "phrase",
+      "uz": "nafasi qaytimoq, hansirab qolmoq",
+      "ru": "запыхаться, быть без дыхания",
+      "en": "To have difficulty breathing after physical effort.",
+      "ex1": "He was out of breath after rushing to call the emergency services.",
+      "ex2": "They were out of breath by the time they reached the cottage.",
+      "word": "be out of breath",
+      "example": "She arrived at the shore out of breath after running."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hushida, ongida",
+      "ru": "в сознании, осознающий",
+      "en": "Awake and aware of your surroundings; not unconscious.",
+      "ex1": "She remained conscious throughout, despite the shock.",
+      "ex2": "The researcher confirmed the patient was fully conscious.",
+      "word": "conscious",
+      "example": "He was conscious but pale after the accident on the shore."
+    },
+    {
+      "pos": "v.",
+      "uz": "tekshirmoq, ko'rikdan o'tkazmoq",
+      "ru": "осматривать, исследовать",
+      "en": "To look at something carefully or check it thoroughly.",
+      "ex1": "She examined the rope carefully to see if it had been cut.",
+      "ex2": "He examined the scene in silence before speaking.",
+      "word": "examine",
+      "example": "The doctor examined his injured leg after the fall."
+    },
+    {
+      "pos": "v.",
+      "uz": "hushini yo'qotmoq, esankirаmoq",
+      "ru": "потерять сознание, упасть в обморок",
+      "en": "To suddenly lose consciousness for a short time.",
+      "ex1": "He nearly fainted from exhaustion after the long swim.",
+      "ex2": "The tense atmosphere made her feel like she might faint.",
+      "word": "faint",
+      "example": "She fainted when she saw the blood on the shore."
+    },
+    {
+      "pos": "v.",
+      "uz": "tez bir qarаmoq",
+      "ru": "бросить взгляд, мельком посмотреть",
+      "en": "To look quickly at something.",
+      "ex1": "He glanced at the shore and then back at the drifting boat.",
+      "ex2": "She glanced at him and raised her eyebrows in surprise.",
+      "word": "glance (at)",
+      "example": "She glanced at the rope and immediately knew something was wrong."
+    },
+    {
+      "pos": "v.",
+      "uz": "bosh irg'amoq (ha deb)",
+      "ru": "кивать",
+      "en": "To move your head up and down to show agreement or acknowledgement.",
+      "ex1": "She nodded slowly, confirming she understood.",
+      "ex2": "The researcher nodded and made a note in his book.",
+      "word": "nod",
+      "example": "He nodded when she asked if he had seen the shadow."
+    },
+    {
+      "pos": "v.",
+      "uz": "kuzatmoq, ko'rmoq",
+      "ru": "наблюдать, замечать",
+      "en": "To watch something carefully or notice it.",
+      "ex1": "He observed that the rope had been untied from the boat.",
+      "ex2": "The researcher spent hours observing behaviour near the shore.",
+      "word": "observe",
+      "example": "She observed the seal from a distance through the lens."
+    },
+    {
+      "pos": "v.",
+      "uz": "yuz bermoq, sodir bo'lmoq",
+      "ru": "происходить, случаться",
+      "en": "To happen, especially unexpectedly.",
+      "ex1": "It never occurred to her that someone had untied the rope.",
+      "ex2": "Strange events had been occurring near the remote cottage.",
+      "word": "occur",
+      "example": "The accident occurred just as dawn was breaking."
+    },
+    {
+      "pos": "n.",
+      "uz": "benzin",
+      "ru": "бензин",
+      "en": "A liquid fuel used in cars and other vehicles.",
+      "ex1": "She could smell petrol near the overturned vehicle.",
+      "ex2": "He shrugged his shoulders when asked why they had no petrol.",
+      "word": "petrol",
+      "example": "They ran out of petrol far from the nearest town."
+    },
+    {
+      "pos": "phrase",
+      "uz": "qoshini ko'tarmoq (hayratlanish belgisi)",
+      "ru": "поднять брови (выразить удивление)",
+      "en": "To move your eyebrows upward to show surprise or disbelief.",
+      "ex1": "He raised his eyebrows at the mention of the remote cottage.",
+      "ex2": "The researcher raised his eyebrows at the unexpected results.",
+      "word": "raise one's eyebrows",
+      "example": "She raised her eyebrows when he described the peculiar shadow."
+    },
+    {
+      "pos": "n.",
+      "uz": "tadqiqotchi",
+      "ru": "исследователь",
+      "en": "A person who studies something in detail to find out new information.",
+      "ex1": "The researcher examined the evidence carefully.",
+      "ex2": "She had worked as a researcher for many years before the expedition.",
+      "word": "researcher",
+      "example": "A researcher was observing wildlife near the shore."
+    },
+    {
+      "pos": "n.",
+      "uz": "manzara, tabiiy ko'rinish",
+      "ru": "пейзаж, природный вид",
+      "en": "The natural features of a landscape, especially when beautiful.",
+      "ex1": "She paused to take in the dramatic scenery at dawn.",
+      "ex2": "The remote cottage was surrounded by stunning mountain scenery.",
+      "word": "scenery",
+      "example": "The scenery along the coast was absolutely breathtaking."
+    },
+    {
+      "pos": "phrase",
+      "uz": "boshini chayqamoq (yo'q deb)",
+      "ru": "покачать головой (знак отрицания)",
+      "en": "To move your head from side to side to show disagreement or disbelief.",
+      "ex1": "She shook her head and muttered something under her breath.",
+      "ex2": "The researcher shook his head at the confusing data.",
+      "word": "shake one's head",
+      "example": "He shook his head when asked if he had heard the yell."
+    },
+    {
+      "pos": "phrase",
+      "uz": "yelkasini qimirlаtmoq (bilmayman deb)",
+      "ru": "пожать плечами",
+      "en": "To raise and then lower your shoulders to show you don't know or don't care.",
+      "ex1": "She shrugged her shoulders and glanced at the shore.",
+      "ex2": "The baffled researcher shrugged his shoulders at the peculiar result.",
+      "word": "shrug one's shoulders",
+      "example": "He shrugged his shoulders when asked about the untied rope."
+    },
+    {
+      "pos": "v.",
+      "uz": "uhlаmoq, oh tortmoq",
+      "ru": "вздыхать",
+      "en": "To breathe out slowly and audibly, showing tiredness, relief, or sadness.",
+      "ex1": "He sighed and shook his head at the confusing scene.",
+      "ex2": "They both sighed when they finally saw the shore in the distance.",
+      "word": "sigh",
+      "example": "She sighed with relief when the emergency services arrived."
+    },
+    {
+      "pos": "v.",
+      "uz": "sekin yurmoq, sayr qilmoq",
+      "ru": "прогуливаться, идти не спеша",
+      "en": "To walk in a slow and relaxed way.",
+      "ex1": "She strolled past the cottage without stopping.",
+      "ex2": "He strolled toward the trail, observing the landscape.",
+      "word": "stroll",
+      "example": "They strolled along the shore at dawn, taking in the scenery."
+    },
+    {
+      "pos": "n.",
+      "uz": "so'qmoq, yo'l izi",
+      "ru": "тропинка, след",
+      "en": "A path through countryside or a series of marks left by someone.",
+      "ex1": "A researcher was following the trail left by the animal.",
+      "ex2": "The trail led down to the shore where the lifebelt had been found.",
+      "word": "trail",
+      "example": "They followed the trail through the forest toward the remote cottage."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "tushmoq, pasaymoq",
+      "ru": "спускаться, снижаться",
+      "en": "To move from a higher to a lower place; or for prices/levels to fall.",
+      "ex1": "Temperatures came down sharply at dawn.",
+      "ex2": "She came down the slope toward the shore carefully.",
+      "word": "come down",
+      "example": "The fog came down quickly, making the shore almost invisible."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "kasallanib qolmoq",
+      "ru": "заболеть чем-либо",
+      "en": "To become ill with something.",
+      "ex1": "She came down with fever the day after the accident.",
+      "ex2": "Half the crew came down with food poisoning.",
+      "word": "come down with",
+      "example": "He came down with a cold after drifting in the cold water."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "chiqmoq, ma'lum bo'lmoq",
+      "ru": "выходить, выясняться",
+      "en": "To appear or become known.",
+      "ex1": "The sun came out just as they reached the shore.",
+      "ex2": "Details of the accident came out slowly over the following days.",
+      "word": "come out",
+      "example": "The truth came out when the researcher examined the rope."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "hushiga kelmoq; fikr o'zgartirmoq",
+      "ru": "прийти в сознание; изменить мнение",
+      "en": "To regain consciousness; or to change your opinion.",
+      "ex1": "It took a while but he finally came round to the idea.",
+      "ex2": "The doctor was relieved when the patient came round.",
+      "word": "come round",
+      "example": "She came round a few minutes after fainting on the shore."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ko'tarilmoq; gapga chiqmoq",
+      "ru": "подниматься; возникать (о теме)",
+      "en": "To arise or be mentioned; to move upward.",
+      "ex1": "An unexpected problem came up just as they reached the shore.",
+      "ex2": "His name came up when the researcher examined the evidence.",
+      "word": "come up",
+      "example": "The issue of the untied rope came up during the investigation."
+    },
+    {
+      "pos": "simile",
+      "uz": "sher kabi jasur",
+      "ru": "храбрый как лев",
+      "en": "Extremely brave and courageous.",
+      "ex1": "Despite his fear, he acted as brave as a lion.",
+      "ex2": "The rescue swimmer was as brave as a lion during the emergency.",
+      "word": "as brave as a lion",
+      "example": "She was as brave as a lion when she dived into the dark water."
+    },
+    {
+      "pos": "simile",
+      "uz": "ari kabi band",
+      "ru": "занятой как пчела",
+      "en": "Extremely busy and active.",
+      "ex1": "He is always as busy as a bee — never a moment to rest.",
+      "ex2": "The researcher was as busy as a bee gathering data.",
+      "word": "as busy as a bee",
+      "example": "She was as busy as a bee preparing for the expedition."
+    },
+    {
+      "pos": "simile",
+      "uz": "qush kabi ozod",
+      "ru": "свободный как птица",
+      "en": "Completely free, with no restrictions or worries.",
+      "ex1": "He strolled along the shore feeling as free as a bird.",
+      "ex2": "Children on summer holidays feel as free as a bird.",
+      "word": "as free as a bird",
+      "example": "After finishing the project, she felt as free as a bird."
+    },
+    {
+      "pos": "simile",
+      "uz": "bo'ri kabi och",
+      "ru": "голодный как волк",
+      "en": "Extremely hungry.",
+      "ex1": "He arrived home as hungry as a wolf after the long trail.",
+      "ex2": "She skipped lunch and was as hungry as a wolf by evening.",
+      "word": "as hungry as a wolf",
+      "example": "After drifting for hours, they were as hungry as wolves."
+    },
+    {
+      "pos": "simile",
+      "uz": "pat kabi yengil",
+      "ru": "лёгкий как пёрышко",
+      "en": "Very light in weight.",
+      "ex1": "She carried the bag as if it were as light as a feather.",
+      "ex2": "He was exhausted but said the pack felt as light as a feather.",
+      "word": "as light as a feather",
+      "example": "The lifebelt felt as light as a feather when he threw it."
+    },
+    {
+      "pos": "simile",
+      "uz": "sichqon kabi jim",
+      "ru": "тихий как мышь",
+      "en": "Making no noise at all; very quiet.",
+      "ex1": "The children sat as quiet as mice during the story.",
+      "ex2": "He tiptoed along the trail, as quiet as a mouse.",
+      "word": "as quiet as a mouse",
+      "example": "She crept past the cottage as quiet as a mouse."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "v.",
+      "uz": "ta'sir qilmoq",
+      "ru": "влиять, воздействовать",
+      "en": "To have an influence on someone or something.",
+      "ex1": "Severe weather can affect travel plans significantly.",
+      "ex2": "The heatwave affected the entire country for weeks.",
+      "word": "affect",
+      "example": "The drought affected crop production across the region."
+    },
+    {
+      "pos": "adj.",
+      "uz": "jozibali, maftunkor",
+      "ru": "привлекательный, заманчивый",
+      "en": "Attractive or interesting.",
+      "ex1": "A warm shower after a freezing cold walk is very appealing.",
+      "ex2": "She found the idea of a peaceful holiday extremely appealing.",
+      "word": "appealing",
+      "example": "The cosy cottage in the misty landscape looked very appealing."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'chki",
+      "ru": "лавина",
+      "en": "A large mass of snow and ice falling rapidly down a mountain.",
+      "ex1": "Hikers were warned about the risk of an avalanche.",
+      "ex2": "A severe blizzard can trigger an avalanche on steep slopes.",
+      "word": "avalanche",
+      "example": "The avalanche blocked the entire slope below the village."
+    },
+    {
+      "pos": "n.",
+      "uz": "bo'ron, qor bo'roni",
+      "ru": "метель, буран",
+      "en": "A severe snowstorm with strong winds.",
+      "ex1": "They were stuck indoors for days during the blizzard.",
+      "ex2": "The blizzard caused a breakdown in road transport.",
+      "word": "blizzard",
+      "example": "A blizzard made the entire landscape invisible."
+    },
+    {
+      "pos": "adj.",
+      "uz": "juda issiq, qaynayotgan darajada issiq",
+      "ru": "невыносимо жарко",
+      "en": "Extremely hot.",
+      "ex1": "She stayed in the shade because it was boiling hot outside.",
+      "ex2": "The cosy cottage felt boiling hot in the summer sun.",
+      "word": "boiling hot",
+      "example": "It was boiling hot during the heatwave."
+    },
+    {
+      "pos": "n.",
+      "uz": "yaqinlashuv, munosabatlarni mustahkamlash",
+      "ru": "сближение, укрепление связей",
+      "en": "The process of forming a close emotional connection with others.",
+      "ex1": "Family bonding is important during shared experiences.",
+      "ex2": "Surviving the blizzard together created a strong sense of bonding.",
+      "word": "bonding",
+      "example": "The camping trip was great for bonding with the team."
+    },
+    {
+      "pos": "n.",
+      "uz": "nosozlik, to'xtab qolish",
+      "ru": "поломка, сбой",
+      "en": "A failure of a vehicle, machine, or system to work.",
+      "ex1": "A breakdown in communication caused the delay.",
+      "ex2": "The severe fog led to a breakdown in transport services.",
+      "word": "breakdown",
+      "example": "Their car had a breakdown in the middle of a downpour."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qulay, iliq",
+      "ru": "уютный, тёплый",
+      "en": "Comfortable, warm, and relaxing.",
+      "ex1": "The warm fire made the room feel cosy and inviting.",
+      "ex2": "She found the small cafe very cosy on a damp day.",
+      "word": "cosy",
+      "example": "They sat in the cosy cottage while the blizzard raged outside."
+    },
+    {
+      "pos": "adj.",
+      "uz": "nam, ho'l",
+      "ru": "влажный, сырой",
+      "en": "Slightly wet, often in an unpleasant way.",
+      "ex1": "Her clothes were damp after walking through the mist.",
+      "ex2": "The damp air near the shore made the cold feel worse.",
+      "word": "damp",
+      "example": "The damp fog made everything feel cold and heavy."
+    },
+    {
+      "pos": "n.",
+      "uz": "jala, qattiq yomg'ir",
+      "ru": "ливень",
+      "en": "A heavy and sudden fall of rain.",
+      "ex1": "They ran for shelter as the downpour began.",
+      "ex2": "The downpour lasted for hours, causing flooding in low areas.",
+      "word": "downpour",
+      "example": "A sudden downpour ruined their outdoor plans."
+    },
+    {
+      "pos": "n.",
+      "uz": "qurg'oqchilik",
+      "ru": "засуха",
+      "en": "A long period of time with very little or no rain.",
+      "ex1": "Farmers struggled to grow crops during the severe drought.",
+      "ex2": "A heatwave often leads to a drought in warmer regions.",
+      "word": "drought",
+      "example": "The drought left the entire landscape dry and dusty."
+    },
+    {
+      "pos": "adj.",
+      "uz": "butun, to'liq",
+      "ru": "весь, целый",
+      "en": "Including everything or everyone; whole.",
+      "ex1": "She spent the entire day inside because of the downpour.",
+      "ex2": "The drought affected the entire region for months.",
+      "word": "entire",
+      "example": "The entire landscape was covered in snow after the blizzard."
+    },
+    {
+      "pos": "n.",
+      "uz": "tuman",
+      "ru": "туман",
+      "en": "Thick cloud at ground level that makes it hard to see.",
+      "ex1": "The fog was so thick that the cottage was barely visible.",
+      "ex2": "Drivers were warned to slow down due to the morning fog.",
+      "word": "fog",
+      "example": "Dense fog covered the entire slope, making it dangerous."
+    },
+    {
+      "pos": "adj.",
+      "uz": "juda sovuq, muzday",
+      "ru": "жуткий холод, леденящий",
+      "en": "Extremely cold.",
+      "ex1": "She shivered in the freezing cold air outside the cottage.",
+      "ex2": "The swimmers emerged from the freezing cold water.",
+      "word": "freezing cold",
+      "example": "It was freezing cold after the blizzard passed through."
+    },
+    {
+      "pos": "adj.",
+      "uz": "umidsiz, bezovta",
+      "ru": "расстроенный, разочарованный",
+      "en": "Feeling annoyed or upset because you cannot achieve something.",
+      "ex1": "He was frustrated when the breakdown left them stranded.",
+      "ex2": "They were frustrated by the drought that ruined their plans.",
+      "word": "frustrated",
+      "example": "She felt frustrated by the fog that blocked the entire trail."
+    },
+    {
+      "pos": "n.",
+      "uz": "gaz",
+      "ru": "газ",
+      "en": "A substance in the air that has no fixed shape; also fuel for cooking.",
+      "ex1": "She cooked on a gas stove in the cosy cottage.",
+      "ex2": "A gas leak was discovered after the breakdown.",
+      "word": "gas",
+      "example": "The heatwave increased the demand for gas and air conditioning."
+    },
+    {
+      "pos": "n.",
+      "uz": "do'l",
+      "ru": "град",
+      "en": "Small balls of ice that fall from the sky like rain.",
+      "ex1": "The hail left dents in the roof of the cottage.",
+      "ex2": "They were caught in hail on the way down the slope.",
+      "word": "hail",
+      "example": "A sudden hail shower hit the slope during the hike."
+    },
+    {
+      "pos": "n.",
+      "uz": "issiqlik to'lqini",
+      "ru": "жара, аномальная жара",
+      "en": "A period of unusually hot weather.",
+      "ex1": "Water supplies dropped during the severe heatwave.",
+      "ex2": "The heatwave followed months of drought across the region.",
+      "word": "heatwave",
+      "example": "The heatwave made the entire country boiling hot for weeks."
+    },
+    {
+      "pos": "adj.",
+      "uz": "nam, sernam",
+      "ru": "влажный (о климате)",
+      "en": "Warm and damp in a way that feels uncomfortable.",
+      "ex1": "It was so humid that even the shade felt uncomfortable.",
+      "ex2": "Tropical climates tend to be hot and humid.",
+      "word": "humid",
+      "example": "The humid air after the downpour felt sticky and heavy."
+    },
+    {
+      "pos": "n.",
+      "uz": "to'fon, dovul",
+      "ru": "ураган",
+      "en": "An extremely powerful tropical storm with strong winds.",
+      "ex1": "The entire town was evacuated before the hurricane arrived.",
+      "ex2": "A hurricane is far more severe than a typical downpour.",
+      "word": "hurricane",
+      "example": "The hurricane caused widespread damage to the coastal landscape."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ideal, eng yaxshi",
+      "ru": "идеальный",
+      "en": "Perfect for a particular purpose.",
+      "ex1": "A cool breeze made the conditions ideal for hiking.",
+      "ex2": "This spot in the shade is ideal for relaxing on a hot day.",
+      "word": "ideal",
+      "example": "The cosy cottage was ideal for a winter holiday."
+    },
+    {
+      "pos": "n.",
+      "uz": "quvonch, xursandchilik",
+      "ru": "радость",
+      "en": "A feeling of great happiness.",
+      "ex1": "There was a sense of joy and bonding around the campfire.",
+      "ex2": "Seeing the sun after days of fog filled him with joy.",
+      "word": "joy",
+      "example": "The first snow of winter brought her great joy."
+    },
+    {
+      "pos": "n.",
+      "uz": "manzara, landshaft",
+      "ru": "пейзаж, ландшафт",
+      "en": "The visible features of an area of land.",
+      "ex1": "A drought can turn a green landscape into a dusty wasteland.",
+      "ex2": "The entire landscape was covered in mist at dawn.",
+      "word": "landscape",
+      "example": "The snowy landscape after the blizzard was stunning."
+    },
+    {
+      "pos": "n.",
+      "uz": "tumancha, mayda tuman",
+      "ru": "дымка, лёгкий туман",
+      "en": "A light form of fog; very small water droplets in the air.",
+      "ex1": "She could barely make out the cottage through the mist.",
+      "ex2": "The mist lifted by mid-morning, revealing the beautiful landscape.",
+      "word": "mist",
+      "example": "A thin mist covered the valley in the early morning."
+    },
+    {
+      "pos": "n.",
+      "uz": "harakat",
+      "ru": "движение",
+      "en": "The act of moving from one place to another.",
+      "ex1": "There was no movement in the fog — everything was still.",
+      "ex2": "The movement of the clouds signalled an incoming downpour.",
+      "word": "movement",
+      "example": "She noticed a sudden movement in the mist near the slope."
+    },
+    {
+      "pos": "adj.",
+      "uz": "og'ir, qattiq",
+      "ru": "суровый, тяжёлый",
+      "en": "Very serious, extreme, or harsh.",
+      "ex1": "A severe drought can lead to widespread food shortages.",
+      "ex2": "She suffered a severe headache after the humid, boiling hot day.",
+      "word": "severe",
+      "example": "The severe blizzard blocked roads across the entire region."
+    },
+    {
+      "pos": "n.",
+      "uz": "soya, salqin joy",
+      "ru": "тень, прохлада",
+      "en": "A cool, dark area sheltered from the sun.",
+      "ex1": "She rested in the shade of the cottage after the long hike.",
+      "ex2": "The trees provided ideal shade on the humid summer day.",
+      "word": "shade",
+      "example": "They sat in the shade during the boiling hot heatwave."
+    },
+    {
+      "pos": "n.",
+      "uz": "yomg'ir (qisqa muddatli)",
+      "ru": "ливень (кратковременный), душ",
+      "en": "A short period of rain; also a device for washing.",
+      "ex1": "A sudden shower interrupted their stroll through the landscape.",
+      "ex2": "The shower lasted only minutes but left everything damp.",
+      "word": "shower",
+      "example": "A brief shower of hail hit the slope unexpectedly."
+    },
+    {
+      "pos": "n.",
+      "uz": "qiyalik, yonbag'ir",
+      "ru": "склон, уклон",
+      "en": "A surface that goes upward or downward at an angle.",
+      "ex1": "They skied carefully down the icy slope after the blizzard.",
+      "ex2": "The fog made it hard to see the bottom of the slope.",
+      "word": "slope",
+      "example": "The avalanche swept down the entire slope within seconds."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yopishqoq, nam",
+      "ru": "липкий, душный",
+      "en": "Feeling hot and damp; unpleasant to touch.",
+      "ex1": "It was sticky and boiling hot even in the shade.",
+      "ex2": "After the downpour, the ground was muddy and sticky.",
+      "word": "sticky",
+      "example": "The humid air made her skin feel sticky all day."
+    },
+    {
+      "pos": "n.",
+      "uz": "sunami",
+      "ru": "цунами",
+      "en": "A very large and destructive ocean wave caused by an earthquake.",
+      "ex1": "Emergency services responded immediately after the tsunami warning.",
+      "ex2": "The tsunami caused a breakdown in infrastructure across the region.",
+      "word": "tsunami",
+      "example": "The tsunami flooded the entire coastal landscape."
+    },
+    {
+      "pos": "n.",
+      "uz": "vulqon otilishi",
+      "ru": "извержение вулкана",
+      "en": "When a volcano suddenly throws out lava, ash, and gas.",
+      "ex1": "The island was evacuated before the volcanic eruption.",
+      "ex2": "A volcanic eruption can affect the climate for months.",
+      "word": "volcanic eruption",
+      "example": "The volcanic eruption covered the entire landscape in ash."
+    },
+    {
+      "pos": "n.",
+      "uz": "issiqlik, iliqlik",
+      "ru": "тепло, теплота",
+      "en": "The quality of being warm; also a feeling of kindness.",
+      "ex1": "She was grateful for the warmth of the fire after the freezing cold day.",
+      "ex2": "The warmth of the summer sun lifted everyone's mood.",
+      "word": "warmth",
+      "example": "The warmth of the cosy cottage was a relief after the blizzard."
+    }
+  ],
+  "p4": [
+    {
+      "pos": "adv.",
+      "uz": "mutlaqo, albatta",
+      "ru": "абсолютно, совершенно",
+      "en": "Completely or totally; used to emphasise something.",
+      "ex1": "She was absolutely exhausted after the long trail.",
+      "ex2": "Without a doubt, it was absolutely the right decision.",
+      "word": "absolutely",
+      "example": "The scenery was absolutely breathtaking at dawn."
+    },
+    {
+      "pos": "phrase",
+      "uz": "tez orada",
+      "ru": "вскоре, скоро",
+      "en": "After a short period of time; soon.",
+      "ex1": "He set off at dawn and before long reached the cottage.",
+      "ex2": "Before long, the downpour had turned into a blizzard.",
+      "word": "before long",
+      "example": "Before long, the mist had covered the entire slope."
+    },
+    {
+      "pos": "adv.",
+      "uz": "oxir-oqibat, nihoyat",
+      "ru": "в конечном итоге, в конце концов",
+      "en": "After a long time or series of events.",
+      "ex1": "She eventually came round after fainting.",
+      "ex2": "The drought eventually ended after months of no rainfall.",
+      "word": "eventually",
+      "example": "They eventually reached the shore after drifting for hours."
+    },
+    {
+      "pos": "adv.",
+      "uz": "asta-sekin, bosqichma-bosqich",
+      "ru": "постепенно",
+      "en": "Slowly and steadily over a period of time.",
+      "ex1": "She gradually became aware of the movement in the mist.",
+      "ex2": "The temperature gradually dropped as the blizzard approached.",
+      "word": "gradually",
+      "example": "The fog gradually lifted to reveal the stunning landscape."
+    },
+    {
+      "pos": "phrase",
+      "uz": "uzoqda",
+      "ru": "вдали, на расстоянии",
+      "en": "Far away, but still visible.",
+      "ex1": "She spotted the trail in the distance through the mist.",
+      "ex2": "The sound of the emergency services could be heard in the distance.",
+      "word": "in the distance",
+      "example": "In the distance, they could see the outline of the cottage."
+    },
+    {
+      "pos": "phrase",
+      "uz": "shu orada, shu vaqt ichida",
+      "ru": "тем временем, в это время",
+      "en": "In the period of time between two events.",
+      "ex1": "In the meantime, she observed the changing landscape.",
+      "ex2": "The blizzard was getting worse; in the meantime, they waited.",
+      "word": "in the meantime",
+      "example": "Help was coming; in the meantime, they stayed in the cosy cottage."
+    },
+    {
+      "pos": "adv.",
+      "uz": "dastlab, avvaliga",
+      "ru": "изначально, поначалу",
+      "en": "At the beginning; at first.",
+      "ex1": "She was initially baffled by the peculiar noise.",
+      "ex2": "He was initially frustrated but eventually came round.",
+      "word": "initially",
+      "example": "Initially, the fog made it impossible to see the slope."
+    },
+    {
+      "pos": "conj.",
+      "uz": "ayni shu paytda, xuddi o'shanda",
+      "ru": "в тот самый момент, когда; точно так же",
+      "en": "At exactly the same moment; or in exactly the same way.",
+      "ex1": "Just as the mist cleared, the sun came out.",
+      "ex2": "Just as she reached the shore, the blizzard hit.",
+      "word": "just as",
+      "example": "Just as they set off, a sudden downpour began."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ulkan, katta",
+      "ru": "огромный, массивный",
+      "en": "Very large in size or amount.",
+      "ex1": "The tsunami caused massive destruction along the coast.",
+      "ex2": "There was a massive downpour that flooded the entire road.",
+      "word": "massive",
+      "example": "A massive avalanche covered the entire slope below the village."
+    },
+    {
+      "pos": "adv.",
+      "uz": "shu paytda, shu orada",
+      "ru": "тем временем",
+      "en": "At the same time as something else is happening.",
+      "ex1": "She set off along the trail; meanwhile, he called for help.",
+      "ex2": "The heatwave continued; meanwhile, the drought worsened.",
+      "word": "meanwhile",
+      "example": "The blizzard intensified; meanwhile, they searched for shelter."
+    },
+    {
+      "pos": "adv.",
+      "uz": "ba'zida, vaqti-vaqti bilan",
+      "ru": "иногда, время от времени",
+      "en": "Sometimes, but not often.",
+      "ex1": "She occasionally glanced back at the cottage in the distance.",
+      "ex2": "A blizzard occasionally hits this region in early spring.",
+      "word": "occasionally",
+      "example": "They occasionally saw movement in the mist near the shore."
+    },
+    {
+      "pos": "v.",
+      "uz": "ag'darilib ketmoq, to'nтаrmoq",
+      "ru": "перевернуться, опрокинуть",
+      "en": "To turn upside down or cause something to fall over.",
+      "ex1": "The hurricane overturned several vehicles near the shore.",
+      "ex2": "She watched in horror as the boat overturned in the downpour.",
+      "word": "overturn",
+      "example": "The massive wave caused the boat to overturn."
+    },
+    {
+      "pos": "v.",
+      "uz": "etib bormoq, yetmoq",
+      "ru": "достигать, добраться",
+      "en": "To arrive at a place or achieve a goal.",
+      "ex1": "She reached the cottage before the blizzard got worse.",
+      "ex2": "Eventually, they reached the top of the slope.",
+      "word": "reach",
+      "example": "They finally reached the shore just as dawn was breaking."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "duch kelmoq, tasodifan uchramoq",
+      "ru": "наткнуться, столкнуться с",
+      "en": "To meet someone by chance; or to encounter a problem.",
+      "ex1": "They ran into trouble when the blizzard hit the slope.",
+      "ex2": "He ran into the journalist just as he set off along the trail.",
+      "word": "run into",
+      "example": "She ran into her researcher friend while strolling near the shore."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "yo'lga chiqmoq",
+      "ru": "отправляться, выдвигаться",
+      "en": "To begin a journey.",
+      "ex1": "She set off along the trail with no idea of what lay ahead.",
+      "ex2": "Just as they set off, the downpour started.",
+      "word": "set off",
+      "example": "They set off at dawn before the heatwave began."
+    },
+    {
+      "pos": "adv.",
+      "uz": "silliq, muammosiz",
+      "ru": "плавно, гладко",
+      "en": "Without any problems or difficulties; in a calm, even way.",
+      "ex1": "Everything went smoothly until the breakdown occurred.",
+      "ex2": "The rescue operation was carried out smoothly by the emergency services.",
+      "word": "smoothly",
+      "example": "Despite the fog, the journey went smoothly."
+    },
+    {
+      "pos": "n.",
+      "uz": "kuch, quvvat",
+      "ru": "сила, прочность",
+      "en": "Physical or mental power; the ability to do difficult things.",
+      "ex1": "It took all his strength to row against the current.",
+      "ex2": "The bonding experience gave the team great emotional strength.",
+      "word": "strength",
+      "example": "She showed incredible strength during the hurricane."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Kulgu/yig'iga tutilmoq.",
+      "ru": "Я расхохотался / расплакался.",
+      "en": "To suddenly start laughing or crying.",
+      "ex1": "She burst into tears when she finally reached the shore safely.",
+      "ex2": "He burst out laughing at the peculiar situation they were in.",
+      "word": "I burst out laughing / into tears.",
+      "example": "I burst out laughing when he slipped on the wet rocks."
+    },
+    {
+      "pos": "phrase",
+      "uz": "So'zsiz qoldim, lol bo'ldim.",
+      "ru": "Я онемел / лишился дара речи.",
+      "en": "Used when you are so surprised you cannot speak.",
+      "ex1": "She was speechless when the emergency services arrived so quickly.",
+      "ex2": "He was left speechless by the stunning landscape at dawn.",
+      "word": "I was (left) speechless.",
+      "example": "I was left speechless when I saw the massive tsunami wave."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Meni kutilmagan narsa hayratga qoldirdi.",
+      "ru": "Меня застало врасплох...",
+      "en": "Used to say something happened unexpectedly and surprised you.",
+      "ex1": "She was taken by surprise by the seal near the shore.",
+      "ex2": "He was taken by surprise when the boat began to overturn.",
+      "word": "I was taken by surprise...",
+      "example": "I was taken by surprise when the blizzard hit so suddenly."
+    },
+    {
+      "pos": "phrase",
+      "uz": "U meni cho'chitib yubordi.",
+      "ru": "Это меня испугало / заставило вздрогнуть.",
+      "en": "Used to say something frightened or startled you suddenly.",
+      "ex1": "The loud crack of thunder made everyone jump.",
+      "ex2": "It made me jump when the shadow appeared out of the mist.",
+      "word": "It made me jump.",
+      "example": "The sudden yell in the silence made me jump."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Bu meni asabiylashtirayotgan edi.",
+      "ru": "Это действовало мне на нервы.",
+      "en": "Used to say something was irritating or annoying you.",
+      "ex1": "The constant fog was getting on everyone's nerves.",
+      "ex2": "His muttering in silence was getting on my nerves.",
+      "word": "It was getting on my nerves.",
+      "example": "The damp, humid weather was getting on my nerves."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Yuragim tez-tez urаyotgan edi.",
+      "ru": "Моё сердце бешено колотилось.",
+      "en": "Used to describe extreme excitement, fear, or nervousness.",
+      "ex1": "My heart was beating furiously when the shadow appeared.",
+      "ex2": "She admitted her heart was beating furiously as the avalanche approached.",
+      "word": "My heart was beating furiously.",
+      "example": "My heart was beating furiously as the boat began to drift out."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Shubhasiz, ...",
+      "ru": "Без сомнения, ...",
+      "en": "Used to say something is completely certain.",
+      "ex1": "Without a doubt, the scenery was absolutely stunning.",
+      "ex2": "Without a doubt, the blizzard was the most severe in years.",
+      "word": "Without a doubt, ...",
+      "example": "Without a doubt, it was the most thrilling experience of her life."
+    }
+  ]
+}

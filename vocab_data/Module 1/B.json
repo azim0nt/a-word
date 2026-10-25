@@ -1,0 +1,1410 @@
+{
+  "p1": [
+    {
+      "pos": "v.",
+      "uz": "yordam bermoq",
+      "ru": "помогать",
+      "en": "To help someone do something.",
+      "ex1": "Volunteers assisted victims of the flood.",
+      "ex2": "He assisted his colleague with the presentation.",
+      "word": "assist",
+      "example": "She assisted the teacher in setting up the classroom."
+    },
+    {
+      "pos": "v.",
+      "uz": "faraz qilmoq, deb o'ylamoq",
+      "ru": "предполагать, допускать",
+      "en": "To think something is true without having proof.",
+      "ex1": "He assumed she was angry, but she was just tired.",
+      "ex2": "We assumed the meeting would be cancelled due to rain.",
+      "word": "assume",
+      "example": "Don't assume that everyone thinks the same way as you."
+    },
+    {
+      "pos": "v.",
+      "uz": "muvozanat saqlmoq",
+      "ru": "балансировать, уравновешивать",
+      "en": "To keep things in equal or fair proportions.",
+      "ex1": "She balanced her studies with part-time work.",
+      "ex2": "You need to balance your diet with regular exercise.",
+      "word": "balance",
+      "example": "It's hard to balance work and family life."
+    },
+    {
+      "pos": "phrase",
+      "uz": "sodiq bo'lmoq, bag'ishlamoq",
+      "ru": "быть преданным чему-либо",
+      "en": "To be dedicated and willing to put in effort for something.",
+      "ex1": "The team is committed to delivering the project on time.",
+      "ex2": "He is committed to helping young people in his community.",
+      "word": "be committed to",
+      "example": "She is committed to improving her English every day."
+    },
+    {
+      "pos": "adj.",
+      "uz": "foydali",
+      "ru": "полезный, благотворный",
+      "en": "Having a positive or helpful effect.",
+      "ex1": "Exercise is beneficial for both physical and mental health.",
+      "ex2": "The new policy proved beneficial for small businesses.",
+      "word": "beneficial",
+      "example": "Regular reading is beneficial for vocabulary development."
+    },
+    {
+      "pos": "n.",
+      "uz": "bog'liq, aloqa",
+      "ru": "связь, узы",
+      "en": "A close connection or relationship between people.",
+      "ex1": "She felt an instant bond with her new classmates.",
+      "ex2": "The shared experience created a lasting bond among the team.",
+      "word": "bond",
+      "example": "There is a strong bond between twins."
+    },
+    {
+      "pos": "adj.",
+      "uz": "g'amxo'r, mehribon",
+      "ru": "заботливый",
+      "en": "Showing kindness and concern for others.",
+      "ex1": "She is one of the most caring people I have ever met.",
+      "ex2": "He raised his children in a warm and caring environment.",
+      "word": "caring",
+      "example": "A good nurse should be patient and caring."
+    },
+    {
+      "pos": "phrase",
+      "uz": "yodga kelmoq",
+      "ru": "приходить на ум",
+      "en": "To be thought of or remembered.",
+      "ex1": "Several solutions came to mind during the meeting.",
+      "ex2": "No better word comes to mind to describe the situation.",
+      "word": "come to mind",
+      "example": "When I think of courage, her name immediately comes to mind."
+    },
+    {
+      "pos": "v.",
+      "uz": "hissa qo'shmoq",
+      "ru": "вносить вклад",
+      "en": "To give or add something that helps achieve a goal.",
+      "ex1": "She contributed a great deal to the success of the project.",
+      "ex2": "Volunteers contributed their time and skills to the campaign.",
+      "word": "contribute",
+      "example": "Everyone can contribute to making the world a better place."
+    },
+    {
+      "pos": "n.",
+      "uz": "qat'iyat, iroda",
+      "ru": "решимость, целеустремлённость",
+      "en": "A strong will to achieve something despite difficulties.",
+      "ex1": "He finished the race through sheer determination.",
+      "ex2": "Success often comes down to hard work and determination.",
+      "word": "determination",
+      "example": "Her determination helped her become a top student."
+    },
+    {
+      "pos": "v.",
+      "uz": "farqlanmoq",
+      "ru": "отличаться, различаться",
+      "en": "To be unlike something or someone else.",
+      "ex1": "Our opinions differ on this subject.",
+      "ex2": "The two systems differ significantly in how they operate.",
+      "word": "differ",
+      "example": "People differ in the way they deal with stress."
+    },
+    {
+      "pos": "n.",
+      "uz": "intizom",
+      "ru": "дисциплина",
+      "en": "The ability to control your behaviour and follow rules.",
+      "ex1": "The school has strict rules to maintain discipline.",
+      "ex2": "Learning a musical instrument requires a lot of discipline.",
+      "word": "discipline",
+      "example": "Self-discipline is key to achieving long-term goals."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "biror narsaga shug'ullanmoq",
+      "ru": "заниматься чем-либо",
+      "en": "To take part in or become involved in an activity.",
+      "ex1": "He engages in volunteer work every weekend.",
+      "ex2": "She engaged in a lively debate with her classmates.",
+      "word": "engage in sth",
+      "example": "Students are encouraged to engage in extracurricular activities."
+    },
+    {
+      "pos": "n.",
+      "uz": "ekstrovert",
+      "ru": "экстраверт",
+      "en": "A person who is confident and enjoys being around others.",
+      "ex1": "He is a natural extrovert who loves public speaking.",
+      "ex2": "Extroverts tend to recharge by spending time with people.",
+      "word": "extrovert",
+      "example": "As an extrovert, she thrives in social situations."
+    },
+    {
+      "pos": "n.",
+      "uz": "muvaffaqiyatsizlik",
+      "ru": "провал, неудача",
+      "en": "The fact of not achieving what was expected or hoped for.",
+      "ex1": "The launch of the product was considered a failure.",
+      "ex2": "Every failure brings you one step closer to success.",
+      "word": "failure",
+      "example": "Don't be afraid of failure — it's how we learn and grow."
+    },
+    {
+      "pos": "idiom",
+      "uz": "birovning yo'lidan bormoq",
+      "ru": "идти по чьим-то стопам",
+      "en": "To do the same job or live in the same way as someone before you.",
+      "ex1": "He followed in his father's footsteps and joined the family business.",
+      "ex2": "Many young athletes follow in the footsteps of their heroes.",
+      "word": "follow in sb's footsteps",
+      "example": "She followed in her mother's footsteps and became a doctor."
+    },
+    {
+      "pos": "v.",
+      "uz": "majburlamoq",
+      "ru": "заставлять, вынуждать",
+      "en": "To make someone do something they don't want to do.",
+      "ex1": "The storm forced them to cancel the trip.",
+      "ex2": "He was forced to resign due to the scandal.",
+      "word": "force",
+      "example": "You shouldn't force children to eat food they dislike."
+    },
+    {
+      "pos": "n.",
+      "uz": "bo'shliq, farq",
+      "ru": "разрыв, пробел",
+      "en": "A difference or empty space between two things.",
+      "ex1": "She noticed a gap in the market for affordable language apps.",
+      "ex2": "The generation gap can make communication between parents and teens difficult.",
+      "word": "gap",
+      "example": "There is a large gap between the rich and the poor."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "o'zini birov bilan qiyoslamoq",
+      "ru": "отождествлять себя с кем-либо",
+      "en": "To feel a connection with or similarity to someone.",
+      "ex1": "She identified with the struggles of the young entrepreneur.",
+      "ex2": "He couldn't identify with the values shown in the film.",
+      "word": "identify (with)",
+      "example": "Many readers identify with the main character in the novel."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hayratda qolgan, taassurotda",
+      "ru": "впечатлённый",
+      "en": "Feeling admiration or respect for something.",
+      "ex1": "The judges were impressed with the student's project.",
+      "ex2": "I'm always impressed by how calmly she handles problems.",
+      "word": "impressed",
+      "example": "She was very impressed by his knowledge of history."
+    },
+    {
+      "pos": "phrase",
+      "uz": "evaziga, o'rniga",
+      "ru": "в ответ, взамен",
+      "en": "As a response or reward for something.",
+      "ex1": "He asked for nothing in return for his kindness.",
+      "ex2": "In return for your hard work, you'll receive a bonus.",
+      "word": "in return",
+      "example": "She helped him with the essay and in return he taught her coding."
+    },
+    {
+      "pos": "v.",
+      "uz": "hukm qilmoq, baholamoq",
+      "ru": "судить, оценивать",
+      "en": "To form an opinion about someone or something.",
+      "ex1": "It's hard to judge someone's character in a short time.",
+      "ex2": "The competition will be judged by a panel of experts.",
+      "word": "judge",
+      "example": "Don't judge people by the way they look."
+    },
+    {
+      "pos": "idiom",
+      "uz": "shoshilinch xulosa chiqarmoq",
+      "ru": "делать поспешные выводы",
+      "en": "To decide something is true without enough evidence.",
+      "ex1": "She jumped to conclusions and accused him wrongly.",
+      "ex2": "It's easy to jump to conclusions when you're stressed.",
+      "word": "jump to conclusions",
+      "example": "Don't jump to conclusions before you hear both sides of the story."
+    },
+    {
+      "pos": "v.",
+      "uz": "davom etmoq",
+      "ru": "длиться, продолжаться",
+      "en": "To continue for a period of time.",
+      "ex1": "How long will the battery last?",
+      "ex2": "The friendship lasted a lifetime.",
+      "word": "last",
+      "example": "The lecture lasted for two hours."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "olib kelmoq",
+      "ru": "приводить к",
+      "en": "To cause something to happen as a result.",
+      "ex1": "His hard work led to a promotion.",
+      "ex2": "Ignoring small problems can lead to bigger ones later.",
+      "word": "lead to",
+      "example": "Lack of sleep can lead to poor concentration."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "birovni hurmat qilmoq, o'rnak olmoq",
+      "ru": "уважать кого-либо, восхищаться",
+      "en": "To admire and respect someone.",
+      "ex1": "She looks up to her mentor for guidance.",
+      "ex2": "He is the kind of leader others naturally look up to.",
+      "word": "look up to sb",
+      "example": "Children often look up to their parents as role models."
+    },
+    {
+      "pos": "adj.",
+      "uz": "voyaga etgan, yetuk",
+      "ru": "зрелый, взрослый",
+      "en": "Behaving in a sensible, adult way; fully developed.",
+      "ex1": "A mature approach to conflict is to listen before responding.",
+      "ex2": "He showed a mature attitude during the difficult situation.",
+      "word": "mature",
+      "example": "She is very mature for her age."
+    },
+    {
+      "pos": "adj.",
+      "uz": "mazmunli, muhim",
+      "ru": "значимый, осмысленный",
+      "en": "Having real importance or a positive purpose.",
+      "ex1": "He wanted a meaningful conversation, not small talk.",
+      "ex2": "Building meaningful relationships takes time and effort.",
+      "word": "meaningful",
+      "example": "Volunteering gave her a more meaningful daily routine."
+    },
+    {
+      "pos": "n.",
+      "uz": "bog'cha",
+      "ru": "детский сад",
+      "en": "A school for young children before they start primary school.",
+      "ex1": "The nursery school has a safe outdoor play area.",
+      "ex2": "Many children develop social skills at nursery school.",
+      "word": "nursery school",
+      "example": "She started nursery school at the age of three."
+    },
+    {
+      "pos": "adj.",
+      "uz": "g'alati, qo'rqinchli",
+      "ru": "странный, необычный",
+      "en": "Strange or unusual.",
+      "ex1": "He has some odd habits, like talking to his plants.",
+      "ex2": "She gave me an odd look when I suggested the idea.",
+      "word": "odd",
+      "example": "It seemed odd that the shop was closed on a Monday."
+    },
+    {
+      "pos": "phrase",
+      "uz": "aksincha",
+      "ru": "напротив, наоборот",
+      "en": "Used to say the opposite is true.",
+      "ex1": "She didn't fail — on the contrary, she scored top marks.",
+      "ex2": "The plan wasn't a disaster; on the contrary, it was a great success.",
+      "word": "on the contrary",
+      "example": "He wasn't tired; on the contrary, he was full of energy."
+    },
+    {
+      "pos": "phrase",
+      "uz": "birma-bir",
+      "ru": "один за другим",
+      "en": "In a sequence, with each one following the previous.",
+      "ex1": "Problems seemed to appear one after the other that week.",
+      "ex2": "She read the books one after the other over the summer.",
+      "word": "one after the other",
+      "example": "The students gave their presentations one after the other."
+    },
+    {
+      "pos": "n.",
+      "uz": "raqib",
+      "ru": "противник, оппонент",
+      "en": "A person who competes against or disagrees with you.",
+      "ex1": "His main opponent in the debate made strong arguments.",
+      "ex2": "A good leader respects their opponents.",
+      "word": "opponent",
+      "example": "She shook hands with her opponent after the match."
+    },
+    {
+      "pos": "v.",
+      "uz": "ustun kelmoq, oshib o'tmoq",
+      "ru": "превзойти",
+      "en": "To do better than someone else.",
+      "ex1": "She outdid herself with the quality of her presentation.",
+      "ex2": "The new restaurant outdid all the others in the area.",
+      "word": "outdo",
+      "example": "He always tries to outdo his classmates in exams."
+    },
+    {
+      "pos": "v.",
+      "uz": "kuch to'ldirmoq, dam olmoq",
+      "ru": "перезаряжаться, восстанавливать силы",
+      "en": "To rest and recover your energy.",
+      "ex1": "A short holiday helped her recharge completely.",
+      "ex2": "He went for a walk to recharge during his lunch break.",
+      "word": "recharge",
+      "example": "Introverts need time alone to recharge after socialising."
+    },
+    {
+      "pos": "adj.",
+      "uz": "bog'liq",
+      "ru": "связанный (с)",
+      "en": "Connected to something or someone.",
+      "ex1": "Is this question related to the topic we studied last week?",
+      "ex2": "All the problems were related to a single software bug.",
+      "word": "related (to)",
+      "example": "The two events are closely related to each other."
+    },
+    {
+      "pos": "adj.",
+      "uz": "kamgap, ichiga yopiq",
+      "ru": "сдержанный, замкнутый",
+      "en": "Slow to show emotions or talk to others; quiet.",
+      "ex1": "She gave a reserved smile and said nothing.",
+      "ex2": "Reserved people often prefer small groups to large parties.",
+      "word": "reserved",
+      "example": "He is quite reserved at first, but very warm once you know him."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "hurmat qilmoq / hurmat",
+      "ru": "уважать / уважение",
+      "en": "To treat someone with consideration; a feeling of admiration.",
+      "ex1": "She earned the respect of all her colleagues.",
+      "ex2": "Mutual respect is the foundation of any healthy relationship.",
+      "word": "respect",
+      "example": "We should respect people's different opinions."
+    },
+    {
+      "pos": "n.",
+      "uz": "mas'uliyat",
+      "ru": "ответственность",
+      "en": "A duty or obligation to do something or care for someone.",
+      "ex1": "It is your responsibility to submit the work on time.",
+      "ex2": "She took full responsibility for the mistake.",
+      "word": "responsibility",
+      "example": "Looking after younger siblings teaches responsibility."
+    },
+    {
+      "pos": "n.",
+      "uz": "namuna, o'rnak shaxs",
+      "ru": "ролевая модель, образец для подражания",
+      "en": "A person who others admire and try to copy.",
+      "ex1": "Her teacher was her biggest role model growing up.",
+      "ex2": "Parents are often the first role models in a child's life.",
+      "word": "role model",
+      "example": "Athletes can be powerful role models for young people."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "paydo bo'lmoq, kelmoq",
+      "ru": "появляться, приходить",
+      "en": "To arrive or be present somewhere.",
+      "ex1": "He promised to come but never showed up.",
+      "ex2": "She showed up late but still gave an excellent speech.",
+      "word": "show up",
+      "example": "Only half the students showed up to the optional lecture."
+    },
+    {
+      "pos": "n.",
+      "uz": "aka-uka yoki opa-singil",
+      "ru": "брат или сестра",
+      "en": "A brother or sister.",
+      "ex1": "Do you have any siblings?",
+      "ex2": "Growing up with siblings teaches you how to share.",
+      "word": "sibling",
+      "example": "She is very close to her siblings."
+    },
+    {
+      "pos": "n.",
+      "uz": "taklif, zaxira",
+      "ru": "запас, снабжение",
+      "en": "An amount of something available for use.",
+      "ex1": "Food supplies were running low after the storm.",
+      "ex2": "There is a growing supply of online courses available.",
+      "word": "supply",
+      "example": "The school has a limited supply of textbooks this year."
+    },
+    {
+      "pos": "n.",
+      "uz": "fikr, o'y",
+      "ru": "мысль, размышление",
+      "en": "An idea or opinion produced by thinking.",
+      "ex1": "The thought of moving abroad both excited and scared him.",
+      "ex2": "Give it some thought before making a final decision.",
+      "word": "thought",
+      "example": "She shared her thoughts on the topic in the essay."
+    },
+    {
+      "pos": "phrase",
+      "uz": "meni hayratga qoldirib",
+      "ru": "к моему удивлению",
+      "en": "Used when something unexpected happens.",
+      "ex1": "To my surprise, the exam was much easier than I expected.",
+      "ex2": "He turned up to my surprise, as I thought he was abroad.",
+      "word": "to my surprise",
+      "example": "To my surprise, she already knew the answer."
+    },
+    {
+      "pos": "v.",
+      "uz": "muomala qilmoq",
+      "ru": "обращаться (с кем-либо)",
+      "en": "To behave towards someone in a particular way.",
+      "ex1": "She treated all her students with equal respect.",
+      "ex2": "He felt he was being treated unfairly by his employer.",
+      "word": "treat (=behave)",
+      "example": "You should treat others the way you wish to be treated."
+    },
+    {
+      "pos": "adv.",
+      "uz": "shubhasiz",
+      "ru": "несомненно, бесспорно",
+      "en": "Without any doubt; certainly.",
+      "ex1": "This is undoubtedly one of the best films of the year.",
+      "ex2": "The project was undoubtedly a great success.",
+      "word": "undoubtedly",
+      "example": "She is undoubtedly the most talented student in the class."
+    },
+    {
+      "pos": "adj.",
+      "uz": "notanish, noma'lum",
+      "ru": "незнакомый, непривычный",
+      "en": "Not known or recognised; strange.",
+      "ex1": "He felt unfamiliar with the new software.",
+      "ex2": "Some students struggle with unfamiliar vocabulary in exams.",
+      "word": "unfamiliar",
+      "example": "The city was unfamiliar to her at first."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ehtimoldan uzoq",
+      "ru": "маловероятный, неожиданный",
+      "en": "Not probable or expected.",
+      "ex1": "She came from an unlikely background to become a scientist.",
+      "ex2": "An unlikely friendship formed between the two rivals.",
+      "word": "unlikely",
+      "example": "It's unlikely that the event will be cancelled."
+    },
+    {
+      "pos": "adj.",
+      "uz": "cheksiz",
+      "ru": "неограниченный",
+      "en": "Having no restrictions or limits.",
+      "ex1": "She seemed to have unlimited energy during the project.",
+      "ex2": "Students have unlimited attempts at the practice quiz.",
+      "word": "unlimited",
+      "example": "The subscription gives you unlimited access to the platform."
+    },
+    {
+      "pos": "adj.",
+      "uz": "g'alati, beg'araz",
+      "ru": "странный, чудной",
+      "en": "Strange and unusual in a way that is hard to explain.",
+      "ex1": "He has a weird sense of humour, but people love it.",
+      "ex2": "There was a weird atmosphere in the room that nobody could explain.",
+      "word": "weird",
+      "example": "It felt weird to go back to school after such a long break."
+    },
+    {
+      "pos": "idiom",
+      "uz": "yoshiga nisbatan donoroq",
+      "ru": "мудрый не по годам",
+      "en": "Much wiser or more mature than expected for their age.",
+      "ex1": "His advice was surprisingly good — he's wise beyond his years.",
+      "ex2": "People often say she's wise beyond her years because of her thoughtful decisions.",
+      "word": "wise beyond sb's years",
+      "example": "Even as a child, she was wise beyond her years."
+    },
+    {
+      "pos": "adj.",
+      "uz": "charchagan, holdan toygan",
+      "ru": "измотанный, изношенный",
+      "en": "Extremely tired or used up.",
+      "ex1": "He looked worn out after working three shifts in a row.",
+      "ex2": "The worn-out shoes needed to be replaced.",
+      "word": "worn out",
+      "example": "After the long journey, they were completely worn out."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "n.",
+      "uz": "tanish odam",
+      "ru": "знакомый",
+      "en": "A person you know slightly but not closely.",
+      "ex1": "He has many acquaintances through his work in business.",
+      "ex2": "We became acquaintances at the conference last year.",
+      "word": "acquaintance",
+      "example": "She is just an acquaintance, not a close friend."
+    },
+    {
+      "pos": "n.",
+      "uz": "eng yaqin do'st",
+      "ru": "лучший друг/подруга (неформ.)",
+      "en": "Informal word for your best friend.",
+      "ex1": "He called his bestie to share the exciting news.",
+      "ex2": "My bestie always knows how to cheer me up.",
+      "word": "bestie",
+      "example": "She and her bestie have been inseparable since primary school."
+    },
+    {
+      "pos": "n.",
+      "uz": "hamkasb",
+      "ru": "коллега",
+      "en": "Someone you work with.",
+      "ex1": "He discussed the project with a colleague over lunch.",
+      "ex2": "My colleagues and I often share ideas after meetings.",
+      "word": "colleague",
+      "example": "She gets along very well with all her colleagues."
+    },
+    {
+      "pos": "n.",
+      "uz": "aloqa, tanish",
+      "ru": "контакт, связь",
+      "en": "Someone you know, especially useful for professional purposes.",
+      "ex1": "He reached out to his contacts for help with the project.",
+      "ex2": "Keep in contact with former classmates — you never know when it helps.",
+      "word": "contact",
+      "example": "She has a wide network of contacts in the industry."
+    },
+    {
+      "pos": "n.",
+      "uz": "ish hamkori",
+      "ru": "сотрудник, коллега",
+      "en": "A person who works in the same place as you.",
+      "ex1": "She asked her co-worker for help with the report.",
+      "ex2": "A good co-worker supports others during busy periods.",
+      "word": "co-worker",
+      "example": "He gets on well with all his co-workers."
+    },
+    {
+      "pos": "n.",
+      "uz": "muddat, oxirgi sana",
+      "ru": "срок, крайний срок",
+      "en": "The latest time or date by which something must be completed.",
+      "ex1": "Missing a deadline can have serious consequences.",
+      "ex2": "The team worked hard to finish before the deadline.",
+      "word": "deadline",
+      "example": "She stayed up late to meet the deadline."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qat'iy, iqtidorli",
+      "ru": "решительный, целеустремлённый",
+      "en": "Having a strong will to do or achieve something.",
+      "ex1": "He was determined to change his unhealthy habits.",
+      "ex2": "Despite the difficulties, she remained determined.",
+      "word": "determined",
+      "example": "She was determined to pass the exam no matter what."
+    },
+    {
+      "pos": "n.",
+      "uz": "ish beruvchi",
+      "ru": "работодатель",
+      "en": "A person or company that pays others to work for them.",
+      "ex1": "A good employer values and supports their staff.",
+      "ex2": "He was praised by his employer for his dedication.",
+      "word": "employer",
+      "example": "Her employer offered flexible working hours."
+    },
+    {
+      "pos": "adj.",
+      "uz": "teng",
+      "ru": "равный",
+      "en": "The same in size, amount, or value.",
+      "ex1": "The pay should be equal for the same work, regardless of gender.",
+      "ex2": "The teams were equal in skill, making the match exciting.",
+      "word": "equal",
+      "example": "Everyone deserves equal opportunities in education."
+    },
+    {
+      "pos": "adj.",
+      "uz": "moslashuvchan",
+      "ru": "гибкий, приспособляемый",
+      "en": "Able to change or adapt easily to different situations.",
+      "ex1": "You need to be flexible when plans change unexpectedly.",
+      "ex2": "A flexible approach to problem-solving is very useful.",
+      "word": "flexible",
+      "example": "She appreciates her job because of the flexible schedule."
+    },
+    {
+      "pos": "n.",
+      "uz": "qarindosh (nikoh orqali)",
+      "ru": "родственник(-ца) по браку",
+      "en": "A relative by marriage.",
+      "ex1": "His mother-in-law visits every Sunday.",
+      "ex2": "Building a good relationship with in-laws takes time.",
+      "word": "in-law",
+      "example": "She gets on very well with her in-laws."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hasad qiluvchi, rashkchi",
+      "ru": "ревнивый, завидующий",
+      "en": "Feeling unhappy because someone has something you want.",
+      "ex1": "She was jealous of her sister's success at first.",
+      "ex2": "Being jealous of others stops you from appreciating what you have.",
+      "word": "jealous",
+      "example": "He felt jealous when his friend got the promotion."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "ko'tarilmoq, yangi bosqichga o'tmoq",
+      "ru": "повышать уровень, прогрессировать",
+      "en": "To improve or reach a higher level in a skill or situation.",
+      "ex1": "He is constantly looking for ways to level up his career.",
+      "ex2": "The new training programme helped employees level up quickly.",
+      "word": "level-up",
+      "example": "She decided to level up her English by taking an advanced course."
+    },
+    {
+      "pos": "idiom",
+      "uz": "ijobiy tomonini ko'rmoq",
+      "ru": "смотреть на светлую сторону",
+      "en": "To focus on the positive aspects of a bad situation.",
+      "ex1": "She always looks on the bright side, which makes her great company.",
+      "ex2": "Look on the bright side — at least you learned something from the experience.",
+      "word": "look on the bright side",
+      "example": "Even when things go wrong, try to look on the bright side."
+    },
+    {
+      "pos": "n.",
+      "uz": "do'st, yoldosh",
+      "ru": "приятель, друг",
+      "en": "A friend or companion, often used informally.",
+      "ex1": "She is a good mate — always there when you need her.",
+      "ex2": "We have been mates since our first day at university.",
+      "word": "mate",
+      "example": "He went to the match with his mates."
+    },
+    {
+      "pos": "n.",
+      "uz": "qaynona",
+      "ru": "свекровь / тёща",
+      "en": "The mother of your husband or wife.",
+      "ex1": "His mother-in-law is a very warm and generous person.",
+      "ex2": "Building a good relationship with your mother-in-law takes patience.",
+      "word": "mother-in-law",
+      "example": "She cooks dinner for her mother-in-law every Sunday."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bir-birini",
+      "ru": "друг друга",
+      "en": "Each other; used to show a mutual relationship.",
+      "ex1": "They respected one another's opinions during the discussion.",
+      "ex2": "Good friends listen to one another without judgement.",
+      "word": "one another",
+      "example": "The students helped one another prepare for the exam."
+    },
+    {
+      "pos": "n.",
+      "uz": "do'st, yaqin",
+      "ru": "приятель",
+      "en": "An informal word for a friend.",
+      "ex1": "She is a great pal — funny, loyal and supportive.",
+      "ex2": "We were pals from the moment we met.",
+      "word": "pal",
+      "example": "He spent the weekend with his old pals."
+    },
+    {
+      "pos": "n.",
+      "uz": "tengdosh, tengqur",
+      "ru": "ровесник, сверстник",
+      "en": "A person who is the same age or has the same status as you.",
+      "ex1": "Peer pressure can influence teenagers' decisions significantly.",
+      "ex2": "He performed much better than his peers in the science test.",
+      "word": "peer",
+      "example": "She is well respected among her peers."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "birovga to'sqinlik qilmoq",
+      "ru": "мешать кому-либо делать что-либо",
+      "en": "To stop someone from doing something.",
+      "ex1": "She couldn't prevent her brother from making a big mistake.",
+      "ex2": "Rules are there to prevent people from acting unsafely.",
+      "word": "prevent sb from",
+      "example": "The bad weather prevented us from going on the trip."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ishonmoq, tayanmoq",
+      "ru": "полагаться на",
+      "en": "To depend on someone or something for support.",
+      "ex1": "The project relies on good teamwork.",
+      "ex2": "She relies on public transport to get to work every day.",
+      "word": "rely on",
+      "example": "You can always rely on a true friend."
+    },
+    {
+      "pos": "phrase",
+      "uz": "hisobga olmoq",
+      "ru": "принимать что-либо во внимание",
+      "en": "To think carefully about a factor when making a decision.",
+      "ex1": "The teacher took the student's personal situation into consideration.",
+      "ex2": "All options should be taken into consideration before deciding.",
+      "word": "take sth into consideration",
+      "example": "Please take the deadline into consideration when planning your work."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "odatda ... qilmoq",
+      "ru": "иметь тенденцию, склонять к",
+      "en": "To usually do or be something.",
+      "ex1": "Introverts tend to prefer smaller social gatherings.",
+      "ex2": "He tends to overthink things before making a decision.",
+      "word": "tend to",
+      "example": "She tends to arrive early for important meetings."
+    },
+    {
+      "pos": "adj.",
+      "uz": "juda yaqin (do'stlik haqida)",
+      "ru": "тесный, близкий (о дружбе)",
+      "en": "Having a very close and strong relationship.",
+      "ex1": "Our group of friends is very tight.",
+      "ex2": "She and her cousin are tight — they talk every day.",
+      "word": "tight",
+      "example": "They've been tight since childhood and tell each other everything."
+    },
+    {
+      "pos": "v.",
+      "uz": "ko'ngilli bo'lmoq",
+      "ru": "добровольно предлагать помощь",
+      "en": "To offer to do something without being paid or asked.",
+      "ex1": "He volunteered to help organise the school event.",
+      "ex2": "Volunteering is a great way to develop new skills.",
+      "word": "volunteer",
+      "example": "She volunteers at the local animal shelter every Saturday."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hamkorlikka tayyor",
+      "ru": "сотрудничающий, готовый к взаимодействию",
+      "en": "Willing to work with others and be helpful.",
+      "ex1": "The students were cooperative during the group project.",
+      "ex2": "She was cooperative and always willing to share ideas.",
+      "word": "cooperative",
+      "example": "A cooperative team member makes everyone's work easier."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ishtiyoqli, qiziquvchi",
+      "ru": "стремящийся, полный энтузиазма",
+      "en": "Showing keen interest or enthusiasm.",
+      "ex1": "He was eager to impress his new employer.",
+      "ex2": "The students were eager to start the new project.",
+      "word": "eager",
+      "example": "She was eager to learn as much as possible."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ekstravertli, ochiq",
+      "ru": "экстравертный",
+      "en": "Confident, outgoing, and energised by social interaction.",
+      "ex1": "She is very extroverted and loves meeting new people.",
+      "ex2": "An extroverted personality is often an advantage in sales roles.",
+      "word": "extroverted",
+      "example": "Extroverted people tend to enjoy group activities."
+    },
+    {
+      "pos": "adj.",
+      "uz": "introvertli, ichiga yopiq",
+      "ru": "интровертный",
+      "en": "Shy and preferring to focus on inner thoughts rather than social life.",
+      "ex1": "Introverted people often need quiet time to recharge.",
+      "ex2": "Being introverted doesn't mean you can't be confident.",
+      "word": "introverted",
+      "example": "He is introverted but very thoughtful and creative."
+    },
+    {
+      "pos": "adj.",
+      "uz": "optimistik, umidvor",
+      "ru": "оптимистичный",
+      "en": "Hopeful and confident about the future.",
+      "ex1": "Try to stay optimistic — things will improve.",
+      "ex2": "An optimistic attitude helps you recover from setbacks faster.",
+      "word": "optimistic",
+      "example": "She remained optimistic even when things went wrong."
+    },
+    {
+      "pos": "adj.",
+      "uz": "pessimistik, umidsiz",
+      "ru": "пессимистичный",
+      "en": "Expecting bad things to happen.",
+      "ex1": "Don't be pessimistic — you have prepared well.",
+      "ex2": "A pessimistic view can hold you back from trying new things.",
+      "word": "pessimistic",
+      "example": "He was pessimistic about his chances of passing the exam."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ishonchli",
+      "ru": "надёжный",
+      "en": "Consistently dependable and trustworthy.",
+      "ex1": "A reliable friend always keeps their promises.",
+      "ex2": "Is this source reliable enough to use in the essay?",
+      "word": "reliable",
+      "example": "She is one of the most reliable members of the team."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xudbin",
+      "ru": "эгоистичный",
+      "en": "Caring only about yourself and not about others.",
+      "ex1": "A selfish attitude damages teamwork.",
+      "ex2": "She regretted being selfish and apologised to her friend.",
+      "word": "selfish",
+      "example": "It was selfish of him to take the last portion without asking."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qaysarlik, o'jar",
+      "ru": "упрямый",
+      "en": "Refusing to change your opinion or behaviour.",
+      "ex1": "She was stubborn about her decision to study abroad.",
+      "ex2": "A stubborn approach can sometimes lead to conflict.",
+      "word": "stubborn",
+      "example": "He was too stubborn to admit he was wrong."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qo'llab-quvvatlovchi",
+      "ru": "поддерживающий",
+      "en": "Giving help and encouragement to others.",
+      "ex1": "A supportive team makes difficult tasks much easier.",
+      "ex2": "He is always supportive when his friends are going through hard times.",
+      "word": "supportive",
+      "example": "Her parents were very supportive of her career choice."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tayyor, rozi",
+      "ru": "готовый, согласный",
+      "en": "Ready or happy to do something.",
+      "ex1": "Are you willing to take on extra responsibilities?",
+      "ex2": "He is always willing to help others without being asked.",
+      "word": "willing",
+      "example": "She was willing to stay late to finish the project."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "adv.",
+      "uz": "aslida, haqiqatda",
+      "ru": "на самом деле, фактически",
+      "en": "Used to emphasise the truth of something, especially when it is surprising.",
+      "ex1": "She actually finished the marathon despite her injury.",
+      "ex2": "Actually, I think you might be wrong about that.",
+      "word": "actually",
+      "example": "I thought the film would be boring, but it was actually brilliant."
+    },
+    {
+      "pos": "n.",
+      "uz": "tana tili",
+      "ru": "язык тела",
+      "en": "The way you communicate through physical movements and gestures.",
+      "ex1": "Good speakers use confident body language.",
+      "ex2": "He crossed his arms, which his body language revealed his discomfort.",
+      "word": "body language",
+      "example": "Her body language showed she was nervous during the interview."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "yangiliklar almashmoq, quvib etmoq",
+      "ru": "наверстать упущенное, пообщаться",
+      "en": "To talk and share news with someone you haven't seen in a while.",
+      "ex1": "I need to catch up on the lessons I missed.",
+      "ex2": "Let's catch up soon — I have so much to tell you!",
+      "word": "catch up",
+      "example": "We met for coffee to catch up after months apart."
+    },
+    {
+      "pos": "v.",
+      "uz": "bog'lanmoq",
+      "ru": "связываться, обращаться",
+      "en": "To communicate with someone by phone, email, or in person.",
+      "ex1": "She contacted her doctor as soon as she felt unwell.",
+      "ex2": "He contacted several companies before finding a job.",
+      "word": "contact",
+      "example": "Please contact us if you have any questions."
+    },
+    {
+      "pos": "v.",
+      "uz": "ishontirmoq",
+      "ru": "убеждать",
+      "en": "To make someone believe something or agree to do something.",
+      "ex1": "He couldn't convince the manager to change the deadline.",
+      "ex2": "The evidence convinced the jury of his innocence.",
+      "word": "convince",
+      "example": "She convinced her parents to let her study abroad."
+    },
+    {
+      "pos": "adv.",
+      "uz": "samarali tarzda",
+      "ru": "эффективно",
+      "en": "In a way that produces the desired result.",
+      "ex1": "The new system works more effectively than the old one.",
+      "ex2": "You need to manage your time effectively to meet the deadline.",
+      "word": "effectively",
+      "example": "She communicates effectively in both English and Uzbek."
+    },
+    {
+      "pos": "n.",
+      "uz": "yuz ifodasi",
+      "ru": "выражение лица",
+      "en": "The look on someone's face that shows how they feel.",
+      "ex1": "A genuine smile involves the whole face, not just the lips.",
+      "ex2": "He tried to hide his emotions, but his facial expression gave him away.",
+      "word": "facial expression",
+      "example": "Her facial expression made it clear she was disappointed."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "xabardor qilmoq",
+      "ru": "вводить в курс дела",
+      "en": "To give someone information they have missed.",
+      "ex1": "She filled her colleague in on the latest developments.",
+      "ex2": "He asked his friend to fill him in after missing the lecture.",
+      "word": "fill sb in",
+      "example": "Can you fill me in on what happened at the meeting?"
+    },
+    {
+      "pos": "n. phrase",
+      "uz": "muloqot shakli",
+      "ru": "форма общения",
+      "en": "A method or way of sharing information with others.",
+      "ex1": "Writing letters is a more personal form of communication.",
+      "ex2": "Gesture is an important non-verbal form of communication.",
+      "word": "form of communication",
+      "example": "Social media has become a major form of communication."
+    },
+    {
+      "pos": "n.",
+      "uz": "imo-ishora",
+      "ru": "жест",
+      "en": "A movement of your body to express or emphasise something.",
+      "ex1": "He made a gesture to signal that everything was fine.",
+      "ex2": "Different cultures interpret the same gesture in different ways.",
+      "word": "gesture",
+      "example": "A thumbs up is a common gesture for approval."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "kimdir bilan til topishmoq",
+      "ru": "ладить с кем-либо",
+      "en": "To have a friendly relationship with someone.",
+      "ex1": "Do you get along with your neighbours?",
+      "ex2": "They didn't get along at first, but grew to be great friends.",
+      "word": "get along with sb",
+      "example": "She gets along with everyone at work."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "topmoq, muloqotga kirishmoq",
+      "ru": "связаться с кем-либо, найти",
+      "en": "To contact someone or obtain something.",
+      "ex1": "Can you get hold of the report before the meeting?",
+      "ex2": "It's hard to get hold of tickets for the concert.",
+      "word": "get hold of",
+      "example": "I tried to get hold of her all morning but she didn't answer."
+    },
+    {
+      "pos": "phrase",
+      "uz": "birov bilan gaplashmoq",
+      "ru": "поговорить с кем-либо",
+      "en": "To have a short, often serious, conversation with someone.",
+      "ex1": "Could I have a word with you in private?",
+      "ex2": "She had a word with her manager about the workload.",
+      "word": "have a word (with sb)",
+      "example": "The teacher asked to have a word with him after class."
+    },
+    {
+      "pos": "phrase",
+      "uz": "shaxsan, yuzma-yuz",
+      "ru": "лично, вживую",
+      "en": "Meeting or doing something physically rather than remotely.",
+      "ex1": "She applied for the job in person rather than online.",
+      "ex2": "Meeting in person helps build stronger relationships.",
+      "word": "in person",
+      "example": "It's much better to discuss this in person."
+    },
+    {
+      "pos": "phrase",
+      "uz": "yakkama-yakka, sir saqlab",
+      "ru": "наедине, в частном порядке",
+      "en": "Away from others; not in public.",
+      "ex1": "Let's discuss this in private so others don't hear.",
+      "ex2": "He preferred to deal with sensitive matters in private.",
+      "word": "in private",
+      "example": "She asked to speak with the manager in private."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'zaro muloqot",
+      "ru": "взаимодействие, общение",
+      "en": "Communication or direct involvement with others.",
+      "ex1": "The app encourages interaction between students.",
+      "ex2": "Positive interaction with customers is essential in retail.",
+      "word": "interaction",
+      "example": "Regular interaction with native speakers improves fluency."
+    },
+    {
+      "pos": "v.",
+      "uz": "bo'ldinmoq, so'zni kesib qo'ymoq",
+      "ru": "прерывать",
+      "en": "To stop someone from speaking or doing something.",
+      "ex1": "He interrupted the meeting with an urgent announcement.",
+      "ex2": "Please don't interrupt — let me finish my point.",
+      "word": "interrupt",
+      "example": "It is rude to interrupt someone while they are speaking."
+    },
+    {
+      "pos": "n.",
+      "uz": "mehribonlik, yaxshi munosabat",
+      "ru": "доброта",
+      "en": "The quality of being friendly, generous, and considerate.",
+      "ex1": "She showed great kindness to the new student.",
+      "ex2": "Kindness costs nothing but means everything.",
+      "word": "kindness",
+      "example": "A small act of kindness can make a big difference."
+    },
+    {
+      "pos": "phrase",
+      "uz": "aloqani yo'qotmoq",
+      "ru": "потерять связь",
+      "en": "To no longer have contact with someone.",
+      "ex1": "I lost touch with many school friends over the years.",
+      "ex2": "It's easy to lose touch when everyone gets busy.",
+      "word": "lose touch",
+      "example": "They lost touch after moving to different cities."
+    },
+    {
+      "pos": "n.",
+      "uz": "sadoqat",
+      "ru": "лояльность, верность",
+      "en": "Being faithful and committed to someone or something.",
+      "ex1": "She showed great loyalty to her team during the crisis.",
+      "ex2": "Customer loyalty is built through trust and quality service.",
+      "word": "loyalty",
+      "example": "Loyalty is one of the most important qualities in a friendship."
+    },
+    {
+      "pos": "v.",
+      "uz": "saqlab qolmoq, davom ettirmoq",
+      "ru": "поддерживать, сохранять",
+      "en": "To keep something in good condition or continue something.",
+      "ex1": "She works hard to maintain a healthy lifestyle.",
+      "ex2": "The company maintains high standards in all its products.",
+      "word": "maintain",
+      "example": "It takes effort to maintain a long-distance friendship."
+    },
+    {
+      "pos": "n. phrase",
+      "uz": "muloqot vositasi",
+      "ru": "средство (общения)",
+      "en": "A method used to communicate or convey information.",
+      "ex1": "Social media is a powerful means of communication today.",
+      "ex2": "Face-to-face conversation is still the most effective means of communication.",
+      "word": "means of (communication)",
+      "example": "Email is a widely used means of communication in business."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yodda qolarli, unutilmas",
+      "ru": "запоминающийся, незабываемый",
+      "en": "Worth remembering because it is special or unusual.",
+      "ex1": "She gave a memorable performance that the audience loved.",
+      "ex2": "That holiday was one of the most memorable of my life.",
+      "word": "memorable",
+      "example": "The graduation ceremony was a truly memorable event."
+    },
+    {
+      "pos": "n.",
+      "uz": "noto'g'ri tushunish",
+      "ru": "недопонимание",
+      "en": "A failure to understand something correctly.",
+      "ex1": "A misunderstanding in communication can cause serious problems.",
+      "ex2": "They cleared up the misunderstanding quickly and moved on.",
+      "word": "misunderstanding",
+      "example": "The argument was the result of a simple misunderstanding."
+    },
+    {
+      "pos": "n.",
+      "uz": "yagona farzand",
+      "ru": "единственный ребёнок",
+      "en": "A child with no brothers or sisters.",
+      "ex1": "Being an only child taught him to be independent.",
+      "ex2": "Some only children find it hard to share at first.",
+      "word": "only child",
+      "example": "As an only child, she was very close to her parents."
+    },
+    {
+      "pos": "n.",
+      "uz": "shaxsiyat / xarakter",
+      "ru": "личность / характер",
+      "en": "The qualities and traits that make someone who they are.",
+      "ex1": "He has a strong character and never gives up.",
+      "ex2": "Personality and character develop through experiences.",
+      "word": "personality/character",
+      "example": "Her cheerful personality makes her easy to be around."
+    },
+    {
+      "pos": "n.",
+      "uz": "xususiyat, belgi",
+      "ru": "черта (характера)",
+      "en": "A particular quality or feature of someone's personality.",
+      "ex1": "Patience is a trait that many great teachers share.",
+      "ex2": "Her most noticeable trait is her incredible determination.",
+      "word": "trait",
+      "example": "Honesty is one of his most admirable traits."
+    },
+    {
+      "pos": "n.",
+      "uz": "sifat, xususiyat",
+      "ru": "качество, свойство",
+      "en": "A feature or characteristic, especially a good one.",
+      "ex1": "She has many qualities that make her an excellent teacher.",
+      "ex2": "Reliability is a quality that employers look for in candidates.",
+      "word": "quality",
+      "example": "Leadership is a quality valued in many jobs."
+    },
+    {
+      "pos": "v.",
+      "uz": "muloqotga chiqmoq, bog'lanmoq",
+      "ru": "связаться, добраться",
+      "en": "To contact or communicate with someone.",
+      "ex1": "She tried to reach her friend but got no answer.",
+      "ex2": "The best way to reach customers is through social media.",
+      "word": "reach",
+      "example": "You can reach me by email at any time."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "qayta qo'ng'iroq qilmoq",
+      "ru": "перезвонить кому-либо",
+      "en": "To call someone again after they have called you.",
+      "ex1": "She asked him to ring her back when he was free.",
+      "ex2": "He forgot to ring back and apologised the next day.",
+      "word": "ring sb back",
+      "example": "I'm busy right now — I'll ring you back in an hour."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "anglatmoq, ifodalmoq",
+      "ru": "означать, символизировать",
+      "en": "To represent or mean something.",
+      "ex1": "What does this symbol stand for?",
+      "ex2": "The flag stands for the values of the country.",
+      "word": "stand for",
+      "example": "'UN' stands for United Nations."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "o'chirmoq; chalg'imoq",
+      "ru": "выключить; отключиться",
+      "en": "To stop listening or paying attention; to turn something off.",
+      "ex1": "He switched off his phone during the lecture.",
+      "ex2": "You need to switch off and relax over the weekend.",
+      "word": "switch off",
+      "example": "She finds it hard to switch off from work in the evenings."
+    },
+    {
+      "pos": "adj.",
+      "uz": "odatdagi, tipik",
+      "ru": "типичный, обычный",
+      "en": "Having the usual qualities expected of something or someone.",
+      "ex1": "A typical school day starts at eight o'clock.",
+      "ex2": "This is a typical example of miscommunication.",
+      "word": "typical",
+      "example": "It's typical of him to arrive late."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tushunuvchan, bag'rikeng",
+      "ru": "понимающий, сочувствующий",
+      "en": "Showing sympathy and awareness of others' feelings.",
+      "ex1": "He appreciated having such an understanding partner.",
+      "ex2": "An understanding approach helps resolve conflicts peacefully.",
+      "word": "understanding",
+      "example": "Her teacher was very understanding when she explained the situation."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "yangilash / yangilik",
+      "ru": "обновлять / обновление",
+      "en": "To give the latest information; or the information itself.",
+      "ex1": "The app needs a software update to run properly.",
+      "ex2": "She sent a quick update to let everyone know the news.",
+      "word": "update",
+      "example": "Please update me on any changes to the plan."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Men ma'lum darajada roziman.",
+      "ru": "Я согласен до определённой степени.",
+      "en": "Used to partially agree with a point.",
+      "ex1": "I agree to a certain extent — social media can be useful, but also harmful.",
+      "ex2": "She said she agreed to a certain extent but had some reservations.",
+      "word": "I agree to a certain extent.",
+      "example": "I agree to a certain extent, but I think there are other factors too."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Ma'lum darajada roziman.",
+      "ru": "Я согласен до определённого момента.",
+      "en": "Used to say you partially agree, but not completely.",
+      "ex1": "He agreed up to a point but felt the policy went too far.",
+      "ex2": "I agree up to a point — exercise helps, but diet matters more.",
+      "word": "I agree up to a point.",
+      "example": "I agree up to a point, but the situation is more complex than that."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Mening fikrimcha, ...",
+      "ru": "По моему мнению, ...",
+      "en": "Used to introduce a personal opinion.",
+      "ex1": "To my mind, students learn best when they feel safe.",
+      "ex2": "To my mind, the solution is simpler than people think.",
+      "word": "To my mind, ...",
+      "example": "To my mind, communication is the key to a successful relationship."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Men aytmoqchi bo'lganim shuki, ...",
+      "ru": "Я имею в виду ...",
+      "en": "Used to clarify or explain what you are trying to say.",
+      "ex1": "I wasn't criticising you. What I mean is, we could do it differently.",
+      "ex2": "What I mean is that everyone deserves a second chance.",
+      "word": "What I mean is ...",
+      "example": "What I mean is, we should think carefully before deciding."
+    }
+  ],
+  "p4": [
+    {
+      "pos": "phrase",
+      "uz": "bir qator, turli xil",
+      "ru": "ряд, разнообразие",
+      "en": "A variety of different things.",
+      "ex1": "She has a range of skills that make her very employable.",
+      "ex2": "The museum has a range of exhibitions for all ages.",
+      "word": "a range of",
+      "example": "The school offers a range of after-school activities."
+    },
+    {
+      "pos": "n.",
+      "uz": "arzon narx, foydali bitim",
+      "ru": "выгодная сделка, удачная покупка",
+      "en": "Something bought at a lower price than usual.",
+      "ex1": "This coat was a real bargain — half the original price.",
+      "ex2": "Shoppers look for bargains during the sales period.",
+      "word": "bargain",
+      "example": "She found a great bargain at the market."
+    },
+    {
+      "pos": "n.",
+      "uz": "kelishuv, bitim",
+      "ru": "сделка, договор",
+      "en": "An agreement or arrangement, often involving money.",
+      "ex1": "The company signed a new deal with a major supplier.",
+      "ex2": "That's a great deal — you should take it!",
+      "word": "deal",
+      "example": "They made a deal to share the cost of the trip."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'rgazma",
+      "ru": "выставка",
+      "en": "A public display of art, objects, or information.",
+      "ex1": "The science museum is hosting an interactive exhibition.",
+      "ex2": "The photography exhibition attracted thousands of visitors.",
+      "word": "exhibition",
+      "example": "She visited an exhibition of modern art at the gallery."
+    },
+    {
+      "pos": "idiom",
+      "uz": "juda yaxshi vaqt o'tkazmoq",
+      "ru": "классно провести время",
+      "en": "To have a very enjoyable time.",
+      "ex1": "She had a blast on her trip to Istanbul.",
+      "ex2": "The kids had a blast at the theme park.",
+      "word": "have a blast",
+      "example": "We had a blast at the end-of-year school party."
+    },
+    {
+      "pos": "adj.",
+      "uz": "interaktiv, faol ishtirokli",
+      "ru": "интерактивный",
+      "en": "Involving communication between people or between people and technology.",
+      "ex1": "She prefers interactive apps to traditional textbooks.",
+      "ex2": "The museum's interactive displays made learning fun.",
+      "word": "interactive",
+      "example": "The interactive lesson kept students engaged throughout."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "umidini puchga chiqarmoq",
+      "ru": "подводить кого-либо",
+      "en": "To disappoint someone by failing to do what was expected.",
+      "ex1": "He let her down by forgetting their important meeting.",
+      "ex2": "She promised not to let him down again.",
+      "word": "let sb down",
+      "example": "Don't let your team down — do your part properly."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hayratlanarli, ajoyib",
+      "ru": "поразительный, сногсшибательный",
+      "en": "Extremely impressive or surprising.",
+      "ex1": "The special effects in the film were mind-blowing.",
+      "ex2": "Learning how the brain works is truly mind-blowing.",
+      "word": "mind-blowing",
+      "example": "The view from the top of the mountain was mind-blowing."
+    },
+    {
+      "pos": "n.",
+      "uz": "so'rov, iltimos",
+      "ru": "просьба, запрос",
+      "en": "A formal or polite asking for something.",
+      "ex1": "The manager received many requests for flexible hours.",
+      "ex2": "Your request has been received and will be reviewed shortly.",
+      "word": "request",
+      "example": "She made a request for extra time during the exam."
+    },
+    {
+      "pos": "n.",
+      "uz": "sayr, yurish",
+      "ru": "прогулка",
+      "en": "A slow, relaxed walk.",
+      "ex1": "A morning stroll helps clear your mind.",
+      "ex2": "She took a stroll through the park to enjoy the sunshine.",
+      "word": "stroll",
+      "example": "They went for a stroll along the river after dinner."
+    },
+    {
+      "pos": "phrase",
+      "uz": "... haqida aytganda",
+      "ru": "Что касается ...",
+      "en": "Used to introduce a new topic or change the subject.",
+      "ex1": "As for the cost, we can discuss that later.",
+      "ex2": "As for me, I prefer to work in the mornings.",
+      "word": "As for ...",
+      "example": "As for the homework, it's due next Monday."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Men ham qatnashaman!",
+      "ru": "Я в деле! Записывайте меня!",
+      "en": "Used to say you want to join or take part in something.",
+      "ex1": "If you're organising a study group, count me in!",
+      "ex2": "She heard about the volunteering event and said, 'Count me in!'",
+      "word": "Count me in!",
+      "example": "A trip to the seaside? Count me in!"
+    }
+  ]
+}

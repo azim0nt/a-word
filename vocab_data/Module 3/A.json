@@ -1,0 +1,606 @@
+{
+  "p1": [
+    {
+      "pos": "v.",
+      "uz": "kirish imkoniga ega bo'lmoq",
+      "ru": "получать доступ, обращаться",
+      "en": "To be able to reach, enter, or use something.",
+      "ex1": "She accessed the city council's findings online.",
+      "ex2": "Not everyone can access affordable healthcare easily.",
+      "word": "access",
+      "example": "Residents can now access the new pedestrian area by footpath."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qulay, qo'lga kiritish mumkin",
+      "ru": "доступный",
+      "en": "Easy to reach, use, or understand.",
+      "ex1": "Public transport should be affordable and accessible.",
+      "ex2": "The city council aimed to make all pedestrian areas accessible.",
+      "word": "accessible",
+      "example": "The new footpath made the park accessible to all residents."
+    },
+    {
+      "pos": "v.",
+      "uz": "qabul qilmoq, ko'rmoq (chora)",
+      "ru": "принимать, усваивать",
+      "en": "To start using a new method, plan, or way of living.",
+      "ex1": "Many residents adopted eco-friendly lifestyles to help the environment.",
+      "ex2": "The council voted to adopt the extension proposal.",
+      "word": "adopt",
+      "example": "The city council adopted a workable plan to reduce traffic congestion."
+    },
+    {
+      "pos": "adj.",
+      "uz": "arzon, qo'lga kiradigan",
+      "ru": "доступный по цене",
+      "en": "Not too expensive; within reach of most people.",
+      "ex1": "Affordable public transport helps reduce traffic congestion.",
+      "ex2": "She looked for an affordable alternative to driving to work.",
+      "word": "affordable",
+      "example": "The city council proposed affordable housing along with new footpaths."
+    },
+    {
+      "pos": "adj./adv.",
+      "uz": "bir-biriga o'xshash, xuddi shunday",
+      "ru": "похожий, одинаково",
+      "en": "Similar or in the same way.",
+      "ex1": "Urban and rural communities alike face environmental challenges.",
+      "ex2": "Young and old alike benefited from the new pedestrian area.",
+      "word": "alike",
+      "example": "The plan was supported by residents and officials alike."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bilan birga, hamda",
+      "ru": "вместе с, наряду с",
+      "en": "In addition to; together with.",
+      "ex1": "The findings, along with residents' feedback, were published online.",
+      "ex2": "She adopted a healthy lifestyle along with regular exercise.",
+      "word": "along with",
+      "example": "Along with the new footpath, the council added cycling lanes."
+    },
+    {
+      "pos": "n.",
+      "uz": "muqobil, boshqa variant",
+      "ru": "альтернатива, другой вариант",
+      "en": "Another option that can be chosen instead.",
+      "ex1": "The council proposed several alternatives to the controversial plan.",
+      "ex2": "She found an affordable alternative to taking the car.",
+      "word": "alternative",
+      "example": "Cycling is a good alternative to driving in urban areas."
+    },
+    {
+      "pos": "v.",
+      "uz": "taqiqlamoq",
+      "ru": "запрещать",
+      "en": "To officially say something is not allowed.",
+      "ex1": "Several cities have banned diesel cars to reduce emissions.",
+      "ex2": "They proposed banning construction during peak traffic hours.",
+      "word": "ban",
+      "example": "The city council voted to ban private vehicles from the pedestrian area."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "foyda ko'rmoq / foyda",
+      "ru": "извлекать пользу / польза",
+      "en": "To gain an advantage from something; an advantage or positive effect.",
+      "ex1": "The extension of the footpath will benefit numerous commuters.",
+      "ex2": "Clean air is one of the key benefits of reducing traffic congestion.",
+      "word": "benefit",
+      "example": "Residents benefit from having a pedestrian area in the city centre."
+    },
+    {
+      "pos": "n.",
+      "uz": "sabab; yaxshi maqsad",
+      "ru": "причина; дело, цель",
+      "en": "The reason something happens; also a goal worth fighting for.",
+      "ex1": "She volunteered for a cause she truly believed in.",
+      "ex2": "Reducing emissions is a cause that the city council strongly supports.",
+      "word": "cause",
+      "example": "Traffic congestion is a major cause of air pollution in urban areas."
+    },
+    {
+      "pos": "n.",
+      "uz": "shahar kengashi",
+      "ru": "городской совет",
+      "en": "The group of elected people responsible for running a city.",
+      "ex1": "Residents were invited to inquire about the council's findings.",
+      "ex2": "The city council proposed a ban on vehicles in the urban centre.",
+      "word": "city council",
+      "example": "The city council approved the construction of a new pedestrian area."
+    },
+    {
+      "pos": "n.",
+      "uz": "tugatish, yakunlash",
+      "ru": "завершение, окончание",
+      "en": "The act of finishing something.",
+      "ex1": "Upon completion, the new pedestrian area will serve thousands of residents.",
+      "ex2": "The construction project is close to completion.",
+      "word": "completion",
+      "example": "The completion of the footpath extension was delayed by bad weather."
+    },
+    {
+      "pos": "n.",
+      "uz": "qurilish",
+      "ru": "строительство",
+      "en": "The process of building something.",
+      "ex1": "The construction caused traffic congestion for several weeks.",
+      "ex2": "Residents complained about noise during the construction phase.",
+      "word": "construction",
+      "example": "Construction of the new pedestrian area begins next month."
+    },
+    {
+      "pos": "v.",
+      "uz": "o'z ichiga olmoq, ushlab turmoq",
+      "ru": "содержать, сдерживать",
+      "en": "To include something; or to keep something under control.",
+      "ex1": "Measures were put in place to contain emissions from vehicles.",
+      "ex2": "The pack contained leaflets about the new urban pedestrian area.",
+      "word": "contain",
+      "example": "The report contained the council's findings on traffic congestion."
+    },
+    {
+      "pos": "adj.",
+      "uz": "munozarali, bahs-munozaraga sabab bo'ladigan",
+      "ru": "спорный, вызывающий разногласия",
+      "en": "Causing strong disagreement or debate.",
+      "ex1": "The controversial construction plan divided local residents.",
+      "ex2": "Numerous residents protested the controversial extension proposal.",
+      "word": "controversial",
+      "example": "The ban on private vehicles was a controversial decision."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "uddalаmoq, bardosh bermoq",
+      "ru": "справляться с чем-либо",
+      "en": "To deal successfully with a difficult situation.",
+      "ex1": "She found it hard to cope with the noise from the construction site.",
+      "ex2": "Volunteers helped residents cope with the impact of the controversial changes.",
+      "word": "cope with",
+      "example": "Urban infrastructure often struggles to cope with heavy traffic congestion."
+    },
+    {
+      "pos": "adj.",
+      "uz": "samarali, unumli",
+      "ru": "эффективный, производительный",
+      "en": "Working well without wasting time or resources.",
+      "ex1": "The city council proposed a more efficient alternative to the current plan.",
+      "ex2": "Solar panels are an efficient and affordable source of energy.",
+      "word": "efficient",
+      "example": "An efficient public transport system can reduce traffic congestion significantly."
+    },
+    {
+      "pos": "n.",
+      "uz": "chiqindi (gaz), ifloslanish",
+      "ru": "выброс (газов)",
+      "en": "Gas or other substances released into the air, often harmful.",
+      "ex1": "Electric buses produce far fewer emissions than diesel ones.",
+      "ex2": "Numerous measures were proposed to cut emissions from construction vehicles.",
+      "word": "emission",
+      "example": "The council aimed to reduce vehicle emissions in the urban centre."
+    },
+    {
+      "pos": "v.",
+      "uz": "ta'minlamoq, kafolatlаmoq",
+      "ru": "обеспечивать, гарантировать",
+      "en": "To make certain that something will happen.",
+      "ex1": "She worked to ensure that the findings were published quickly.",
+      "ex2": "The extension was designed to ensure smooth traffic flow.",
+      "word": "ensure",
+      "example": "The city council ensured that all footpaths were safe and accessible."
+    },
+    {
+      "pos": "v.",
+      "uz": "uzaytirmoq, kengaytirmoq",
+      "ru": "расширять, продлевать",
+      "en": "To make something longer, larger, or cover more.",
+      "ex1": "They planned to extend the footpath to include the urban park.",
+      "ex2": "The deadline for the construction was extended by two weeks.",
+      "word": "extend",
+      "example": "The council voted to extend the pedestrian area along the riverside."
+    },
+    {
+      "pos": "n.",
+      "uz": "kengaytirish, uzaytirish",
+      "ru": "расширение, продление",
+      "en": "An addition that makes something longer or bigger.",
+      "ex1": "She applied for an extension to complete the findings report.",
+      "ex2": "The extension of the pedestrian area was welcomed by volunteers.",
+      "word": "extension",
+      "example": "The extension of the footpath will benefit numerous residents."
+    },
+    {
+      "pos": "n.",
+      "uz": "omil",
+      "ru": "фактор",
+      "en": "Something that contributes to a result or situation.",
+      "ex1": "The council considered numerous factors before adopting the plan.",
+      "ex2": "Affordability is an important factor when choosing an alternative lifestyle.",
+      "word": "factor",
+      "example": "Traffic congestion is a key factor in urban air pollution."
+    },
+    {
+      "pos": "n.",
+      "uz": "topilmalar, natijalar",
+      "ru": "результаты, выводы",
+      "en": "The results or conclusions of a study or investigation.",
+      "ex1": "Her findings confirmed that the pedestrian area had improved well-being.",
+      "ex2": "Residents were invited to inquire about the findings at a public meeting.",
+      "word": "findings",
+      "example": "The council published its findings on traffic congestion and emissions."
+    },
+    {
+      "pos": "n.",
+      "uz": "piyodalar yo'li",
+      "ru": "пешеходная дорожка",
+      "en": "A narrow path for walking, often through countryside or a park.",
+      "ex1": "The footpath extension made the park accessible to all residents.",
+      "ex2": "She took the footpath through the urban park to avoid congestion.",
+      "word": "footpath",
+      "example": "A new footpath was constructed along the river to reduce traffic."
+    },
+    {
+      "pos": "n.",
+      "uz": "shaxs, alohida odam",
+      "ru": "отдельный человек, личность",
+      "en": "A single person, considered separately from a group.",
+      "ex1": "The plan benefits every individual who lives in the urban area.",
+      "ex2": "Volunteers were praised as individuals committed to a worthy cause.",
+      "word": "individual",
+      "example": "Each individual in the community can make a difference."
+    },
+    {
+      "pos": "phrase",
+      "uz": "so'ramoq, qiziqmoq",
+      "ru": "спрашивать, интересоваться",
+      "en": "To ask for information about something.",
+      "ex1": "She inquired about the findings from the urban traffic study.",
+      "ex2": "He called to inquire about affordable alternatives to driving.",
+      "word": "inquire about",
+      "example": "Residents can inquire about the construction timeline at the city council."
+    },
+    {
+      "pos": "v.",
+      "uz": "o'z ichiga olmoq, jalb qilmoq",
+      "ru": "включать, вовлекать",
+      "en": "To include or require something as part of a process.",
+      "ex1": "The project involved numerous volunteers from across the city.",
+      "ex2": "Reducing emissions involves adopting a more sustainable lifestyle.",
+      "word": "involve",
+      "example": "The plan involved banning private vehicles from the pedestrian area."
+    },
+    {
+      "pos": "n.",
+      "uz": "turmush tarzi",
+      "ru": "образ жизни",
+      "en": "The way a person or group lives, including habits and activities.",
+      "ex1": "A healthy lifestyle can significantly improve your well-being.",
+      "ex2": "She changed her lifestyle to reduce her impact on the environment.",
+      "word": "lifestyle",
+      "example": "Adopting an urban lifestyle often means relying more on public transport."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bog'liq, aloqador",
+      "ru": "связанный с, обусловленный",
+      "en": "Connected to or associated with something else.",
+      "ex1": "Poor well-being is often linked to a lack of green spaces.",
+      "ex2": "The construction delays were linked to funding issues.",
+      "word": "linked to",
+      "example": "Traffic congestion is directly linked to increased emissions."
+    },
+    {
+      "pos": "phrase",
+      "uz": "o'zgarish qilmoq, muhim bo'lmoq",
+      "ru": "иметь значение, изменить ситуацию",
+      "en": "To have a positive effect on a situation.",
+      "ex1": "Even small changes in lifestyle can make a difference to the environment.",
+      "ex2": "She believed that every individual could make a difference.",
+      "word": "make a difference",
+      "example": "Volunteers make a real difference to the quality of urban spaces."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ko'p, juda ko'plab",
+      "ru": "многочисленный",
+      "en": "A large number of.",
+      "ex1": "There are numerous benefits to having pedestrian areas in cities.",
+      "ex2": "She reviewed numerous findings before writing her report.",
+      "word": "numerous",
+      "example": "Numerous residents attended the city council meeting."
+    },
+    {
+      "pos": "n.",
+      "uz": "to'plam, paket",
+      "ru": "пачка, набор",
+      "en": "A set of items together; or a group.",
+      "ex1": "She received a pack containing the findings and the proposal.",
+      "ex2": "A pack of volunteers helped with the construction of the footpath.",
+      "word": "pack",
+      "example": "The council distributed a pack of information to all residents."
+    },
+    {
+      "pos": "n.",
+      "uz": "piyodalar hududi",
+      "ru": "пешеходная зона",
+      "en": "A zone in a town or city where vehicles are not allowed.",
+      "ex1": "Numerous residents supported the extension of the pedestrian area.",
+      "ex2": "The controversial ban on cars created a vibrant pedestrian area.",
+      "word": "pedestrian area",
+      "example": "The new pedestrian area reduced traffic congestion in the city centre."
+    },
+    {
+      "pos": "adv.",
+      "uz": "ilgari, avval",
+      "ru": "ранее, прежде",
+      "en": "Before a particular time or event.",
+      "ex1": "The council had previously published findings on urban emissions.",
+      "ex2": "She had previously volunteered for the same cause.",
+      "word": "previously",
+      "example": "The footpath had previously been used only by cyclists."
+    },
+    {
+      "pos": "v.",
+      "uz": "davom etmoq, oldinga bormoq",
+      "ru": "продолжать, приступать",
+      "en": "To continue doing something or move forward with a plan.",
+      "ex1": "She was unsure whether to proceed with the controversial proposal.",
+      "ex2": "They proceeded with the extension despite numerous objections.",
+      "word": "proceed",
+      "example": "The council voted to proceed with the construction of the footpath."
+    },
+    {
+      "pos": "v.",
+      "uz": "taqiqlamoq, man etmoq",
+      "ru": "запрещать, не допускать",
+      "en": "To officially forbid something by law or rule.",
+      "ex1": "Emissions above a certain level are now prohibited in the urban zone.",
+      "ex2": "Construction at night is prohibited to protect residents' well-being.",
+      "word": "prohibit",
+      "example": "The city council prohibited vehicles from entering the pedestrian area."
+    },
+    {
+      "pos": "v.",
+      "uz": "e'lon qilmoq, keng ommaga yetkazmoq",
+      "ru": "publicise: рекламировать, освещать в СМИ",
+      "en": "To make something known to the public.",
+      "ex1": "She volunteered to help publicise the cause on social media.",
+      "ex2": "The new pedestrian area was widely publicised before its completion.",
+      "word": "publicise",
+      "example": "The council worked hard to publicise its findings on traffic congestion."
+    },
+    {
+      "pos": "n.",
+      "uz": "sifat",
+      "ru": "качество",
+      "en": "How good or bad something is; a high standard.",
+      "ex1": "Reducing emissions is essential for air quality in cities.",
+      "ex2": "The well-being of residents depends on the quality of their environment.",
+      "word": "quality",
+      "example": "The extension of green footpaths improved the quality of urban life."
+    },
+    {
+      "pos": "n.",
+      "uz": "kamaytirish, qisqartirish",
+      "ru": "сокращение, уменьшение",
+      "en": "The act of making something smaller in size, amount, or degree.",
+      "ex1": "A reduction in emissions is one of the key goals of the city council.",
+      "ex2": "There has been a notable reduction in construction noise this month.",
+      "word": "reduction",
+      "example": "The new plan led to a significant reduction in traffic congestion."
+    },
+    {
+      "pos": "prep.",
+      "uz": "haqida, to'g'risida",
+      "ru": "относительно, что касается",
+      "en": "Concerning or on the subject of something.",
+      "ex1": "He inquired about the findings regarding emissions in the urban area.",
+      "ex2": "Residents had numerous concerns regarding the proposed ban.",
+      "word": "regarding",
+      "example": "She wrote to the city council regarding the controversial construction plan."
+    },
+    {
+      "pos": "n.",
+      "uz": "aholi, yashovchi",
+      "ru": "житель, резидент",
+      "en": "A person who lives in a particular place.",
+      "ex1": "Numerous residents supported the extension of the pedestrian area.",
+      "ex2": "The city council consulted residents before proceeding with the ban.",
+      "word": "resident",
+      "example": "Residents of the urban area were invited to comment on the findings."
+    },
+    {
+      "pos": "n.",
+      "uz": "tuproq",
+      "ru": "почва, грунт",
+      "en": "The top layer of the earth in which plants grow.",
+      "ex1": "Pollution threatens the quality of soil in urban areas.",
+      "ex2": "She planted trees to improve the soil and well-being of the community.",
+      "word": "soil",
+      "example": "Construction in the urban park damaged the soil and nearby footpaths."
+    },
+    {
+      "pos": "n.",
+      "uz": "omon qolish, tirik qolish",
+      "ru": "выживание",
+      "en": "The act of continuing to live or exist, especially in difficult conditions.",
+      "ex1": "Volunteers worked to ensure the survival of the community garden.",
+      "ex2": "The survival of the pedestrian area project required strong public support.",
+      "word": "survival",
+      "example": "The survival of green urban spaces depends on reducing emissions."
+    },
+    {
+      "pos": "v.",
+      "uz": "xavf tug'dirmoq, tahdid solmoq",
+      "ru": "угрожать, создавать угрозу",
+      "en": "To be likely to cause harm or damage to something.",
+      "ex1": "The controversial construction plan threatened the survival of the footpath.",
+      "ex2": "Pollution threatens the quality of soil in numerous urban areas.",
+      "word": "threaten",
+      "example": "Traffic congestion and emissions threaten the well-being of urban residents."
+    },
+    {
+      "pos": "n.",
+      "uz": "tirbandlik",
+      "ru": "дорожные пробки, заторы",
+      "en": "A situation where roads are so full of vehicles that traffic moves slowly.",
+      "ex1": "Traffic congestion is linked to increased emissions in urban areas.",
+      "ex2": "The pedestrian area was created to ease traffic congestion in the centre.",
+      "word": "traffic congestion",
+      "example": "The city council introduced a ban to reduce traffic congestion."
+    },
+    {
+      "pos": "adj.",
+      "uz": "shaharlik, shaharga oid",
+      "ru": "городской, урбанистический",
+      "en": "Related to a town or city.",
+      "ex1": "The city council aimed to improve urban well-being through green spaces.",
+      "ex2": "An urban lifestyle involves numerous challenges and benefits alike.",
+      "word": "urban",
+      "example": "Urban residents often cope with high levels of traffic congestion."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'ngilli",
+      "ru": "доброволец, волонтёр",
+      "en": "A person who does work without being paid, usually to help others.",
+      "ex1": "The cause attracted numerous volunteers from the local community.",
+      "ex2": "She became a volunteer to make a difference in her urban neighbourhood.",
+      "word": "volunteer",
+      "example": "Volunteers helped with the construction of the new footpath."
+    },
+    {
+      "pos": "n.",
+      "uz": "farovonlik, sog'lom yashash",
+      "ru": "благополучие, самочувствие",
+      "en": "The state of being healthy, comfortable, and happy.",
+      "ex1": "The city council's findings linked traffic congestion to poor well-being.",
+      "ex2": "Reducing emissions is essential for the well-being of the community.",
+      "word": "well-being",
+      "example": "Green spaces contribute significantly to the well-being of urban residents."
+    },
+    {
+      "pos": "adj.",
+      "uz": "amalga oshirib bo'ladigan, bajarish mumkin",
+      "ru": "осуществимый, реалистичный",
+      "en": "Practical and able to be done successfully.",
+      "ex1": "She proposed a workable plan to extend the footpath network.",
+      "ex2": "Not all suggestions are workable, but this one has real potential.",
+      "word": "workable",
+      "example": "The council needed a workable alternative to the controversial ban."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "v./n.",
+      "uz": "uzib qo'ymoq / ajralish",
+      "ru": "отключаться, разъединяться / разрыв связи",
+      "en": "To separate from something or stop being connected, especially from technology.",
+      "ex1": "A holiday in a remote area helps you truly disconnect from work.",
+      "ex2": "He felt a growing disconnect between urban life and his well-being.",
+      "word": "disconnect",
+      "example": "She needed to disconnect from social media to enjoy quality time outdoors."
+    },
+    {
+      "pos": "n.",
+      "uz": "iqtisodiyot",
+      "ru": "экономика",
+      "en": "The system of trade, industry, and money in a country or region.",
+      "ex1": "The city council considered the economic benefits of the pedestrian area.",
+      "ex2": "A strong economy can make leisure more affordable for residents.",
+      "word": "economy",
+      "example": "Recreational tourism plays an important role in the local economy."
+    },
+    {
+      "pos": "n.",
+      "uz": "bo'sh vaqt, dam olish",
+      "ru": "досуг, свободное время",
+      "en": "Free time when you are not working, used for relaxation or enjoyment.",
+      "ex1": "She enjoys leisure activities like cycling and hiking.",
+      "ex2": "The new recreational area gave residents more leisure options.",
+      "word": "leisure",
+      "example": "People are spending more leisure time in urban parks and green spaces."
+    },
+    {
+      "pos": "n.",
+      "uz": "kislorod",
+      "ru": "кислород",
+      "en": "The gas in the air that living things need to breathe.",
+      "ex1": "Reducing emissions helps maintain healthy oxygen levels in the atmosphere.",
+      "ex2": "Green footpaths surrounded by trees provide clean oxygen for residents.",
+      "word": "oxygen",
+      "example": "Trees in urban areas produce oxygen and improve air quality."
+    },
+    {
+      "pos": "phrase",
+      "uz": "tinchlik va sukunat",
+      "ru": "покой и тишина",
+      "en": "A calm and quiet environment, free from noise or disturbance.",
+      "ex1": "The new pedestrian area gave residents a place to enjoy peace and quiet.",
+      "ex2": "After the construction, they finally had peace and quiet.",
+      "word": "peace and quiet",
+      "example": "She moved away from the urban centre in search of peace and quiet."
+    },
+    {
+      "pos": "phrase",
+      "uz": "ijobiy va salbiy tomonlar",
+      "ru": "плюсы и минусы",
+      "en": "The advantages and disadvantages of something.",
+      "ex1": "She listed the pros and cons before deciding to volunteer.",
+      "ex2": "There are pros and cons to both urban and rural lifestyles.",
+      "word": "pros and cons",
+      "example": "The city council weighed up the pros and cons of the controversial ban."
+    },
+    {
+      "pos": "phrase",
+      "uz": "sifatli vaqt",
+      "ru": "качественное время (с близкими)",
+      "en": "Time spent doing meaningful activities, especially with family or friends.",
+      "ex1": "She valued quality time with her children over a busy social schedule.",
+      "ex2": "Disconnecting from technology helps people enjoy quality time.",
+      "word": "quality time",
+      "example": "The new recreational park gives families quality time together outdoors."
+    },
+    {
+      "pos": "n.",
+      "uz": "dam olish, ko'ngil ochish",
+      "ru": "отдых, развлечение",
+      "en": "Activities done for enjoyment or relaxation during free time.",
+      "ex1": "Recreation in green spaces is linked to improved well-being.",
+      "ex2": "The city council invested in recreation facilities for all residents.",
+      "word": "recreation",
+      "example": "The footpath was designed for recreation as well as commuting."
+    },
+    {
+      "pos": "adj.",
+      "uz": "dam olishga mo'ljallangan",
+      "ru": "рекреационный, досуговый",
+      "en": "Relating to activities done for fun or relaxation.",
+      "ex1": "Recreational cycling is a popular alternative to urban driving.",
+      "ex2": "She used the recreational footpath every weekend to disconnect and relax.",
+      "word": "recreational",
+      "example": "The recreational area attracted numerous volunteers and residents alike."
+    },
+    {
+      "pos": "n.",
+      "uz": "dam olish, hordiq chiqarish",
+      "ru": "расслабление, отдых",
+      "en": "The state of being free from stress; rest and enjoyment.",
+      "ex1": "Quality time in nature is one of the best forms of relaxation.",
+      "ex2": "The recreational park was created to offer residents a space for relaxation.",
+      "word": "relaxation",
+      "example": "She found relaxation by walking along the new footpath by the river."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qiyin (qaror)",
+      "ru": "трудное (решение)",
+      "en": "Difficult to make or deal with.",
+      "ex1": "It was a tough decision to proceed with the controversial construction plan.",
+      "ex2": "She admitted it was tough to balance economic growth with well-being.",
+      "word": "tough (decision)",
+      "example": "Banning vehicles from the urban centre was a tough decision for the council."
+    }
+  ]
+}

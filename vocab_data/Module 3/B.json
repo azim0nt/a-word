@@ -1,0 +1,1080 @@
+{
+  "p1": [
+    {
+      "pos": "n.",
+      "uz": "harakat, chora",
+      "ru": "действие, мера",
+      "en": "Something done to achieve a goal or deal with a situation.",
+      "ex1": "Crucial action is needed to reduce emissions in urban areas.",
+      "ex2": "She responded to the request by taking immediate action.",
+      "word": "action",
+      "example": "The community took action to support less fortunate residents."
+    },
+    {
+      "pos": "n.",
+      "uz": "yordam, ko'mak",
+      "ru": "помощь, содействие",
+      "en": "Help or support given to someone who needs it.",
+      "ex1": "She offered her assistance at the fundraising event.",
+      "ex2": "Volunteers gave assistance to less fortunate members of the community.",
+      "word": "assistance",
+      "example": "The organisation provided assistance to people in need."
+    },
+    {
+      "pos": "phrase",
+      "uz": "tasodifiy, tartibsiz",
+      "ru": "наугад, случайным образом",
+      "en": "Without any particular plan, pattern, or purpose.",
+      "ex1": "She picked a purchase at random from the reusable bag.",
+      "ex2": "Items were given away at random to highlight the cause.",
+      "word": "at random",
+      "example": "Winners were chosen at random from all the donations received."
+    },
+    {
+      "pos": "adv.",
+      "uz": "zo'rg'a, qiyinchilik bilan",
+      "ru": "едва, с трудом",
+      "en": "Only just; almost not at all.",
+      "ex1": "He barely had time to take a sip before the event started.",
+      "ex2": "The organisation barely covered costs despite a large percentage of donations.",
+      "word": "barely",
+      "example": "She could barely underestimate how much the community had grown."
+    },
+    {
+      "pos": "adj.",
+      "uz": "g'alati, ajib",
+      "ru": "странный, причудливый",
+      "en": "Very strange or unusual.",
+      "ex1": "He had a bizarre instinct to give away his purchase to a stranger.",
+      "ex2": "The community came up with a bizarre but effective way to promote the cause.",
+      "word": "bizarre",
+      "example": "It seemed bizarre that such a small action could make such a big difference."
+    },
+    {
+      "pos": "n.",
+      "uz": "jamiyat, mahalla",
+      "ru": "сообщество, общество",
+      "en": "A group of people living in the same area or sharing a common interest.",
+      "ex1": "She volunteered to highlight the issues facing her local community.",
+      "ex2": "A strong community responds to requests for assistance quickly.",
+      "word": "community",
+      "example": "The community came together to support those in need."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hal qiluvchi, juda muhim",
+      "ru": "решающий, крайне важный",
+      "en": "Extremely important or necessary.",
+      "ex1": "It is crucial to take action before the situation worsens.",
+      "ex2": "Spreading awareness is a crucial part of any fundraising campaign.",
+      "word": "crucial",
+      "example": "Empathy is crucial when working with less fortunate individuals."
+    },
+    {
+      "pos": "n.",
+      "uz": "chegirma",
+      "ru": "скидка",
+      "en": "A reduction in the usual price of something.",
+      "ex1": "She received a discount on her purchase as part of the promotion.",
+      "ex2": "A percentage of the discount was donated to the community fund.",
+      "word": "discount",
+      "example": "The shop offered a discount to encourage people to buy reusable bags."
+    },
+    {
+      "pos": "n.",
+      "uz": "xayriya, sovg'a",
+      "ru": "пожертвование, взнос",
+      "en": "Money or goods given to help people or a cause.",
+      "ex1": "The fundraising event raised a large percentage of its target through donations.",
+      "ex2": "Every donation, no matter how small, can make a crucial difference.",
+      "word": "donation",
+      "example": "She made a generous donation to support those in need."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hamdard, boshqalarni tushunuvchi",
+      "ru": "эмпатичный, сочувствующий",
+      "en": "Showing the ability to understand and share the feelings of others.",
+      "ex1": "She was empathetic toward less fortunate members of the community.",
+      "ex2": "An empathetic approach is crucial when responding to requests for assistance.",
+      "word": "empathetic",
+      "example": "A good volunteer should be empathetic and respond to people in need."
+    },
+    {
+      "pos": "n.",
+      "uz": "hamdardlik, tushunish",
+      "ru": "эмпатия, сочувствие",
+      "en": "The ability to understand and share the feelings of another person.",
+      "ex1": "She showed great empathy when responding to the needs of others.",
+      "ex2": "Empathy is a soft skill that is crucial in any community-based organisation.",
+      "word": "empathy",
+      "example": "Empathy motivates many people to give back to their communities."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "bepul bermoq, tarqatmoq",
+      "ru": "раздавать бесплатно",
+      "en": "To give something to others for free.",
+      "ex1": "She gave away a percentage of her profit to those in need.",
+      "ex2": "They gave away purchases at random to highlight the cause.",
+      "word": "give away",
+      "example": "The organisation gave away reusable bags to promote sustainability."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "qaytarmoq; jamiyatga hissa qo'shmoq",
+      "ru": "отдавать обратно; помогать обществу",
+      "en": "To return something; or to do something to help others in return for what you have received.",
+      "ex1": "He gave back by donating a percentage of his profit to charity.",
+      "ex2": "Volunteering is a great way to give back and respond to those in need.",
+      "word": "give back",
+      "example": "She wanted to give back to the community that had supported her."
+    },
+    {
+      "pos": "v.",
+      "uz": "ta'kidlamoq, ko'rsatmoq",
+      "ru": "выделять, акцентировать внимание",
+      "en": "To draw attention to something important.",
+      "ex1": "She used social media to highlight the community's request for donations.",
+      "ex2": "The event was designed to highlight the crucial role of empathy.",
+      "word": "highlight",
+      "example": "The campaign highlighted the struggles of less fortunate people."
+    },
+    {
+      "pos": "phrase",
+      "uz": "muhtoj, kerak bo'lgan",
+      "ru": "нуждающийся (в чём-либо)",
+      "en": "Requiring something; lacking the necessities of life.",
+      "ex1": "She donated reusable bags to families in need.",
+      "ex2": "Communities in need of support benefit greatly from volunteer action.",
+      "word": "in need (of)",
+      "example": "The organisation responds to those most in need of assistance."
+    },
+    {
+      "pos": "phrase",
+      "uz": "javob sifatida",
+      "ru": "в ответ на",
+      "en": "As a reaction or reply to something.",
+      "ex1": "She gave back to the charity in response to the request for assistance.",
+      "ex2": "In response to the campaign, numerous residents donated their purchases.",
+      "word": "in response to",
+      "example": "In response to the donation drive, the community raised a record amount."
+    },
+    {
+      "pos": "n.",
+      "uz": "nafs, instinkt",
+      "ru": "инстинкт, интуиция",
+      "en": "A natural tendency to behave in a certain way without thinking.",
+      "ex1": "He acted on instinct when he decided to give away his profit.",
+      "ex2": "A bizarre instinct led him to take a sip and then share the rest.",
+      "word": "instinct",
+      "example": "Her instinct was to respond immediately to those in need."
+    },
+    {
+      "pos": "v.",
+      "uz": "kiritmoq, taqdim etmoq",
+      "ru": "вводить, представлять",
+      "en": "To bring something new into use or present someone formally.",
+      "ex1": "The community introduced a donation scheme to help less fortunate residents.",
+      "ex2": "He was introduced at the event as the key motivation behind the campaign.",
+      "word": "introduce",
+      "example": "She introduced a reusable packaging option to promote sustainability."
+    },
+    {
+      "pos": "phrase",
+      "uz": "kamtarroq, imkoniyati cheklangan",
+      "ru": "менее удачливый, нуждающийся",
+      "en": "People who have fewer advantages or are in a worse situation than others.",
+      "ex1": "She donated a percentage of her profit to help less fortunate families.",
+      "ex2": "Empathy motivates many people to assist those less fortunate than themselves.",
+      "word": "less fortunate",
+      "example": "The campaign aimed to support less fortunate members of the community."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hashamatli, dabdabali",
+      "ru": "роскошный",
+      "en": "Very comfortable and expensive.",
+      "ex1": "The event was held at a luxurious venue to attract large donations.",
+      "ex2": "He felt bizarre spending money on luxurious purchases while others were in need.",
+      "word": "luxurious",
+      "example": "She gave up her luxurious lifestyle to volunteer in a less fortunate community."
+    },
+    {
+      "pos": "n.",
+      "uz": "hashamat, dabdaba",
+      "ru": "роскошь",
+      "en": "Something very expensive that is pleasant but not essential.",
+      "ex1": "She pointed out that luxury items were given away at random to raise funds.",
+      "ex2": "He considered quality time outdoors a luxury in his busy lifestyle.",
+      "word": "luxury",
+      "example": "For many, a reusable product is a luxury they cannot afford."
+    },
+    {
+      "pos": "n.",
+      "uz": "rag'bat, turtki",
+      "ru": "мотивация, побуждение",
+      "en": "The reason or desire that causes someone to do something.",
+      "ex1": "The campaign gave the community motivation to take crucial action.",
+      "ex2": "Seeing the impact of donations was motivation enough to continue giving back.",
+      "word": "motivation",
+      "example": "Her motivation for volunteering was a deep sense of empathy."
+    },
+    {
+      "pos": "n.",
+      "uz": "foiz",
+      "ru": "процент",
+      "en": "An amount expressed as a fraction of 100.",
+      "ex1": "She pointed out that a large percentage of the community had responded.",
+      "ex2": "The organisation gave away a percentage of its profit to local charities.",
+      "word": "percentage",
+      "example": "A percentage of all purchases was donated to those in need."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ko'rsatmoq, ta'kidlamoq",
+      "ru": "указывать, обращать внимание",
+      "en": "To draw attention to a fact or piece of information.",
+      "ex1": "He pointed out the bizarre inconsistency in the donation figures.",
+      "ex2": "The report pointed out that a large percentage of residents were in need.",
+      "word": "point out",
+      "example": "She pointed out that empathy is a crucial soft skill for volunteers."
+    },
+    {
+      "pos": "n.",
+      "uz": "foyda",
+      "ru": "прибыль",
+      "en": "Money gained after costs have been paid.",
+      "ex1": "She reinvested her profit into promoting reusable products.",
+      "ex2": "The fundraising event made a significant profit for those in need.",
+      "word": "profit",
+      "example": "The company donated a percentage of its profit to community causes."
+    },
+    {
+      "pos": "v.",
+      "uz": "targ'ib qilmoq, rag'batlantirmoq",
+      "ru": "продвигать, поощрять",
+      "en": "To support or encourage something; to raise awareness of it.",
+      "ex1": "She used social media to promote the donation drive.",
+      "ex2": "The organisation promoted reusable alternatives to single-use products.",
+      "word": "promote",
+      "example": "The campaign promoted empathy and giving back within the community."
+    },
+    {
+      "pos": "n.",
+      "uz": "xarid, sotib olish",
+      "ru": "покупка",
+      "en": "Something that has been bought.",
+      "ex1": "She gave away her purchase at random to someone in need.",
+      "ex2": "Choosing reusable products is a purchase that benefits the environment.",
+      "word": "purchase",
+      "example": "A percentage of every purchase was donated to a community fund."
+    },
+    {
+      "pos": "v.",
+      "uz": "so'ramoq, iltimos qilmoq",
+      "ru": "просить, запрашивать",
+      "en": "To ask for something formally or politely.",
+      "ex1": "The organisation requested a percentage of profits from local businesses.",
+      "ex2": "He requested that volunteers respond as quickly as possible.",
+      "word": "request",
+      "example": "She requested assistance from the community to support the donation drive."
+    },
+    {
+      "pos": "v.",
+      "uz": "javob bermoq, munosabat bildirmoq",
+      "ru": "реагировать, откликаться",
+      "en": "To say or do something as a reaction to something.",
+      "ex1": "She responded to those in need with empathy and action.",
+      "ex2": "He was moved to respond after seeing the highlight of the campaign.",
+      "word": "respond",
+      "example": "The community responded to the request with an overwhelming number of donations."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qayta ishlatiladigan",
+      "ru": "многоразовый",
+      "en": "Able to be used more than once.",
+      "ex1": "The organisation gave away reusable bottles to highlight the cause.",
+      "ex2": "Switching to reusable products is a crucial action for reducing waste.",
+      "word": "reusable",
+      "example": "She promoted reusable bags as a sustainable alternative to single-use ones."
+    },
+    {
+      "pos": "n.",
+      "uz": "ijtimoiy ko'nikma",
+      "ru": "мягкий навык, социальный навык",
+      "en": "A personal quality such as communication or empathy that helps you work with others.",
+      "ex1": "She highlighted soft skills as crucial for community work.",
+      "ex2": "Employers increasingly value soft skills alongside technical knowledge.",
+      "word": "soft skill",
+      "example": "Empathy is one of the most valuable soft skills a volunteer can have."
+    },
+    {
+      "pos": "v.",
+      "uz": "tarqatmoq, yoymoq",
+      "ru": "распространять",
+      "en": "To cause something to reach more people or cover a wider area.",
+      "ex1": "She spread the message by sharing the donation request on social media.",
+      "ex2": "Word spread quickly about the bizarre but effective promotion.",
+      "word": "spread",
+      "example": "The campaign spread awareness about the needs of less fortunate communities."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bir ho'plab ichmoq",
+      "ru": "сделать глоток",
+      "en": "To drink a small amount of a liquid.",
+      "ex1": "He took a sip and then passed the bottle to someone in need.",
+      "ex2": "Take a sip and consider how many people lack access to clean water.",
+      "word": "take a sip",
+      "example": "She took a sip of water before responding to the crowd at the fundraiser."
+    },
+    {
+      "pos": "phrase",
+      "uz": "vaqt ajratmoq",
+      "ru": "уделить время",
+      "en": "To make an effort to do something carefully and without rushing.",
+      "ex1": "He took the time to point out the crucial role of empathy.",
+      "ex2": "Taking the time to give back makes a crucial difference to a community.",
+      "word": "take the time",
+      "example": "She took the time to respond personally to every donation request."
+    },
+    {
+      "pos": "v.",
+      "uz": "past baholamoq, kam hisoblаmoq",
+      "ru": "недооценивать",
+      "en": "To think something is smaller or less important than it really is.",
+      "ex1": "She underestimated how much motivation the community would show.",
+      "ex2": "People often underestimate the value of soft skills like empathy.",
+      "word": "underestimate",
+      "example": "Don't underestimate the impact of a small donation on those in need."
+    },
+    {
+      "pos": "v.",
+      "uz": "guvoh bo'lmoq, ko'rmoq",
+      "ru": "быть свидетелем, наблюдать",
+      "en": "To see something happen, especially something important or unusual.",
+      "ex1": "He witnessed a bizarre act of kindness that motivated him to give back.",
+      "ex2": "Volunteers witnessed the crucial difference their assistance made.",
+      "word": "witness",
+      "example": "She witnessed the community's response to the donation drive firsthand."
+    },
+    {
+      "pos": "phrase",
+      "uz": "... haqida gap ketganda",
+      "ru": "Когда дело касается..., что касается...",
+      "en": "Used to introduce a topic you are about to discuss.",
+      "ex1": "When it comes to donations, every percentage counts.",
+      "ex2": "When it comes to soft skills, empathy is the most crucial of all.",
+      "word": "When it comes to...",
+      "example": "When it comes to empathy, actions speak louder than words."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "v.",
+      "uz": "amalga oshirmoq, bajarmoq",
+      "ru": "выполнять, достигать",
+      "en": "To succeed in doing or completing something.",
+      "ex1": "He accomplished the task despite numerous obstacles.",
+      "ex2": "Together, they accomplished something truly meaningful.",
+      "word": "accomplish",
+      "example": "She accomplished her goal of raising enough donations for the community."
+    },
+    {
+      "pos": "n.",
+      "uz": "muvaffaqiyat, yutuq",
+      "ru": "достижение, успех",
+      "en": "Something that has been done successfully; a skill or achievement.",
+      "ex1": "She listed her accomplishments confidently in the application.",
+      "ex2": "Every small action is an accomplishment worth celebrating.",
+      "word": "accomplishment",
+      "example": "Organising the fundraising event was a major accomplishment."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'rinish, tashqi qiyofa",
+      "ru": "внешность, вид",
+      "en": "The way someone or something looks.",
+      "ex1": "She made a strong first impression with her professional appearance.",
+      "ex2": "The appearance of the community space improved after the renovation.",
+      "word": "appearance",
+      "example": "Don't judge people by their appearance — focus on their soft skills."
+    },
+    {
+      "pos": "n.",
+      "uz": "ariza, murojaat",
+      "ru": "заявка, заявление",
+      "en": "A formal written request for something, such as a job or place.",
+      "ex1": "His application stood out because of his accomplishments and soft skills.",
+      "ex2": "The deadline for the application is the end of this month.",
+      "word": "application",
+      "example": "She submitted her application to volunteer at the non-profit organisation."
+    },
+    {
+      "pos": "v.",
+      "uz": "murojaat qilmoq / ariza topshirmoq",
+      "ru": "обращаться / подавать заявку",
+      "en": "To make a formal request for something; or to be relevant to something.",
+      "ex1": "These rules apply to all residents, without exception.",
+      "ex2": "He applied to the organisation to volunteer at their next fundraising event.",
+      "word": "apply (to)/(for)",
+      "example": "She decided to apply for the role of community coordinator."
+    },
+    {
+      "pos": "n.",
+      "uz": "qatnashish, tashrif",
+      "ru": "посещаемость, присутствие",
+      "en": "The act of going to or being present at a place or event.",
+      "ex1": "Regular attendance at events helps build a sense of community.",
+      "ex2": "She confirmed her attendance at the fundraising event in response to the request.",
+      "word": "attendance",
+      "example": "Attendance at the community meeting was higher than expected."
+    },
+    {
+      "pos": "n.",
+      "uz": "uyg'unlik, birikma",
+      "ru": "сочетание, комбинация",
+      "en": "A mixture of two or more things together.",
+      "ex1": "She used a combination of soft skills and technical knowledge.",
+      "ex2": "The success was down to a combination of hard work and motivation.",
+      "word": "combination",
+      "example": "A combination of empathy and action is crucial for community work."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "birlashtirmoq, qo'shmoq",
+      "ru": "сочетать с, объединять",
+      "en": "To put two or more things together.",
+      "ex1": "He combined volunteering with his studies to develop soft skills.",
+      "ex2": "Empathy combined with action makes a crucial difference.",
+      "word": "combine with",
+      "example": "She combined her donation drive with a community awareness campaign."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "diqqatni jamlamoq",
+      "ru": "сосредотачиваться на",
+      "en": "To focus your attention on something.",
+      "ex1": "He concentrated on his application to make the best impression.",
+      "ex2": "The campaign concentrated on highlighting the crucial role of donations.",
+      "word": "concentrate on",
+      "example": "She concentrated on spreading the message to less fortunate communities."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "adashtirib qo'ymoq",
+      "ru": "путать с чем-либо",
+      "en": "To mistake one thing or person for another.",
+      "ex1": "She confused the date of the fundraising event with the donation deadline.",
+      "ex2": "People often confuse accomplishment with luck.",
+      "word": "confuse with",
+      "example": "Don't confuse empathy with sympathy — they have different meanings."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "tabriklamoq",
+      "ru": "поздравлять с",
+      "en": "To express pleasure at someone's success or good fortune.",
+      "ex1": "He congratulated her on her successful application.",
+      "ex2": "The organisation congratulated volunteers on their crucial contributions.",
+      "word": "congratulate on",
+      "example": "She was congratulated on her accomplishments at the community event."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "bog'liq bo'lmoq, tayanmoq",
+      "ru": "зависеть от, полагаться на",
+      "en": "To rely on someone or something; to be determined by.",
+      "ex1": "Her motivation depended on witnessing the impact of her actions.",
+      "ex2": "A good impression at interview depends on your appearance and soft skills.",
+      "word": "depend on",
+      "example": "The success of the donation drive depends on community participation."
+    },
+    {
+      "pos": "v.",
+      "uz": "xayriya qilmoq, topshirmoq",
+      "ru": "жертвовать, делать пожертвование",
+      "en": "To give money, goods, or time to help a cause or organisation.",
+      "ex1": "He donated reusable items to those in need after the fundraising event.",
+      "ex2": "The organisation asked residents to donate whatever they could afford.",
+      "word": "donate",
+      "example": "She donated a percentage of her profit to the community fund."
+    },
+    {
+      "pos": "n.",
+      "uz": "imtihon; tekshirish",
+      "ru": "экзамен; осмотр",
+      "en": "A formal test; or a careful inspection of something.",
+      "ex1": "A thorough examination of the application revealed impressive accomplishments.",
+      "ex2": "The doctor carried out a brief examination before confirming the diagnosis.",
+      "word": "examination",
+      "example": "She passed the examination and was accepted to the volunteer programme."
+    },
+    {
+      "pos": "n.",
+      "uz": "ta'm, mazа",
+      "ru": "вкус, аромат",
+      "en": "The particular taste of a food or drink.",
+      "ex1": "The event offered a combination of flavours from different cultures.",
+      "ex2": "Every flavour of the reusable packaging had a different design.",
+      "word": "flavour",
+      "example": "She took a sip of each flavour before choosing her favourite."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "sirni oshkor qilmoq",
+      "ru": "выдавать (секрет), раскрывать",
+      "en": "To accidentally reveal something that was meant to be secret.",
+      "ex1": "He tried not to give away any hints about the surprise donation.",
+      "ex2": "Her smile gave away the fact that she had accomplished her goal.",
+      "word": "give away (=reveal a secret)",
+      "example": "Her appearance gave away how nervous she was about the application."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "voz kechmoq; topishdan to'xtatmoq",
+      "ru": "сдаваться, бросать; прекращать угадывать",
+      "en": "To stop doing something; or to stop trying to guess.",
+      "ex1": "He gave up trying to guess and asked directly.",
+      "ex2": "Don't give up — your accomplishments speak for themselves.",
+      "word": "give up (=stop doing sth / stop guessing)",
+      "example": "She refused to give up on her application despite the setbacks."
+    },
+    {
+      "pos": "v.",
+      "uz": "taassurot qoldirmoq",
+      "ru": "производить впечатление, впечатлять",
+      "en": "To make someone feel admiration or respect.",
+      "ex1": "His accomplishments impressed everyone at the fundraising event.",
+      "ex2": "A strong application will impress potential employers or organisations.",
+      "word": "impress",
+      "example": "She impressed the panel with her empathy and soft skills."
+    },
+    {
+      "pos": "n.",
+      "uz": "taassurot",
+      "ru": "впечатление",
+      "en": "The effect or feeling that someone or something creates.",
+      "ex1": "His appearance and motivation left a lasting impression on the panel.",
+      "ex2": "A confident application creates a strong impression of your accomplishments.",
+      "word": "impression",
+      "example": "She made an excellent first impression at the community volunteer interview."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "qat'iy talab qilmoq, isrorlаmoq",
+      "ru": "настаивать на",
+      "en": "To demand something firmly and refuse to accept otherwise.",
+      "ex1": "He insisted on attending the fundraising event despite his busy schedule.",
+      "ex2": "The organisation insisted on reusable packaging for all purchases.",
+      "word": "insist on",
+      "example": "She insisted on donating a percentage of all profits to charity."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "sarmoya kiritmoq, vaqt sarflamoq",
+      "ru": "вкладывать в, инвестировать",
+      "en": "To put money, time, or effort into something for a future benefit.",
+      "ex1": "The organisation invested in reusable equipment to reduce costs.",
+      "ex2": "Investing in community projects gives back long-term benefits.",
+      "word": "invest in",
+      "example": "She invested in developing her soft skills to improve her application."
+    },
+    {
+      "pos": "n.",
+      "uz": "ishtirok, faollik",
+      "ru": "участие, вовлечённость",
+      "en": "The act of taking part in something.",
+      "ex1": "He showed strong involvement in spreading awareness about the cause.",
+      "ex2": "Involvement in volunteer work builds empathy and soft skills.",
+      "word": "involvement",
+      "example": "Her involvement in the community fundraiser was crucial to its success."
+    },
+    {
+      "pos": "n.",
+      "uz": "ruxsat, ijozat",
+      "ru": "разрешение, позволение",
+      "en": "Official or formal agreement to do something.",
+      "ex1": "Permission to proceed was granted by the organisation.",
+      "ex2": "He applied for permission to organise the community fundraising event.",
+      "word": "permission",
+      "example": "She asked for permission to give away donated items at the event."
+    },
+    {
+      "pos": "v.",
+      "uz": "ruxsat bermoq",
+      "ru": "разрешать, позволять",
+      "en": "To allow someone to do something.",
+      "ex1": "She was permitted to apply for the role despite her lack of experience.",
+      "ex2": "The rules do not permit giving away items without prior permission.",
+      "word": "permit",
+      "example": "The council permitted volunteers to use the pedestrian area for the event."
+    },
+    {
+      "pos": "n.",
+      "uz": "qabul; kutib olish",
+      "ru": "приём; стойка регистрации",
+      "en": "A formal party or gathering; or the area where visitors are welcomed.",
+      "ex1": "She introduced herself at reception before the application interview.",
+      "ex2": "The warm reception from the community motivated her to give back more.",
+      "word": "reception",
+      "example": "The fundraising event ended with a reception for all volunteers."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "murojaat qilmoq; nazarda tutmoq",
+      "ru": "ссылаться на; подразумевать",
+      "en": "To mention or speak about something; or to look at something for information.",
+      "ex1": "He referred to the organisation's guidelines before donating.",
+      "ex2": "Please refer to the findings report for more information.",
+      "word": "refer to",
+      "example": "She referred to her accomplishments when completing the application."
+    },
+    {
+      "pos": "n.",
+      "uz": "qoniqish, mamnuniyat",
+      "ru": "удовлетворение",
+      "en": "The feeling of pleasure when you have done or achieved something.",
+      "ex1": "Accomplishing her goal gave her a deep sense of satisfaction.",
+      "ex2": "Volunteering brings a satisfaction that no luxurious purchase can match.",
+      "word": "satisfaction",
+      "example": "She felt great satisfaction from giving back to those in need."
+    },
+    {
+      "pos": "v.",
+      "uz": "qoniqtirmoq",
+      "ru": "удовлетворять",
+      "en": "To fulfil a need or desire; to make someone pleased.",
+      "ex1": "The application failed to satisfy the key requirements.",
+      "ex2": "Nothing satisfied her motivation quite like witnessing her impact.",
+      "word": "satisfy",
+      "example": "Helping others satisfied her need to give back to the community."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "n.",
+      "uz": "kislotali yomg'ir",
+      "ru": "кислотный дождь",
+      "en": "Rain that is made acidic by pollution and is harmful to the environment.",
+      "ex1": "The effects of acid rain on marine life are severe.",
+      "ex2": "Reducing fossil fuel use is crucial to preventing acid rain.",
+      "word": "acid rain",
+      "example": "Acid rain caused by exhaust fumes damages forests and soil."
+    },
+    {
+      "pos": "n.",
+      "uz": "faol fuqaro",
+      "ru": "активный гражданин",
+      "en": "A person who takes part in civic life and works to improve their community.",
+      "ex1": "She became an active citizen after volunteering at the non-profit organisation.",
+      "ex2": "Active citizens draw society's attention to issues like acid rain and oil spills.",
+      "word": "active citizen",
+      "example": "Every active citizen can raise awareness about global warming."
+    },
+    {
+      "pos": "n.",
+      "uz": "muvozanat",
+      "ru": "баланс, равновесие",
+      "en": "A state where different things are equal or in the right proportions.",
+      "ex1": "She tried to maintain a balance between fundraising and her studies.",
+      "ex2": "Active citizens work to restore the balance between development and nature.",
+      "word": "balance",
+      "example": "A good balance between work and leisure is essential for well-being."
+    },
+    {
+      "pos": "n.",
+      "uz": "kampaniya, harakat",
+      "ru": "кампания",
+      "en": "An organised series of activities to achieve a goal, especially a social or political one.",
+      "ex1": "The non-profit organisation launched a campaign to raise money for marine conservation.",
+      "ex2": "An effective campaign can motivate senior citizens and young people alike.",
+      "word": "campaign",
+      "example": "She led a campaign to raise awareness about the greenhouse effect."
+    },
+    {
+      "pos": "v.",
+      "uz": "qurilmani zaryadlash",
+      "ru": "заряжать устройство",
+      "en": "To supply a battery or device with electricity.",
+      "ex1": "She charged her device using renewable energy at the community centre.",
+      "ex2": "Always charge your device before attending an in-person fundraising event.",
+      "word": "charge (a device)",
+      "example": "He forgot to charge his phone and was left with a dead battery."
+    },
+    {
+      "pos": "v.",
+      "uz": "pul olmoq, to'lov talab qilmoq",
+      "ru": "брать плату, назначать цену",
+      "en": "To ask someone to pay a particular amount of money.",
+      "ex1": "They charged a small fee to cover the cost of reusable materials.",
+      "ex2": "She was surprised by how much they charged for the fundraiser ticket.",
+      "word": "charge (money)",
+      "example": "The non-profit organisation did not charge for attendance at the event."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'mir",
+      "ru": "уголь",
+      "en": "A hard black fossil fuel burned for energy, which produces high emissions.",
+      "ex1": "Many countries are replacing coal with renewable energy sources.",
+      "ex2": "She drew attention to the dangers of coal in her fundraising campaign.",
+      "word": "coal",
+      "example": "Burning coal is one of the leading causes of the greenhouse effect."
+    },
+    {
+      "pos": "n.",
+      "uz": "batareya quvvati tugagan",
+      "ru": "севшая батарея",
+      "en": "A battery that has no remaining charge and cannot power a device.",
+      "ex1": "He arrived at the event with a dead battery and no way to reach anyone.",
+      "ex2": "Always check for a dead battery before setting off on a long trip.",
+      "word": "dead battery",
+      "example": "She was unable to call for help because of a dead battery."
+    },
+    {
+      "pos": "phrase",
+      "uz": "birovning e'tiborini tortmoq",
+      "ru": "обратить чьё-либо внимание на",
+      "en": "To make someone notice something important.",
+      "ex1": "She drew the audience's attention to the impact of fossil fuels.",
+      "ex2": "He drew the senior citizens' attention to the rising effects of global warming.",
+      "word": "draw sb's attention to",
+      "example": "The campaign drew people's attention to the dangers of oil spills."
+    },
+    {
+      "pos": "phrase",
+      "uz": "pardani tortmoq",
+      "ru": "задёрнуть шторы",
+      "en": "To pull curtains across a window to block light.",
+      "ex1": "He drew the curtains before the in-person presentation began.",
+      "ex2": "Drawing the curtains helps maintain warmth and reduce heating costs.",
+      "word": "draw the curtains",
+      "example": "She drew the curtains to keep the room cool during the heatwave."
+    },
+    {
+      "pos": "n.",
+      "uz": "chiqindi gazlar, tutun",
+      "ru": "выхлопные газы",
+      "en": "Poisonous gases produced by vehicles burning fossil fuels.",
+      "ex1": "The campaign aimed to reduce exhaust fumes in urban pedestrian areas.",
+      "ex2": "She raised awareness about the impact of exhaust fumes on marine life.",
+      "word": "exhaust fumes",
+      "example": "Exhaust fumes from vehicles are a major cause of acid rain."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ekstremal, juda kuchli",
+      "ru": "экстремальный, чрезвычайный",
+      "en": "Very severe or intense; going beyond what is normal.",
+      "ex1": "She took extreme measures to raise money for the environmental campaign.",
+      "ex2": "The drought was so extreme that it threatened the entire region's water supply.",
+      "word": "extreme",
+      "example": "Extreme weather events are becoming more frequent due to global warming."
+    },
+    {
+      "pos": "n.",
+      "uz": "qazib olinadigan yoqilg'i",
+      "ru": "ископаемое топливо",
+      "en": "A natural fuel such as coal, oil, or gas formed from ancient organic material.",
+      "ex1": "The campaign promoted renewable energy as an alternative to fossil fuels.",
+      "ex2": "Reducing dependence on fossil fuels is crucial to slowing global warming.",
+      "word": "fossil fuel",
+      "example": "Burning fossil fuels is the main cause of the greenhouse effect."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qoniqarli, mazmunli",
+      "ru": "наполненный смыслом, приносящий удовлетворение",
+      "en": "Making you feel happy and satisfied because of what you are doing.",
+      "ex1": "Raising awareness about global warming was a fulfilling experience.",
+      "ex2": "He described fundraising as one of the most fulfilling things he had done.",
+      "word": "fulfilling",
+      "example": "She found volunteering for the non-profit organisation deeply fulfilling."
+    },
+    {
+      "pos": "n.",
+      "uz": "xayriya yig'uvchi; xayriya tadbiri",
+      "ru": "сборщик средств; благотворительное мероприятие",
+      "en": "A person who raises money for a cause; or an event held to collect funds.",
+      "ex1": "The fundraiser attracted senior citizens and young people alike.",
+      "ex2": "He organised a fundraiser to raise money for renewable energy projects.",
+      "word": "fundraiser",
+      "example": "She became a fundraiser for the marine conservation campaign."
+    },
+    {
+      "pos": "n.",
+      "uz": "xayriya tadbiri",
+      "ru": "благотворительное мероприятие",
+      "en": "An organised event held to collect money for a cause or charity.",
+      "ex1": "Attendance at the fundraising event exceeded all expectations.",
+      "ex2": "She combined the in-person campaign with an online fundraising event.",
+      "word": "fundraising event",
+      "example": "The non-profit organisation held a fundraising event to raise awareness about oil spills."
+    },
+    {
+      "pos": "n.",
+      "uz": "global isish",
+      "ru": "глобальное потепление",
+      "en": "The gradual increase in Earth's temperature caused by greenhouse gas emissions.",
+      "ex1": "The campaign aimed to draw people's attention to the effects of global warming.",
+      "ex2": "Senior citizens recalled how much the climate had changed due to global warming.",
+      "word": "global warming",
+      "example": "Global warming is linked to the burning of fossil fuels."
+    },
+    {
+      "pos": "n.",
+      "uz": "issiqxona effekti",
+      "ru": "парниковый эффект",
+      "en": "The trapping of the sun's heat in Earth's atmosphere by gases such as CO2.",
+      "ex1": "She explained the greenhouse effect at the school fundraising event.",
+      "ex2": "Reducing exhaust fumes is one way to slow down the greenhouse effect.",
+      "word": "greenhouse effect",
+      "example": "Coal and fossil fuels accelerate the greenhouse effect."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yuzma-yuz, bevosita",
+      "ru": "очный, лично",
+      "en": "Done by being physically present, not online.",
+      "ex1": "She preferred in-person meetings to discuss the campaign strategy.",
+      "ex2": "An in-person fundraiser draws more attention than an online campaign.",
+      "word": "in-person",
+      "example": "The fundraising event was held in-person for the first time in three years."
+    },
+    {
+      "pos": "adj.",
+      "uz": "dengizga oid, dengiz",
+      "ru": "морской",
+      "en": "Relating to the sea and the creatures that live in it.",
+      "ex1": "The non-profit organisation focused on protecting marine ecosystems.",
+      "ex2": "She raised money to fund a marine conservation campaign.",
+      "word": "marine",
+      "example": "Oil spills are extremely harmful to marine life."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ma'nosiz, behuda",
+      "ru": "бессмысленный",
+      "en": "Having no purpose, value, or meaning.",
+      "ex1": "She argued that extreme measures without public support were meaningless.",
+      "ex2": "A campaign becomes meaningless if it fails to draw people's attention.",
+      "word": "meaningless",
+      "example": "Without empathy, fundraising efforts can feel meaningless."
+    },
+    {
+      "pos": "adj.",
+      "uz": "rag'batlantiruvchi",
+      "ru": "мотивирующий",
+      "en": "Making you feel enthusiastic and ready to take action.",
+      "ex1": "She found the campaign slogan extremely motivating.",
+      "ex2": "Hearing about global warming can be terrifying, but also motivating.",
+      "word": "motivating",
+      "example": "Witnessing the impact of donations was deeply motivating for the team."
+    },
+    {
+      "pos": "n.",
+      "uz": "notijorat tashkilot",
+      "ru": "некоммерческая организация",
+      "en": "An organisation that uses money for its cause rather than making a profit.",
+      "ex1": "The non-profit organisation hosted a fundraising event about fossil fuels.",
+      "ex2": "Donations allow non-profit organisations to run campaigns without charging fees.",
+      "word": "non-profit organisation",
+      "example": "She volunteered for a non-profit organisation focused on renewable energy."
+    },
+    {
+      "pos": "n.",
+      "uz": "neft to'kilishi",
+      "ru": "разлив нефти",
+      "en": "An accident in which oil leaks into the sea or environment.",
+      "ex1": "The fundraising campaign raised money to clean up the oil spill.",
+      "ex2": "An oil spill can take decades to fully recover from.",
+      "word": "oil spill",
+      "example": "The oil spill caused extreme damage to the marine ecosystem."
+    },
+    {
+      "pos": "n.",
+      "uz": "aholi",
+      "ru": "население",
+      "en": "All the people living in a particular area or country.",
+      "ex1": "The campaign aimed to raise awareness among the entire population.",
+      "ex2": "Senior citizens make up a significant part of the urban population.",
+      "word": "population",
+      "example": "A growing population places more demand on fossil fuels and resources."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bola tarbiyalamoq",
+      "ru": "воспитывать ребёнка",
+      "en": "To care for and bring up a child until they are an adult.",
+      "ex1": "She raised her children to be empathetic and aware of global issues.",
+      "ex2": "Raising a child in an urban area involves unique challenges.",
+      "word": "raise a child",
+      "example": "Raising a child with good values helps create active citizens."
+    },
+    {
+      "pos": "phrase",
+      "uz": "xabardorlikni oshirmoq",
+      "ru": "повышать осведомлённость",
+      "en": "To help people learn about and understand an important issue.",
+      "ex1": "She used social media to raise awareness about marine oil spills.",
+      "ex2": "Active citizens raise awareness so that others can take action.",
+      "word": "raise awareness",
+      "example": "The campaign aimed to raise awareness about the greenhouse effect."
+    },
+    {
+      "pos": "phrase",
+      "uz": "pul yig'moq",
+      "ru": "собирать деньги",
+      "en": "To collect money, especially for a charity or good cause.",
+      "ex1": "She raised money to support the renewable energy campaign.",
+      "ex2": "Every donation helps raise money for those most in need.",
+      "word": "raise money",
+      "example": "The non-profit organisation held a fundraising event to raise money."
+    },
+    {
+      "pos": "n.",
+      "uz": "qayta tiklanadigan energiya",
+      "ru": "возобновляемая энергия",
+      "en": "Energy from sources that are naturally replenished, such as sun or wind.",
+      "ex1": "The campaign promoted renewable energy as an alternative to coal.",
+      "ex2": "She raised money to fund a renewable energy project in her community.",
+      "word": "renewable energy",
+      "example": "Switching to renewable energy is crucial to reducing the greenhouse effect."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "tugab qolmoq",
+      "ru": "закончиться, израсходовать",
+      "en": "To use all of something so that none is left.",
+      "ex1": "She ran out of motivation until she witnessed the campaign's impact.",
+      "ex2": "Many regions are running out of affordable fossil fuels.",
+      "word": "run out of",
+      "example": "The fundraiser ran out of reusable bags before the event ended."
+    },
+    {
+      "pos": "n.",
+      "uz": "keksa fuqaro, pensioner",
+      "ru": "пожилой гражданин, пенсионер",
+      "en": "An older person, usually retired.",
+      "ex1": "The non-profit organisation provided assistance to senior citizens in need.",
+      "ex2": "She drew attention to the impact of global warming on senior citizens.",
+      "word": "senior citizen",
+      "example": "Senior citizens attended the in-person fundraising event in large numbers."
+    },
+    {
+      "pos": "phrase",
+      "uz": "chora ko'rmoq",
+      "ru": "принимать меры",
+      "en": "To take action to deal with a problem or situation.",
+      "ex1": "She took measures to raise awareness about fossil fuels in her community.",
+      "ex2": "The government must take extreme measures to address global warming.",
+      "word": "take measures",
+      "example": "The city council took measures to reduce exhaust fumes in the urban area."
+    },
+    {
+      "pos": "n.",
+      "uz": "transport vositasi",
+      "ru": "транспортное средство",
+      "en": "A machine used for transporting people or goods.",
+      "ex1": "Electric vehicles produce fewer emissions than those powered by fossil fuels.",
+      "ex2": "She used a bicycle rather than a vehicle to reduce her environmental impact.",
+      "word": "vehicle",
+      "example": "The council banned vehicles from the pedestrian area to reduce exhaust fumes."
+    }
+  ],
+  "p4": [
+    {
+      "pos": "n.",
+      "uz": "tashvish, xavotir",
+      "ru": "тревога, беспокойство",
+      "en": "A feeling of worry or nervousness about something uncertain.",
+      "ex1": "Anxiety about global warming motivates many people to become active citizens.",
+      "ex2": "He managed his anxiety by focusing on the fulfilling aspects of the campaign.",
+      "word": "anxiety",
+      "example": "She felt anxiety before making her first in-person speech at the fundraiser."
+    },
+    {
+      "pos": "n.",
+      "uz": "velosiped yo'lagi",
+      "ru": "велосипедная дорожка",
+      "en": "A part of a road set aside for cyclists.",
+      "ex1": "She cycled to the fundraising event using the new bicycle lane.",
+      "ex2": "More bicycle lanes encourage people to use vehicles less and reduce emissions.",
+      "word": "bicycle lane",
+      "example": "The city council extended the bicycle lane to reduce vehicle exhaust fumes."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "ishga qatnab yurmoq / yo'l",
+      "ru": "ездить на работу / ежедневные поездки",
+      "en": "To travel regularly between home and work; the journey itself.",
+      "ex1": "A long daily commute can increase anxiety and affect well-being.",
+      "ex2": "The new bicycle lane made his commute faster and more fulfilling.",
+      "word": "commute",
+      "example": "She commuted by bicycle rather than car to reduce her emissions."
+    },
+    {
+      "pos": "n.",
+      "uz": "utilizatsiya, chiqindini yo'q qilish",
+      "ru": "утилизация, избавление",
+      "en": "The act of getting rid of something, especially waste.",
+      "ex1": "The non-profit organisation campaigned for better disposal of vehicle exhaust waste.",
+      "ex2": "Reusable products reduce the need for disposal of single-use packaging.",
+      "word": "disposal",
+      "example": "Proper disposal of fossil fuel waste is crucial for marine health."
+    },
+    {
+      "pos": "v.",
+      "uz": "imkon bermoq, yo'l ochmoq",
+      "ru": "давать возможность, позволять",
+      "en": "To make something possible; to give someone the ability to do something.",
+      "ex1": "The bicycle lane enabled more residents to commute without a vehicle.",
+      "ex2": "Education enables active citizens to take measures against global warming.",
+      "word": "enable",
+      "example": "Renewable energy enables communities to reduce dependence on fossil fuels."
+    },
+    {
+      "pos": "adj.",
+      "uz": "e'tiborsiz qoldirilgan, qarovsiz",
+      "ru": "заброшенный, о котором не заботятся",
+      "en": "Not looked after or given attention.",
+      "ex1": "She raised awareness about uncared marine habitats damaged by oil spills.",
+      "ex2": "The campaign highlighted uncared bicycle lanes that were unsafe to use.",
+      "word": "uncared",
+      "example": "Uncared green spaces contribute to anxiety and reduced well-being."
+    },
+    {
+      "pos": "phrase",
+      "uz": "E'tibor qaratish lozim bo'lgan yana bir narsa...",
+      "ru": "Ещё один момент, достойный упоминания...",
+      "en": "Used to add an extra important point to an argument.",
+      "ex1": "Another point worth mentioning is that bicycle lanes reduce traffic congestion.",
+      "ex2": "Another point worth mentioning is the anxiety caused by uncared urban spaces.",
+      "word": "Another point worth mentioning is...",
+      "example": "Another point worth mentioning is the impact of exhaust fumes on senior citizens."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Shuning uchun, demak...",
+      "ru": "Следовательно, поэтому...",
+      "en": "Used to introduce a conclusion or result that follows logically.",
+      "ex1": "Fossil fuels are running out; therefore, investing in renewable energy is crucial.",
+      "ex2": "She raised awareness; therefore, attendance at the fundraising event increased.",
+      "word": "Therefore, ...",
+      "example": "Global warming is accelerating; therefore, we must take extreme measures now."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Xulosa qilib aytganda...",
+      "ru": "В заключение...",
+      "en": "Used to introduce the final point or summary of an argument.",
+      "ex1": "To conclude, switching to renewable energy is the most fulfilling action we can take.",
+      "ex2": "To conclude, raising awareness is the first step toward meaningful change.",
+      "word": "To conclude, ...",
+      "example": "To conclude, every active citizen has a role to play in reducing global warming."
+    }
+  ]
+}

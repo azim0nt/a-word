@@ -1,0 +1,378 @@
+{
+  "p1": [
+    {
+      "pos": "idiom",
+      "uz": "ishga kirishmoq, jiddiy gaplashmoq",
+      "ru": "приступить к делу",
+      "en": "To start dealing with the serious or important matter at hand.",
+      "ex1": "She assessed her CV and decided to get down to business before the interview.",
+      "ex2": "Soft skills matter, but eventually you have to get down to business and collaborate.",
+      "word": "get down to business",
+      "example": "After the introduction, the manager said it was time to get down to business."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "n.",
+      "uz": "buxgalter, hisobchi",
+      "ru": "бухгалтер",
+      "en": "A person whose job is to manage financial records and accounts.",
+      "ex1": "She collaborated with the accountant to manage the soft skills training budget.",
+      "ex2": "Her CV listed accountant experience alongside collaboration and management skills.",
+      "word": "accountant",
+      "example": "The accountant assessed the company's finances before it went bankrupt."
+    },
+    {
+      "pos": "n.",
+      "uz": "moslashuvchanlik",
+      "ru": "адаптивность, приспособляемость",
+      "en": "The ability to adjust to new conditions or situations.",
+      "ex1": "The manager assessed adaptability alongside originality and collaboration in the CV.",
+      "ex2": "Her adaptability helped the team avoid going bankrupt during the difficult period.",
+      "word": "adaptability",
+      "example": "Adaptability is one of the most valued soft skills when running a business."
+    },
+    {
+      "pos": "n.",
+      "uz": "bahs, munozara",
+      "ru": "аргумент, спор",
+      "en": "A reason given to support or oppose something; or a disagreement.",
+      "ex1": "She consulted the management team and assessed each argument about running a business.",
+      "ex2": "Collaboration reduces workplace argument and improves productivity and soft skills.",
+      "word": "argument",
+      "example": "The employee made a strong argument for improving the dress code policy."
+    },
+    {
+      "pos": "v.",
+      "uz": "baholamoq, tahlil qilmoq",
+      "ru": "оценивать, анализировать",
+      "en": "To evaluate or judge the nature, quality, or ability of something.",
+      "ex1": "She assessed the argument about the dress code before consulting the employee.",
+      "ex2": "Assessing collaboration and teamwork helps management avoid the business going bankrupt.",
+      "word": "assess",
+      "example": "The manager assessed each CV for soft skills, adaptability and originality."
+    },
+    {
+      "pos": "n.",
+      "uz": "yordamchi, assistent",
+      "ru": "ассистент, помощник",
+      "en": "A person who helps someone else with their work.",
+      "ex1": "She was hired as an assistant after her CV demonstrated collaboration and soft skills.",
+      "ex2": "The assistant assessed rejection letters alongside the management team.",
+      "word": "assistant",
+      "example": "The assistant managed the dress code documents and consulted the accountant."
+    },
+    {
+      "pos": "v.",
+      "uz": "hamkorlik qilmoq",
+      "ru": "сотрудничать, совместно работать",
+      "en": "To work together with others to achieve a goal.",
+      "ex1": "Management assessed how well employees could collaborate under the dress code policy.",
+      "ex2": "Collaboration and adaptability are the soft skills most valued when running a business.",
+      "word": "collaborate",
+      "example": "She collaborated with the accountant and assistant to run the business efficiently."
+    },
+    {
+      "pos": "n.",
+      "uz": "hamkorlik, birgalikda ishlash",
+      "ru": "сотрудничество, коллаборация",
+      "en": "The action of working with someone to produce something.",
+      "ex1": "Her CV highlighted collaboration, adaptability, and originality as core soft skills.",
+      "ex2": "Management assessed the collaboration skills of every employee during the review.",
+      "word": "collaboration",
+      "example": "Collaboration between the assistant and accountant prevented the business going bankrupt."
+    },
+    {
+      "pos": "v.",
+      "uz": "maslahat so'ramoq, murojaat qilmoq",
+      "ru": "консультироваться, советоваться",
+      "en": "To ask someone for advice or information.",
+      "ex1": "The assistant consulted the employee about the dress code before updating the CV.",
+      "ex2": "Management consulted each collaboration partner to assess the risk of going bankrupt.",
+      "word": "consult",
+      "example": "She consulted the accountant before assessing the management argument."
+    },
+    {
+      "pos": "n.",
+      "uz": "rezyume, shaxsiy anketa",
+      "ru": "резюме, curriculum vitae",
+      "en": "A written summary of your education, qualifications, and work experience.",
+      "ex1": "The management team assessed every CV for relevant dress code and work experience.",
+      "ex2": "Her CV demonstrated the ability to run a business without facing rejection or going bankrupt.",
+      "word": "CV (Curriculum Vitae)",
+      "example": "She updated her CV to highlight soft skills like collaboration, adaptability, and originality."
+    },
+    {
+      "pos": "n.",
+      "uz": "kiyinish qoidalari",
+      "ru": "дресс-код",
+      "en": "A set of rules about what clothing is acceptable in a particular place.",
+      "ex1": "Assessing the dress code argument helped the assistant understand company soft skills.",
+      "ex2": "Collaboration between the accountant and management produced a clear dress code policy.",
+      "word": "dress code",
+      "example": "The employee consulted management about the dress code before her first day."
+    },
+    {
+      "pos": "n.",
+      "uz": "xodim, ishchi",
+      "ru": "сотрудник, работник",
+      "en": "A person who is paid to work for an organisation.",
+      "ex1": "The accountant managed employee salaries to prevent the business going bankrupt.",
+      "ex2": "She became an employee after her CV demonstrated originality and management skills.",
+      "word": "employee",
+      "example": "Every employee was assessed for soft skills, adaptability, and collaboration."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bankrot bo'lmoq",
+      "ru": "обанкротиться",
+      "en": "To be officially declared unable to pay your debts.",
+      "ex1": "The accountant assessed the finances and warned the employee about going bankrupt.",
+      "ex2": "She consulted the management team to avoid going bankrupt during the rejection period.",
+      "word": "go bankrupt",
+      "example": "Poor management and lack of collaboration caused the business to go bankrupt."
+    },
+    {
+      "pos": "v.",
+      "uz": "boshqarmoq, uddalаmoq",
+      "ru": "управлять, справляться",
+      "en": "To be in charge of something; or to succeed in doing something difficult.",
+      "ex1": "The employee managed the dress code policy after consulting management.",
+      "ex2": "Assessing soft skills helps management avoid going bankrupt when running a business.",
+      "word": "manage",
+      "example": "She managed the collaboration between the accountant and assistant efficiently."
+    },
+    {
+      "pos": "n.",
+      "uz": "boshqaruv, menejment",
+      "ru": "управление, менеджмент",
+      "en": "The process of controlling and organising an organisation or group.",
+      "ex1": "She assessed management alongside soft skills and adaptability in every CV.",
+      "ex2": "The assistant consulted management about the dress code and employee rejection process.",
+      "word": "management",
+      "example": "Good management and collaboration prevent the business from going bankrupt."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'ziga xoslik, originallik",
+      "ru": "оригинальность",
+      "en": "The ability to think or create in new and different ways.",
+      "ex1": "Her CV demonstrated originality in running a business and developing collaboration.",
+      "ex2": "Originality and soft skills are equally assessed during the employee recruitment process.",
+      "word": "originality",
+      "example": "The management team assessed originality and adaptability as key soft skills."
+    },
+    {
+      "pos": "n.",
+      "uz": "rad etish, qabul qilmaslik",
+      "ru": "отказ, отклонение",
+      "en": "The act of not accepting someone or something.",
+      "ex1": "The assistant consulted management about handling employee rejection professionally.",
+      "ex2": "Adaptability helps employees cope with rejection when running a business.",
+      "word": "rejection",
+      "example": "She faced rejection after her CV was assessed as lacking soft skills and collaboration."
+    },
+    {
+      "pos": "phrase",
+      "uz": "biznesni boshqarmoq",
+      "ru": "вести бизнес",
+      "en": "To manage and operate a company or commercial enterprise.",
+      "ex1": "The accountant managed the finances so she could run the business without going bankrupt.",
+      "ex2": "Assessing your CV for originality and management skills is essential to run a business.",
+      "word": "run a business",
+      "example": "She needed adaptability, collaboration, and strong soft skills to run a business."
+    },
+    {
+      "pos": "n.",
+      "uz": "ijtimoiy ko'nikmalar",
+      "ru": "мягкие навыки, социальные компетенции",
+      "en": "Personal qualities such as communication, teamwork, and adaptability that help you work well with others.",
+      "ex1": "Management assessed soft skills alongside the dress code and employee behaviour.",
+      "ex2": "To run a business, soft skills are as critical as technical accountant expertise.",
+      "word": "soft skills",
+      "example": "Her CV highlighted soft skills including collaboration, adaptability, and originality."
+    },
+    {
+      "pos": "n.",
+      "uz": "ishsizlik",
+      "ru": "безработица",
+      "en": "The state of not having a job; the number of people without jobs.",
+      "ex1": "The accountant managed finances carefully to prevent employee unemployment.",
+      "ex2": "Adaptability reduces unemployment risk when running a business in difficult conditions.",
+      "word": "unemployment",
+      "example": "Unemployment forced her to assess her CV and develop new soft skills."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "n.",
+      "uz": "duradgor, ustaxona",
+      "ru": "плотник, столяр",
+      "en": "A person whose job is making or repairing wooden objects and structures.",
+      "ex1": "Her profession as a carpenter required stability, lifting, and teamwork.",
+      "ex2": "The carpenter's salary was temporary but the profession offered long-term stability.",
+      "word": "carpenter",
+      "example": "The carpenter assessed the working environment before using heavy machinery."
+    },
+    {
+      "pos": "adj.",
+      "uz": "noizchil, qarama-qarshi",
+      "ru": "непоследовательный, непостоянный",
+      "en": "Not staying the same; changing in a way that is not predictable.",
+      "ex1": "The temporary salary was inconsistent, adding to the carpenter's insecurity.",
+      "ex2": "Irregular and inconsistent machinery maintenance increased work-related lifting risks.",
+      "word": "inconsistent",
+      "example": "Inconsistent productivity in the working environment caused instability in the team."
+    },
+    {
+      "pos": "n.",
+      "uz": "xavfsizlik yo'qligi, beqarorlik",
+      "ru": "неуверенность, нестабильность",
+      "en": "A feeling of uncertainty and anxiety about yourself or your situation.",
+      "ex1": "The carpenter's insecurity about irregular lifting tasks affected teamwork and productivity.",
+      "ex2": "Work-related insecurity increases when permanent stability in the profession declines.",
+      "word": "insecurity",
+      "example": "Temporary employment and inconsistent salary caused insecurity in the working environment."
+    },
+    {
+      "pos": "n.",
+      "uz": "to'xtash, bo'linish",
+      "ru": "прерывание, помеха",
+      "en": "Something that stops an activity for a period of time.",
+      "ex1": "The carpenter faced an interruption from inconsistent lifting equipment in the profession.",
+      "ex2": "Temporary interruptions in salary and stability increased work-related insecurity.",
+      "word": "interruption",
+      "example": "Irregular machinery interruptions reduced productivity and teamwork in the working environment."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tartibsiz, noto'g'ri",
+      "ru": "нерегулярный, непостоянный",
+      "en": "Not following a regular pattern; not consistent.",
+      "ex1": "The carpenter's salary was irregular and inconsistent, leading to work-related insecurity.",
+      "ex2": "Irregular machinery maintenance caused interruptions and reduced productivity.",
+      "word": "irregular",
+      "example": "Irregular lifting tasks in the working environment caused insecurity and instability."
+    },
+    {
+      "pos": "n.",
+      "uz": "og'ir narsa ko'tarish",
+      "ru": "подъём тяжестей",
+      "en": "The action of picking up or raising something heavy.",
+      "ex1": "Irregular lifting and inconsistent machinery increased work-related insecurity.",
+      "ex2": "The profession demanded lifting alongside teamwork, productivity, and stable working conditions.",
+      "word": "lifting",
+      "example": "Heavy lifting in the carpenter's working environment required permanent stability."
+    },
+    {
+      "pos": "n.",
+      "uz": "mashinalar, mexanizmlar",
+      "ru": "техника, механизмы, оборудование",
+      "en": "Machines or mechanical equipment used in industry or manufacturing.",
+      "ex1": "The carpenter assessed the working environment for safe lifting and machinery use.",
+      "ex2": "Work-related insecurity increased when inconsistent machinery caused instability.",
+      "word": "machinery",
+      "example": "Irregular machinery maintenance caused interruptions and reduced productivity."
+    },
+    {
+      "pos": "adj.",
+      "uz": "doimiy, abadiy",
+      "ru": "постоянный, бессрочный",
+      "en": "Lasting or intended to last indefinitely.",
+      "ex1": "The carpenter sought a permanent working environment to reduce insecurity.",
+      "ex2": "Permanent employment provides stability and reduces work-related inconsistency.",
+      "word": "permanent",
+      "example": "She left her temporary role for a permanent position offering salary stability."
+    },
+    {
+      "pos": "n.",
+      "uz": "samaradorlik, unumdorlik",
+      "ru": "производительность",
+      "en": "The efficiency with which work is done; how much output is produced.",
+      "ex1": "Teamwork and stability increased productivity in the carpenter's profession.",
+      "ex2": "Work-related interruptions and insecurity consistently lower productivity and morale.",
+      "word": "productivity",
+      "example": "Irregular machinery and inconsistent lifting reduced productivity in the working environment."
+    },
+    {
+      "pos": "n.",
+      "uz": "kasb, mutaxassislik",
+      "ru": "профессия",
+      "en": "A paid job that requires specialised training or education.",
+      "ex1": "Her profession offered permanent stability despite inconsistent and irregular salary periods.",
+      "ex2": "Work-related insecurity in the profession increased during irregular machinery interruptions.",
+      "word": "profession",
+      "example": "Carpentry is a profession that requires lifting, teamwork, and machinery expertise."
+    },
+    {
+      "pos": "n.",
+      "uz": "oylik maosh",
+      "ru": "зарплата, оклад",
+      "en": "A fixed regular payment for employment, usually paid monthly.",
+      "ex1": "She sought a permanent profession with a stable and regular salary.",
+      "ex2": "Work-related insecurity increased when the irregular salary failed to reflect productivity.",
+      "word": "salary",
+      "example": "The temporary salary was inconsistent and caused insecurity in the working environment."
+    },
+    {
+      "pos": "n.",
+      "uz": "barqarorlik",
+      "ru": "стабильность, устойчивость",
+      "en": "The quality of being firm, steady, and not likely to change.",
+      "ex1": "The carpenter valued stability and teamwork over an inconsistent temporary profession.",
+      "ex2": "Permanent employment provides stability, productivity, and reduces irregular interruptions.",
+      "word": "stability",
+      "example": "Stability in salary and working environment reduced work-related insecurity."
+    },
+    {
+      "pos": "adj.",
+      "uz": "barqaror, mustahkam",
+      "ru": "стабильный, устойчивый",
+      "en": "Not likely to change or fail; firmly established.",
+      "ex1": "She sought a stable profession with consistent machinery and regular lifting routines.",
+      "ex2": "Teamwork and productivity are stronger in a stable and permanent working environment.",
+      "word": "stable",
+      "example": "A stable salary and permanent working environment reduced the carpenter's insecurity."
+    },
+    {
+      "pos": "n.",
+      "uz": "jamoaviy ish",
+      "ru": "командная работа",
+      "en": "The ability to work cooperatively with others towards a shared goal.",
+      "ex1": "The carpenter's profession required stable teamwork and consistent productivity.",
+      "ex2": "Permanent stability increases teamwork and reduces work-related irregular interruptions.",
+      "word": "teamwork",
+      "example": "Teamwork in the working environment reduced machinery interruptions and insecurity."
+    },
+    {
+      "pos": "adj.",
+      "uz": "vaqtinchalik",
+      "ru": "временный",
+      "en": "Lasting for only a limited time; not permanent.",
+      "ex1": "The carpenter took a temporary profession while seeking permanent working environment stability.",
+      "ex2": "Temporary lifting roles increased insecurity and reduced long-term productivity.",
+      "word": "temporary",
+      "example": "Her temporary role lacked stability and offered an inconsistent, irregular salary."
+    },
+    {
+      "pos": "n.",
+      "uz": "ish muhiti",
+      "ru": "рабочая среда, рабочая обстановка",
+      "en": "The conditions and surroundings in which work is carried out.",
+      "ex1": "The carpenter assessed the working environment for irregular lifting and machinery risks.",
+      "ex2": "Teamwork and productivity improve when the working environment is permanent and stable.",
+      "word": "working environment",
+      "example": "A stable working environment with consistent machinery reduces insecurity and interruptions."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ish bilan bog'liq",
+      "ru": "связанный с работой",
+      "en": "Connected to or caused by your job or profession.",
+      "ex1": "The carpenter reported work-related interruptions from unstable machinery in the environment.",
+      "ex2": "Permanent stability reduces work-related insecurity and improves productivity.",
+      "word": "work-related",
+      "example": "Work-related insecurity increased with irregular salary and inconsistent lifting demands."
+    }
+  ]
+}

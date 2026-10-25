@@ -1,0 +1,960 @@
+{
+  "p1": [
+    {
+      "pos": "v.",
+      "uz": "shimib olmoq, o'zlashtirmoq",
+      "ru": "поглощать, впитывать",
+      "en": "To take in or soak up something, such as sound, light, or information.",
+      "ex1": "She interpreted how species absorb scent to sharpen their sense of surroundings.",
+      "ex2": "A whale uses its jaw to absorb high-frequency sound waves from its surroundings.",
+      "word": "absorb",
+      "example": "The predator's dark fur helps absorb sound waves and hide from prey."
+    },
+    {
+      "pos": "v.",
+      "uz": "sakramoq, qaytmoq",
+      "ru": "отражаться, отскакивать",
+      "en": "To spring back after hitting a surface; or for sound/light to reflect.",
+      "ex1": "She indicated how sound waves bounce off a predator's fin to echo back.",
+      "ex2": "The species uses sound waves that bounce off surfaces to sharpen its eyesight.",
+      "word": "bounce",
+      "example": "Dolphins bounce high-frequency sound waves off prey to interpret their surroundings."
+    },
+    {
+      "pos": "v.",
+      "uz": "ta'qib qilmoq, quvmoq",
+      "ru": "преследовать, гнаться",
+      "en": "To follow and try to catch someone or something.",
+      "ex1": "She interpreted how species chase prey by absorbing high-frequency scent waves.",
+      "ex2": "The gene determines how a predator chases and identifies prey by sound and eyesight.",
+      "word": "chase",
+      "example": "The predator used its paws and claws to chase prey through the surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "tirnoq, panja",
+      "ru": "коготь",
+      "en": "A curved, pointed nail on the foot of an animal or bird.",
+      "ex1": "She interpreted how the gene affects claw sharpness in different species.",
+      "ex2": "Identical claws across species indicate a shared gene for chasing and catching prey.",
+      "word": "claw",
+      "example": "The predator used its claw to chase and grip prey in its surroundings."
+    },
+    {
+      "pos": "v.",
+      "uz": "aks-sado bermoq",
+      "ru": "эхо, отдаваться эхом",
+      "en": "To reflect sound back; to repeat a sound.",
+      "ex1": "She indicated how dolphins echo sound waves off their fin to sense prey.",
+      "ex2": "The species uses echoing sound waves to chase prey and absorb scent signals.",
+      "word": "echo",
+      "example": "Bats echo high-frequency sound waves to interpret their dark surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'rish qobiliyati",
+      "ru": "зрение, зоркость",
+      "en": "The ability to see; visual perception.",
+      "ex1": "She interpreted how the gene affects eyesight and paw sensitivity in species.",
+      "ex2": "The species sharpens eyesight by absorbing image signals from its surroundings.",
+      "word": "eyesight",
+      "example": "Poor eyesight in predators is compensated by high-frequency sound waves and scent."
+    },
+    {
+      "pos": "n.",
+      "uz": "qanotcha (baliq)",
+      "ru": "плавник",
+      "en": "A flat limb used by fish and other sea creatures for swimming and balance.",
+      "ex1": "She interpreted how a predator's fin absorbs high-frequency signals from surroundings.",
+      "ex2": "Identical fin structures in species indicate a shared gene for navigating image data.",
+      "word": "fin",
+      "example": "Dolphins bounce sound waves off their fins to echo back and sense prey."
+    },
+    {
+      "pos": "n.",
+      "uz": "barmoq uchi",
+      "ru": "кончик пальца",
+      "en": "The end of a finger.",
+      "ex1": "The predator's paw, like a fingertip, sharpens the sense of prey in its surroundings.",
+      "ex2": "Identical fingertip gene patterns indicate how species interpret and chase their prey.",
+      "word": "fingertip",
+      "example": "She sensed the image through her fingertips, absorbing texture like a species in its surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "gen",
+      "ru": "ген",
+      "en": "A unit of DNA that determines a characteristic of a living thing.",
+      "ex1": "She interpreted how identical genes in species absorb and echo high-frequency sound waves.",
+      "ex2": "A gene mutation may sharpen eyesight or change how a species senses its surroundings.",
+      "word": "gene",
+      "example": "The gene determines how a predator's jaw, claw, and paw are adapted for chasing prey."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yuqori/past chastotali",
+      "ru": "высокочастотный/низкочастотный",
+      "en": "Describing sound or signals with many or few vibrations per second.",
+      "ex1": "She indicated that low-frequency waves help species absorb image and scent signals.",
+      "ex2": "The gene determines whether a species uses high or low-frequency sound to chase prey.",
+      "word": "high/low-frequency",
+      "example": "Bats emit high-frequency sound waves that echo off prey in dark surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "tuyoq",
+      "ru": "копыто (копыта)",
+      "en": "The hard foot of an animal such as a horse or cow.",
+      "ex1": "She interpreted how identical hooves across species indicate a shared predator gene.",
+      "ex2": "Hooves absorb vibrations from the ground, sharpening the sense of prey and surroundings.",
+      "word": "hoof (hooves)",
+      "example": "The species uses hooves to sense sound waves through the ground in its surroundings."
+    },
+    {
+      "pos": "adj.",
+      "uz": "bir xil, aynan o'xshash",
+      "ru": "идентичный, одинаковый",
+      "en": "Exactly the same in every way.",
+      "ex1": "She interpreted how identical paw and claw structures echo a shared predator trait.",
+      "ex2": "Identical high-frequency sound wave use across species indicates a common gene.",
+      "word": "identical",
+      "example": "Identical gene patterns indicate how species absorb sound waves and chase prey."
+    },
+    {
+      "pos": "n.",
+      "uz": "tasvir, obraz",
+      "ru": "изображение, образ",
+      "en": "A visual representation or picture; also the impression something makes.",
+      "ex1": "She interpreted the image produced by sound waves bouncing off prey and fins.",
+      "ex2": "A gene determines how a predator processes image, scent, and sound wave data.",
+      "word": "image",
+      "example": "The species builds an image of its surroundings by echoing high-frequency sound waves."
+    },
+    {
+      "pos": "v.",
+      "uz": "ko'rsatmoq, bildirmoq",
+      "ru": "указывать, свидетельствовать",
+      "en": "To show or suggest something.",
+      "ex1": "She indicated how low-frequency waves help predators absorb scent from their surroundings.",
+      "ex2": "The fin's shape indicates how a species bounces and echoes sound waves in its habitat.",
+      "word": "indicate",
+      "example": "Identical gene patterns indicate that species use similar sound waves to chase prey."
+    },
+    {
+      "pos": "v.",
+      "uz": "talqin qilmoq, tushunmoq",
+      "ru": "интерпретировать, истолковывать",
+      "en": "To explain or understand the meaning of something.",
+      "ex1": "She interpreted how high-frequency genes absorb and echo scent signals in species.",
+      "ex2": "A predator interprets sound wave data to chase and identify prey using its jaw and paw.",
+      "word": "interpret",
+      "example": "Dolphins interpret echoed sound waves to build an image of prey in their surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "jag'",
+      "ru": "челюсть",
+      "en": "The upper or lower bone structure of the mouth.",
+      "ex1": "She interpreted how the gene shapes the jaw structure for absorbing and chasing prey.",
+      "ex2": "Identical jaw structures indicate a shared gene for predatory sound wave interpretation.",
+      "word": "jaw",
+      "example": "The predator uses its jaw and claws to chase and grip prey in its surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "panjа (hayvon)",
+      "ru": "лапа",
+      "en": "The foot of an animal with claws.",
+      "ex1": "She interpreted how identical paw genes indicate a shared predator trait across species.",
+      "ex2": "A paw absorbs scent and vibrations, helping the predator interpret and chase prey.",
+      "word": "paw",
+      "example": "The predator uses its paw and claw to sense prey and navigate its surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "yirtqich, ov qiluvchi",
+      "ru": "хищник",
+      "en": "An animal that hunts and eats other animals.",
+      "ex1": "She interpreted how identical gene patterns indicate similar predator traits across species.",
+      "ex2": "A predator's jaw, paw, and claw are shaped by the same gene to absorb and chase prey.",
+      "word": "predator",
+      "example": "The predator uses high-frequency sound waves and scent to chase prey in its surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'ljа, ov",
+      "ru": "добыча, жертва",
+      "en": "An animal hunted and eaten by another.",
+      "ex1": "She interpreted how species absorb scent to locate prey by high-frequency gene signals.",
+      "ex2": "Identical gene structures help predators echo and chase prey using paw and jaw.",
+      "word": "prey",
+      "example": "The predator bounces sound waves off prey to build an image of its surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "hid, iy",
+      "ru": "запах, след",
+      "en": "A distinctive smell, especially used by animals to track others.",
+      "ex1": "She interpreted how gene patterns affect scent absorption in predator species.",
+      "ex2": "Identical scent signals indicate how species use high-frequency genes to track prey.",
+      "word": "scent",
+      "example": "The predator absorbs scent from its surroundings to locate and chase prey."
+    },
+    {
+      "pos": "v.",
+      "uz": "his etmoq, sezmoq",
+      "ru": "чувствовать, ощущать",
+      "en": "To perceive or become aware of something through the senses.",
+      "ex1": "She indicated how a species senses high-frequency signals from its fin and jaw.",
+      "ex2": "Identical gene patterns determine how species sense and chase prey in dark surroundings.",
+      "word": "sense",
+      "example": "The predator senses prey by absorbing scent, sound waves, and image from its surroundings."
+    },
+    {
+      "pos": "v.",
+      "uz": "o'tkirlamoq, kuchaytirmoq",
+      "ru": "заострять, улучшать",
+      "en": "To make something sharper or more effective.",
+      "ex1": "She interpreted how high-frequency sound waves sharpen the predator's image of prey.",
+      "ex2": "Identical genes sharpen the jaw and claw, helping species absorb and chase prey.",
+      "word": "sharpen",
+      "example": "The gene sharpens eyesight and paw sensitivity in predator species."
+    },
+    {
+      "pos": "n.",
+      "uz": "ovoz to'lqini",
+      "ru": "звуковая волна",
+      "en": "A vibration that travels through the air or another medium and is heard as sound.",
+      "ex1": "She indicated how identical genes determine sound wave frequency in predator species.",
+      "ex2": "The species absorbs sound waves with its jaw to interpret the image of prey.",
+      "word": "sound wave",
+      "example": "Dolphins bounce high-frequency sound waves off prey to echo and interpret surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "tur, biologik tur",
+      "ru": "вид (биологический)",
+      "en": "A group of living things that share the same characteristics and can reproduce.",
+      "ex1": "She interpreted how high-frequency genes shape paw and jaw structures across species.",
+      "ex2": "The species uses its fin and paw to sense and bounce sound waves in its surroundings.",
+      "word": "species",
+      "example": "Identical gene patterns indicate how species absorb and echo sound waves to chase prey."
+    },
+    {
+      "pos": "n.",
+      "uz": "atrof-muhit, muhit",
+      "ru": "окружение, среда",
+      "en": "The conditions or area around a person or animal.",
+      "ex1": "She indicated how gene patterns help species sense prey in low-light surroundings.",
+      "ex2": "Identical species use high-frequency signals to build an image of their surroundings.",
+      "word": "surroundings",
+      "example": "The predator absorbs scent and echoes sound waves to interpret its dark surroundings."
+    },
+    {
+      "pos": "n.",
+      "uz": "fil xartumi; tana",
+      "ru": "хобот; ствол",
+      "en": "The long nose of an elephant; also the main body of a tree.",
+      "ex1": "She interpreted how the trunk functions like a fingertip, absorbing image and scent.",
+      "ex2": "The gene shapes the trunk structure to sharpen scent absorption across elephant species.",
+      "word": "trunk",
+      "example": "An elephant uses its trunk to absorb scent and sense prey in its surroundings."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "n.",
+      "uz": "fartuk",
+      "ru": "фартук",
+      "en": "A protective garment worn over the front of clothes.",
+      "ex1": "The technician distinguished the apron from the cloth used in cybersecurity training.",
+      "ex2": "An apron and safety goggles are essential to secure the wireless transfer process.",
+      "word": "apron",
+      "example": "She wore an apron and safety goggles during the routine procedure in the lab."
+    },
+    {
+      "pos": "phrase",
+      "uz": "birinchi qarashda",
+      "ru": "на первый взгляд",
+      "en": "When you look at something for the first time, before examining it closely.",
+      "ex1": "At first glance, the pop-up seemed like routine procedure — but it was spam.",
+      "ex2": "She distinguished the backup from the outdated virus at first glance.",
+      "word": "at first glance",
+      "example": "At first glance, the look-alike memory stick appeared secure, but it contained a virus."
+    },
+    {
+      "pos": "n.",
+      "uz": "qo'shimcha fayl, ilova",
+      "ru": "вложение (в письме), приложение",
+      "en": "A file sent along with an email; also a feeling of connection.",
+      "ex1": "At first glance, the attachment looked like a routine procedure backup.",
+      "ex2": "The cybersecurity system secured the wireless transfer by scanning every attachment.",
+      "word": "attachment",
+      "example": "She was warned not to open the attachment — it could contain a virus or spam."
+    },
+    {
+      "pos": "n.",
+      "uz": "zaxira nusxa",
+      "ru": "резервная копия",
+      "en": "A copy of data stored in case the original is lost or damaged.",
+      "ex1": "At first glance, the backup appeared outdated — but it secured the wireless transfer.",
+      "ex2": "Cybersecurity protocol requires a routine procedure backup to tell the difference.",
+      "word": "backup",
+      "example": "She used a memory stick to create a backup before the system crashed."
+    },
+    {
+      "pos": "n.",
+      "uz": "kimyoviy modda",
+      "ru": "химическое вещество",
+      "en": "A substance produced by or used in a chemical process.",
+      "ex1": "The routine procedure required distinguishing a chemical cloth from an outdated liquid.",
+      "ex2": "At first glance, the chemical appeared like water — a hassle to tell the difference.",
+      "word": "chemical",
+      "example": "She wore safety goggles and an apron when handling the chemical liquid."
+    },
+    {
+      "pos": "n.",
+      "uz": "mato, latta",
+      "ru": "ткань, тряпка",
+      "en": "A piece of fabric used for cleaning or covering.",
+      "ex1": "At first glance, the cloth looked like an apron — a common look-alike hassle.",
+      "ex2": "The cloth was used to secure the wireless transfer equipment during the procedure.",
+      "word": "cloth",
+      "example": "She used a cloth and safety goggles during the routine procedure in cybersecurity."
+    },
+    {
+      "pos": "v.",
+      "uz": "ishdan chiqmoq, tushib qolmoq",
+      "ru": "зависать, вылетать (о компьютере)",
+      "en": "For a computer or system to suddenly stop working.",
+      "ex1": "At first glance, the crash appeared to be a routine procedure — but spam caused it.",
+      "ex2": "She backed up the memory stick before the outdated system could crash again.",
+      "word": "crash",
+      "example": "The system crashed after a virus transferred through an unsecured wireless attachment."
+    },
+    {
+      "pos": "n.",
+      "uz": "kiberxavfsizlik",
+      "ru": "кибербезопасность",
+      "en": "The protection of computer systems and data from digital attacks.",
+      "ex1": "At first glance, the attachment seemed safe — but cybersecurity flagged the transfer.",
+      "ex2": "She installed wireless security to tell the difference between backup and virus files.",
+      "word": "cybersecurity",
+      "example": "Cybersecurity routine procedure includes scanning for virus, spam, and pop-ups."
+    },
+    {
+      "pos": "v.",
+      "uz": "farqlаmoq, ajratmoq",
+      "ru": "различать, отличать",
+      "en": "To recognise the difference between two things.",
+      "ex1": "At first glance, it was hard to distinguish the spam attachment from a routine procedure.",
+      "ex2": "Cybersecurity tools help distinguish outdated pop-ups from secure wireless transfers.",
+      "word": "distinguish",
+      "example": "She could not distinguish the look-alike virus from the backup on the memory stick."
+    },
+    {
+      "pos": "n.",
+      "uz": "muammo, qiyinchilik",
+      "ru": "хлопоты, неудобство",
+      "en": "A situation that is annoying or causes difficulty.",
+      "ex1": "At first glance, cybersecurity seemed like a hassle — but it secured the transfer.",
+      "ex2": "The outdated wireless crash was a hassle to distinguish from a routine procedure.",
+      "word": "hassle",
+      "example": "It was a hassle to tell the difference between the look-alike spam and the backup."
+    },
+    {
+      "pos": "v.",
+      "uz": "sug'urta qilmoq",
+      "ru": "страховать",
+      "en": "To protect against loss or damage through an insurance policy.",
+      "ex1": "At first glance, insuring the liquid chemical seemed like a routine procedure hassle.",
+      "ex2": "Cybersecurity insures the system against virus, spam, and outdated pop-up attacks.",
+      "word": "insure",
+      "example": "She insured the memory stick data to secure the wireless backup transfer."
+    },
+    {
+      "pos": "n.",
+      "uz": "suyuqlik",
+      "ru": "жидкость",
+      "en": "A substance that flows freely and is not a solid or gas.",
+      "ex1": "At first glance, the liquid appeared to be water — a hassle to tell the difference.",
+      "ex2": "The routine procedure required distinguishing a chemical liquid from an outdated cloth.",
+      "word": "liquid",
+      "example": "She wore safety goggles and an apron when transferring the chemical liquid."
+    },
+    {
+      "pos": "phrase",
+      "uz": "o'xshab ketuvchi",
+      "ru": "двойник, похожий объект",
+      "en": "Something or someone that closely resembles another.",
+      "ex1": "At first glance, the look-alike virus and backup on the memory stick were hard to distinguish.",
+      "ex2": "Pop-ups and spam are often look-alike routine procedures — a cybersecurity hassle.",
+      "word": "look alike",
+      "example": "The spam email was a look-alike of the cybersecurity backup notification."
+    },
+    {
+      "pos": "n.",
+      "uz": "flesh karta, xotira kartasi",
+      "ru": "флеш-накопитель",
+      "en": "A small device for storing digital data.",
+      "ex1": "At first glance, the outdated memory stick looked like a secure wireless backup.",
+      "ex2": "The cybersecurity scan distinguished the virus from the backup on the memory stick.",
+      "word": "memory stick",
+      "example": "She backed up all data to a memory stick before the system crashed."
+    },
+    {
+      "pos": "adj.",
+      "uz": "eskirgan, yangilanmagan",
+      "ru": "устаревший",
+      "en": "No longer current or useful; old-fashioned.",
+      "ex1": "At first glance, the outdated memory stick appeared like a routine procedure look-alike.",
+      "ex2": "Cybersecurity flagged the outdated pop-up transfer as a virus hassle.",
+      "word": "outdated",
+      "example": "The outdated wireless system crashed after failing to distinguish spam from a backup."
+    },
+    {
+      "pos": "n.",
+      "uz": "paydo bo'ladigan reklama oynalari",
+      "ru": "всплывающие окна",
+      "en": "Unexpected windows or messages that appear on a screen.",
+      "ex1": "At first glance, the pop-ups looked like a routine procedure — but they contained spam.",
+      "ex2": "Distinguishing look-alike pop-ups from backup notifications is a cybersecurity hassle.",
+      "word": "pop-ups",
+      "example": "She closed the cybersecurity pop-ups to avoid the virus transfer hassle."
+    },
+    {
+      "pos": "v.",
+      "uz": "ishontirmoq, tasallimoq",
+      "ru": "успокаивать, заверять",
+      "en": "To say or do something to make someone feel less worried.",
+      "ex1": "At first glance, the crash was alarming — but she was reassured it was routine procedure.",
+      "ex2": "She reassured the team that the wireless backup transfer had been secured from spam.",
+      "word": "reassure",
+      "example": "The cybersecurity expert reassured her that the look-alike spam was not a virus."
+    },
+    {
+      "pos": "n.",
+      "uz": "oddiy tartibi, muntazam jarayon",
+      "ru": "стандартная процедура",
+      "en": "A normal, regular process that is carried out as part of standard practice.",
+      "ex1": "At first glance, the pop-up appeared to be a routine procedure — but it was spam.",
+      "ex2": "She distinguished the look-alike virus from the backup during a routine procedure scan.",
+      "word": "routine procedure",
+      "example": "Installing cybersecurity updates is a routine procedure to prevent virus and spam."
+    },
+    {
+      "pos": "n.",
+      "uz": "himoya ko'zoynak",
+      "ru": "защитные очки",
+      "en": "Protective eyewear used in labs or industrial settings.",
+      "ex1": "At first glance, safety goggles and a cloth seemed like a routine procedure hassle.",
+      "ex2": "Cybersecurity and safety goggles both secure the wireless transfer process.",
+      "word": "safety goggles",
+      "example": "She wore safety goggles and an apron when handling the chemical liquid."
+    },
+    {
+      "pos": "v.",
+      "uz": "ta'minlamoq, himoya qilmoq",
+      "ru": "защищать, обеспечивать",
+      "en": "To make something safe or to obtain something.",
+      "ex1": "Cybersecurity tools secure attachments and tell the difference between virus and backup.",
+      "ex2": "At first glance, she reassured the team that the transfer was secured from spam.",
+      "word": "secure",
+      "example": "She secured the wireless memory stick backup before the outdated system crashed."
+    },
+    {
+      "pos": "n.",
+      "uz": "keraksiz xabarlar, spam",
+      "ru": "спам, нежелательная почта",
+      "en": "Unwanted messages or emails, often sent in large quantities.",
+      "ex1": "At first glance, the pop-up cybersecurity message looked like spam — a common hassle.",
+      "ex2": "The outdated wireless system failed to secure the memory stick against spam and virus.",
+      "word": "spam",
+      "example": "She distinguished the spam look-alike from the routine procedure backup attachment."
+    },
+    {
+      "pos": "n.",
+      "uz": "jarrohlik",
+      "ru": "хирургия, операция",
+      "en": "Medical treatment involving cutting into the body.",
+      "ex1": "At first glance, the chemical liquid in surgery seemed like a hassle to distinguish.",
+      "ex2": "Cybersecurity in surgery ensures wireless transfer of patient data is secured.",
+      "word": "surgery",
+      "example": "She wore safety goggles and an apron during the routine procedure in surgery."
+    },
+    {
+      "pos": "phrase",
+      "uz": "farqini bilmoq",
+      "ru": "отличить, увидеть разницу",
+      "en": "To identify how two things are different from each other.",
+      "ex1": "Cybersecurity tools help tell the difference between a virus and a routine procedure.",
+      "ex2": "At first glance, she could not tell the difference between the outdated memory stick and backup.",
+      "word": "tell the difference",
+      "example": "It was hard to tell the difference between the look-alike spam and the backup."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "o'tkazmoq / o'tkazish",
+      "ru": "передавать / передача",
+      "en": "To move something from one place to another; the act of doing so.",
+      "ex1": "At first glance, the look-alike spam appeared to be a routine procedure transfer.",
+      "ex2": "Cybersecurity scans every attachment transfer to tell the difference between virus and backup.",
+      "word": "transfer",
+      "example": "She secured the wireless transfer of the backup before the system crashed."
+    },
+    {
+      "pos": "adj.",
+      "uz": "keraksiz, istalmagan",
+      "ru": "нежелательный, незваный",
+      "en": "Not desired or welcome.",
+      "ex1": "At first glance, the unwanted attachment appeared to be a routine procedure backup.",
+      "ex2": "Cybersecurity distinguishes unwanted virus transfers from secure memory stick backups.",
+      "word": "unwanted",
+      "example": "She secured the wireless system to block unwanted spam and pop-ups."
+    },
+    {
+      "pos": "n.",
+      "uz": "virus (kompyuter)",
+      "ru": "вирус (компьютерный)",
+      "en": "A malicious program that damages or disrupts computer systems.",
+      "ex1": "At first glance, the virus attachment seemed like a routine transfer — a common hassle.",
+      "ex2": "The outdated system crashed after failing to secure the wireless backup from the virus.",
+      "word": "virus",
+      "example": "She distinguished the look-alike virus from the backup during cybersecurity routine procedure."
+    },
+    {
+      "pos": "adj.",
+      "uz": "simsiz",
+      "ru": "беспроводной",
+      "en": "Using radio signals rather than cables to transmit data.",
+      "ex1": "At first glance, the wireless memory stick looked like an outdated look-alike backup.",
+      "ex2": "She reassured the team that the wireless routine procedure was secured from spam.",
+      "word": "wireless",
+      "example": "The cybersecurity system secured the wireless transfer from virus and spam attacks."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "n.",
+      "uz": "voyaga etganlik",
+      "ru": "взрослость, зрелость",
+      "en": "The period of life when you are an adult.",
+      "ex1": "She reflected on the astounding discovery of how parental neglect affects adulthood.",
+      "ex2": "Leadership and wisdom in adulthood often stem from boundaries set during childhood.",
+      "word": "adulthood",
+      "example": "Screen time in childhood shapes digital habits that continue into adulthood."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hayratlanarli",
+      "ru": "изумительный, поразительный",
+      "en": "Extremely surprising or impressive.",
+      "ex1": "She was thankful for the astounding breakthrough in digital detox and parental guidance.",
+      "ex2": "Astounding findings on childhood exposed to inappropriate content shaped the proposal.",
+      "word": "astounding",
+      "example": "The discovery that screen time affects the immune system was astounding."
+    },
+    {
+      "pos": "n.",
+      "uz": "chegara, cheklov",
+      "ru": "границы, рамки",
+      "en": "Limits or rules that define acceptable behaviour.",
+      "ex1": "She was thankful for the astounding discovery linking neglect to broken boundaries.",
+      "ex2": "Parental leadership involves setting boundaries to prevent inappropriate digital detox issues.",
+      "word": "boundaries",
+      "example": "Parents should set clear screen time boundaries to protect childhood freedom."
+    },
+    {
+      "pos": "n.",
+      "uz": "kashfiyot, ulkan yutuq",
+      "ru": "прорыв, открытие",
+      "en": "An important discovery or development that solves a problem.",
+      "ex1": "She was thankful for the breakthrough discovery on screen time and childhood wellbeing.",
+      "ex2": "The breakthrough in parental leadership wisdom reshaped adulthood boundaries.",
+      "word": "breakthrough",
+      "example": "A breakthrough in digital detox research revealed astounding immune system benefits."
+    },
+    {
+      "pos": "n.",
+      "uz": "bolalik",
+      "ru": "детство",
+      "en": "The period of life when you are a child.",
+      "ex1": "She reflected on how parental neglect during childhood affects adulthood boundaries.",
+      "ex2": "A digital detox breakthrough showed that childhood exposure to inappropriate content weakens wisdom.",
+      "word": "childhood",
+      "example": "Astounding screen time during childhood can weaken the immune system and freedom."
+    },
+    {
+      "pos": "n.",
+      "uz": "davo, davolash",
+      "ru": "лечение, средство исцеления",
+      "en": "A treatment that relieves or ends a disease or problem.",
+      "ex1": "She was thankful for the breakthrough cure linking immune system recovery to leadership.",
+      "ex2": "The discovery offered an astounding cure for inappropriate content exposure in adulthood.",
+      "word": "cure",
+      "example": "Digital detox was proposed as a cure for astounding screen time dependency in childhood."
+    },
+    {
+      "pos": "n.",
+      "uz": "raqamli dam olish",
+      "ru": "цифровой детокс",
+      "en": "A period of time when someone stops using digital devices.",
+      "ex1": "She was thankful for the astounding breakthrough that defined digital detox boundaries.",
+      "ex2": "Parental leadership involves initiating a digital detox to restore freedom and wisdom.",
+      "word": "digital detox",
+      "example": "A digital detox is proposed as a cure for screen time overload in childhood."
+    },
+    {
+      "pos": "n.",
+      "uz": "kashfiyot",
+      "ru": "открытие",
+      "en": "The act of finding or learning something for the first time.",
+      "ex1": "She was thankful for the discovery that childhood boundaries shape adulthood wisdom.",
+      "ex2": "A digital detox discovery revealed the astounding impact of parental neglect on leadership.",
+      "word": "discovery",
+      "example": "The astounding discovery about screen time and the immune system was a breakthrough."
+    },
+    {
+      "pos": "phrase",
+      "uz": "ta'sirga uchragan",
+      "ru": "подвергшийся воздействию, подверженный",
+      "en": "Having come into contact with something, especially something harmful.",
+      "ex1": "She was thankful for the discovery on how childhood exposure affects immune system wisdom.",
+      "ex2": "The astounding finding showed that adulthood neglect stems from being exposed to digital overload.",
+      "word": "exposed to",
+      "example": "Children exposed to inappropriate content during screen time develop weaker boundaries."
+    },
+    {
+      "pos": "n.",
+      "uz": "jarima",
+      "ru": "штраф",
+      "en": "A sum of money paid as a penalty for breaking a rule.",
+      "ex1": "She was thankful the breakthrough avoided the fine linked to inappropriate content discovery.",
+      "ex2": "The astounding fine imposed on adulthood neglect reshaped digital detox leadership.",
+      "word": "fine",
+      "example": "Parents who neglect screen time boundaries could face a fine under the new proposal."
+    },
+    {
+      "pos": "n.",
+      "uz": "erkinlik",
+      "ru": "свобода",
+      "en": "The power to act and think without restrictions.",
+      "ex1": "She was thankful for the astounding breakthrough that protected childhood freedom.",
+      "ex2": "Leadership in adulthood requires balancing freedom with boundaries and parental wisdom.",
+      "word": "freedom",
+      "example": "Digital detox restores freedom and wisdom lost to excessive screen time in childhood."
+    },
+    {
+      "pos": "n.",
+      "uz": "avlod",
+      "ru": "поколение",
+      "en": "All people born and living at around the same time.",
+      "ex1": "She was thankful for the discovery linking generation-wide neglect to immune system decline.",
+      "ex2": "Childhood boundaries set across a generation reshape adulthood freedom and leadership.",
+      "word": "generation",
+      "example": "Each generation is exposed to astounding advances in screen time and digital detox."
+    },
+    {
+      "pos": "n.",
+      "uz": "immunitet tizimi",
+      "ru": "иммунная система",
+      "en": "The body's defence system against infection and disease.",
+      "ex1": "She was thankful for the breakthrough discovery linking digital detox to immune system recovery.",
+      "ex2": "The astounding fine imposed on neglect was linked to immune system decline across generations.",
+      "word": "immune system",
+      "example": "Astounding screen time exposure weakens the immune system and wisdom in childhood."
+    },
+    {
+      "pos": "adj.",
+      "uz": "mos kelmaydigan, noo'rin",
+      "ru": "неподходящий, неуместный",
+      "en": "Not suitable for a particular purpose or situation.",
+      "ex1": "She was thankful for the astounding discovery on inappropriate screen time in childhood.",
+      "ex2": "A generation exposed to inappropriate content develops weaker immune system and wisdom.",
+      "word": "inappropriate",
+      "example": "Children exposed to inappropriate content need parental boundaries and digital detox."
+    },
+    {
+      "pos": "n.",
+      "uz": "hodisa, voqea",
+      "ru": "инцидент, случай",
+      "en": "An event, especially one that is unusual or unpleasant.",
+      "ex1": "She was thankful the discovery linked the incident to adulthood boundary breakdown.",
+      "ex2": "A digital detox incident revealed astounding gaps in parental leadership and wisdom.",
+      "word": "incident",
+      "example": "The astounding incident of childhood neglect reshaped the parental screen time proposal."
+    },
+    {
+      "pos": "v.",
+      "uz": "ixtiro qilmoq",
+      "ru": "изобретать",
+      "en": "To design and create something new.",
+      "ex1": "The breakthrough invention reshaped parental wisdom across an entire generation.",
+      "ex2": "She was thankful the discovery motivated scientists to invent immune system recovery cures.",
+      "word": "invent",
+      "example": "She invented an astounding digital detox cure for childhood screen time overload."
+    },
+    {
+      "pos": "n.",
+      "uz": "yetakchilik",
+      "ru": "лидерство, руководство",
+      "en": "The ability to guide and inspire others.",
+      "ex1": "She was thankful for the astounding discovery that linked screen time neglect to leadership.",
+      "ex2": "Digital detox breakthroughs shaped leadership and boundaries across generations.",
+      "word": "leadership",
+      "example": "Parental leadership sets childhood boundaries that protect freedom and wisdom in adulthood."
+    },
+    {
+      "pos": "v./n.",
+      "uz": "e'tiborsiz qoldirmoq / e'tiborsizlik",
+      "ru": "пренебрегать / халатность",
+      "en": "To fail to give proper attention or care to someone or something.",
+      "ex1": "She was thankful the astounding discovery linked digital neglect to immune system decline.",
+      "ex2": "A generation exposed to neglect during childhood struggles with freedom and wisdom in adulthood.",
+      "word": "neglect",
+      "example": "Parental neglect of screen time boundaries exposed children to inappropriate content."
+    },
+    {
+      "pos": "n.",
+      "uz": "egalik, mulk",
+      "ru": "владение, собственность",
+      "en": "The state of owning something.",
+      "ex1": "She was thankful the breakthrough assigned ownership of digital detox to each generation.",
+      "ex2": "Astounding discoveries on ownership of devices shaped adulthood leadership and boundaries.",
+      "word": "ownership",
+      "example": "Parental ownership of screen time boundaries protects childhood freedom and wisdom."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ota-onaga oid",
+      "ru": "родительский",
+      "en": "Relating to or characteristic of a parent.",
+      "ex1": "She was thankful for the astounding parental discovery on digital detox and freedom.",
+      "ex2": "Parental neglect during childhood shapes adulthood boundaries and generation-wide wisdom.",
+      "word": "parental",
+      "example": "Parental leadership in setting screen time boundaries protects childhood immune systems."
+    },
+    {
+      "pos": "n.",
+      "uz": "ota-onalik",
+      "ru": "родительство",
+      "en": "The state of being a parent and all that it involves.",
+      "ex1": "She was thankful the discovery on parenthood linked digital detox to immune system recovery.",
+      "ex2": "Parenthood involves setting boundaries to protect childhood freedom and wisdom across generations.",
+      "word": "parenthood",
+      "example": "Astounding screen time demands have reshaped the nature of parenthood and leadership."
+    },
+    {
+      "pos": "n.",
+      "uz": "ekran oldida o'tkazilgan vaqt",
+      "ru": "экранное время",
+      "en": "The amount of time spent using digital devices.",
+      "ex1": "She was thankful for the breakthrough cure linking screen time to adulthood boundary issues.",
+      "ex2": "Parental leadership involves managing screen time to protect freedom and wisdom in childhood.",
+      "word": "screen time",
+      "example": "Astounding screen time in childhood exposes the immune system to inappropriate content risks."
+    },
+    {
+      "pos": "adj.",
+      "uz": "minnatdor, shukrli",
+      "ru": "благодарный",
+      "en": "Expressing gratitude; glad about something.",
+      "ex1": "Thankful parents shared the discovery on childhood screen time and adulthood freedom.",
+      "ex2": "She was thankful that parental leadership shaped boundaries across an entire generation.",
+      "word": "thankful",
+      "example": "She was thankful for the astounding breakthrough in digital detox and immune system recovery."
+    },
+    {
+      "pos": "n.",
+      "uz": "donolik, aql",
+      "ru": "мудрость",
+      "en": "The quality of having experience, knowledge, and good judgement.",
+      "ex1": "She was thankful for the breakthrough discovery linking parental wisdom to adulthood leadership.",
+      "ex2": "A generation shaped by boundaries and wisdom avoids the neglect of inappropriate screen time.",
+      "word": "wisdom",
+      "example": "Digital detox restores wisdom and freedom lost to astounding screen time in childhood."
+    }
+  ],
+  "p4": [
+    {
+      "pos": "n.",
+      "uz": "bezovtalik, g'ashlik",
+      "ru": "раздражение, досада",
+      "en": "The feeling of being slightly angry or irritated.",
+      "ex1": "She strongly supported the ban to reduce annoyance caused by inappropriate screen time.",
+      "ex2": "Imposing a speed limit caused initial annoyance but did not do more harm than good.",
+      "word": "annoyance",
+      "example": "The annoyance of pop-up spam on the premises became a middle-ground solution proposal."
+    },
+    {
+      "pos": "n.",
+      "uz": "muvozanatli yondashuv",
+      "ru": "сбалансированный подход",
+      "en": "A way of dealing with something that considers all sides fairly.",
+      "ex1": "A middle-ground solution and balanced approach obey the proposal without causing harm.",
+      "ex2": "Imposing a designated zone with a balanced approach does not ruin freedom entirely.",
+      "word": "balanced approach",
+      "example": "She fully supported a balanced approach rather than a ban on screen time."
+    },
+    {
+      "pos": "n.",
+      "uz": "taqiq",
+      "ru": "запрет",
+      "en": "An official rule that forbids something.",
+      "ex1": "A ban alone causes more harm than good — a middle-ground solution is preferable.",
+      "ex2": "The proposal to impose a speed limit ban in the designated area caused initial annoyance.",
+      "word": "ban",
+      "example": "She fully supported a ban on inappropriate content in designated school premises."
+    },
+    {
+      "pos": "n.",
+      "uz": "belgilangan hudud",
+      "ru": "отведённое место/зона",
+      "en": "A specific area set aside for a particular purpose.",
+      "ex1": "A middle-ground solution involves a designated area where the ban does not impose harm.",
+      "ex2": "In an emergency, the designated zone obeys the speed limit and balanced approach.",
+      "word": "designated area/zone",
+      "example": "She strongly supported a designated zone for screen time to avoid ruining the premises."
+    },
+    {
+      "pos": "v.",
+      "uz": "bezovta qilmoq",
+      "ru": "беспокоить, мешать",
+      "en": "To interrupt or upset someone's peace or concentration.",
+      "ex1": "She fully supported the proposal to prevent screen time from disturbing the designated area.",
+      "ex2": "A middle-ground solution does not disturb or ruin the balanced approach in an emergency.",
+      "word": "disturb",
+      "example": "Imposing a ban on devices that disturb premises causes more annoyance than harm."
+    },
+    {
+      "pos": "phrase",
+      "uz": "foydasidan ko'ra zarari ko'proq bo'lmoq",
+      "ru": "приносить больше вреда, чем пользы",
+      "en": "To have a more negative effect than a positive one.",
+      "ex1": "She strongly supported the balanced approach because the ban would do more harm than good.",
+      "ex2": "A speed limit in the designated area does not do more harm than good in an emergency.",
+      "word": "do/cause more harm than good",
+      "example": "Imposing a strict ban causes more harm than good — a middle-ground solution is better."
+    },
+    {
+      "pos": "n.",
+      "uz": "zarar, ziyon",
+      "ru": "вред, ущерб",
+      "en": "Physical injury or damage; a negative effect.",
+      "ex1": "She fully supported the proposal to reduce harm from inappropriate content on the premises.",
+      "ex2": "Imposing a speed limit in the designated zone avoids harm in an emergency.",
+      "word": "harm",
+      "example": "A ban that causes more harm than good should be replaced by a middle-ground solution."
+    },
+    {
+      "pos": "v.",
+      "uz": "joriy qilmoq, majburlamoq",
+      "ru": "вводить, навязывать",
+      "en": "To force something on someone, especially a rule or tax.",
+      "ex1": "Imposing a middle-ground solution does not ruin freedom or cause more harm than good.",
+      "ex2": "A balanced approach is preferable to imposing a speed limit that causes annoyance.",
+      "word": "impose",
+      "example": "She fully supported imposing a ban in the designated area to prevent harm."
+    },
+    {
+      "pos": "phrase",
+      "uz": "favqulodda holatda",
+      "ru": "в экстренном случае",
+      "en": "When there is a sudden and dangerous situation requiring immediate action.",
+      "ex1": "She strongly supported allowing screen time in an emergency without ruining the ban.",
+      "ex2": "A middle-ground solution allows the proposal to be applied in an emergency situation.",
+      "word": "in an emergency",
+      "example": "In an emergency, obeying the designated zone speed limit does not do more harm than good."
+    },
+    {
+      "pos": "v.",
+      "uz": "boshlаmoq, yo'lga qo'ymoq",
+      "ru": "инициировать, начинать",
+      "en": "To cause something to begin or start a process.",
+      "ex1": "The proposal was initiated to impose a middle-ground solution in the designated area.",
+      "ex2": "In an emergency, obeying the ban and initiating the speed limit reduces harm.",
+      "word": "initiate",
+      "example": "She fully supported the decision to initiate a balanced approach on the premises."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'rta yo'l, kelishuv",
+      "ru": "компромиссное решение",
+      "en": "A compromise that satisfies different views without being extreme.",
+      "ex1": "She fully supported a middle-ground solution rather than imposing a ban that does harm.",
+      "ex2": "A balanced approach and middle-ground solution in the designated area reduce annoyance.",
+      "word": "middle-ground solution",
+      "example": "A middle-ground solution was proposed to avoid the annoyance of a full ban."
+    },
+    {
+      "pos": "v.",
+      "uz": "bo'ysunmoq, bajarmoq",
+      "ru": "подчиняться, соблюдать",
+      "en": "To follow or comply with a rule, law, or instruction.",
+      "ex1": "A middle-ground solution obeys the proposal without ruining freedom or causing annoyance.",
+      "ex2": "In an emergency, obeying the speed limit in the designated zone prevents more harm than good.",
+      "word": "obey",
+      "example": "She strongly supported obey the ban in the designated area to avoid harm."
+    },
+    {
+      "pos": "v.",
+      "uz": "e'tibor bermaslik, o'tkazib yubormoq",
+      "ru": "не замечать, упускать из виду",
+      "en": "To fail to notice or consider something; to forgive.",
+      "ex1": "A balanced approach avoids overlooking annoyance while not imposing more harm than good.",
+      "ex2": "The proposal overlooks middle-ground solutions and instead imposes a full designated ban.",
+      "word": "overlook",
+      "example": "She strongly supported not overlooking the harm caused by inappropriate content on the premises."
+    },
+    {
+      "pos": "n.",
+      "uz": "bino, hudud",
+      "ru": "помещение, территория",
+      "en": "A building or land occupied by a business or for a particular purpose.",
+      "ex1": "A middle-ground solution imposes a designated zone within the premises to reduce harm.",
+      "ex2": "In an emergency, obeying the speed limit and balanced approach protects the premises.",
+      "word": "premises",
+      "example": "She strongly supported banning inappropriate screen time on all school premises."
+    },
+    {
+      "pos": "n.",
+      "uz": "taklif, loyiha",
+      "ru": "предложение",
+      "en": "A formal suggestion or plan put forward for consideration.",
+      "ex1": "The proposal to ban inappropriate content in the designated area caused annoyance initially.",
+      "ex2": "A balanced approach to the proposal does not do more harm than good in an emergency.",
+      "word": "proposal",
+      "example": "She fully supported the proposal to impose a middle-ground solution on the premises."
+    },
+    {
+      "pos": "v.",
+      "uz": "buzmoq, vayron qilmoq",
+      "ru": "разрушать, портить",
+      "en": "To damage or destroy something completely.",
+      "ex1": "She strongly supported the proposal so it would not ruin the designated zone premises.",
+      "ex2": "A middle-ground solution avoids ruining freedom while obeying the speed limit ban.",
+      "word": "ruin",
+      "example": "Imposing a full ban would ruin the balanced approach and cause more harm than good."
+    },
+    {
+      "pos": "n.",
+      "uz": "tezlik chegarasi",
+      "ru": "ограничение скорости",
+      "en": "The maximum legal speed at which you may drive on a road.",
+      "ex1": "She fully supported imposing a speed limit as part of the balanced approach proposal.",
+      "ex2": "A middle-ground solution on the premises includes a speed limit that does not ruin freedom.",
+      "word": "speed limit",
+      "example": "In an emergency, obeying the speed limit in the designated zone does not cause harm."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Men to'liq/qat'iy qo'llab-quvvatlayman...",
+      "ru": "Я полностью/горячо поддерживаю...",
+      "en": "Used to express firm agreement with a proposal or idea.",
+      "ex1": "I strongly support the ban on inappropriate content — it does not do more harm than good.",
+      "ex2": "I fully support the balanced approach on the premises in an emergency situation.",
+      "word": "I fully/strongly support...",
+      "example": "I fully support the proposal to impose a middle-ground solution in the designated area."
+    }
+  ]
+}

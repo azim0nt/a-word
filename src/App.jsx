@@ -1,9 +1,18 @@
 import { useEffect, useMemo, useState } from 'react';
 import a1Data from '../A1.json';
 import a2Data from '../A2.json';
+import b1Data from '../B1.json';
+import b1PlusData from '../B1+.json';
+import b2Data from '../B2.json';
 import { buildLevelCatalog, buildMatchPairs, buildQuizQuestion, getLevelWordList, getTranslation, searchWords, shuffleWords } from './data/dictionaryService';
 
-const levelDataMap = { A1: a1Data, A2: a2Data };
+const levelDataMap = {
+  A1: a1Data,
+  A2: a2Data,
+  B1: b1Data,
+  'B1+': b1PlusData,
+  B2: b2Data,
+};
 const progressKey = 'A-Word-progress-v1';
 
 function safeLoadProgress() {

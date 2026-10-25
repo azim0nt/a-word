@@ -1,0 +1,730 @@
+{
+  "p1": [
+    {
+      "pos": "n.",
+      "uz": "ariza beruvchi, nomzod",
+      "ru": "претендент, соискатель",
+      "en": "A person who formally applies for something, such as a job.",
+      "ex1": "The interviewee stood out as the most straightforward and punctual applicant.",
+      "ex2": "She was a strong applicant — smartly dressed, with clear job prospects and initiative.",
+      "word": "applicant",
+      "example": "Each applicant was assessed for soft skills before being suited to the position."
+    },
+    {
+      "pos": "n.",
+      "uz": "munosabat, ko'rinish",
+      "ru": "отношение, позиция",
+      "en": "A settled way of thinking or feeling about something.",
+      "ex1": "The interviewee revealed a confident attitude — suited, punctual, and smartly dressed.",
+      "ex2": "A straightforward attitude and initiative are key traps applicants must avoid in interviews.",
+      "word": "attitude",
+      "example": "Her positive attitude helped her stand out and meet the demands of the occupation."
+    },
+    {
+      "pos": "adv.",
+      "uz": "oldindan, avvaldan",
+      "ru": "заранее, предварительно",
+      "en": "Before a particular event or time.",
+      "ex1": "The applicant researched the occupation beforehand to stand out in the interview.",
+      "ex2": "Being smartly dressed and punctual beforehand reveals a straightforward, suited attitude.",
+      "word": "beforehand",
+      "example": "She ran through the job prospects and specified her experience beforehand."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xulq-atvorga oid",
+      "ru": "поведенческий",
+      "en": "Relating to how a person behaves.",
+      "ex1": "Behavioural traps in interviews reveal whether applicants can meet the demands of the position.",
+      "ex2": "She ran through behavioural questions beforehand to stand out as a suited applicant.",
+      "word": "behavioural",
+      "example": "The interviewee was assessed using behavioural questions to determine her initiative."
+    },
+    {
+      "pos": "v.",
+      "uz": "maqtanmoq, kerilmoq",
+      "ru": "хвастаться, хвалиться",
+      "en": "To talk with excessive pride about something.",
+      "ex1": "She confessed to boasting about her occupation, which became a trap in the interview.",
+      "ex2": "Standing out is straightforward — display initiative rather than boast about attitude.",
+      "word": "boast (about)",
+      "example": "The applicant was warned not to boast about job prospects during the interview."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "namoyon qilmoq, ochib bermoq",
+      "ru": "выявлять, проявлять",
+      "en": "To cause a quality or feature to become more noticeable.",
+      "ex1": "A smartly dressed applicant brings out a suited and punctual first impression.",
+      "ex2": "Behavioural questions bring out whether an applicant can meet the demands of the position.",
+      "word": "bring out",
+      "example": "The interviewee's attitude brought out her initiative and straightforward approach."
+    },
+    {
+      "pos": "v.",
+      "uz": "tan olmoq, iqror bo'lmoq",
+      "ru": "признаться, признавать",
+      "en": "To admit something, especially something you feel guilty about.",
+      "ex1": "The applicant confessed beforehand that she was not entirely suited to the occupation.",
+      "ex2": "A straightforward interviewee confesses honestly rather than revealing a misleading attitude.",
+      "word": "confess",
+      "example": "She confessed to a trap in the interview — she had boasted about her job prospects."
+    },
+    {
+      "pos": "v.",
+      "uz": "aniqlаmoq, belgilamoq",
+      "ru": "определять, устанавливать",
+      "en": "To discover or establish something by research or investigation.",
+      "ex1": "She ran through the questions beforehand to determine how to stand out.",
+      "ex2": "Determining whether an applicant is suited to the position requires a straightforward approach.",
+      "word": "determine",
+      "example": "The interviewer used behavioural questions to determine the applicant's initiative."
+    },
+    {
+      "pos": "v.",
+      "uz": "ko'rsatmoq, namoyon etmoq",
+      "ru": "демонстрировать, проявлять",
+      "en": "To show or make something visible.",
+      "ex1": "She ran through how to display soft skills without boasting in the interview.",
+      "ex2": "Displaying a straightforward attitude brings out the best in any interviewee.",
+      "word": "display",
+      "example": "The smartly dressed applicant displayed initiative and a suited, punctual attitude."
+    },
+    {
+      "pos": "v.",
+      "uz": "ishga olmoq, yollаmoq",
+      "ru": "нанимать, трудоустраивать",
+      "en": "To give someone a paid job.",
+      "ex1": "She was employed after displaying a straightforward attitude and strong job prospects.",
+      "ex2": "Employing the right applicant requires determining their behavioural attitude beforehand.",
+      "word": "employ",
+      "example": "The company employed the most suited applicant — punctual, smartly dressed, and initiative-driven."
+    },
+    {
+      "pos": "n.",
+      "uz": "tashabbuskorlik",
+      "ru": "инициатива",
+      "en": "The ability to assess situations and take action independently.",
+      "ex1": "She ran through ways to bring out initiative without boasting in the behavioural interview.",
+      "ex2": "Applicants suited to the position confess to taking initiative beforehand.",
+      "word": "initiative",
+      "example": "The interviewee displayed initiative — a key quality that made her stand out."
+    },
+    {
+      "pos": "n.",
+      "uz": "intervyu beruvchi, suhbatdosh",
+      "ru": "интервьюируемый",
+      "en": "A person who is being interviewed.",
+      "ex1": "She confessed beforehand to being nervous — but displayed initiative and a suited attitude.",
+      "ex2": "A behavioural trap reveals whether the interviewee is genuinely suited to the occupation.",
+      "word": "interviewee",
+      "example": "The interviewee stood out for being smartly dressed, punctual, and straightforward."
+    },
+    {
+      "pos": "n.",
+      "uz": "ish imkoniyatlari",
+      "ru": "перспективы трудоустройства",
+      "en": "The chances of getting a good job or being successful in your career.",
+      "ex1": "Boasting about job prospects is a trap — display initiative and a suited attitude instead.",
+      "ex2": "Applicants with strong job prospects stand out when smartly dressed and punctual.",
+      "word": "job prospects",
+      "example": "She ran through her job prospects and specified her occupation experience beforehand."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ishsiz",
+      "ru": "безработный",
+      "en": "Without a paid job.",
+      "ex1": "The jobless applicant confessed to a behavioural trap in her previous position.",
+      "ex2": "Being jobless motivated her to run through her CV and stand out as a suited interviewee.",
+      "word": "jobless",
+      "example": "She became jobless after failing to meet the demands of the occupation."
+    },
+    {
+      "pos": "n.",
+      "uz": "qo'l mehnati",
+      "ru": "физический труд",
+      "en": "Work that involves using your hands or body rather than your mind.",
+      "ex1": "She confessed her attitude toward manual labour was not suited to the working environment.",
+      "ex2": "Applicants for manual labour positions stand out by displaying punctual, straightforward initiative.",
+      "word": "manual labour",
+      "example": "The occupation required manual labour — specified in the position beforehand."
+    },
+    {
+      "pos": "phrase",
+      "uz": "talablarni qondirmoq",
+      "ru": "соответствовать (требованиям/ожиданиям)",
+      "en": "To satisfy requirements or reach a required standard.",
+      "ex1": "The interviewee displayed initiative and a suited attitude to meet expectations.",
+      "ex2": "Being smartly dressed and punctual helps applicants meet the demands of the occupation.",
+      "word": "meet (the demands/expectations)",
+      "example": "She ran through her experience to determine if she could meet the demands of the position."
+    },
+    {
+      "pos": "n.",
+      "uz": "kasb, mashg'ulot",
+      "ru": "профессия, занятие",
+      "en": "A person's job or profession.",
+      "ex1": "The interviewee confessed that manual labour was not suited to her occupation.",
+      "ex2": "A behavioural question determines whether the applicant is suited to the occupation.",
+      "word": "occupation",
+      "example": "She specified her occupation beforehand to stand out as a suited applicant."
+    },
+    {
+      "pos": "n.",
+      "uz": "lavozim, o'rin",
+      "ru": "должность, позиция",
+      "en": "A job or role within an organisation.",
+      "ex1": "The applicant displayed initiative and was employed for the permanent position.",
+      "ex2": "Behavioural traps reveal whether an interviewee can meet the demands of the position.",
+      "word": "position",
+      "example": "She ran through the requirements to determine if she was suited to the position."
+    },
+    {
+      "pos": "adj.",
+      "uz": "o'z vaqtida, aniq",
+      "ru": "пунктуальный",
+      "en": "Arriving or doing something at the agreed time.",
+      "ex1": "She was determined to be punctual and straightforward to meet the demands of the position.",
+      "ex2": "Being punctual and suited beforehand helps applicants avoid behavioural traps.",
+      "word": "punctual",
+      "example": "The smartly dressed, punctual interviewee displayed initiative and stood out."
+    },
+    {
+      "pos": "v.",
+      "uz": "oshkor qilmoq, ko'rsatmoq",
+      "ru": "раскрывать, обнаруживать",
+      "en": "To make something known that was previously hidden.",
+      "ex1": "She confessed to a trap — she had revealed too much about her job prospects.",
+      "ex2": "A smartly dressed applicant reveals initiative and a straightforward, punctual attitude.",
+      "word": "reveal",
+      "example": "The behavioural interview revealed whether the applicant was suited to the occupation."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ko'rib chiqmoq, mashq qilmoq",
+      "ru": "пробежаться по, повторить",
+      "en": "To practise or go over something quickly.",
+      "ex1": "The interviewee ran through behavioural traps to avoid boasting in the interview.",
+      "ex2": "Running through the position requirements determined whether she was suited and punctual.",
+      "word": "run through",
+      "example": "She ran through her CV and specified her occupation beforehand to stand out."
+    },
+    {
+      "pos": "phrase",
+      "uz": "chiroyli kiyingan",
+      "ru": "опрятно одетый, элегантно одетый",
+      "en": "Wearing neat, tidy, and appropriate clothes.",
+      "ex1": "She was determined to be smartly dressed, punctual, and straightforward beforehand.",
+      "ex2": "Being smartly dressed and suited reveals a positive attitude toward the occupation.",
+      "word": "smartly dressed",
+      "example": "The smartly dressed applicant displayed initiative and stood out in the interview."
+    },
+    {
+      "pos": "v.",
+      "uz": "aniq ko'rsatmoq, belgilamoq",
+      "ru": "указывать, конкретизировать",
+      "en": "To state something clearly and in detail.",
+      "ex1": "The applicant specified her initiative and attitude in the behavioural interview.",
+      "ex2": "Specifying job prospects beforehand helps applicants stand out as suited interviewees.",
+      "word": "specify",
+      "example": "She specified her occupation experience beforehand to meet the demands of the position."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ajralib turmoq, ko'zga tashlanmoq",
+      "ru": "выделяться, бросаться в глаза",
+      "en": "To be clearly noticeable or better than others.",
+      "ex1": "She ran through how to stand out without boasting about her job prospects.",
+      "ex2": "Displaying a straightforward attitude and initiative helps any applicant stand out.",
+      "word": "stand out",
+      "example": "The smartly dressed, punctual applicant stood out and was employed for the position."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ochiq-oydin, to'g'ri",
+      "ru": "прямой, несложный",
+      "en": "Simple and easy to understand; honest and direct.",
+      "ex1": "She ran through the behavioural questions in a straightforward, suited manner.",
+      "ex2": "Specifying your occupation in a straightforward way helps applicants stand out.",
+      "word": "straightforward",
+      "example": "A straightforward attitude and initiative helped the interviewee meet the demands of the position."
+    },
+    {
+      "pos": "adj.",
+      "uz": "mos, muvofiq",
+      "ru": "подходящий, соответствующий",
+      "en": "Right or appropriate for a particular purpose or person.",
+      "ex1": "The smartly dressed applicant displayed initiative and was considered suited for the occupation.",
+      "ex2": "Behavioural questions reveal whether an interviewee is genuinely suited to the position.",
+      "word": "suited",
+      "example": "She determined she was suited to the position after running through the requirements."
+    },
+    {
+      "pos": "n.",
+      "uz": "tuzoq, aldov",
+      "ru": "ловушка",
+      "en": "A trick or situation designed to catch or trick someone.",
+      "ex1": "Confessing to a weakness can become a trap if not specified in a straightforward way.",
+      "ex2": "The interviewee revealed a trap — she had boasted rather than displaying initiative.",
+      "word": "trap",
+      "example": "She ran through behavioural traps beforehand to avoid boasting in the interview."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "phrase",
+      "uz": "yodda tutmoq, hisobga olmoq",
+      "ru": "иметь в виду, помнить",
+      "en": "To remember or consider something when making a decision.",
+      "ex1": "She bore in mind the compensation and pension benefits before deciding to resign.",
+      "ex2": "Bear in mind that going out of business affects insurance, wages, and medical cover.",
+      "word": "bear in mind",
+      "example": "Bear in mind that expanding a department requires a supervisor and adequate wages."
+    },
+    {
+      "pos": "n.",
+      "uz": "kompensatsiya, tovon",
+      "ru": "компенсация, возмещение",
+      "en": "Money given as payment for loss, injury, or as part of a job.",
+      "ex1": "Bear in mind that compensation, pension, and insurance are key workplace benefits.",
+      "ex2": "The employee resigned after the company refused to offer a fair pay rise or compensation.",
+      "word": "compensation",
+      "example": "She received compensation after the supervisor failed to meet the department's demands."
+    },
+    {
+      "pos": "n.",
+      "uz": "bo'lim, kafedra",
+      "ru": "отдел, департамент",
+      "en": "A section of a larger organisation dealing with a specific area.",
+      "ex1": "Bear in mind that each department requires a form of medical and pension support.",
+      "ex2": "She resigned after the department went out of business and compensation was denied.",
+      "word": "department",
+      "example": "The supervisor expanded the department and set up a new insurance and wage structure."
+    },
+    {
+      "pos": "n.",
+      "uz": "vazifa, burch",
+      "ru": "обязанность, долг",
+      "en": "A task or action that you are required to perform as part of a job.",
+      "ex1": "Bear in mind that medical and pension duties are set up by the workplace insurance.",
+      "ex2": "She resigned because her duty to expand the department was not supported by a pay rise.",
+      "word": "duty",
+      "example": "Her duty as supervisor was to inspire the department and manage compensation fairly."
+    },
+    {
+      "pos": "v.",
+      "uz": "kengaytirmoq, rivojlantirmoq",
+      "ru": "расширять, развивать",
+      "en": "To increase in size, number, or importance.",
+      "ex1": "Bear in mind that expanding too fast can cause the business to go out of business.",
+      "ex2": "She was inspired to expand her duties after receiving a pay rise and pension benefits.",
+      "word": "expand",
+      "example": "The supervisor expanded the department and set up a new wage and insurance structure."
+    },
+    {
+      "pos": "v.",
+      "uz": "ishdan bo'shatmoq",
+      "ru": "увольнять",
+      "en": "To dismiss someone from their job.",
+      "ex1": "Bear in mind that firing without compensation or a valid form is a legal risk.",
+      "ex2": "She resigned before the department could fire her — insurance and pension were secured.",
+      "word": "fire",
+      "example": "The supervisor fired the employee after repeated failure to meet workplace duties."
+    },
+    {
+      "pos": "n.",
+      "uz": "shakl, blanк",
+      "ru": "форма, бланк",
+      "en": "An official document with spaces for information.",
+      "ex1": "Bear in mind that a compensation form must be signed before the department can expand.",
+      "ex2": "The supervisor fired the employee after completing a duty and wage review form.",
+      "word": "form",
+      "example": "She filled in a form to set up pension and insurance before the supervisor retired."
+    },
+    {
+      "pos": "phrase",
+      "uz": "biznesni yopmoq, bankrot bo'lmoq",
+      "ru": "прекратить деятельность, закрыться",
+      "en": "To stop operating as a business.",
+      "ex1": "Bear in mind that going out of business affects all pension, medical, and compensation plans.",
+      "ex2": "She resigned before the supervisor fired her — the business was about to go out of business.",
+      "word": "go out of business",
+      "example": "The department went out of business after failing to expand wages and insurance."
+    },
+    {
+      "pos": "v.",
+      "uz": "ilhomlantirmoq, rag'batlantirmoq",
+      "ru": "вдохновлять, воодушевлять",
+      "en": "To fill someone with enthusiasm, motivation, or a desire to act.",
+      "ex1": "Bear in mind that a pay rise and medical benefits inspire employees to expand their duties.",
+      "ex2": "She resigned because no one in the department inspired her to take on new responsibilities.",
+      "word": "inspire",
+      "example": "The supervisor inspired the department by setting up a fair wage and pension structure."
+    },
+    {
+      "pos": "n.",
+      "uz": "sug'urta",
+      "ru": "страхование, страховка",
+      "en": "An arrangement where you pay regularly to get financial help if something goes wrong.",
+      "ex1": "She set up insurance and pension forms before the supervisor retired.",
+      "ex2": "The department went out of business after insurance, wage, and medical funding collapsed.",
+      "word": "insurance",
+      "example": "Bear in mind that workplace insurance covers medical, compensation, and wage duties."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tibbiy",
+      "ru": "медицинский",
+      "en": "Relating to the practice of medicine and health.",
+      "ex1": "The supervisor set up medical and pension cover when the department started to expand.",
+      "ex2": "She resigned because medical and insurance duties were not included in the wage form.",
+      "word": "medical",
+      "example": "Bear in mind that medical benefits are part of the workplace compensation and insurance."
+    },
+    {
+      "pos": "n.",
+      "uz": "maosh oshishi",
+      "ru": "повышение зарплаты",
+      "en": "An increase in the amount of money you are paid for your job.",
+      "ex1": "Bear in mind that a pay rise without a pension form is incomplete compensation.",
+      "ex2": "The supervisor inspired the team by setting up a fair pay rise and insurance structure.",
+      "word": "pay rise",
+      "example": "She requested a pay rise after expanding her department duties beyond her original wage."
+    },
+    {
+      "pos": "n.",
+      "uz": "pensiya",
+      "ru": "пенсия, пенсионные выплаты",
+      "en": "A regular payment made to someone who has retired from work.",
+      "ex1": "Bear in mind that pension and medical compensation are critical workplace duties.",
+      "ex2": "The company went out of business before her pension and wage form could be finalised.",
+      "word": "pension",
+      "example": "She set up a pension and insurance form before the supervisor retired from the department."
+    },
+    {
+      "pos": "v.",
+      "uz": "iste'foga chiqmoq, bo'shatilmoq",
+      "ru": "уволиться, подать в отставку",
+      "en": "To voluntarily leave your job.",
+      "ex1": "Bear in mind that resigning without a form may affect your insurance and medical cover.",
+      "ex2": "The supervisor inspired her to stay — but she resigned when the business went out of business.",
+      "word": "resign",
+      "example": "She resigned after the department failed to offer a pay rise, pension, or compensation."
+    },
+    {
+      "pos": "v.",
+      "uz": "nafaqaga chiqmoq",
+      "ru": "уходить на пенсию",
+      "en": "To leave your job permanently, usually because of age.",
+      "ex1": "Bear in mind that retiring early may affect wage, medical, and compensation benefits.",
+      "ex2": "She inspired the department before retiring — leaving behind a clear pay rise structure.",
+      "word": "retire",
+      "example": "The supervisor retired after setting up pension, insurance, and department forms."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "biznes ochmoq, tashkil etmoq",
+      "ru": "основать (бизнес), организовать",
+      "en": "To establish or start a new business or system.",
+      "ex1": "Bear in mind that setting up a business requires insurance, wage, and compensation forms.",
+      "ex2": "The supervisor inspired her to set up a department with fair pension and medical cover.",
+      "word": "set up (a business)",
+      "example": "She set up a business after the department went out of business."
+    },
+    {
+      "pos": "n.",
+      "uz": "nazoratchi, rahbar",
+      "ru": "руководитель, супервайзер",
+      "en": "A person who oversees and directs the work of others.",
+      "ex1": "Bear in mind that a supervisor manages compensation, duty, and medical insurance forms.",
+      "ex2": "She resigned after the supervisor fired a colleague and refused to offer a pay rise.",
+      "word": "supervisor",
+      "example": "The supervisor inspired the department to expand and set up fair wages and pension."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "nazoratni o'z zimmasiga olmoq",
+      "ru": "брать под контроль, переходить к",
+      "en": "To gain control of something or assume responsibility from someone else.",
+      "ex1": "Bear in mind that taking over a department requires updating insurance and compensation forms.",
+      "ex2": "She was inspired to take over and expand the department with fair wages and pension cover.",
+      "word": "take over",
+      "example": "She took over as supervisor after the previous manager resigned and the business nearly went out of business."
+    },
+    {
+      "pos": "n.",
+      "uz": "ish haqi, maosh",
+      "ru": "заработная плата, оклад",
+      "en": "A fixed regular payment for work, usually calculated by the hour or week.",
+      "ex1": "The supervisor set up a wage and insurance form after the department started to expand.",
+      "ex2": "She resigned because her wage failed to reflect her expanded duties and compensation.",
+      "word": "wage",
+      "example": "Bear in mind that a fair wage alongside pension and medical benefits reduces resignation."
+    },
+    {
+      "pos": "n.",
+      "uz": "ish joyi",
+      "ru": "рабочее место",
+      "en": "The location where someone works.",
+      "ex1": "The supervisor inspired the department by setting up a fair workplace wage structure.",
+      "ex2": "She resigned after the workplace went out of business and pension forms were cancelled.",
+      "word": "workplace",
+      "example": "Bear in mind that a safe workplace requires insurance, medical, and compensation cover."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "adj.",
+      "uz": "qoniqarli, to'la hayot kechirgan",
+      "ru": "реализованный, удовлетворённый",
+      "en": "Feeling satisfied because you have achieved something meaningful.",
+      "ex1": "Bear in mind that feeling fulfilled is not just about wage — it is about meaningful duty.",
+      "ex2": "She resigned from the low-paid job to find a well-paid, fulfilled workplace role.",
+      "word": "fulfilled",
+      "example": "She felt fulfilled after setting up her own business and inspiring a strong department."
+    },
+    {
+      "pos": "adj.",
+      "uz": "innovatsion, yangi",
+      "ru": "инновационный, новаторский",
+      "en": "Introducing new ideas or methods.",
+      "ex1": "Bear in mind that innovative thinking and soft skills help burn out be avoided.",
+      "ex2": "She turned down a low-paid offer and accepted a well-paid, innovative position.",
+      "word": "innovative",
+      "example": "The supervisor inspired the department with innovative ways to expand and avoid going out of business."
+    },
+    {
+      "pos": "adj.",
+      "uz": "past maoshli",
+      "ru": "низкооплачиваемый",
+      "en": "Receiving a very small amount of money for work.",
+      "ex1": "Bear in mind that low-paid positions with no pension or insurance lead to burnout.",
+      "ex2": "Working for peanuts in a low-paid department led her to call it a day and resign.",
+      "word": "low-paid",
+      "example": "She resigned from her low-paid job to find a well-paid, fulfilled workplace role."
+    },
+    {
+      "pos": "n.",
+      "uz": "noto'g'ri tushuncha, xato fikr",
+      "ru": "заблуждение, неправильное представление",
+      "en": "An incorrect belief or understanding about something.",
+      "ex1": "Bear in mind that misconceptions about low-paid work can burn out your best applicants.",
+      "ex2": "To cut a long story short, the misconception about the wage ruined the workplace morale.",
+      "word": "misconception",
+      "example": "A common misconception is that well-paid jobs are always fulfilled and innovative."
+    },
+    {
+      "pos": "n.",
+      "uz": "xavfsizlik, barqarorlik",
+      "ru": "безопасность, стабильность",
+      "en": "The feeling of being safe or having stable conditions.",
+      "ex1": "Bear in mind that security, pension, and insurance are key to avoiding burnout.",
+      "ex2": "Working for peanuts with no security or insurance made her call it a day.",
+      "word": "security",
+      "example": "She turned down an innovative role for the security of a well-paid, permanent position."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yaxshi maoshli",
+      "ru": "хорошо оплачиваемый",
+      "en": "Receiving a good amount of money for your work.",
+      "ex1": "Bear in mind that well-paid positions require innovative thinking and no misconceptions.",
+      "ex2": "To cut a long story short, she got on the same page and secured a well-paid job.",
+      "word": "well paid",
+      "example": "She turned down the low-paid offer and accepted a well-paid, fulfilled supervisor role."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "charchab ketmoq, zo'riqmoq",
+      "ru": "выгорать, истощаться",
+      "en": "To become exhausted from overwork.",
+      "ex1": "Bear in mind that security and well-paid conditions prevent employees from burning out.",
+      "ex2": "The supervisor called it a day after burning out — there was no misconception about why.",
+      "word": "burn out",
+      "example": "She burned out after years of working for peanuts in a low-paid department."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "kimnidir almashtirmoq, o'rniga ishlаmoq",
+      "ru": "заменять кого-либо",
+      "en": "To do someone's job or duties while they are absent.",
+      "ex1": "Bear in mind that filling in for a low-paid colleague builds fulfilled workplace trust.",
+      "ex2": "She showed him the ropes before filling in — there was no misconception about the duty.",
+      "word": "fill in for sb",
+      "example": "She filled in for the supervisor to show the department she was on the same page."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "yetarlichi qilmoq, kun ko'rmoq",
+      "ru": "справляться, перебиваться",
+      "en": "To manage to survive or cope with a difficult situation.",
+      "ex1": "Bear in mind that getting by on a low-paid wage leads to burnout and misconception.",
+      "ex2": "To cut a long story short, she got by until a well-paid innovative role came up.",
+      "word": "get by",
+      "example": "She worked for peanuts but got by — the security of the position made it worthwhile."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ko'rib chiqmoq, takrorlamoq",
+      "ru": "пересматривать, повторять",
+      "en": "To review or check something carefully.",
+      "ex1": "Bear in mind that going over the insurance and wage form prevents workplace misconception.",
+      "ex2": "She showed him the ropes and went over the duty list — they were on the same page.",
+      "word": "go over",
+      "example": "She went over the compensation form with the supervisor before the department expanded."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "birovdan fikr so'ramoq",
+      "ru": "согласовать с кем-либо, обсудить",
+      "en": "To tell someone about something to get their opinion or approval.",
+      "ex1": "Bear in mind that running innovative ideas by management avoids misconception.",
+      "ex2": "To cut a long story short, she ran it by the department and they were all on the same page.",
+      "word": "run sth by sb",
+      "example": "She ran the pay rise proposal by the supervisor before going over the compensation form."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "rad etmoq, qabul qilmaslik",
+      "ru": "отклонять, отказываться",
+      "en": "To refuse an offer or request.",
+      "ex1": "Bear in mind that turning down an innovative offer for security may lead to misconception.",
+      "ex2": "To cut a long story short, she turned it down — working for peanuts was not worth it.",
+      "word": "turn down",
+      "example": "She turned down a low-paid position and held out for a well-paid, fulfilled role."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "muvaffaqiyatli bo'lmoq; mashq qilmoq",
+      "ru": "получаться, складываться; тренироваться",
+      "en": "To develop well or have a positive result; also to exercise.",
+      "ex1": "Bear in mind that things work out when security, innovation, and duty are on the same page.",
+      "ex2": "To cut a long story short, it all worked out — no burnout, no misconception.",
+      "word": "work out",
+      "example": "Her decision to resign and set up a business worked out — she felt fulfilled and well paid."
+    },
+    {
+      "pos": "idiom",
+      "uz": "ishni to'xtatmoq, yetarli deb hisoblash",
+      "ru": "закончить на сегодня, сворачиваться",
+      "en": "To decide to stop doing something for the day.",
+      "ex1": "Bear in mind that burning out means it is time to call it a day and reassess.",
+      "ex2": "She called it a day — working for peanuts in a low-paid role was a misconception of success.",
+      "word": "call it a day",
+      "example": "The supervisor called it a day after going over the insurance and wage form."
+    },
+    {
+      "pos": "idiom",
+      "uz": "qiyinchilik bilan kun ko'rmoq",
+      "ru": "сводить концы с концами",
+      "en": "To have just enough money for your basic needs.",
+      "ex1": "Bear in mind that making ends meet on a low wage leads to burnout and misconception.",
+      "ex2": "To cut a long story short, she turned down the job — she could not make ends meet.",
+      "word": "make ends meet",
+      "example": "She worked for peanuts and struggled to make ends meet in the low-paid department."
+    },
+    {
+      "pos": "idiom",
+      "uz": "kunini yoritmoq, xursand qilmoq",
+      "ru": "осчастливить, сделать день",
+      "en": "To make someone very happy.",
+      "ex1": "Bear in mind that a well-paid offer and pension security can make an applicant's day.",
+      "ex2": "The supervisor showed her the ropes, and the fulfilled workplace role made her day.",
+      "word": "make one's day",
+      "example": "The pay rise made her day — she had been working for peanuts in a low-paid role."
+    },
+    {
+      "pos": "idiom",
+      "uz": "bir fikrda bo'lmoq",
+      "ru": "быть на одной волне, понимать друг друга",
+      "en": "To have the same understanding or agreement about something.",
+      "ex1": "Bear in mind that being on the same page avoids burnout and workplace misconception.",
+      "ex2": "She ran it by the team — they were on the same page about the innovative pay rise.",
+      "word": "on the same page",
+      "example": "The department and supervisor were on the same page about the wage and insurance form."
+    },
+    {
+      "pos": "idiom",
+      "uz": "soat kabi ishlаmoq, tartibli bo'lmoq",
+      "ru": "работать как часы",
+      "en": "To function perfectly and smoothly.",
+      "ex1": "Bear in mind that a workplace runs like clockwork when everyone is on the same page.",
+      "ex2": "She showed him the ropes and the whole department ran like clockwork in no time.",
+      "word": "run like clockwork",
+      "example": "After the supervisor set things up, the department ran like clockwork — well paid and fulfilled."
+    },
+    {
+      "pos": "idiom",
+      "uz": "o'rgatmoq, ko'rsatmoq",
+      "ru": "показать как что делается, ввести в курс дела",
+      "en": "To teach someone how to do a job or task.",
+      "ex1": "Bear in mind that showing someone the ropes prevents misconception and burnout.",
+      "ex2": "To cut a long story short, she showed him the ropes and the team ran like clockwork.",
+      "word": "show sb the ropes",
+      "example": "She showed the new applicant the ropes before filling in for the supervisor."
+    },
+    {
+      "pos": "idiom",
+      "uz": "qisqasi, xulosa qilib aytganda",
+      "ru": "короче говоря, в двух словах",
+      "en": "Used to summarise a long story or explanation briefly.",
+      "ex1": "Bear in mind that — to cut a long story short — burnout leads to resignation.",
+      "ex2": "To cut a long story short, they were on the same page and the department ran like clockwork.",
+      "word": "to cut a long story short",
+      "example": "To cut a long story short, she turned down the low-paid role and set up her own business."
+    },
+    {
+      "pos": "idiom",
+      "uz": "juda oz pul uchun ishlаmoq",
+      "ru": "работать за копейки",
+      "en": "To be paid a very small amount of money for work.",
+      "ex1": "Bear in mind that working for peanuts leads to burnout and inability to make ends meet.",
+      "ex2": "To cut a long story short, she turned down the offer — she refused to work for peanuts.",
+      "word": "work for peanuts",
+      "example": "She worked for peanuts in a low-paid department until she called it a day."
+    }
+  ],
+  "p4": [
+    {
+      "pos": "n.",
+      "uz": "kompyuter savodxonligi",
+      "ru": "компьютерная грамотность",
+      "en": "The ability to use computers and related technology effectively.",
+      "ex1": "She turned down the low-paid offer and highlighted her computer literacy in the CV.",
+      "ex2": "To cut a long story short, computer literacy and fluency are key to workplace innovation.",
+      "word": "computer literacy",
+      "example": "Bear in mind that computer literacy is a key guarantee for a well-paid, fulfilled role."
+    },
+    {
+      "pos": "n.",
+      "uz": "ravonlik, erkin muloqot",
+      "ru": "беглость, свободное владение",
+      "en": "The ability to speak or write a language smoothly and accurately.",
+      "ex1": "Bear in mind that fluency and computer literacy are key soft skills in any department.",
+      "ex2": "To cut a long story short, fluency and computer literacy guaranteed her the well-paid role.",
+      "word": "fluency",
+      "example": "Fluency in English is a key guarantee for well-paid, innovative workplace positions."
+    },
+    {
+      "pos": "n.",
+      "uz": "kafolat",
+      "ru": "гарантия",
+      "en": "A formal promise that something will happen or be provided.",
+      "ex1": "Bear in mind that no job offers a guarantee — but fluency and innovation help.",
+      "ex2": "To cut a long story short, her computer literacy was the key guarantee that got her hired.",
+      "word": "guarantee",
+      "example": "Computer literacy and fluency were a key guarantee of her well-paid, fulfilled position."
+    },
+    {
+      "pos": "adj.",
+      "uz": "asosiy, muhim",
+      "ru": "ключевой, основной",
+      "en": "Most important; essential.",
+      "ex1": "Bear in mind that key soft skills like fluency and computer literacy prevent burnout.",
+      "ex2": "To cut a long story short, fluency was the key guarantee that made her application stand out.",
+      "word": "key",
+      "example": "Computer literacy and fluency are key guarantees for a fulfilled, well-paid career."
+    }
+  ]
+}

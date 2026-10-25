@@ -1,0 +1,1190 @@
+{
+  "p1": [
+    {
+      "pos": "n.",
+      "uz": "tahlilchi, ekspert",
+      "ru": "аналитик",
+      "en": "A person who examines data or information to provide expert conclusions.",
+      "ex1": "The analyst reflected on the economic term used to describe manufacturing costs.",
+      "ex2": "She worked as a digital analyst, tracking globally trending brands annually.",
+      "word": "analyst",
+      "example": "An analyst presented findings on how fast fashion affects the environment."
+    },
+    {
+      "pos": "adv.",
+      "uz": "har yili, yillik",
+      "ru": "ежегодно",
+      "en": "Once a year or every year.",
+      "ex1": "The analyst reported that manufacturing costs rise annually.",
+      "ex2": "Globally, billions of items of cheap cloth are produced annually.",
+      "word": "annually",
+      "example": "Fast fashion brands release new collections virtually every week, not just annually."
+    },
+    {
+      "pos": "n.",
+      "uz": "yondashuv, usul",
+      "ru": "подход",
+      "en": "A way of dealing with or thinking about something.",
+      "ex1": "The brand's approach to customisation made their process unique.",
+      "ex2": "Traditionally, a long-lasting approach to clothing was more common.",
+      "word": "approach",
+      "example": "A more environmentally conscious approach to fashion could reduce pollution."
+    },
+    {
+      "pos": "n.",
+      "uz": "brend, tovar belgisi",
+      "ru": "бренд, торговая марка",
+      "en": "A name or label associated with a particular product or company.",
+      "ex1": "The brand guaranteed long-lasting quality using environmentally conscious techniques.",
+      "ex2": "Trendy brands potentially cost a fortune due to costly manufacturing processes.",
+      "word": "brand",
+      "example": "She reflected on how digital brands have changed fast fashion globally."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "kamaytirmoq, tushirmoq",
+      "ru": "снижать, уменьшать",
+      "en": "To reduce the level or cost of something.",
+      "ex1": "Globally, fast fashion brands aim to bring down transportation expenses.",
+      "ex2": "Using inexpensive cloth can bring down the cost of production significantly.",
+      "word": "bring sth down (=reduce)",
+      "example": "The analyst suggested new techniques to bring down manufacturing costs."
+    },
+    {
+      "pos": "n.",
+      "uz": "mato, gazlama",
+      "ru": "ткань, материя",
+      "en": "Material made from fibres used to make clothes or other items.",
+      "ex1": "Traditionally, long-lasting cloth was sourced locally to reduce transportation impact.",
+      "ex2": "She reflected on how digitally customised cloth has changed the fashion process.",
+      "word": "cloth",
+      "example": "The brand used poor quality cloth to bring down production costs."
+    },
+    {
+      "pos": "n.",
+      "uz": "tashvish, muammo",
+      "ru": "озабоченность, проблема",
+      "en": "A worry or issue that is considered important.",
+      "ex1": "The analyst presented her concern about costly and time-consuming manufacturing.",
+      "ex2": "Environmentally conscious consumers express concern about globally polluted waterways.",
+      "word": "concern",
+      "example": "A major concern is that fast fashion is potentially damaging to the environment."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qimmat, qimmatbaho",
+      "ru": "дорогостоящий",
+      "en": "Expensive; costing a lot of money or resources.",
+      "ex1": "She reflected on how costly transportation adds to the price of branded cloth.",
+      "ex2": "Costly customisation is virtually impossible for inexpensive brands to guarantee.",
+      "word": "costly",
+      "example": "Traditional, long-lasting techniques are often more costly than fast fashion processes."
+    },
+    {
+      "pos": "n.",
+      "uz": "tanqid, e'tiroz",
+      "ru": "критика",
+      "en": "The expression of disapproval or judgement of something.",
+      "ex1": "The analyst reflected on the criticism directed at poor quality manufacturing.",
+      "ex2": "Environmentally conscious consumers present strong criticism of trendy but costly brands.",
+      "word": "criticism",
+      "example": "Fast fashion brands face widespread criticism for producing polluted waste annually."
+    },
+    {
+      "pos": "n.",
+      "uz": "moslashtirishlik, individuallashtirish",
+      "ru": "кастомизация, индивидуализация",
+      "en": "The process of making something to suit individual needs or preferences.",
+      "ex1": "She valued customisation over trendy, inexpensive fast fashion alternatives.",
+      "ex2": "The brand's approach to customisation was both long-lasting and environmentally conscious.",
+      "word": "customisation",
+      "example": "Digital customisation has made it possible to present unique clothing globally."
+    },
+    {
+      "pos": "adj.",
+      "uz": "moslashtirilgan, individual",
+      "ru": "индивидуализированный, изготовленный на заказ",
+      "en": "Made or altered to suit a particular person or purpose.",
+      "ex1": "The brand presented a customised digital tool to reduce manufacturing time.",
+      "ex2": "Customised items potentially cost more but are rarely poor quality.",
+      "word": "customised",
+      "example": "She preferred customised, long-lasting cloth over trendy fast fashion."
+    },
+    {
+      "pos": "adj.",
+      "uz": "raqamli, digital",
+      "ru": "цифровой",
+      "en": "Relating to computers or electronic technology.",
+      "ex1": "The brand used a digital approach to bring down customisation costs.",
+      "ex2": "She reflected on how digital techniques have made clothing more accessible annually.",
+      "word": "digital",
+      "example": "Digital tools have transformed the manufacturing process in fast fashion globally."
+    },
+    {
+      "pos": "adj.",
+      "uz": "iqtisodiy",
+      "ru": "экономический",
+      "en": "Relating to money, trade, and production of goods.",
+      "ex1": "Globally, fast fashion has had a significant economic impact on traditional manufacturing.",
+      "ex2": "An environmentally conscious approach can still be economically sustainable.",
+      "word": "economic",
+      "example": "The analyst presented an economic term for the rising cost of transportation."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ekologik xabardor, tabiatga e'tiborli",
+      "ru": "экологически сознательный",
+      "en": "Aware of and concerned about the impact of actions on the environment.",
+      "ex1": "She reflected on how being environmentally conscious affects brand choice annually.",
+      "ex2": "The brand presented a globally recognised, environmentally conscious manufacturing technique.",
+      "word": "environmentally conscious",
+      "example": "Environmentally conscious consumers prefer long-lasting cloth over fast fashion."
+    },
+    {
+      "pos": "n.",
+      "uz": "tez moda",
+      "ru": "быстрая мода",
+      "en": "The rapid production of large quantities of trendy, cheap clothing.",
+      "ex1": "The analyst presented criticism of fast fashion's poor quality and costly waste.",
+      "ex2": "Traditionally, clothing was long-lasting — fast fashion reversed this process.",
+      "word": "fast fashion",
+      "example": "Fast fashion is potentially one of the most polluted industries globally."
+    },
+    {
+      "pos": "adv.",
+      "uz": "dunyo bo'ylab, global miqyosda",
+      "ru": "глобально, во всём мире",
+      "en": "Throughout the world.",
+      "ex1": "The analyst reflected on how digital tools have transformed manufacturing globally.",
+      "ex2": "Annually, millions of tonnes of polluted cloth are discarded globally.",
+      "word": "globally",
+      "example": "Fast fashion brands sell trendy items globally at inexpensive prices."
+    },
+    {
+      "pos": "v.",
+      "uz": "kafolatlamoq",
+      "ru": "гарантировать",
+      "en": "To promise that something will happen or be done.",
+      "ex1": "She reflected on whether fast fashion could ever guarantee environmentally conscious production.",
+      "ex2": "Digital customisation techniques can guarantee a more unique and potentially costly product.",
+      "word": "guarantee",
+      "example": "The brand guaranteed long-lasting quality despite using inexpensive cloth."
+    },
+    {
+      "pos": "adj.",
+      "uz": "arzon, qimmat bo'lmagan",
+      "ru": "недорогой, дешёвый",
+      "en": "Not costing much money.",
+      "ex1": "She brought down her budget by choosing inexpensive but long-lasting cloth.",
+      "ex2": "Globally, inexpensive manufacturing processes have made fast fashion widespread.",
+      "word": "inexpensive",
+      "example": "Fast fashion presents inexpensive items that are trendy but potentially poor quality."
+    },
+    {
+      "pos": "adj.",
+      "uz": "uzoq muddatli, chidamli",
+      "ru": "долговечный, прочный",
+      "en": "Continuing for a long time; durable.",
+      "ex1": "An environmentally conscious brand guarantees long-lasting, customised products.",
+      "ex2": "She reflected that long-lasting items are rarely produced by fast fashion brands.",
+      "word": "long-lasting",
+      "example": "Traditionally, clothing was made using long-lasting techniques and high-quality cloth."
+    },
+    {
+      "pos": "n.",
+      "uz": "ishlab chiqarish, fabrika",
+      "ru": "производство, изготовление",
+      "en": "The process of making goods on a large scale using machinery.",
+      "ex1": "Digital techniques have transformed the manufacturing process in fast fashion.",
+      "ex2": "Bringing down manufacturing costs is a key term in the economic approach to fashion.",
+      "word": "manufacturing",
+      "example": "The analyst presented concern about the polluted impact of global manufacturing."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ifloslangan",
+      "ru": "загрязнённый",
+      "en": "Made dirty or harmful by waste or chemicals.",
+      "ex1": "The analyst reflected on how globally polluted rivers are linked to cloth manufacturing.",
+      "ex2": "An environmentally conscious brand avoids potentially polluted production techniques.",
+      "word": "polluted",
+      "example": "Fast fashion produces polluted water and fabric waste annually."
+    },
+    {
+      "pos": "adj.",
+      "uz": "sifatsiz, past sifatli",
+      "ru": "плохого качества",
+      "en": "Not good enough; below standard.",
+      "ex1": "The criticism of the brand centred on its poor quality and costly returns process.",
+      "ex2": "She reflected that poor quality items are rarely long-lasting, no matter how trendy.",
+      "word": "poor (quality)",
+      "example": "Inexpensive fast fashion is often made from poor quality cloth."
+    },
+    {
+      "pos": "adv.",
+      "uz": "potentsial ravishda, ehtimolda",
+      "ru": "потенциально, возможно",
+      "en": "Possibly at some future time; in a way that may become real.",
+      "ex1": "Digital customisation could potentially bring down manufacturing costs annually.",
+      "ex2": "She reflected that inexpensive cloth is potentially poor quality in the long term.",
+      "word": "potentially",
+      "example": "Fast fashion is potentially one of the most environmentally damaging industries globally."
+    },
+    {
+      "pos": "v.",
+      "uz": "taqdim etmoq, ko'rsatmoq",
+      "ru": "представлять, показывать",
+      "en": "To show or introduce something formally.",
+      "ex1": "She presented a new digital technique to bring down manufacturing costs.",
+      "ex2": "The brand presented a customised, long-lasting alternative to trendy fast fashion.",
+      "word": "present",
+      "example": "The analyst presented her findings on the environmental impact of fast fashion."
+    },
+    {
+      "pos": "n.",
+      "uz": "jarayon",
+      "ru": "процесс",
+      "en": "A series of actions or steps taken to achieve a result.",
+      "ex1": "She reflected on how the digital process has changed customisation globally.",
+      "ex2": "The analyst presented a concern about the costly transportation process.",
+      "word": "process",
+      "example": "The manufacturing process of fast fashion is potentially polluted and time-consuming."
+    },
+    {
+      "pos": "v.",
+      "uz": "o'ylаmoq, aks etmoq",
+      "ru": "размышлять, отражать",
+      "en": "To think carefully about something; or to show the nature of something.",
+      "ex1": "The analyst reflected on globally rising manufacturing costs annually.",
+      "ex2": "A brand's approach to cloth quality reflects its environmentally conscious values.",
+      "word": "reflect",
+      "example": "She reflected on how fast fashion reflects wider consumerist values."
+    },
+    {
+      "pos": "v.",
+      "uz": "joylashtirmoq, joylashmoq",
+      "ru": "располагать, размещать",
+      "en": "To place or locate something in a particular position.",
+      "ex1": "The brand's digital tools were situated globally to guarantee fast delivery.",
+      "ex2": "She reflected on how fast fashion brands are often situated in polluted industrial zones.",
+      "word": "situate",
+      "example": "The manufacturing plant was situated far from the city to reduce transportation costs."
+    },
+    {
+      "pos": "n.",
+      "uz": "texnika, usul",
+      "ru": "техника, метод",
+      "en": "A particular way of doing something, especially one requiring skill.",
+      "ex1": "The analyst presented a new technique to bring down costs and reduce pollution.",
+      "ex2": "Traditionally, long-lasting cloth was produced using hand-crafted techniques.",
+      "word": "technique",
+      "example": "Digital techniques have transformed the manufacturing process in fast fashion globally."
+    },
+    {
+      "pos": "n.",
+      "uz": "atama, ibora",
+      "ru": "термин, понятие",
+      "en": "A word or phrase used to describe something specific.",
+      "ex1": "In economic terms, bringing down manufacturing costs is a key concern.",
+      "ex2": "She reflected on the term environmentally conscious and how it applies to the brand.",
+      "word": "term",
+      "example": "The analyst introduced the economic term used to define fast fashion production."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ko'p vaqt talab qiladigan",
+      "ru": "отнимающий много времени",
+      "en": "Taking a large amount of time.",
+      "ex1": "The digital process was designed to make customisation less time-consuming.",
+      "ex2": "She reflected that environmentally conscious approaches are often more time-consuming but worthwhile.",
+      "word": "time-consuming",
+      "example": "Customised, long-lasting manufacturing is more time-consuming than fast fashion."
+    },
+    {
+      "pos": "n.",
+      "uz": "vosita, asbob",
+      "ru": "инструмент, средство",
+      "en": "A device or resource used to do a job or achieve a goal.",
+      "ex1": "She presented a new tool to bring down transportation costs globally.",
+      "ex2": "The analyst used a digital tool to reflect on annually rising production trends.",
+      "word": "tool",
+      "example": "Digital tools have made the manufacturing process faster and less costly."
+    },
+    {
+      "pos": "adv.",
+      "uz": "an'anaviy ravishda",
+      "ru": "традиционно",
+      "en": "In a way that follows long-established customs or practices.",
+      "ex1": "Traditionally, consumers reflected on value before making a purchase.",
+      "ex2": "Globally, fast fashion has replaced what was traditionally a slower manufacturing process.",
+      "word": "traditionally",
+      "example": "Traditionally, clothing was made using long-lasting cloth and time-consuming techniques."
+    },
+    {
+      "pos": "n.",
+      "uz": "tashish, transport",
+      "ru": "транспортировка",
+      "en": "The act or system of moving goods or people from one place to another.",
+      "ex1": "She reflected on how digital approaches could bring down transportation costs annually.",
+      "ex2": "The analyst presented a concern about the polluted impact of global transportation.",
+      "word": "transportation",
+      "example": "Transportation adds a potentially costly element to globally sourced manufacturing."
+    },
+    {
+      "pos": "adj.",
+      "uz": "zamonaviy, moda bo'lgan",
+      "ru": "модный, стильный",
+      "en": "Very fashionable at a particular time.",
+      "ex1": "She reflected that trendy items rarely stay in style long enough to be long-lasting.",
+      "ex2": "Globally, digital brands guarantee trendy customised items annually.",
+      "word": "trendy",
+      "example": "Fast fashion brands produce trendy items that are inexpensive but potentially poor quality."
+    },
+    {
+      "pos": "adv.",
+      "uz": "deyarli, amalda",
+      "ru": "практически, почти",
+      "en": "Almost or nearly; used to say something is almost completely true.",
+      "ex1": "The digital process has virtually transformed global manufacturing annually.",
+      "ex2": "She reflected that virtually all trendy fast fashion cloth ends up as waste.",
+      "word": "virtually",
+      "example": "Fast fashion items are virtually inexpensive but potentially poor quality."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "n.",
+      "uz": "aldash, qimmatga sotmoq",
+      "ru": "грабёж, надувательство",
+      "en": "Something that costs much more than it is worth.",
+      "ex1": "He felt the customised item was a rip-off given its inexpensive manufacturing process.",
+      "ex2": "Fast fashion items can feel like a rip-off when they fall apart quickly.",
+      "word": "a rip-off",
+      "example": "She said the trendy brand was a complete rip-off for such poor quality cloth."
+    },
+    {
+      "pos": "n.",
+      "uz": "arzon narx qidirish",
+      "ru": "поиск выгодных покупок",
+      "en": "The activity of searching for goods at lower than normal prices.",
+      "ex1": "Bargain hunting at clearance sales can help you avoid overspending.",
+      "ex2": "He preferred bargain hunting to shopping sprees at overpriced brand stores.",
+      "word": "bargain hunting",
+      "example": "She enjoyed bargain hunting at the flea market every weekend."
+    },
+    {
+      "pos": "n.",
+      "uz": "kassadan o'tish joyi",
+      "ru": "касса, расчётный узел",
+      "en": "The place in a shop where you pay for goods.",
+      "ex1": "He used his debit card at the checkout to avoid withdrawing cash.",
+      "ex2": "The checkout was understaffed, which led to long queues.",
+      "word": "checkout",
+      "example": "She was overcharged at the checkout and had to ask for a correction."
+    },
+    {
+      "pos": "n.",
+      "uz": "chegirma sotuv, tovarni sotib yuborish",
+      "ru": "распродажа остатков",
+      "en": "A sale where goods are sold cheaply to get rid of them.",
+      "ex1": "He went bargain hunting during the clearance event at the flea market.",
+      "ex2": "Clearance prices are often underpriced compared to their original cost.",
+      "word": "clearance",
+      "example": "She found a bargain at the clearance sale — not a rip-off at all."
+    },
+    {
+      "pos": "idiom",
+      "uz": "juda qimmatga tushmoq",
+      "ru": "стоить целое состояние",
+      "en": "To be very expensive.",
+      "ex1": "She said the overpriced outfit cost a fortune — an absolute rip-off.",
+      "ex2": "Traditionally crafted, long-lasting items can cost a fortune but are worth it.",
+      "word": "cost a fortune",
+      "example": "The customised brand item cost a fortune compared to fast fashion alternatives."
+    },
+    {
+      "pos": "idiom",
+      "uz": "juda qimmat turmoq",
+      "ru": "стоить баснословных денег",
+      "en": "To be extremely expensive.",
+      "ex1": "He said the clearance was fine — the original price cost an arm and a leg.",
+      "ex2": "Fast fashion is popular because traditional alternatives cost an arm and a leg.",
+      "word": "cost an arm and a leg",
+      "example": "The trendy brand coat cost an arm and a leg, but she bought it anyway."
+    },
+    {
+      "pos": "n.",
+      "uz": "debet karta",
+      "ru": "дебетовая карта",
+      "en": "A card that takes money directly from your bank account when you pay.",
+      "ex1": "He was overcharged on his debit card and had to report it.",
+      "ex2": "A debit card makes bargain hunting easier by tracking what you spend.",
+      "word": "debit card",
+      "example": "She used her debit card at the checkout instead of withdrawing cash."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'l bozori, qo'l bozori",
+      "ru": "блошиный рынок",
+      "en": "An outdoor market where people sell second-hand or inexpensive goods.",
+      "ex1": "He preferred the flea market to overpriced brand stores.",
+      "ex2": "Flea markets are a great alternative to fast fashion shopping sprees.",
+      "word": "flea market",
+      "example": "She found a one-of-a-kind piece at the flea market during her bargain hunting."
+    },
+    {
+      "pos": "idiom",
+      "uz": "do'konlarga bormoq",
+      "ru": "отправиться по магазинам",
+      "en": "To go out shopping.",
+      "ex1": "He hit the shops on a spending spree and ended up overcharged on his debit card.",
+      "ex2": "She hit the shops at the flea market rather than overpriced brand stores.",
+      "word": "hit the shops",
+      "example": "She decided to hit the shops during the clearance sale for some bargain hunting."
+    },
+    {
+      "pos": "v.",
+      "uz": "qayta qadoqlamoq",
+      "ru": "переупаковать",
+      "en": "To pack something again, usually differently or more carefully.",
+      "ex1": "He repacked the clearance items into reusable bags after checkout.",
+      "ex2": "The understaffed checkout meant items were repacked incorrectly.",
+      "word": "repack",
+      "example": "She had to repack her shopping after the overpriced items were returned."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "narxlarni solishtirish uchun aylanmoq",
+      "ru": "искать лучшую цену, сравнивать",
+      "en": "To look at prices in different shops before deciding where to buy.",
+      "ex1": "He shopped around at the flea market before paying at the checkout.",
+      "ex2": "Bargain hunting means shopping around to avoid being ripped off.",
+      "word": "shop around",
+      "example": "She always shops around before spending a fortune on a trendy brand."
+    },
+    {
+      "pos": "n.",
+      "uz": "katta xarid qilish",
+      "ru": "шопинг-марафон, кутёж",
+      "en": "A period of buying a lot of things, often impulsively.",
+      "ex1": "He hit the shops on a spending spree and ended up with overpriced items.",
+      "ex2": "A shopping spree at a flea market is far less costly than at brand stores.",
+      "word": "shopping/spending spree",
+      "example": "She went on a shopping spree during the clearance and overspent on her debit card."
+    },
+    {
+      "pos": "n.",
+      "uz": "juda arzon narx (noresmi)",
+      "ru": "сказочная цена, очень выгодная покупка",
+      "en": "Something bought for a much lower price than its real value (informal).",
+      "ex1": "She found a long-lasting woollen coat at the flea market — a real steal.",
+      "ex2": "He shopped around and found a bargain that was practically a steal.",
+      "word": "steal (=very low price)",
+      "example": "That customised jacket at the clearance was a steal — not a rip-off at all."
+    },
+    {
+      "pos": "v.",
+      "uz": "pul yechib olmoq, chiqarib olmoq",
+      "ru": "снимать (деньги), изымать",
+      "en": "To take money out of a bank account.",
+      "ex1": "He preferred his debit card over withdrawing cash at the checkout.",
+      "ex2": "She withdrew the exact amount to avoid overspending on her shopping spree.",
+      "word": "withdraw",
+      "example": "She withdrew cash before hitting the shops at the flea market."
+    },
+    {
+      "pos": "adj.",
+      "uz": "joylar to'lib ketgan",
+      "ru": "переполненный (о бронировании)",
+      "en": "Having more bookings than there are spaces available.",
+      "ex1": "She arrived to find the fitting room overbooked due to a shopping spree event.",
+      "ex2": "The understaffed checkout made the overbooked situation worse.",
+      "word": "overbooked",
+      "example": "The store was overbooked during the clearance and the checkout queue was endless."
+    },
+    {
+      "pos": "v.",
+      "uz": "ortiqcha pul olmoq",
+      "ru": "брать лишнее, завышать цену",
+      "en": "To charge someone too much money.",
+      "ex1": "He felt the brand had overcharged him — a complete rip-off.",
+      "ex2": "Overpriced fast fashion items often overcharge for poor quality cloth.",
+      "word": "overcharge",
+      "example": "She was overcharged at the checkout and had to return to the customer service desk."
+    },
+    {
+      "pos": "v.",
+      "uz": "haddan ortiq pishirmoq",
+      "ru": "переварить, пережарить",
+      "en": "To cook food for too long.",
+      "ex1": "He overcook the meal while distracted by browsing overpriced brand catalogues.",
+      "ex2": "Overcooking, like overcharging, means going further than necessary.",
+      "word": "overcook",
+      "example": "She overcook the food during the shopping spree preparation — a minor mistake."
+    },
+    {
+      "pos": "v.",
+      "uz": "haddan oshirmoq",
+      "ru": "переусердствовать",
+      "en": "To do something to an excessive degree.",
+      "ex1": "He overdid his shopping spree and withdrew far too much cash.",
+      "ex2": "Don't overdo the clearance sales — it's easy to overspend.",
+      "word": "overdo",
+      "example": "She overdid the bargain hunting and came home exhausted."
+    },
+    {
+      "pos": "v.",
+      "uz": "bo'rttirib baholamoq",
+      "ru": "переоценивать",
+      "en": "To think something is bigger, better, or more important than it actually is.",
+      "ex1": "He overestimated the value of the clearance items — they were a rip-off.",
+      "ex2": "Don't overestimate how much you can carry on a shopping spree.",
+      "word": "overestimate",
+      "example": "She overestimated how much cash she needed to withdraw for the flea market."
+    },
+    {
+      "pos": "adj.",
+      "uz": "nihoyatda xursand",
+      "ru": "вне себя от радости",
+      "en": "Extremely happy.",
+      "ex1": "He was overjoyed when the overpriced brand item went on clearance.",
+      "ex2": "She was overjoyed that the checkout wasn't overbooked for once.",
+      "word": "overjoyed",
+      "example": "She was overjoyed to find a steal at the flea market during her bargain hunting."
+    },
+    {
+      "pos": "adj.",
+      "uz": "haddan tashqari qimmat",
+      "ru": "завышенная цена",
+      "en": "Costing more than it is worth.",
+      "ex1": "He said the item cost an arm and a leg — completely overpriced.",
+      "ex2": "Overpriced fast fashion items are often a rip-off compared to clearance alternatives.",
+      "word": "overpriced",
+      "example": "She avoided the overpriced brand store and went bargain hunting at the flea market."
+    },
+    {
+      "pos": "v.",
+      "uz": "uxlab qolmoq, kech turmoq",
+      "ru": "проспать",
+      "en": "To sleep longer than intended.",
+      "ex1": "He overslept and arrived at the flea market after all the bargains were gone.",
+      "ex2": "Oversleeping meant she had to hit the shops at the overpriced brand store instead.",
+      "word": "oversleep",
+      "example": "She overslept and missed the clearance sale she had planned for her shopping spree."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xodimlar soni ortiqcha",
+      "ru": "переукомплектованный персоналом",
+      "en": "Having more workers than necessary.",
+      "ex1": "The flea market felt overstaffed compared to the clearance sale.",
+      "ex2": "An overstaffed store can be just as frustrating as an understaffed one.",
+      "word": "overstaffed",
+      "example": "Unlike the understaffed checkout, the brand store was overstaffed and slow."
+    },
+    {
+      "pos": "adj.",
+      "uz": "og'irligi ortiqcha",
+      "ru": "с избыточным весом, перегруженный",
+      "en": "Above the normal or allowed weight.",
+      "ex1": "He was overweight with shopping from the clearance and couldn't withdraw more cash.",
+      "ex2": "After bargain hunting at the flea market, her bags were completely overweight.",
+      "word": "overweight",
+      "example": "Her bag was overweight after the shopping spree and she had to repack."
+    },
+    {
+      "pos": "v.",
+      "uz": "kam pul olmoq",
+      "ru": "взять меньше, чем нужно",
+      "en": "To charge less than the correct price.",
+      "ex1": "The checkout screen showed she had been undercharged by mistake.",
+      "ex2": "He was undercharged at the clearance and felt too awkward to point it out.",
+      "word": "undercharge",
+      "example": "The flea market seller undercharged her — practically giving her a steal."
+    },
+    {
+      "pos": "v.",
+      "uz": "kam pishirmoq",
+      "ru": "недоварить, недожарить",
+      "en": "To cook food for less time than needed.",
+      "ex1": "Like overcharging, undercooking means failing to meet the right standard.",
+      "ex2": "He undercooked the food during his shopping spree preparation.",
+      "word": "undercook",
+      "example": "She undercooked the meal while distracted during her bargain hunting."
+    },
+    {
+      "pos": "adj.",
+      "uz": "narxi pastga qo'yilgan",
+      "ru": "недооценённый по цене",
+      "en": "Sold for less than the real value.",
+      "ex1": "Clearance items are often underpriced to bring down stock quickly.",
+      "ex2": "She found an underpriced, long-lasting item during her bargain hunting.",
+      "word": "underpriced",
+      "example": "The woollen coat at the flea market was underpriced — a genuine steal."
+    },
+    {
+      "pos": "v.",
+      "uz": "belgilangan miqdordan kam sarflаmoq",
+      "ru": "потратить меньше запланированного",
+      "en": "To spend less than the amount available or planned.",
+      "ex1": "He underspent during the shopping spree by sticking to a budget.",
+      "ex2": "Bargain hunting helped her underspend and avoid a rip-off.",
+      "word": "underspend",
+      "example": "She underspent at the clearance and had cash left to withdraw for the flea market."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xodimlar yetishmovchilik",
+      "ru": "недоукомплектованный персоналом",
+      "en": "Not having enough workers.",
+      "ex1": "An understaffed flea market stall can make bargain hunting frustrating.",
+      "ex2": "She was overcharged because the understaffed checkout made too many errors.",
+      "word": "understaffed",
+      "example": "The checkout was understaffed, causing long queues during the clearance."
+    },
+    {
+      "pos": "adj.",
+      "uz": "og'irligi past, yetarlicha og'ir emas",
+      "ru": "с недостаточным весом, недогруженный",
+      "en": "Below the normal or expected weight.",
+      "ex1": "The parcel was underweight, so shipping was cheaper than expected.",
+      "ex2": "After the flea market, her bag felt underweight compared to a typical shopping spree.",
+      "word": "underweight",
+      "example": "His shopping bag was underweight — he had underspent at the clearance."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "v.",
+      "uz": "ko'zdan kechirib chiqmoq",
+      "ru": "просматривать, листать",
+      "en": "To look at goods in a shop without necessarily buying anything.",
+      "ex1": "He browsed the overpriced brand store but left without using his debit card.",
+      "ex2": "Browsing online before hitting the shops can help avoid rip-offs.",
+      "word": "browse",
+      "example": "She spent an hour browsing the flea market before making any purchase."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yorilib ketgan, singan",
+      "ru": "с отколотым кусочком, щербатый",
+      "en": "Having a small piece broken off the edge or surface.",
+      "ex1": "He returned the chipped mug, claiming it was a rip-off at that price.",
+      "ex2": "A chipped label or scratched surface can reduce an item's value significantly.",
+      "word": "chipped",
+      "example": "She noticed the item was chipped and asked for a discount at the checkout."
+    },
+    {
+      "pos": "phrase",
+      "uz": "kelmoq va ketmoq, o'tkinchi bo'lmoq",
+      "ru": "приходить и уходить, быть преходящим",
+      "en": "To appear and disappear repeatedly; to be temporary.",
+      "ex1": "Peer pressure to keep up with fast fashion comes and goes seasonally.",
+      "ex2": "Pop-up shops come and go, making bargain hunting an unpredictable activity.",
+      "word": "come and go",
+      "example": "Trendy fashion labels come and go — long-lasting style is more valuable."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yorilgan, darz ketgan",
+      "ru": "треснутый, с трещиной",
+      "en": "Having a line or break on the surface without falling apart.",
+      "ex1": "She found the item cracked at the checkout and asked to exchange it.",
+      "ex2": "A cracked or chipped item should be returned with a receipt.",
+      "word": "cracked",
+      "example": "The cracked screen made the price tag seem like a rip-off."
+    },
+    {
+      "pos": "v.",
+      "uz": "botiq qoldirmoq, ezmoq",
+      "ru": "помять, вмять",
+      "en": "To make a hollow mark in a surface by hitting it.",
+      "ex1": "She dented the price tag argument by showing a receipt from the flea market.",
+      "ex2": "Shipping damage can dent, scratch or crack an item during transit.",
+      "word": "dent",
+      "example": "The delivery had dented the packaging, making the item look chipped."
+    },
+    {
+      "pos": "v.",
+      "uz": "chalg'itmoq, e'tiborini boshqa tomonga qaratmoq",
+      "ru": "отвлекать",
+      "en": "To prevent someone from concentrating on something.",
+      "ex1": "She was distracted by a pop-up stall and ended up on an unplanned shopping spree.",
+      "ex2": "Peer pressure can distract you from keeping up with a sensible budget.",
+      "word": "distract",
+      "example": "Eye-catching displays are designed to distract consumers from the price tag."
+    },
+    {
+      "pos": "n.",
+      "uz": "moda qurboni",
+      "ru": "жертва моды",
+      "en": "A person who follows fashion trends too slavishly, often without considering cost or suitability.",
+      "ex1": "A fashion victim is easily distracted by pop-up shops and impulsive purchases.",
+      "ex2": "She refused to be a fashion victim and chose long-lasting style over trendy fast fashion.",
+      "word": "fashion victim",
+      "example": "He was a fashion victim who spent a fortune keeping up with every trendy label."
+    },
+    {
+      "pos": "n.",
+      "uz": "kiyim sinaydigan xona",
+      "ru": "примерочная",
+      "en": "A room in a shop where you try on clothes before buying.",
+      "ex1": "The fitting room was overbooked during the clearance shopping spree.",
+      "ex2": "He browsed the store, then headed to the fitting room with his selection.",
+      "word": "fitting room",
+      "example": "She went to the fitting room to check whether the outfit suited her."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'zlik, kimlik",
+      "ru": "идентичность, личность",
+      "en": "Who a person is; the qualities that make someone unique.",
+      "ex1": "Keeping up with trendy labels can distract from developing a true personal identity.",
+      "ex2": "A fashion victim loses their identity trying to imitate every new label.",
+      "word": "identity",
+      "example": "She used fashion as a tool for self-expression and identity."
+    },
+    {
+      "pos": "v.",
+      "uz": "taqlid qilmoq",
+      "ru": "подражать, имитировать",
+      "en": "To copy the behaviour or style of someone or something.",
+      "ex1": "A fashion victim imitates trends without considering whether they suit them.",
+      "ex2": "She refused to imitate others and focused on self-expression instead.",
+      "word": "imitate",
+      "example": "Fast fashion brands imitate designer labels at a fraction of the price."
+    },
+    {
+      "pos": "adj.",
+      "uz": "impulsiv, o'ylamasdan harakatlanuvchi",
+      "ru": "импульсивный",
+      "en": "Acting quickly and without careful thought.",
+      "ex1": "She was impulsive at the flea market and bought a scratched item without checking.",
+      "ex2": "Peer pressure makes consumers more impulsive and less thoughtful about price tags.",
+      "word": "impulsive",
+      "example": "An impulsive shopping spree left her with a cracked debit card limit."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ortidan bormoq, hamqadam bo'lmoq",
+      "ru": "идти в ногу с, не отставать от",
+      "en": "To stay at the same level or follow something as it changes.",
+      "ex1": "It is impossible to keep up with fast fashion without overspending.",
+      "ex2": "A fashion victim tries to keep up with every pop-up trend.",
+      "word": "keep up with",
+      "example": "She felt peer pressure to keep up with every trendy label."
+    },
+    {
+      "pos": "n.",
+      "uz": "yorliq, brend nomi",
+      "ru": "этикетка, лейбл",
+      "en": "A piece of paper or cloth attached to an item with information; or a brand name.",
+      "ex1": "He preferred the label of a charity shop find to an overpriced brand.",
+      "ex2": "A scratched or torn label reduces the item's value at the checkout.",
+      "word": "label",
+      "example": "She checked the label to see if the material was long-lasting."
+    },
+    {
+      "pos": "v.",
+      "uz": "cheklаmoq",
+      "ru": "ограничивать",
+      "en": "To control or reduce the amount of something.",
+      "ex1": "He limited his browsing to the flea market to keep his debit card use in check.",
+      "ex2": "Limiting impulsive purchases helps you avoid rip-offs and torn receipts.",
+      "word": "limit",
+      "example": "She limited her shopping spree to avoid overspending at the checkout."
+    },
+    {
+      "pos": "n.",
+      "uz": "sodiq mijoz",
+      "ru": "постоянный покупатель",
+      "en": "A person who regularly uses or buys from a particular shop or brand.",
+      "ex1": "Brands reward loyal customers with clearance discounts and early sale access.",
+      "ex2": "A loyal customer is less likely to be overcharged at the checkout.",
+      "word": "loyal customer",
+      "example": "She was a loyal customer of the charity shop and always found a steal."
+    },
+    {
+      "pos": "adj.",
+      "uz": "aldamchi, chalg'ituvchi",
+      "ru": "вводящий в заблуждение",
+      "en": "Giving a wrong idea or impression.",
+      "ex1": "Eye-catching pop-up deals are often misleading about actual value.",
+      "ex2": "She returned the item, claiming the label was misleading about its quality.",
+      "word": "misleading",
+      "example": "The price tag was misleading — the item was cracked and chipped inside."
+    },
+    {
+      "pos": "n.",
+      "uz": "tengdoshlar ta'siri",
+      "ru": "давление сверстников",
+      "en": "The influence from people your own age or social group to behave in a certain way.",
+      "ex1": "She overcame peer pressure and chose long-lasting fashion over impulsive purchases.",
+      "ex2": "A fashion victim is often driven by peer pressure rather than personal identity.",
+      "word": "peer pressure",
+      "example": "Peer pressure to keep up with trendy labels can distract from self-expression."
+    },
+    {
+      "pos": "adj./n.",
+      "uz": "vaqtinchalik, paydo bo'ladigan",
+      "ru": "временный, всплывающий",
+      "en": "Appearing or opening quickly and temporarily.",
+      "ex1": "Pop-up shops come and go, creating impulsive bargain hunting opportunities.",
+      "ex2": "She found a steal at a pop-up clearance sale during her browsing.",
+      "word": "pop-up",
+      "example": "A pop-up stall at the flea market distracted her from her shopping list."
+    },
+    {
+      "pos": "n.",
+      "uz": "narx yorlig'i",
+      "ru": "ценник",
+      "en": "A small label showing the price of an item.",
+      "ex1": "The price tag was misleading — the scratched item wasn't worth that much.",
+      "ex2": "He browsed the flea market, checking every price tag for a potential steal.",
+      "word": "price tag",
+      "example": "She checked the price tag and decided it was a rip-off."
+    },
+    {
+      "pos": "v.",
+      "uz": "sotib olmoq",
+      "ru": "покупать, приобретать",
+      "en": "To buy something.",
+      "ex1": "He purchased a chipped item on impulse without checking in the fitting room.",
+      "ex2": "Browsing before you purchase helps avoid rip-offs and impulsive decisions.",
+      "word": "purchase",
+      "example": "She purchased the outfit after checking the label and receipt policy."
+    },
+    {
+      "pos": "n.",
+      "uz": "kvitansiya, chek",
+      "ru": "чек, квитанция",
+      "en": "A piece of paper confirming payment for goods.",
+      "ex1": "He lost his receipt and couldn't prove the item was overpriced.",
+      "ex2": "Always check your receipt at the checkout to avoid being overcharged.",
+      "word": "receipt",
+      "example": "She kept the receipt in case the cracked item needed to be returned."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tegishli, dolzarb",
+      "ru": "актуальный, уместный",
+      "en": "Closely connected to what is being discussed or done.",
+      "ex1": "Peer pressure makes irrelevant trends feel personally relevant.",
+      "ex2": "Keeping up with fast fashion labels is rarely relevant to long-term self-expression.",
+      "word": "relevant",
+      "example": "She only purchased items that were relevant to her personal style and identity."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yirtilgan",
+      "ru": "порванный, разорванный",
+      "en": "Torn or having a tear in the fabric.",
+      "ex1": "He returned the ripped label item and demanded a receipt correction.",
+      "ex2": "A ripped, stained or torn item should never have a misleading price tag.",
+      "word": "ripped",
+      "example": "She noticed the item was ripped and pointed it out at the checkout."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tirnalgan, chizilgan",
+      "ru": "поцарапанный",
+      "en": "Having surface marks caused by something sharp.",
+      "ex1": "A scratched or chipped item should be discounted at the checkout.",
+      "ex2": "He browsed carefully to avoid a scratched, torn or misleading purchase.",
+      "word": "scratched",
+      "example": "She noticed the scratched surface and claimed it was a rip-off at that price."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'zini ifoda etish",
+      "ru": "самовыражение",
+      "en": "The expression of your feelings, thoughts, or identity through creative activity.",
+      "ex1": "Pop-up styles come and go — true self-expression is long-lasting.",
+      "ex2": "A fashion victim sacrifices self-expression to keep up with trendy labels.",
+      "word": "self-expression",
+      "example": "She used fashion as a form of self-expression rather than following peer pressure."
+    },
+    {
+      "pos": "n.",
+      "uz": "yetkazib berish, jo'natish",
+      "ru": "доставка, пересылка",
+      "en": "The process of delivering goods from one place to another.",
+      "ex1": "Free shipping made the price tag more reasonable.",
+      "ex2": "Shipping can dent, scratch or crack items, making receipts important.",
+      "word": "shipping",
+      "example": "She checked the shipping cost before purchasing to avoid a rip-off."
+    },
+    {
+      "pos": "adj.",
+      "uz": "sinib ketgan, maydalangan",
+      "ru": "разбитый, разгромленный",
+      "en": "Completely broken into pieces.",
+      "ex1": "She returned the smashed purchase with her receipt to the checkout desk.",
+      "ex2": "A smashed, cracked or chipped item is a potential rip-off if not flagged.",
+      "word": "smashed",
+      "example": "The item arrived smashed due to poor packaging during shipping."
+    },
+    {
+      "pos": "adj.",
+      "uz": "dog'langan, ifloslangan",
+      "ru": "испачканный, с пятнами",
+      "en": "Having marks of dirt or colour that are difficult to remove.",
+      "ex1": "He found the outfit stained in the fitting room and refused to purchase it.",
+      "ex2": "A stained, ripped or torn item should have a reduced price tag.",
+      "word": "stained",
+      "example": "The returned item was stained — she kept the receipt to prove it."
+    },
+    {
+      "pos": "v.",
+      "uz": "mos kelmoq, yarashmoq",
+      "ru": "подходить, идти",
+      "en": "To be right or appropriate for someone.",
+      "ex1": "Peer pressure makes people buy items that don't suit their personal style.",
+      "ex2": "A fashion victim buys what is trendy, not what suits them.",
+      "word": "suit",
+      "example": "She tried the outfit in the fitting room to check it suited her identity."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yirtilgan, parchalangan",
+      "ru": "разорванный, порванный",
+      "en": "Pulled apart or having a hole caused by force.",
+      "ex1": "A torn label reduces the value — she negotiated a lower price tag.",
+      "ex2": "Torn, ripped or stained items should never be sold without a misleading discount.",
+      "word": "torn",
+      "example": "She found the item torn along the seam and rejected it at the checkout."
+    }
+  ],
+  "p4": [
+    {
+      "pos": "phrase",
+      "uz": "umuman olganda",
+      "ru": "в целом, в общем",
+      "en": "Considering everything together; overall.",
+      "ex1": "All in all, the layout was spacious and the customer service was attentive.",
+      "ex2": "All in all, the one-of-a-kind woollen coat was worth the pricey tag.",
+      "word": "all in all",
+      "example": "All in all, the store was well organised and offered good value for money."
+    },
+    {
+      "pos": "adj.",
+      "uz": "e'tiborli, diqqatli",
+      "ru": "внимательный",
+      "en": "Paying close attention to something; considerate and helpful.",
+      "ex1": "An attentive shop assistant goes the extra mile to find the right footwear.",
+      "ex2": "She appreciated the attentive, knowledgeable staff in the sophisticated boutique.",
+      "word": "attentive",
+      "example": "The customer service team was attentive and well-mannered throughout."
+    },
+    {
+      "pos": "phrase",
+      "uz": "birgalikda, bilan qo'shib",
+      "ru": "в сочетании с",
+      "en": "Together with; used to link two things that work together.",
+      "ex1": "A fair price combined with durable, well-made goods is hard to beat.",
+      "ex2": "The spacious fitting rooms combined with knowledgeable staff made browsing enjoyable.",
+      "word": "combined with",
+      "example": "The elegant layout combined with attentive customer service made the shop stand out."
+    },
+    {
+      "pos": "adj.",
+      "uz": "zamonaviy, hozirgi zamon",
+      "ru": "современный",
+      "en": "Belonging to or typical of the present time.",
+      "ex1": "She preferred contemporary, well-made clothing to fast fashion alternatives.",
+      "ex2": "All in all, the contemporary layout made the store spacious and easy to navigate.",
+      "word": "contemporary",
+      "example": "The shop had a contemporary design combined with a sophisticated range of footwear."
+    },
+    {
+      "pos": "n.",
+      "uz": "mijozlarga xizmat ko'rsatish",
+      "ru": "обслуживание клиентов",
+      "en": "The assistance and advice given to customers before, during, and after purchase.",
+      "ex1": "All in all, the customer service was knowledgeable and well-mannered.",
+      "ex2": "Combined with fair prices, excellent customer service made it her favourite store.",
+      "word": "customer service",
+      "example": "The attentive customer service team went the extra mile to find the right size."
+    },
+    {
+      "pos": "adj.",
+      "uz": "chidamli, uzoq xizmat qiladigan",
+      "ru": "прочный, долговечный",
+      "en": "Able to last for a long time without becoming damaged.",
+      "ex1": "All in all, the woollen coat was durable, elegant and worth the pricey tag.",
+      "ex2": "A durable product combined with a fair price offers excellent value for money.",
+      "word": "durable",
+      "example": "She chose durable, well-made footwear over trendy but inexpensive fast fashion."
+    },
+    {
+      "pos": "adj.",
+      "uz": "nafis, ziyofatli",
+      "ru": "элегантный, изысканный",
+      "en": "Stylish and graceful in appearance or manner.",
+      "ex1": "She found an elegant, well-made coat that ranged from classic to contemporary.",
+      "ex2": "All in all, the elegant layout combined with attentive staff made it a memorable visit.",
+      "word": "elegant",
+      "example": "The spacious, elegant shop displayed one-of-a-kind woollen pieces on every shelf."
+    },
+    {
+      "pos": "n.",
+      "uz": "muhit, atrof-muhit",
+      "ru": "окружающая среда, обстановка",
+      "en": "The surroundings or conditions in which a person, animal, or plant lives.",
+      "ex1": "A well-organised, elegant environment enhances the customer service experience.",
+      "ex2": "All in all, the environment of the store was attentive to both style and sustainability.",
+      "word": "environment",
+      "example": "The shop's environment was spacious and contemporary, making browsing enjoyable."
+    },
+    {
+      "pos": "adj.",
+      "uz": "keng, katta ko'lamli",
+      "ru": "обширный, широкий",
+      "en": "Covering a large area or range.",
+      "ex1": "Combined with attentive customer service, the extensive selection was impressive.",
+      "ex2": "All in all, the extensive, well-organised layout made the shopping experience sophisticated.",
+      "word": "extensive",
+      "example": "The store had an extensive range from budget footwear to one-of-a-kind woollen coats."
+    },
+    {
+      "pos": "n.",
+      "uz": "adolatli narx",
+      "ru": "честная цена",
+      "en": "A price that is reasonable and reflects the true value of something.",
+      "ex1": "She found a one-of-a-kind woollen coat at a fair price — not pricey at all.",
+      "ex2": "Combined with attentive customer service, a fair price makes a store stand out.",
+      "word": "fair price",
+      "example": "All in all, the durable, well-made footwear was worth every penny at a fair price."
+    },
+    {
+      "pos": "n.",
+      "uz": "poyabzal",
+      "ru": "обувь",
+      "en": "Shoes, boots, and other items worn on the feet.",
+      "ex1": "She appreciated the attentive staff who helped her find the right footwear.",
+      "ex2": "All in all, the extensive footwear range combined with fair prices was impressive.",
+      "word": "footwear",
+      "example": "The store ranged from elegant heels to durable, well-made everyday footwear."
+    },
+    {
+      "pos": "idiom",
+      "uz": "ko'proq harakat qilmoq, imkoniyatidan ortiq qilmoq",
+      "ru": "сделать больше, чем требуется",
+      "en": "To make more effort than is expected or necessary.",
+      "ex1": "All in all, attentive customer service means going the extra mile for every shopper.",
+      "ex2": "Combined with a fair price, going the extra mile makes loyal customers.",
+      "word": "go the extra mile",
+      "example": "The knowledgeable staff went the extra mile to find the perfect woollen coat."
+    },
+    {
+      "pos": "adj.",
+      "uz": "bilimli, ma'lumotli",
+      "ru": "осведомлённый, компетентный",
+      "en": "Having a lot of knowledge about a particular subject.",
+      "ex1": "All in all, the attentive, knowledgeable staff went the extra mile.",
+      "ex2": "Combined with elegant surroundings, knowledgeable customer service enhances any environment.",
+      "word": "knowledgeable",
+      "example": "The knowledgeable assistant explained the difference between durable and well-made footwear."
+    },
+    {
+      "pos": "n.",
+      "uz": "joylashtirish, tartib",
+      "ru": "планировка, расположение",
+      "en": "The way things are arranged or organised in a space.",
+      "ex1": "All in all, the contemporary layout combined with elegant footwear displays stood out.",
+      "ex2": "A well-organised layout enhances the environment and goes the extra mile for customers.",
+      "word": "layout",
+      "example": "The spacious, well-organised layout made browsing the extensive range enjoyable."
+    },
+    {
+      "pos": "adj.",
+      "uz": "noyob, bitta dona",
+      "ru": "уникальный, единственный в своём роде",
+      "en": "Unique; unlike anything else.",
+      "ex1": "All in all, the one-of-a-kind selection combined with knowledgeable staff was impressive.",
+      "ex2": "A one-of-a-kind, well-made piece of footwear is always worth going the extra mile for.",
+      "word": "one-of-a-kind",
+      "example": "She found a one-of-a-kind woollen coat at a fair price — not pricey at all."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qimmatroq, qimmat",
+      "ru": "дороговатый",
+      "en": "Fairly expensive.",
+      "ex1": "All in all, the pricey footwear was worth it — well-made and elegant.",
+      "ex2": "Combined with attentive customer service, even a pricey item feels like fair value.",
+      "word": "pricey",
+      "example": "The woollen coat was pricey but durable and one-of-a-kind."
+    },
+    {
+      "pos": "phrase",
+      "uz": "...dan ...gacha bo'lmoq",
+      "ru": "варьироваться от... до...",
+      "en": "To vary between two extremes or limits.",
+      "ex1": "The footwear ranged from elegant heels to durable, well-made everyday styles.",
+      "ex2": "All in all, the selection ranged from contemporary designs to one-of-a-kind woollen pieces.",
+      "word": "range from... to...",
+      "example": "The store's prices ranged from fair to pricey, depending on the material."
+    },
+    {
+      "pos": "adj.",
+      "uz": "murakkab, zamonaviy, nozik did bilan",
+      "ru": "изощрённый, утончённый",
+      "en": "Highly developed and refined in taste or style.",
+      "ex1": "All in all, the sophisticated layout combined with knowledgeable staff impressed her.",
+      "ex2": "She appreciated the sophisticated, elegant atmosphere of the contemporary boutique.",
+      "word": "sophisticated",
+      "example": "The sophisticated, spacious environment made browsing the extensive range a pleasure."
+    },
+    {
+      "pos": "adj.",
+      "uz": "keng, joy ko'p",
+      "ru": "просторный",
+      "en": "Having plenty of space; not crowded.",
+      "ex1": "All in all, the spacious fitting rooms combined with attentive staff made shopping enjoyable.",
+      "ex2": "A spacious environment enhances the customer service experience significantly.",
+      "word": "spacious",
+      "example": "The spacious, well-organised layout gave the contemporary store an elegant feel."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yaxshi yasalgan, sifatli",
+      "ru": "хорошо сделанный, качественный",
+      "en": "Constructed to a high standard of quality.",
+      "ex1": "All in all, the well-made footwear combined with a fair price was excellent value.",
+      "ex2": "A well-made, one-of-a-kind item reflects a sophisticated and attentive brand identity.",
+      "word": "well made",
+      "example": "The durable, well-made woollen coat was worth the pricey tag."
+    },
+    {
+      "pos": "adj.",
+      "uz": "yaxshi tartibga solingan",
+      "ru": "хорошо организованный",
+      "en": "Arranged or managed efficiently and clearly.",
+      "ex1": "All in all, the well-organised environment combined with attentive staff was impressive.",
+      "ex2": "A well-organised store goes the extra mile to enhance the customer service experience.",
+      "word": "well organised",
+      "example": "The well-organised, spacious layout made the extensive range easy to browse."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xushmuomala, odob-axloqli",
+      "ru": "воспитанный, вежливый",
+      "en": "Having good manners; polite and respectful.",
+      "ex1": "All in all, knowledgeable and well-mannered customer service is essential.",
+      "ex2": "Combined with a fair price and elegant environment, well-mannered staff make loyal customers.",
+      "word": "well-mannered",
+      "example": "The well-mannered, attentive staff went the extra mile to assist every customer."
+    },
+    {
+      "pos": "adj.",
+      "uz": "jun, jundan yasalgan",
+      "ru": "шерстяной",
+      "en": "Made from wool.",
+      "ex1": "All in all, the durable, well-made woollen footwear ranged from classic to contemporary.",
+      "ex2": "Combined with elegant packaging, the woollen coat felt like a one-of-a-kind steal.",
+      "word": "woollen",
+      "example": "She found a one-of-a-kind woollen coat at a fair price in the sophisticated boutique."
+    }
+  ]
+}

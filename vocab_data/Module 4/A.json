@@ -1,0 +1,446 @@
+{
+  "p1": [
+    {
+      "pos": "n.",
+      "uz": "turar joy, yotoqxona",
+      "ru": "жильё, размещение",
+      "en": "A place where someone lives or stays, especially temporarily.",
+      "ex1": "The travel package included flights and accommodation.",
+      "ex2": "Finding affordable accommodation in the city centre can be difficult.",
+      "word": "accommodation",
+      "example": "She booked accommodation near the university campus for the conference."
+    },
+    {
+      "pos": "n.",
+      "uz": "asos, tamoyil",
+      "ru": "основа, принцип",
+      "en": "The reason or principle on which something is based.",
+      "ex1": "She volunteers on a regular basis to give back to her community.",
+      "ex2": "The decisions were made on the basis of the council's findings.",
+      "word": "basis",
+      "example": "Rooms were allocated on a first come, first served basis."
+    },
+    {
+      "pos": "v.",
+      "uz": "band qilmoq, bron qilmoq",
+      "ru": "бронировать, заказывать",
+      "en": "To arrange in advance to have or use something.",
+      "ex1": "He booked a brief stay at a hotel near the university campus.",
+      "ex2": "All rooms must be booked on a first come, first served basis.",
+      "word": "book",
+      "example": "She booked accommodation for the trip well in advance."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qisqa, muxtasar",
+      "ru": "краткий, недолгий",
+      "en": "Short in time or length.",
+      "ex1": "Keep your message short and sweet — brief and to the point.",
+      "ex2": "The meeting was brief, but it fulfilled its objective.",
+      "word": "brief",
+      "example": "She gave a brief but detailed overview of the accommodation options."
+    },
+    {
+      "pos": "idiom",
+      "uz": "dunyoqarashni kengaytirmoq",
+      "ru": "расширить кругозор",
+      "en": "To increase your knowledge or experience by trying new things.",
+      "ex1": "She enrolled on the course to broaden her horizons beyond her comfort zone.",
+      "ex2": "Living on a university campus helps students broaden their horizons.",
+      "word": "broaden one's horizons",
+      "example": "Travelling abroad is a great way to broaden your horizons."
+    },
+    {
+      "pos": "n.",
+      "uz": "qulaylik, farovonlik",
+      "ru": "комфорт, удобство",
+      "en": "A pleasant feeling of being relaxed and free from pain or worry.",
+      "ex1": "The hotel offered every comfort at a satisfactory price.",
+      "ex2": "Living within your comfort zone can prevent you from broadening your horizons.",
+      "word": "comfort",
+      "example": "She preferred the comfort of her own accommodation to staying on campus."
+    },
+    {
+      "pos": "adj.",
+      "uz": "uzluksiz, to'xtovsiz",
+      "ru": "непрерывный, постоянный",
+      "en": "Without stopping or interruption.",
+      "ex1": "The continuous noise from the construction put her off studying.",
+      "ex2": "He showed continuous improvement, which fulfilled his teacher's expectations.",
+      "word": "continuous",
+      "example": "She made continuous progress toward fulfilling her objective."
+    },
+    {
+      "pos": "v.",
+      "uz": "ifodalаmoq, yetkazmoq",
+      "ru": "передавать (смысл, сообщение)",
+      "en": "To communicate or express a meaning, feeling, or message.",
+      "ex1": "She struggled to convey her regret in a brief email.",
+      "ex2": "The campaign conveyed its objective clearly and to the point.",
+      "word": "convey (meaning, a message)",
+      "example": "A short and sweet message often conveys more than a detailed one."
+    },
+    {
+      "pos": "adj.",
+      "uz": "batafsil, to'liq",
+      "ru": "подробный, детальный",
+      "en": "Including many facts or small pieces of information.",
+      "ex1": "The report was detailed and fulfilling to read.",
+      "ex2": "He preferred detailed instructions rather than vague ones.",
+      "word": "detailed",
+      "example": "She gave a detailed account of her stay at the accommodation."
+    },
+    {
+      "pos": "idiom",
+      "uz": "aytish oson, qilish qiyin",
+      "ru": "легче сказать, чем сделать",
+      "en": "Used to say that something sounds easy but is actually difficult to do.",
+      "ex1": "Booking affordable accommodation on short notice is easier said than done.",
+      "ex2": "Broadening your horizons sounds great — but it's easier said than done.",
+      "word": "easier said than done",
+      "example": "Fulfilling all expectations is easier said than done."
+    },
+    {
+      "pos": "idiom",
+      "uz": "birinchi kelgan birinchi xizmat oladi",
+      "ru": "кто первым пришёл, тот первым обслужен",
+      "en": "Describes a system where people are helped in the order they arrive.",
+      "ex1": "Tickets are available on a first come, first served basis — book early.",
+      "ex2": "She arrived early to ensure she got a room — first come, first served.",
+      "word": "first come, first served",
+      "example": "Accommodation was allocated on a first come, first served basis."
+    },
+    {
+      "pos": "v.",
+      "uz": "bajarmoq, to'liq amalga oshirmoq",
+      "ru": "выполнять, осуществлять",
+      "en": "To carry out a duty, promise, or requirement completely.",
+      "ex1": "He fulfilled his potential by broadening his horizons abroad.",
+      "ex2": "The accommodation failed to fulfil the requirements listed in the brochure.",
+      "word": "fulfil",
+      "example": "She worked hard to fulfil all the objectives set for her."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "topshirmoq, bermoq",
+      "ru": "сдавать, передавать",
+      "en": "To give something to a person in authority.",
+      "ex1": "Please hand in your detailed report by the end of the week.",
+      "ex2": "He handed in his notice and left the job without regret.",
+      "word": "hand in",
+      "example": "She handed in her application for accommodation on time."
+    },
+    {
+      "pos": "phrase",
+      "uz": "nuqtai nazaridan, jihatidan",
+      "ru": "с точки зрения, что касается",
+      "en": "Regarding a particular aspect of something.",
+      "ex1": "In terms of cost, the all-inclusive option was more affordable.",
+      "ex2": "She evaluated the university campus in terms of location and facilities.",
+      "word": "in terms of",
+      "example": "In terms of comfort, the accommodation was satisfactory."
+    },
+    {
+      "pos": "phrase",
+      "uz": "kutganlariga javob bermoq",
+      "ru": "соответствовать ожиданиям",
+      "en": "To be as good as expected or hoped.",
+      "ex1": "He worked continuously to live up to the high expectations set for him.",
+      "ex2": "The university campus lived up to every expectation she had.",
+      "word": "live up to one's expectations",
+      "example": "The accommodation failed to live up to her expectations."
+    },
+    {
+      "pos": "phrase",
+      "uz": "endi emas, boshqa emas",
+      "ru": "больше не, уже не",
+      "en": "Not anymore; used to say something has stopped.",
+      "ex1": "The accommodation is no longer available on a first come, first served basis.",
+      "ex2": "He no longer felt put off by the detailed requirements of the course.",
+      "word": "no longer",
+      "example": "She no longer felt regret about her decision to study abroad."
+    },
+    {
+      "pos": "n.",
+      "uz": "maqsad, vazifa",
+      "ru": "цель, задача",
+      "en": "A goal or aim that you are working towards.",
+      "ex1": "The campaign's objective was to broaden awareness of the issue.",
+      "ex2": "She set clear objectives for her stay at the university campus.",
+      "word": "objective",
+      "example": "Her main objective was to fulfil all course requirements by the deadline."
+    },
+    {
+      "pos": "adv.",
+      "uz": "bir kechada, to'satdan",
+      "ru": "за одну ночь, внезапно",
+      "en": "Suddenly and unexpectedly, as if in a single night.",
+      "ex1": "Success rarely comes overnight — it requires continuous effort.",
+      "ex2": "The decision to book accommodation was made overnight.",
+      "word": "overnight (=suddenly)",
+      "example": "Her attitude changed overnight after she decided to broaden her horizons."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "ishtahani o'chirmoq, xafa qilmoq",
+      "ru": "отталкивать, расхолаживать",
+      "en": "To make someone lose interest in or enthusiasm for something.",
+      "ex1": "His continuous complaints put everyone off the idea.",
+      "ex2": "Don't let one bad experience put you off broadening your horizons.",
+      "word": "put sb off",
+      "example": "The lack of comfort in the accommodation put her off staying longer."
+    },
+    {
+      "pos": "n.",
+      "uz": "pushaymonlik, afsus",
+      "ru": "сожаление, раскаяние",
+      "en": "A feeling of sadness or disappointment about something that happened.",
+      "ex1": "He expressed regret that the accommodation had not lived up to expectations.",
+      "ex2": "Short and sweet is better than detailed and full of regret.",
+      "word": "regret",
+      "example": "She had no regret about her decision to fulfil her dream of studying abroad."
+    },
+    {
+      "pos": "v.",
+      "uz": "bron qilmoq, ajratib qo'ymoq",
+      "ru": "резервировать, бронировать",
+      "en": "To arrange for something to be kept for your use at a later time.",
+      "ex1": "He reserved a brief slot to convey his objective to the committee.",
+      "ex2": "Rooms are reserved on a first come, first served basis.",
+      "word": "reserve",
+      "example": "She reserved accommodation at the university campus in advance."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qoniqarli",
+      "ru": "удовлетворительный",
+      "en": "Good enough to meet a requirement, but not excellent.",
+      "ex1": "Her progress was satisfactory but she aimed to fulfil more objectives.",
+      "ex2": "The detailed report received a satisfactory review from the committee.",
+      "word": "satisfactory",
+      "example": "The accommodation was satisfactory, though it lacked comfort."
+    },
+    {
+      "pos": "idiom",
+      "uz": "qisqa va lo'nda",
+      "ru": "коротко и ясно",
+      "en": "Brief but effective; saying what is needed without wasting words.",
+      "ex1": "Her brief speech was short and sweet, but it fulfilled its objective.",
+      "ex2": "He replied in a short and sweet email that conveyed his regret clearly.",
+      "word": "short and sweet",
+      "example": "Keep your message short and sweet — to the point and easy to convey."
+    },
+    {
+      "pos": "phrase",
+      "uz": "mavzuga oid, lo'nda",
+      "ru": "по существу, чётко и ясно",
+      "en": "Saying only what is necessary and relevant.",
+      "ex1": "Try to keep your message brief and to the point.",
+      "ex2": "She conveyed her objective in a short and sweet, to the point summary.",
+      "word": "to the point",
+      "example": "Her detailed report was also to the point — nothing unnecessary."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "adj.",
+      "uz": "hamma narsa kiritilgan",
+      "ru": "всё включено",
+      "en": "Including everything; especially a holiday where all costs are covered.",
+      "ex1": "In terms of value, the all-inclusive option lived up to her expectations.",
+      "ex2": "The all-inclusive deal was satisfactory, though it lacked some comforts.",
+      "word": "all-inclusive",
+      "example": "She booked an all-inclusive package that covered accommodation and meals."
+    },
+    {
+      "pos": "adj.",
+      "uz": "jozibali, chiroyli",
+      "ru": "привлекательный",
+      "en": "Pleasing in appearance or interesting and appealing.",
+      "ex1": "She found the all-inclusive offer very attractive in terms of price.",
+      "ex2": "An attractive accommodation option is one that is both comfortable and affordable.",
+      "word": "attractive",
+      "example": "The university campus was attractive and well-maintained."
+    },
+    {
+      "pos": "phrase",
+      "uz": "hozirgina qilmoqchi bo'lmoq",
+      "ru": "быть на грани, вот-вот",
+      "en": "To be going to do something very soon.",
+      "ex1": "He was about to book the all-inclusive package when he noticed the unattractive reviews.",
+      "ex2": "They were about to depart when the port was unexpectedly closed.",
+      "word": "be about to",
+      "example": "She was about to hand in her accommodation application when she changed her mind."
+    },
+    {
+      "pos": "phrase",
+      "uz": "albatta bo'ladi, muqarrar",
+      "ru": "обязательно, непременно",
+      "en": "Certain or very likely to happen.",
+      "ex1": "If you fulfil your objectives continuously, you are bound to succeed.",
+      "ex2": "An all-inclusive deal is bound to be more satisfactory for first-time travellers.",
+      "word": "be bound to",
+      "example": "Travelling abroad is bound to broaden your horizons."
+    },
+    {
+      "pos": "phrase",
+      "uz": "qilmoqchiga yaqin, sal qoldi",
+      "ru": "быть на грани, почти",
+      "en": "About to do something at a particular moment.",
+      "ex1": "He was on the point of handing in his application when he noticed the error.",
+      "ex2": "They were on the point of departing when the port closed overnight.",
+      "word": "be on the point of",
+      "example": "She was on the point of cancelling her accommodation when the issue was resolved."
+    },
+    {
+      "pos": "v.",
+      "uz": "jo'nab ketmoq, yo'lga chiqmoq",
+      "ru": "отправляться, уезжать",
+      "en": "To leave a place, especially to start a journey.",
+      "ex1": "She was about to depart when she realised she had left her detailed itinerary behind.",
+      "ex2": "The group departed on a first come, first served basis.",
+      "word": "depart",
+      "example": "They departed from the port early in the morning."
+    },
+    {
+      "pos": "n.",
+      "uz": "port, dengiz bandargоhi",
+      "ru": "порт",
+      "en": "A town or city with a harbour where ships arrive and depart.",
+      "ex1": "The port was unattractive but functional.",
+      "ex2": "She reserved accommodation near the port to make departure easier.",
+      "word": "port",
+      "example": "They arrived at the port just as the ferry was about to depart."
+    },
+    {
+      "pos": "phrase",
+      "uz": "ijobiy/salbiy tomoni",
+      "ru": "положительный/отрицательный аспект",
+      "en": "A good or bad feature of something.",
+      "ex1": "She evaluated the positive and negative aspects of the all-inclusive deal.",
+      "ex2": "One negative aspect of the university campus was the lack of affordable dining.",
+      "word": "positive/negative aspect",
+      "example": "In terms of positive aspects, the accommodation was comfortable and well-located."
+    },
+    {
+      "pos": "v.",
+      "uz": "qidirmoq, intilmoq",
+      "ru": "искать, стремиться",
+      "en": "To try to find or obtain something.",
+      "ex1": "He sought to fulfil his objective of broadening his horizons abroad.",
+      "ex2": "Many students seek all-inclusive deals to avoid unexpected costs.",
+      "word": "seek",
+      "example": "She sought affordable accommodation near the university campus."
+    },
+    {
+      "pos": "v.",
+      "uz": "to'xtatib turmoq, kechiktirmoq",
+      "ru": "затягивать, уклоняться",
+      "en": "To delay or avoid doing something; or to stop making progress.",
+      "ex1": "He stalled on booking accommodation, hoping for a more attractive deal.",
+      "ex2": "Don't stall — suitable accommodation is allocated on a first come, first served basis.",
+      "word": "stall",
+      "example": "She stalled before handing in her application, unsure about her objective."
+    },
+    {
+      "pos": "adj.",
+      "uz": "jozibasi yo'q, yoqimsiz",
+      "ru": "непривлекательный",
+      "en": "Not pleasing in appearance or not interesting.",
+      "ex1": "She found the university campus unattractive compared to her expectations.",
+      "ex2": "The all-inclusive deal seemed unattractive at first but lived up to expectations.",
+      "word": "unattractive",
+      "example": "The accommodation was unattractive but satisfactory in terms of comfort."
+    },
+    {
+      "pos": "n.",
+      "uz": "universitet shaharchasi",
+      "ru": "университетский кампус",
+      "en": "The grounds and buildings of a university.",
+      "ex1": "The university campus was attractive and fulfilling to study on.",
+      "ex2": "In terms of location, the university campus was to the point — central and accessible.",
+      "word": "university campus",
+      "example": "She reserved accommodation on the university campus for her first year."
+    },
+    {
+      "pos": "adj.",
+      "uz": "mos kelmaydigan, yaroqsiz",
+      "ru": "неподходящий, несоответствующий",
+      "en": "Not right or appropriate for a particular purpose.",
+      "ex1": "The all-inclusive deal proved unsuitable because it no longer covered transport.",
+      "ex2": "She found the university campus unsuitable after a brief visit.",
+      "word": "unsuitable",
+      "example": "The accommodation was unsuitable for her needs in terms of comfort."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Hamma narsani hisobga olsak, ...",
+      "ru": "Принимая всё во внимание...",
+      "en": "Used to give an overall summary after thinking about all the facts.",
+      "ex1": "All things considered, the university campus lived up to her expectations.",
+      "ex2": "All things considered, broadening your horizons is never something you will regret.",
+      "word": "All things considered, ...",
+      "example": "All things considered, the all-inclusive package was the most satisfactory option."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Mening nazarimda, mening fikrimcha...",
+      "ru": "Что касается меня, по моему мнению...",
+      "en": "Used to give your personal opinion on something.",
+      "ex1": "As far as I'm concerned, all-inclusive holidays are bound to be more satisfying.",
+      "ex2": "As far as I'm concerned, living up to expectations is easier said than done.",
+      "word": "As far as I'm concerned, ...",
+      "example": "As far as I'm concerned, short and sweet messages convey more than detailed ones."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Mening nuqtai nazarimdan, ...",
+      "ru": "С моей точки зрения...",
+      "en": "Used to express your personal perspective.",
+      "ex1": "From my point of view, the negative aspects outweigh the positive ones.",
+      "ex2": "From my point of view, seeking all-inclusive accommodation is always worthwhile.",
+      "word": "From my point of view, ...",
+      "example": "From my point of view, the university campus is the most attractive option."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Keyingisiga o'tsak bo'ladimi?",
+      "ru": "Перейдём к следующему...?",
+      "en": "Used to suggest moving to the next topic or item in a discussion.",
+      "ex1": "Shall we move on to the next aspect — positive or negative?",
+      "ex2": "All things considered, shall we move on to the next objective?",
+      "word": "Shall we move on to the next...?",
+      "example": "Shall we move on to the next point? We have covered the accommodation options."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Demak, kelishdik.",
+      "ru": "Итак, договорились.",
+      "en": "Used to confirm that a decision or plan has been agreed.",
+      "ex1": "So we're settled, then. She will hand in the application by Friday.",
+      "ex2": "All things considered, so we're settled, then — first come, first served.",
+      "word": "So we're settled, then.",
+      "example": "So we're settled, then — we book the all-inclusive accommodation."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Mening ko'z o'ngimda, ...",
+      "ru": "На мой взгляд...",
+      "en": "Used to give your personal view or interpretation of something.",
+      "ex1": "The way I see it, the positive aspects of the all-inclusive deal outweigh the negative.",
+      "ex2": "The way I see it, fulfilling your objectives overnight is easier said than done.",
+      "word": "The way I see it, ...",
+      "example": "The way I see it, broadening your horizons is never unsuitable."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Siz haq gapni aytdingiz.",
+      "ru": "Вы правы, в этом есть смысл.",
+      "en": "Used to agree that someone's argument is valid or correct.",
+      "ex1": "You have a point there. The accommodation was unattractive but satisfactory.",
+      "ex2": "You have a point there — seeking comfort is not always bound to be affordable.",
+      "word": "You have a point there.",
+      "example": "You have a point there — the all-inclusive option does live up to expectations."
+    }
+  ]
+}

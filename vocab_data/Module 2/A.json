@@ -1,0 +1,508 @@
+{
+  "p1": [
+    {
+      "pos": "idiom",
+      "uz": "kutilmaganda, to'satdan",
+      "ru": "как гром среди ясного неба, неожиданно",
+      "en": "Happening suddenly and without any warning.",
+      "ex1": "He called me out of the blue after years of silence.",
+      "ex2": "The news came completely out of the blue and shocked everyone.",
+      "word": "out of the blue",
+      "example": "Out of the blue, she received a job offer from abroad."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "v.",
+      "uz": "qaynamoq, qaynatamoq",
+      "ru": "кипеть, кипятить",
+      "en": "To heat a liquid until it reaches 100°C and starts to bubble.",
+      "ex1": "She boiled the pasta for ten minutes.",
+      "ex2": "Make sure the water is boiling before you add the vegetables.",
+      "word": "boil",
+      "example": "Boil the kettle before making tea."
+    },
+    {
+      "pos": "n.",
+      "uz": "ko'karish, jarohat",
+      "ru": "синяк, ушиб",
+      "en": "A dark mark on your skin caused by an injury.",
+      "ex1": "She put ice on the bruise to reduce the swelling.",
+      "ex2": "The bruise faded after a few days.",
+      "word": "bruise",
+      "example": "He had a large bruise on his arm after the fall."
+    },
+    {
+      "pos": "n.",
+      "uz": "gips",
+      "ru": "гипс",
+      "en": "A hard covering placed around a broken bone to protect it while it heals.",
+      "ex1": "Everyone at school signed his cast when he broke his arm.",
+      "ex2": "The doctor put a cast on her wrist after the injury.",
+      "word": "cast",
+      "example": "She had a cast on her leg for six weeks."
+    },
+    {
+      "pos": "adj.",
+      "uz": "katakli (naqshli)",
+      "ru": "клетчатый",
+      "en": "Having a pattern of squares, like a chessboard.",
+      "ex1": "She bought a checked skirt at the market.",
+      "ex2": "A checked pattern is very popular in autumn fashion.",
+      "word": "checked",
+      "example": "He wore a checked shirt to the casual meeting."
+    },
+    {
+      "pos": "n.",
+      "uz": "tirsak",
+      "ru": "локоть",
+      "en": "The joint in the middle of your arm where it bends.",
+      "ex1": "He banged his elbow on the doorframe.",
+      "ex2": "The sleeve was torn at the elbow.",
+      "word": "elbow",
+      "example": "She rested her elbow on the table while reading."
+    },
+    {
+      "pos": "phrase",
+      "uz": "o'zgarish uchun, bir oz boshqacha",
+      "ru": "для разнообразия, для перемены",
+      "en": "Used to say something is different from what usually happens.",
+      "ex1": "She ordered soup instead of salad for a change.",
+      "ex2": "For a change, he decided to cook dinner himself.",
+      "word": "for a change",
+      "example": "Let's walk to school today for a change."
+    },
+    {
+      "pos": "n.",
+      "uz": "tirnalgan yara",
+      "ru": "царапина, ссадина",
+      "en": "A slight wound where skin has been scraped off.",
+      "ex1": "He cleaned the graze with antiseptic before bandaging it.",
+      "ex2": "It was just a graze — nothing serious.",
+      "word": "graze",
+      "example": "She had a graze on her knee after falling off her bike."
+    },
+    {
+      "pos": "n.",
+      "uz": "chorrah, yo'l kesishmasi",
+      "ru": "перекрёсток, развязка",
+      "en": "A place where roads or railway lines meet.",
+      "ex1": "There was an accident at the main junction this morning.",
+      "ex2": "The new shopping centre is near the motorway junction.",
+      "word": "junction",
+      "example": "Turn left at the junction and continue straight ahead."
+    },
+    {
+      "pos": "n.",
+      "uz": "choynak (elektr)",
+      "ru": "чайник",
+      "en": "A container used for boiling water, usually electric.",
+      "ex1": "The kettle boiled and clicked off automatically.",
+      "ex2": "Always fill the kettle with fresh water before using it.",
+      "word": "kettle",
+      "example": "She switched the kettle on to make tea."
+    },
+    {
+      "pos": "adj.",
+      "uz": "uzun yenglik",
+      "ru": "с длинными рукавами",
+      "en": "Describing clothing with sleeves that reach the wrists.",
+      "ex1": "He chose a long-sleeved shirt for the formal event.",
+      "ex2": "Long-sleeved clothes offer better sun protection.",
+      "word": "long-sleeved",
+      "example": "She wore a long-sleeved top because it was cold."
+    },
+    {
+      "pos": "n.",
+      "uz": "naqsh, rang-barang chiziq",
+      "ru": "узор, рисунок",
+      "en": "A repeated design on fabric or a surface.",
+      "ex1": "She prefers plain clothes to ones with a loud pattern.",
+      "ex2": "The pattern on the wallpaper matched the curtains.",
+      "word": "pattern",
+      "example": "The dress had a floral pattern on a white background."
+    },
+    {
+      "pos": "v.",
+      "uz": "qo'ymoq, joylashtirmoq",
+      "ru": "класть, помещать",
+      "en": "To put something carefully in a particular position.",
+      "ex1": "He placed the books neatly on the shelf.",
+      "ex2": "Place the cast iron pan over medium heat.",
+      "word": "place",
+      "example": "She placed the kettle on the counter."
+    },
+    {
+      "pos": "adj.",
+      "uz": "oddiy, bezaksiz",
+      "ru": "простой, однотонный",
+      "en": "Simple in appearance, without pattern or decoration.",
+      "ex1": "He prefers plain food without too many spices.",
+      "ex2": "A plain background makes the text easier to read.",
+      "word": "plain",
+      "example": "She wore a plain white shirt to the interview."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "rozetkaga ulamoq",
+      "ru": "включить в розетку, подключить",
+      "en": "To connect an electrical device to a power supply.",
+      "ex1": "He plugged his phone in to charge it overnight.",
+      "ex2": "She plugged in the kettle and waited for it to boil.",
+      "word": "plug sth in",
+      "example": "Don't forget to plug the toaster in before using it."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "to'satdan paydo bo'lmoq",
+      "ru": "неожиданно появляться",
+      "en": "To appear suddenly or unexpectedly.",
+      "ex1": "New coffee shops keep popping up all over the city.",
+      "ex2": "He popped up at the party when no one expected him.",
+      "word": "pop up",
+      "example": "A notification popped up on her screen."
+    },
+    {
+      "pos": "n.",
+      "uz": "aylanma yo'l, dumaloq chorrah",
+      "ru": "круговое движение, кольцевая развязка",
+      "en": "A circular road junction where traffic goes around a central island.",
+      "ex1": "There is a large roundabout at the entrance to the town.",
+      "ex2": "She got confused at the roundabout and took the wrong exit.",
+      "word": "roundabout",
+      "example": "Take the second exit at the roundabout."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qisqa yenglik",
+      "ru": "с короткими рукавами",
+      "en": "Describing clothing with sleeves that end above the elbow.",
+      "ex1": "She packed a few short-sleeved tops for the holiday.",
+      "ex2": "A short-sleeved dress is perfect for warm weather.",
+      "word": "short-sleeved",
+      "example": "He wore a short-sleeved shirt in the summer heat."
+    },
+    {
+      "pos": "n.",
+      "uz": "suv quyiladigan joy (oshxona/hammom)",
+      "ru": "раковина",
+      "en": "A basin with a tap, used for washing hands or dishes.",
+      "ex1": "Don't leave dirty dishes in the sink.",
+      "ex2": "He fixed the leaking tap over the bathroom sink.",
+      "word": "sink",
+      "example": "She washed the vegetables in the kitchen sink."
+    },
+    {
+      "pos": "adj.",
+      "uz": "kichik, ozgina",
+      "ru": "незначительный, лёгкий",
+      "en": "Small in degree; not serious or significant.",
+      "ex1": "She felt a slight pain in her wrist after typing all day.",
+      "ex2": "He made a slight mistake in the calculation.",
+      "word": "slight",
+      "example": "There was a slight delay on the train this morning."
+    },
+    {
+      "pos": "v.",
+      "uz": "tezlik bilan harakatlanmoq",
+      "ru": "мчаться, превышать скорость",
+      "en": "To move or travel very fast, often too fast.",
+      "ex1": "He was caught speeding on the motorway.",
+      "ex2": "An ambulance sped past the roundabout with its siren on.",
+      "word": "speed",
+      "example": "The car was speeding when it went through the junction."
+    },
+    {
+      "pos": "v.",
+      "uz": "yoymoq, tarqalmoq",
+      "ru": "распространять(ся), намазывать",
+      "en": "To extend over a wide area, or to apply something thinly over a surface.",
+      "ex1": "The news spread quickly through the school.",
+      "ex2": "He spread the map out on the table to find the junction.",
+      "word": "spread",
+      "example": "She spread butter on the toast."
+    },
+    {
+      "pos": "adj.",
+      "uz": "chiziqli (naqshli)",
+      "ru": "полосатый",
+      "en": "Having a pattern of parallel lines of different colours.",
+      "ex1": "He bought a striped tie for the office.",
+      "ex2": "A striped pattern is a classic wardrobe choice.",
+      "word": "striped",
+      "example": "She wore a striped blue and white top."
+    },
+    {
+      "pos": "adj.",
+      "uz": "shishgan",
+      "ru": "опухший, вздутый",
+      "en": "Larger than normal due to injury or illness.",
+      "ex1": "He had a swollen lip after the accident.",
+      "ex2": "The doctor said the swollen joint needed rest and ice.",
+      "word": "swollen",
+      "example": "Her ankle was swollen after she twisted it."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tor (kiyim haqida)",
+      "ru": "тесный, облегающий",
+      "en": "Fitting very closely to the body; not loose.",
+      "ex1": "She found a tight cast around her wrist quite uncomfortable.",
+      "ex2": "He wore a tight shirt that showed off his athletic build.",
+      "word": "tight",
+      "example": "The jeans were too tight to be comfortable."
+    },
+    {
+      "pos": "n.",
+      "uz": "toster (non qovurish uchun)",
+      "ru": "тостер",
+      "en": "A kitchen appliance used to toast bread.",
+      "ex1": "The toaster stopped working after a power cut.",
+      "ex2": "He dropped his toast trying to get it out of the toaster.",
+      "word": "toaster",
+      "example": "She plugged in the toaster and made breakfast."
+    },
+    {
+      "pos": "n.",
+      "uz": "idish-tovoq, oshxona jihozi",
+      "ru": "кухонный прибор, утварь",
+      "en": "A tool or implement used for cooking or eating.",
+      "ex1": "A spatula is a very useful cooking utensil.",
+      "ex2": "Keep utensils clean and dry after each use.",
+      "word": "utensil",
+      "example": "She bought new kitchen utensils for the new flat."
+    },
+    {
+      "pos": "n.",
+      "uz": "bilak",
+      "ru": "запястье",
+      "en": "The joint connecting the hand to the arm.",
+      "ex1": "He sprained his wrist during football practice.",
+      "ex2": "The doctor put a cast on her wrist after the X-ray.",
+      "word": "wrist",
+      "example": "She wore a watch on her left wrist."
+    },
+    {
+      "pos": "n.",
+      "uz": "fermuar",
+      "ru": "молния (застёжка)",
+      "en": "A fastener with two rows of teeth that lock together, used on clothing or bags.",
+      "ex1": "He struggled to zip up his bag because it was too full.",
+      "ex2": "Make sure the zip is fully closed before going out in the rain.",
+      "word": "zip",
+      "example": "The zip on her jacket was broken."
+    },
+    {
+      "pos": "idiom",
+      "uz": "Hazillashyapsizmi?",
+      "ru": "Вы шутите?",
+      "en": "Used to express surprise or disbelief at something.",
+      "ex1": "Are you kidding me? That film was terrible!",
+      "ex2": "He said he won the prize — I said, 'Are you kidding?'",
+      "word": "Are you kidding?",
+      "example": "Are you kidding? She finished the marathon in under three hours!"
+    },
+    {
+      "pos": "idiom",
+      "uz": "Meni aldayapsizmi? Hazillashyapsizmi?",
+      "ru": "Ты меня разыгрываешь?",
+      "en": "Used to ask if someone is joking or teasing you.",
+      "ex1": "She told me she got the job — I asked if she was pulling my leg.",
+      "ex2": "He said the class was cancelled. Are you pulling my leg?",
+      "word": "Are you pulling my leg?",
+      "example": "Are you pulling my leg? There's no way that actually happened!"
+    },
+    {
+      "pos": "idiom",
+      "uz": "dam olmay ishlayotgan bo'lmoq",
+      "ru": "быть на ногах, стоять/работать весь день",
+      "en": "To be standing or working for a long period without rest.",
+      "ex1": "After a twelve-hour shift, he was glad to finally sit down — he'd been on his feet all day.",
+      "ex2": "She's been on her feet since six in the morning.",
+      "word": "be on one's feet",
+      "example": "Nurses are on their feet for most of the working day."
+    },
+    {
+      "pos": "idiom",
+      "uz": "Bilmadim! Menga qorong'u!",
+      "ru": "Понятия не имею! Не знаю!",
+      "en": "Used to say you have no idea about something.",
+      "ex1": "How does she manage to do it all? Beats me!",
+      "ex2": "I don't know why the toaster stopped working. Beats me!",
+      "word": "Beats me!",
+      "example": "Why did he leave so early? Beats me!"
+    },
+    {
+      "pos": "idiom",
+      "uz": "To'g'ri aytdingiz! Qo'shilaman!",
+      "ru": "Точно! Не могу не согласиться!",
+      "en": "Used to strongly agree with what someone has just said.",
+      "ex1": "'The exam was really hard.' 'You can say that again!'",
+      "ex2": "She said the traffic was awful, and he replied, 'You can say that again!'",
+      "word": "You can say that again!",
+      "example": "'This weather is terrible.' 'You can say that again!'"
+    },
+    {
+      "pos": "idiom",
+      "uz": "Yashasang, bilib olasan.",
+      "ru": "Живёшь и учишься. Век живи — век учись.",
+      "en": "Said when you discover something surprising you did not know before.",
+      "ex1": "She burned the toast by accident. You live and learn.",
+      "ex2": "He found out the shortcut after driving the long way for years — you live and learn.",
+      "word": "You live and learn.",
+      "example": "I had no idea the roundabout had five exits. You live and learn!"
+    }
+  ],
+  "p3": [
+    {
+      "pos": "n.",
+      "uz": "yutuq, muvaffaqiyat",
+      "ru": "достижение",
+      "en": "Something you have done successfully, especially through hard work.",
+      "ex1": "He listed his achievements on his CV.",
+      "ex2": "Building a business from scratch is a remarkable achievement.",
+      "word": "achievement",
+      "example": "Passing the B2 exam was her greatest achievement of the year."
+    },
+    {
+      "pos": "n.",
+      "uz": "adrenalin oshishi, hayajon",
+      "ru": "выброс адреналина, прилив энергии",
+      "en": "A sudden feeling of excitement and energy caused by danger or thrill.",
+      "ex1": "She got an adrenaline rush before going on stage.",
+      "ex2": "He loves extreme sports because of the adrenaline rush they give.",
+      "word": "adrenaline rush",
+      "example": "Skydiving gives you an incredible adrenaline rush."
+    },
+    {
+      "pos": "n.",
+      "uz": "muhit, kayfiyat",
+      "ru": "атмосфера, настроение",
+      "en": "The mood or feeling of a place or situation.",
+      "ex1": "The atmosphere at the concert was electric.",
+      "ex2": "A peaceful atmosphere helps students focus during exams.",
+      "word": "atmosphere",
+      "example": "The old city had a magical atmosphere at night."
+    },
+    {
+      "pos": "v.",
+      "uz": "tasvirlamoq, ko'rsatmoq",
+      "ru": "изображать, описывать",
+      "en": "To show or describe something in a picture, book, or film.",
+      "ex1": "The film depicts the hustle and bustle of city life.",
+      "ex2": "She depicted her feelings through abstract art.",
+      "word": "depict",
+      "example": "The painting depicts a busy market in the old city."
+    },
+    {
+      "pos": "adj.",
+      "uz": "zerikarli, jonbozarsiz",
+      "ru": "скучный, серый, унылый",
+      "en": "Not interesting or exciting; boring.",
+      "ex1": "He found the monotonous routine extremely dull.",
+      "ex2": "Without friends, city life can feel surprisingly dull.",
+      "word": "dull",
+      "example": "The lecture was so dull that several students fell asleep."
+    },
+    {
+      "pos": "n.",
+      "uz": "qoniqish, maqsadga erishish",
+      "ru": "удовлетворение, самореализация",
+      "en": "A feeling of happiness and satisfaction from achieving something meaningful.",
+      "ex1": "Helping others can bring a deep sense of fulfilment.",
+      "ex2": "He changed careers in search of greater personal fulfilment.",
+      "word": "fulfilment",
+      "example": "She found great fulfilment in working with young children."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "biror narsadan o'tib ketmoq, yengmoq",
+      "ru": "справиться с чем-либо, пережить",
+      "en": "To recover from something unpleasant, such as an illness or disappointment.",
+      "ex1": "He couldn't get over how thrilling the experience was.",
+      "ex2": "She got over her fear of heights by going climbing.",
+      "word": "get over sth",
+      "example": "It took her a while to get over the shock of the accident."
+    },
+    {
+      "pos": "n.",
+      "uz": "shovqin-suron, g'ala-g'ovur",
+      "ru": "суета, толкотня",
+      "en": "The busy, noisy activity of a place full of people.",
+      "ex1": "After years in the countryside, he found the hustle and bustle exhausting.",
+      "ex2": "The hustle and bustle of the train station made it hard to think.",
+      "word": "hustle and bustle",
+      "example": "She loved the hustle and bustle of the city market."
+    },
+    {
+      "pos": "adj.",
+      "uz": "bir xil, zerikarli",
+      "ru": "монотонный, однообразный",
+      "en": "Dull and repetitive, without any variety or change.",
+      "ex1": "She found the monotonous routine of office life unfulfilling.",
+      "ex2": "His monotonous voice made the presentation hard to sit through.",
+      "word": "monotonous",
+      "example": "Working on a factory line can be very monotonous."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tinch, osoyishta",
+      "ru": "мирный, спокойный",
+      "en": "Calm, quiet, and free from disturbance.",
+      "ex1": "She took a peaceful stroll along the river at sunrise.",
+      "ex2": "He found the quiet library a peaceful place to study.",
+      "word": "peaceful",
+      "example": "The countryside was peaceful compared to the city."
+    },
+    {
+      "pos": "v.",
+      "uz": "yengillashtirmoq, kamaytirmoq",
+      "ru": "облегчать, снимать (боль/стресс)",
+      "en": "To make pain, stress, or a problem less severe.",
+      "ex1": "The medication helped relieve her back pain.",
+      "ex2": "Talking to a friend can relieve feelings of loneliness.",
+      "word": "relieve",
+      "example": "Exercise can relieve stress after a long day."
+    },
+    {
+      "pos": "adj.",
+      "uz": "xavfli, tavakkalchilikka to'la",
+      "ru": "рискованный",
+      "en": "Involving the possibility of something going wrong or causing harm.",
+      "ex1": "It's risky to speed on a wet road.",
+      "ex2": "She knew it was risky, but she took the chance anyway.",
+      "word": "risky",
+      "example": "Investing all your money in one place is risky."
+    },
+    {
+      "pos": "n.",
+      "uz": "o'xshashlik",
+      "ru": "сходство, схожесть",
+      "en": "The quality of being alike or resembling something else.",
+      "ex1": "She noticed many similarities between city and rural life.",
+      "ex2": "Despite their differences, there is a strong similarity in their values.",
+      "word": "similarity",
+      "example": "There is a striking similarity between the two paintings."
+    },
+    {
+      "pos": "adj.",
+      "uz": "hayajonli, qiziqarli",
+      "ru": "захватывающий, волнующий",
+      "en": "Causing great excitement and pleasure.",
+      "ex1": "She found skydiving a thrilling experience.",
+      "ex2": "It was thrilling to watch the team score in the final minute.",
+      "word": "thrilling",
+      "example": "The roller coaster was absolutely thrilling."
+    },
+    {
+      "pos": "conj.",
+      "uz": "holbuki, aksincha",
+      "ru": "тогда как, в то время как",
+      "en": "Used to contrast two different facts or situations.",
+      "ex1": "City life is fast-paced, whereas rural life tends to be more relaxed.",
+      "ex2": "He finds extreme sports thrilling, whereas she finds them too risky.",
+      "word": "whereas",
+      "example": "She loves the hustle of the city, whereas her sister prefers the countryside."
+    }
+  ]
+}

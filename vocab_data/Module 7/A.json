@@ -1,0 +1,438 @@
+{
+  "p1": [
+    {
+      "pos": "n.",
+      "uz": "boylik, farovonlik",
+      "ru": "богатство, достаток",
+      "en": "A large amount of money or valuable possessions; also an abundance of something.",
+      "ex1": "She had a wealth of dedication that pushed her to her limits.",
+      "ex2": "Nonetheless, wealth without energetic purpose can feel equally hollow.",
+      "word": "wealth",
+      "example": "True wealth lies not in material possessions but in health and stamina."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "v.",
+      "uz": "moslashtirmoq, o'zgartirmoq",
+      "ru": "регулировать, приспосабливаться",
+      "en": "To change something slightly to make it work better or fit a situation.",
+      "ex1": "He adjusted his wheelchair to get into a more energetic and technical position.",
+      "ex2": "Nonetheless, it took dedication to adjust to the tricky technical demands of the wetsuit.",
+      "word": "adjust",
+      "example": "She had to adjust her timing considerably before she got the hang of rowing."
+    },
+    {
+      "pos": "phrase",
+      "uz": "qiziqib qolmoq, band bo'lmoq",
+      "ru": "быть увлечённым, подсесть",
+      "en": "To be very interested in or addicted to something.",
+      "ex1": "He was hooked on the technical challenges of wheelchair basketball considerably quickly.",
+      "ex2": "Nonetheless, once you get the hang of dribbling, you are hooked equally fast.",
+      "word": "be hooked",
+      "example": "She gave rowing a shot and was hooked in no time."
+    },
+    {
+      "pos": "adv.",
+      "uz": "ancha, sezilarli darajada",
+      "ru": "значительно, существенно",
+      "en": "By a large amount; to a great degree.",
+      "ex1": "He progressed considerably once he stopped getting cold feet before competitions.",
+      "ex2": "Nonetheless, the tricky timing made it considerably harder to get the hang of rowing.",
+      "word": "considerably",
+      "example": "Her stamina improved considerably after she adjusted her training schedule."
+    },
+    {
+      "pos": "adj.",
+      "uz": "muhim, tanqidiy",
+      "ru": "критически важный",
+      "en": "Extremely important; or involving careful evaluation.",
+      "ex1": "She gave it a shot with critical dedication and pushed herself to her limits.",
+      "ex2": "Nonetheless, a critical adjustment to the wetsuit made rowing considerably more comfortable.",
+      "word": "critical",
+      "example": "Timing is critical when you are trying to get the hang of passing the ball."
+    },
+    {
+      "pos": "n.",
+      "uz": "bag'ishlanish, sadoqat",
+      "ru": "преданность, самоотдача",
+      "en": "Strong commitment and effort given to an activity.",
+      "ex1": "He jumped at the chance to show his dedication by switching to a technical role.",
+      "ex2": "Nonetheless, dedication alone is not enough — timing and stamina are equally critical.",
+      "word": "dedication",
+      "example": "Her dedication to rowing pushed her stamina to its limits in no time."
+    },
+    {
+      "pos": "v.",
+      "uz": "to'pni haydash (basketbol/futbol)",
+      "ru": "вести мяч, дриблинговать",
+      "en": "To move a ball forward by bouncing it or tapping it repeatedly.",
+      "ex1": "He passed the ball after dribbling through the tricky technical zone.",
+      "ex2": "Nonetheless, once you get the hang of dribbling, switching to passing feels natural.",
+      "word": "dribble",
+      "example": "It took her considerable dedication to get the hang of dribbling in a wheelchair."
+    },
+    {
+      "pos": "adj.",
+      "uz": "faol, tetik",
+      "ru": "энергичный, активный",
+      "en": "Having or showing a lot of energy and enthusiasm.",
+      "ex1": "He was energetic despite being under the weather — saved by the bell at training.",
+      "ex2": "Nonetheless, an energetic attitude equally pushes you to your stamina limits.",
+      "word": "energetic",
+      "example": "She felt energetic and in her element after adjusting to rowing considerably."
+    },
+    {
+      "pos": "adv.",
+      "uz": "teng ravishda, bir xilda",
+      "ru": "одинаково, в равной мере",
+      "en": "In the same way or to the same degree.",
+      "ex1": "She found dribbling and passing equally tricky at first.",
+      "ex2": "Nonetheless, dedication and technical skill are equally important to progress considerably.",
+      "word": "equally",
+      "example": "Timing and stamina are equally critical when you get the hang of rowing."
+    },
+    {
+      "pos": "idiom",
+      "uz": "qo'rquv tuymoq, ikkilanib qolmoq",
+      "ru": "струсить, засомневаться",
+      "en": "To become nervous or afraid about doing something.",
+      "ex1": "He got cold feet about switching from wheelchair basketball to rowing.",
+      "ex2": "Nonetheless, saved by the bell, she pushed herself and didn't get cold feet.",
+      "word": "get cold feet",
+      "example": "She almost got cold feet before her first rowing race, but jumped at the chance anyway."
+    },
+    {
+      "pos": "idiom",
+      "uz": "biror narsani o'rganmoq, tushunib olmoq",
+      "ru": "освоить что-либо, набить руку",
+      "en": "To learn how to do something after practising it.",
+      "ex1": "He found it tricky to get the hang of timing in rowing at first.",
+      "ex2": "Nonetheless, with dedication, you can get the hang of any technical skill.",
+      "word": "get the hang of sth",
+      "example": "She got the hang of dribbling in no time after adjusting her technique considerably."
+    },
+    {
+      "pos": "idiom",
+      "uz": "biror narsani sinab ko'rmoq",
+      "ru": "попробовать что-либо",
+      "en": "To try something, often for the first time.",
+      "ex1": "He gave wheelchair basketball a shot despite getting cold feet beforehand.",
+      "ex2": "Nonetheless, giving it a shot requires pushing yourself considerably out of your element.",
+      "word": "give sth a shot",
+      "example": "She decided to give rowing a shot and was hooked in no time."
+    },
+    {
+      "pos": "idiom",
+      "uz": "juda yaxshi vaqt o'tkazmoq",
+      "ru": "прекрасно провести время",
+      "en": "To enjoy yourself very much.",
+      "ex1": "He had a whale of a time at the sports complex, pushing himself to his stamina limits.",
+      "ex2": "Nonetheless, they had a whale of a time — equally energetic and technically challenged.",
+      "word": "have a whale of a time",
+      "example": "Despite the tricky timing, she had a whale of a time at her first rowing event."
+    },
+    {
+      "pos": "phrase",
+      "uz": "tez orada, zudlik bilan",
+      "ru": "в мгновение ока, очень быстро",
+      "en": "Very quickly; almost immediately.",
+      "ex1": "He progressed considerably and was saved by the bell from quitting in no time.",
+      "ex2": "Nonetheless, stamina builds in no time when dedication pushes you to your limits.",
+      "word": "in no time",
+      "example": "She got the hang of rowing in no time after adjusting her technique."
+    },
+    {
+      "pos": "phrase",
+      "uz": "o'z muhitida, qulaylik ichida",
+      "ru": "в своей стихии",
+      "en": "Doing something that you enjoy and are good at.",
+      "ex1": "He was in his element — energetic, dedicated, and switching roles considerably.",
+      "ex2": "Nonetheless, being in your element requires pushing yourself past critical tricky stages.",
+      "word": "in your element",
+      "example": "She felt completely in her element once she got the hang of rowing."
+    },
+    {
+      "pos": "idiom",
+      "uz": "imkoniyatni qo'ldan boy bermaslik",
+      "ru": "ухватиться за возможность",
+      "en": "To eagerly accept an opportunity.",
+      "ex1": "He jumped at the chance to switch to a technical role in wheelchair basketball.",
+      "ex2": "Nonetheless, jumping at the chance is easier when you are energetic and in your element.",
+      "word": "jump at the chance",
+      "example": "She jumped at the chance to join the rowing team despite getting cold feet."
+    },
+    {
+      "pos": "idiom",
+      "uz": "(birovning) xohishiga to'g'ri kelmaslik",
+      "ru": "не в чьём-то вкусе, не нравиться",
+      "en": "Something you do not enjoy or are not interested in.",
+      "ex1": "Wearing a wetsuit was not his cup of tea, but it was critical for safety.",
+      "ex2": "Nonetheless, give it a shot — what's not your cup of tea now may click in no time.",
+      "word": "(not be sb's) cup of tea",
+      "example": "Rowing was not her cup of tea at first, but she gave it a shot anyway."
+    },
+    {
+      "pos": "v.",
+      "uz": "to'pni uzatmoq",
+      "ru": "передавать (мяч)",
+      "en": "To throw, kick, or hit something to another person.",
+      "ex1": "He passed the ball in his element, energetic and technically precise.",
+      "ex2": "Nonetheless, timing is equally critical when you pass in wheelchair basketball.",
+      "word": "pass (e.g. the ball)",
+      "example": "She got the hang of passing the ball considerably faster than dribbling."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "o'rganib olmoq, tezlashmoq",
+      "ru": "подхватить, освоить",
+      "en": "To learn or acquire a skill naturally over time.",
+      "ex1": "He picked up dribbling in no time after switching his critical focus.",
+      "ex2": "Nonetheless, picking up stamina requires dedication and pushing yourself to your limits.",
+      "word": "pick up",
+      "example": "She picked up the technical side of rowing considerably fast."
+    },
+    {
+      "pos": "v.",
+      "uz": "rivojlanmoq, oldinga bormoq",
+      "ru": "прогрессировать, продвигаться",
+      "en": "To develop or improve over time.",
+      "ex1": "He progressed to the technical stage in no time, saving himself from getting cold feet.",
+      "ex2": "Nonetheless, progress requires equally critical dedication and energetic commitment.",
+      "word": "progress",
+      "example": "She progressed considerably after adjusting her timing and stamina training."
+    },
+    {
+      "pos": "phrase",
+      "uz": "o'zini surmoq, intilmoq",
+      "ru": "заставлять себя, преодолевать себя",
+      "en": "To make a great effort to achieve something.",
+      "ex1": "He pushed himself to his limits every session, energetic and in his element.",
+      "ex2": "Nonetheless, pushing yourself requires dedication equally as critical as technical skill.",
+      "word": "push oneself",
+      "example": "She pushed herself considerably to get the hang of rowing in no time."
+    },
+    {
+      "pos": "phrase",
+      "uz": "chegaraga yetkazmoq",
+      "ru": "доводить до предела",
+      "en": "To challenge someone to use all their strength or ability.",
+      "ex1": "He was pushed to his limits but saved by the bell before giving up.",
+      "ex2": "Nonetheless, being pushed to your limits builds stamina considerably fast.",
+      "word": "push sb to one's limits",
+      "example": "The tricky timing and stamina demands pushed her to her limits."
+    },
+    {
+      "pos": "idiom",
+      "uz": "eslatmoq, tanish tuyulmoq",
+      "ru": "напоминать, казаться знакомым",
+      "en": "To sound familiar or trigger a memory.",
+      "ex1": "The name of the sports complex rang a bell from her earlier qualifications search.",
+      "ex2": "Nonetheless, the concept of switching roles rang a bell from wheelchair training.",
+      "word": "ring a bell",
+      "example": "The tricky rowing technique rang a bell — she had seen it on a podcast."
+    },
+    {
+      "pos": "n.",
+      "uz": "eshkakchi",
+      "ru": "гребец",
+      "en": "A person who rows a boat as a sport.",
+      "ex1": "The energetic rower pushed herself to her limits despite being under the weather.",
+      "ex2": "Nonetheless, a rower equally needs timing, stamina and technical dedication.",
+      "word": "rower",
+      "example": "She became a dedicated rower after giving rowing a shot and being hooked."
+    },
+    {
+      "pos": "n.",
+      "uz": "eshkak eshish sporti",
+      "ru": "гребля",
+      "en": "The sport or activity of moving a boat using oars.",
+      "ex1": "Rowing pushed her stamina to its limits considerably faster than she expected.",
+      "ex2": "Nonetheless, rowing requires critical timing and a wetsuit in cold conditions.",
+      "word": "rowing",
+      "example": "She gave rowing a shot and was in her element in no time."
+    },
+    {
+      "pos": "idiom",
+      "uz": "oxirgi lahzada qutulmoq",
+      "ru": "спасён в последнюю минуту",
+      "en": "Rescued from a difficult situation at the last moment.",
+      "ex1": "He was saved by the bell from cold feet when the coach adjusted his role.",
+      "ex2": "Nonetheless, being saved by the bell pushed her to dedicate herself considerably more.",
+      "word": "saved by the bell",
+      "example": "She was saved by the bell — her team passed the ball just in time."
+    },
+    {
+      "pos": "n.",
+      "uz": "chidamlilik, bardosh",
+      "ru": "выносливость, стойкость",
+      "en": "The physical or mental strength to continue doing something for a long time.",
+      "ex1": "He built stamina in no time by pushing himself to his limits every session.",
+      "ex2": "Nonetheless, stamina is equally critical as technical skill in wheelchair sport.",
+      "word": "stamina",
+      "example": "Rowing pushed her stamina to its limits considerably and she was hooked."
+    },
+    {
+      "pos": "v.",
+      "uz": "almashmoq, o'zgarmoq",
+      "ru": "переключаться, менять",
+      "en": "To change from one thing to another.",
+      "ex1": "He switched roles in the wheelchair team and progressed considerably in no time.",
+      "ex2": "Nonetheless, switching requires dedication and adjusting your timing considerably.",
+      "word": "switch",
+      "example": "She switched from casual swimming to rowing after giving it a shot."
+    },
+    {
+      "pos": "adj.",
+      "uz": "texnik, murakkab",
+      "ru": "технический, требующий навыков",
+      "en": "Relating to the skills or methods needed for a particular activity.",
+      "ex1": "He found the tricky technical side of wheelchair dribbling critical to his progress.",
+      "ex2": "Nonetheless, a technical adjustment to the wetsuit improved her rowing considerably.",
+      "word": "technical",
+      "example": "The technical demands of rowing pushed her stamina and timing to their limits."
+    },
+    {
+      "pos": "n.",
+      "uz": "vaqtni his qilish, ritm",
+      "ru": "тайминг, выбор момента",
+      "en": "The ability to choose the right moment to do something.",
+      "ex1": "She adjusted her timing considerably and progressed in no time.",
+      "ex2": "Nonetheless, timing and stamina are equally important technical skills in sport.",
+      "word": "timing",
+      "example": "Timing is critical when you are getting the hang of passing in rowing."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qiyin, murakkab",
+      "ru": "сложный, каверзный",
+      "en": "Difficult to do or deal with; requiring skill or care.",
+      "ex1": "He found dribbling in a wheelchair considerably tricky at first.",
+      "ex2": "Nonetheless, a tricky start is critical for pushing yourself to your stamina limits.",
+      "word": "tricky",
+      "example": "The tricky technical timing of rowing was saved by the bell on more than one occasion."
+    },
+    {
+      "pos": "adj.",
+      "uz": "qodir emas, imkoni yo'q",
+      "ru": "неспособный, не могущий",
+      "en": "Not having the ability or opportunity to do something.",
+      "ex1": "He was unable to push himself to his limits when under the weather.",
+      "ex2": "Nonetheless, being unable to progress considerably is saved by the bell of dedication.",
+      "word": "unable",
+      "example": "She was initially unable to get the hang of the technical timing in rowing."
+    },
+    {
+      "pos": "idiom",
+      "uz": "kasal, o'zini yomon his qilmoq",
+      "ru": "плохо себя чувствовать, прихворнуть",
+      "en": "Feeling slightly ill or unwell.",
+      "ex1": "He was unable to push himself to his limits as he felt under the weather.",
+      "ex2": "Nonetheless, being under the weather is no reason not to give it a shot.",
+      "word": "under the weather",
+      "example": "She was under the weather but jumped at the chance to join the rowing session."
+    },
+    {
+      "pos": "n.",
+      "uz": "suvga tushish kostyumi",
+      "ru": "гидрокостюм",
+      "en": "A tight rubber suit worn for water sports to keep the body warm.",
+      "ex1": "Wearing a wetsuit was not his cup of tea, but it was critical for safety.",
+      "ex2": "Nonetheless, the wetsuit helped her stamina by keeping her energetic and warm.",
+      "word": "wetsuit",
+      "example": "She adjusted her wetsuit considerably before her first rowing competition."
+    },
+    {
+      "pos": "n.",
+      "uz": "nogironlar aravasi",
+      "ru": "инвалидное кресло, коляска",
+      "en": "A chair with wheels, used by people who cannot walk.",
+      "ex1": "She adjusted her wheelchair to get the hang of dribbling and passing.",
+      "ex2": "Nonetheless, wheelchair sport requires equally critical timing and technical stamina.",
+      "word": "wheelchair",
+      "example": "He gave wheelchair basketball a shot and was hooked in no time."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Shunga qaramay, biroq...",
+      "ru": "Тем не менее...",
+      "en": "Used to say that something is true despite what has just been mentioned.",
+      "ex1": "Nonetheless, getting cold feet is natural — give it a shot and you will be in your element.",
+      "ex2": "Nonetheless, timing is equally critical as stamina when getting the hang of rowing.",
+      "word": "Nonetheless, ...",
+      "example": "Nonetheless, she pushed herself to her limits and progressed considerably."
+    }
+  ],
+  "p3": [
+    {
+      "pos": "adj.",
+      "uz": "sun'iy, tabiiy bo'lmagan",
+      "ru": "искусственный",
+      "en": "Made or produced by human beings rather than occurring naturally.",
+      "ex1": "Nonetheless, artificial stamina aids were not his cup of tea.",
+      "ex2": "The artificial lighting in the sports complex was energising and considerably bright.",
+      "word": "artificial",
+      "example": "She trained on an artificial rowing course during the winter months."
+    },
+    {
+      "pos": "n.",
+      "uz": "kaloriyalar",
+      "ru": "калории",
+      "en": "Units of energy provided by food and drink.",
+      "ex1": "She tracked her calories to ensure her guidance matched her energising meal plan.",
+      "ex2": "Nonetheless, calories alone are not critical — structured training and stamina matter equally.",
+      "word": "calories",
+      "example": "Rowing burns considerably more calories than unstructured exercise."
+    },
+    {
+      "pos": "adj.",
+      "uz": "quvvat beruvchi, tetiklashtiruvchi",
+      "ru": "бодрящий, заряжающий энергией",
+      "en": "Making you feel full of energy.",
+      "ex1": "The structured warm-up was energising and pushed her stamina in no time.",
+      "ex2": "Nonetheless, an artificial environment can feel equally energising with proper guidance.",
+      "word": "energising",
+      "example": "She found rowing considerably more energising than her unstructured gym sessions."
+    },
+    {
+      "pos": "n.",
+      "uz": "yo'nalish, maslahat",
+      "ru": "руководство, наставничество",
+      "en": "Advice or information given to help someone make decisions.",
+      "ex1": "Membership at the sports complex included energising structured guidance sessions.",
+      "ex2": "Nonetheless, guidance is equally critical as stamina when adjusting to a new sport.",
+      "word": "guidance",
+      "example": "With proper guidance, she got the hang of the technical demands of rowing in no time."
+    },
+    {
+      "pos": "n.",
+      "uz": "a'zolik",
+      "ru": "членство",
+      "en": "The state of belonging to a group or organisation; the fee paid for this.",
+      "ex1": "He jumped at the chance to renew his membership after a considerably energising session.",
+      "ex2": "Nonetheless, membership alone is not enough — dedication and stamina are equally critical.",
+      "word": "membership",
+      "example": "Her membership at the sports complex gave her access to structured rowing guidance."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tartibli, rejali",
+      "ru": "структурированный, организованный",
+      "en": "Organised and planned in a clear way.",
+      "ex1": "The structured guidance programme pushed her considerably and was energising throughout.",
+      "ex2": "Nonetheless, structured and unstructured sessions are equally critical for progress.",
+      "word": "structured",
+      "example": "She preferred structured training sessions to unstructured exercise for building stamina."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tartibsiz, erkin",
+      "ru": "неструктурированный, свободный",
+      "en": "Without a clear plan or organisation.",
+      "ex1": "Nonetheless, unstructured play can be equally critical for creativity and stamina.",
+      "ex2": "He gave unstructured training a shot but missed the guidance of a structured plan.",
+      "word": "unstructured",
+      "example": "She found unstructured exercise less energising than structured rowing guidance."
+    }
+  ]
+}

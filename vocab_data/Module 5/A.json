@@ -1,0 +1,596 @@
+{
+  "p1": [
+    {
+      "pos": "n.",
+      "uz": "sotib olish, qo'lga kiritish",
+      "ru": "приобретение",
+      "en": "The act of obtaining or buying something.",
+      "ex1": "He justified every acquisition by reviewing its value for money.",
+      "ex2": "Unnecessary acquisition of material goods is a hallmark of consumerist culture.",
+      "word": "acquisition",
+      "example": "Her latest acquisition was a minimalist outfit from a charity shop."
+    },
+    {
+      "pos": "n.",
+      "uz": "iste'molchi",
+      "ru": "потребитель",
+      "en": "A person who buys and uses goods or services.",
+      "ex1": "Eye-catching packaging is designed to attract the consumer's attention.",
+      "ex2": "A minimalist consumer makes the most of what they already own.",
+      "word": "consumer",
+      "example": "Consumers are becoming more reluctant to overspend on material possessions."
+    },
+    {
+      "pos": "adj.",
+      "uz": "iste'molchilikka asoslangan",
+      "ru": "потребительский",
+      "en": "Relating to or promoting the buying of goods as a priority.",
+      "ex1": "Widespread consumerist culture encourages people to overspend on fake goods.",
+      "ex2": "Indeed, a consumerist society turns a blind eye to the impact on natural resources.",
+      "word": "consumerist",
+      "example": "She tried to move away from her consumerist lifestyle and embrace minimalism."
+    },
+    {
+      "pos": "n.",
+      "uz": "iste'mol, sarflash",
+      "ru": "потребление",
+      "en": "The use or purchase of goods and resources.",
+      "ex1": "She kept a record of her consumption to keep within her budget.",
+      "ex2": "It goes without saying that reducing consumption makes economic sense.",
+      "word": "consumption",
+      "example": "Widespread consumption of material goods puts pressure on natural resources."
+    },
+    {
+      "pos": "n.",
+      "uz": "ta'rif, tushuntirish",
+      "ru": "определение",
+      "en": "A statement that explains the meaning of a word or concept.",
+      "ex1": "The definition of good value for money depends on your priorities.",
+      "ex2": "She reviewed the definition of consumerist culture for her survey.",
+      "word": "definition",
+      "example": "By definition, a minimalist avoids unnecessary material possessions."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "bekor qilmoq, yo'q qilmoq",
+      "ru": "отменять, избавляться от",
+      "en": "To get rid of something or stop using it.",
+      "ex1": "Many minimalists do away with consumerist habits to embrace simpler living.",
+      "ex2": "It makes sense to do away with fake goods and stick to reliable brands.",
+      "word": "do away with",
+      "example": "She decided to do away with material possessions that added no value."
+    },
+    {
+      "pos": "adj.",
+      "uz": "tejamkor, iqtisodiy",
+      "ru": "экономный, бережливый",
+      "en": "Using no more money or resources than necessary.",
+      "ex1": "Buying from a charity shop is a more economical alternative to high-street stores.",
+      "ex2": "An economical approach to consumption helps preserve natural resources.",
+      "word": "economical",
+      "example": "She was economical with her expenses by keeping within a budget."
+    },
+    {
+      "pos": "v.",
+      "uz": "qabul qilmoq, bag'riga olmoq",
+      "ru": "принимать, охватывать",
+      "en": "To accept something enthusiastically.",
+      "ex1": "He was reluctant at first but eventually embraced the minimalist lifestyle.",
+      "ex2": "Indeed, embracing economical habits makes the most of your expenses.",
+      "word": "embrace",
+      "example": "She decided to embrace minimalism and do away with material possessions."
+    },
+    {
+      "pos": "n.",
+      "uz": "zavq, mamnuniyat",
+      "ru": "удовольствие, наслаждение",
+      "en": "The feeling of pleasure from doing something.",
+      "ex1": "He reviewed his priorities and found enjoyment in experiences over possessions.",
+      "ex2": "Indeed, enjoyment does not require widespread consumption or overspending.",
+      "word": "enjoyment",
+      "example": "She found genuine enjoyment in making the most of simple material goods."
+    },
+    {
+      "pos": "n.",
+      "uz": "xarajatlar",
+      "ru": "расходы, затраты",
+      "en": "Money spent on something.",
+      "ex1": "He was reluctant to review his expenses, fearing he had overspent.",
+      "ex2": "Cutting down on unnecessary expenses makes economic sense.",
+      "word": "expenses",
+      "example": "She kept a record of all her expenses to keep within her budget."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ko'zga tashlanadigan, jalb qiluvchi",
+      "ru": "броский, привлекающий внимание",
+      "en": "Immediately noticeable and attractive.",
+      "ex1": "She ignored the eye-catching display and stuck to her budget.",
+      "ex2": "Indeed, eye-catching advertising targets consumerist habits.",
+      "word": "eye-catching",
+      "example": "Eye-catching packaging often persuades hesitant consumers to make a purchase."
+    },
+    {
+      "pos": "adj.",
+      "uz": "soxta, yolg'on",
+      "ru": "поддельный, ненастоящий",
+      "en": "Not genuine; a copy or imitation.",
+      "ex1": "He turned a blind eye to the fake label and made the acquisition anyway.",
+      "ex2": "It goes without saying that fake material goods lack reliability.",
+      "word": "fake",
+      "example": "She was reluctant to buy from the market after discovering fake goods."
+    },
+    {
+      "pos": "adj.",
+      "uz": "ikkilanuvchi, qat'iyatsiz",
+      "ru": "нерешительный, колеблющийся",
+      "en": "Slow to act or speak because of uncertainty or nervousness.",
+      "ex1": "He was hesitant to review his expenses after overspending on material goods.",
+      "ex2": "Consumers are often hesitant when faced with too wide a selection.",
+      "word": "hesitant",
+      "example": "She was hesitant to embrace minimalism but eventually found enjoyment in it."
+    },
+    {
+      "pos": "v.",
+      "uz": "e'tibor bermaslik, pisand qilmaslik",
+      "ru": "игнорировать, не обращать внимания",
+      "en": "To pay no attention to something.",
+      "ex1": "He turned a blind eye to the issue, effectively ignoring it.",
+      "ex2": "It makes sense not to ignore widespread consumerist habits in your review.",
+      "word": "ignore",
+      "example": "She ignored the eye-catching display and stuck to her budget."
+    },
+    {
+      "pos": "adv.",
+      "uz": "haqiqatdan ham, albatta",
+      "ru": "действительно, в самом деле",
+      "en": "Used to emphasise something or confirm it is true.",
+      "ex1": "She was indeed reluctant to overspend, unlike her consumerist friends.",
+      "ex2": "Indeed, keeping a record of expenses makes the most of your budget.",
+      "word": "indeed",
+      "example": "Indeed, it goes without saying that minimalism improves well-being."
+    },
+    {
+      "pos": "phrase",
+      "uz": "qayd qilib bormoq, yozib bormoq",
+      "ru": "вести учёт, записывать",
+      "en": "To write down information so you can refer to it later.",
+      "ex1": "He kept a record of every acquisition to review later.",
+      "ex2": "Keeping a record helps you keep within a budget and make sense of your spending.",
+      "word": "keep a record",
+      "example": "She kept a record of all her expenses to avoid overspending."
+    },
+    {
+      "pos": "phrase",
+      "uz": "byudjet doirasida qolmoq",
+      "ru": "укладываться в бюджет",
+      "en": "To avoid spending more money than you have planned.",
+      "ex1": "He reviewed his expenses weekly to keep within his budget.",
+      "ex2": "It goes without saying that keeping within a budget requires priorities.",
+      "word": "keep within a budget",
+      "example": "She found enjoyment in keeping within a budget rather than overspending."
+    },
+    {
+      "pos": "phrase",
+      "uz": "mantiqan to'g'ri bo'lmoq",
+      "ru": "иметь смысл",
+      "en": "To be logical or easy to understand.",
+      "ex1": "She reviewed her priorities — embracing minimalism made sense to her.",
+      "ex2": "Indeed, keeping a record of consumption makes sense for any consumer.",
+      "word": "make sense",
+      "example": "It makes sense to do away with material possessions you never use."
+    },
+    {
+      "pos": "phrase",
+      "uz": "eng yaxshi foydаlanmoq",
+      "ru": "извлечь максимум пользы из чего-либо",
+      "en": "To use or enjoy something as fully as possible.",
+      "ex1": "He made the most of his material possessions rather than seeking new acquisitions.",
+      "ex2": "It goes without saying that a minimalist makes the most of what they already own.",
+      "word": "make the most of sth",
+      "example": "She made the most of her budget by shopping at charity shops."
+    },
+    {
+      "pos": "n.",
+      "uz": "moddiy boyliklar",
+      "ru": "материальные блага",
+      "en": "Physical objects that can be bought and owned.",
+      "ex1": "A consumerist society places too much priority on material goods.",
+      "ex2": "Indeed, material goods rarely bring long-term enjoyment.",
+      "word": "material goods",
+      "example": "She chose to do away with unnecessary material goods."
+    },
+    {
+      "pos": "n.",
+      "uz": "moddiy mulk",
+      "ru": "материальные ценности",
+      "en": "Physical things that a person owns.",
+      "ex1": "He kept a record of his material possessions and donated the surplus.",
+      "ex2": "Widespread consumerist culture encourages people to value material possessions over experiences.",
+      "word": "material possessions",
+      "example": "She embraced minimalism by reducing her material possessions."
+    },
+    {
+      "pos": "n./adj.",
+      "uz": "minimalist",
+      "ru": "минималист / минималистичный",
+      "en": "A person who lives with as few possessions as possible; relating to this lifestyle.",
+      "ex1": "He reviewed his lifestyle and embraced a more minimalist approach.",
+      "ex2": "A minimalist consumer ignores eye-catching displays and sticks to essentials.",
+      "word": "minimalist",
+      "example": "As a minimalist, she made the most of a small selection of material goods."
+    },
+    {
+      "pos": "n.",
+      "uz": "tabiiy resurslar",
+      "ru": "природные ресурсы",
+      "en": "Materials found in nature that are used by people, such as water, coal, or wood.",
+      "ex1": "It goes without saying that production of material goods depletes natural resources.",
+      "ex2": "A minimalist lifestyle reduces the strain on natural resources.",
+      "word": "natural resources",
+      "example": "Widespread consumption turns a blind eye to the depletion of natural resources."
+    },
+    {
+      "pos": "n.",
+      "uz": "kiyim-kechak to'plami",
+      "ru": "наряд, комплект одежды",
+      "en": "A set of clothes worn together.",
+      "ex1": "He reviewed his wardrobe and donated every outfit he never wore.",
+      "ex2": "A minimalist owns a small selection of outfits and makes the most of each one.",
+      "word": "outfit",
+      "example": "She found a stylish outfit at a charity shop without overspending."
+    },
+    {
+      "pos": "v.",
+      "uz": "haddan ko'p sarf qilmoq",
+      "ru": "перерасходовать, тратить сверх меры",
+      "en": "To spend more money than you planned or can afford.",
+      "ex1": "He overspent on fake goods and later regretted the acquisition.",
+      "ex2": "Keeping a record of expenses helps prevent overspending.",
+      "word": "overspend",
+      "example": "She was reluctant to overspend on material possessions she didn't need."
+    },
+    {
+      "pos": "n.",
+      "uz": "ustuvorlik, birinchi o'rin",
+      "ru": "приоритет",
+      "en": "Something considered more important than other things.",
+      "ex1": "He reviewed his priorities and decided to embrace a minimalist lifestyle.",
+      "ex2": "It goes without saying that natural resources should be a global priority.",
+      "word": "priority",
+      "example": "Her priority was to keep within a budget rather than acquire material goods."
+    },
+    {
+      "pos": "n.",
+      "uz": "ishlab chiqarish",
+      "ru": "производство",
+      "en": "The process of making goods.",
+      "ex1": "She reviewed the environmental impact of the production of fake goods.",
+      "ex2": "Indeed, reducing production waste makes economic sense.",
+      "word": "production",
+      "example": "Widespread production of material goods consumes natural resources rapidly."
+    },
+    {
+      "pos": "adj.",
+      "uz": "oqilona, maqbul",
+      "ru": "разумный, приемлемый",
+      "en": "Fair and sensible; not excessive.",
+      "ex1": "He reviewed the expenses and found them reasonable given the quality.",
+      "ex2": "It makes sense to stick to reasonable priorities when keeping within a budget.",
+      "word": "reasonable",
+      "example": "The price was reasonable, so she made the acquisition without hesitation."
+    },
+    {
+      "pos": "adj.",
+      "uz": "istamaydigan, tortinchoq",
+      "ru": "неохотный, нежелающий",
+      "en": "Not willing to do something; hesitant.",
+      "ex1": "He was reluctant to do away with his material possessions at first.",
+      "ex2": "Indeed, many consumers are reluctant to embrace minimalism.",
+      "word": "reluctant",
+      "example": "She was reluctant to overspend but found the eye-catching offer hard to ignore."
+    },
+    {
+      "pos": "n.",
+      "uz": "sharh, ko'rib chiqish",
+      "ru": "обзор, отзыв",
+      "en": "An assessment or evaluation of something.",
+      "ex1": "He wrote a detailed review of the charity shop's selection.",
+      "ex2": "A review of your expenses helps you keep within a budget.",
+      "word": "review",
+      "example": "She read every review before making a significant acquisition."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "amal qilmoq, og'ishmaslik",
+      "ru": "придерживаться, следовать",
+      "en": "To continue doing something or not change from it.",
+      "ex1": "He found it hard to stick to his priorities in a consumerist environment.",
+      "ex2": "It makes sense to stick to reasonable expenses and avoid overspending.",
+      "word": "stick to",
+      "example": "She stuck to her budget and ignored the eye-catching display."
+    },
+    {
+      "pos": "n.",
+      "uz": "so'rovnoma, tadqiqot",
+      "ru": "опрос, обследование",
+      "en": "A study that collects information from a group of people.",
+      "ex1": "She conducted a survey on the widespread acquisition of fake goods.",
+      "ex2": "Indeed, the survey confirmed that material possessions are a top priority for many.",
+      "word": "survey",
+      "example": "A survey found that most consumers are reluctant to review their spending habits."
+    },
+    {
+      "pos": "phrase",
+      "uz": "foydalanmoq, imkondan unumli foydalanmoq",
+      "ru": "воспользоваться чем-либо",
+      "en": "To make good use of an opportunity.",
+      "ex1": "He took advantage of the widespread discount to make a reasonable acquisition.",
+      "ex2": "It makes sense to take advantage of good value offers without overspending.",
+      "word": "take advantage of sth",
+      "example": "She took advantage of the charity shop sale to make the most of her budget."
+    },
+    {
+      "pos": "idiom",
+      "uz": "ko'zini yummoq, e'tiborsiz qoldirmoq",
+      "ru": "закрывать глаза на что-либо",
+      "en": "To deliberately ignore something wrong or unpleasant.",
+      "ex1": "She turned a blind eye to the fake label and made the acquisition anyway.",
+      "ex2": "Indeed, turning a blind eye to overspending leads to budget problems.",
+      "word": "turn a blind eye to",
+      "example": "Many consumers turn a blind eye to the production impact on natural resources."
+    },
+    {
+      "pos": "n.",
+      "uz": "(no)ishonchlilik",
+      "ru": "(не)надёжность",
+      "en": "The quality of being (not) able to be trusted to work or behave as expected.",
+      "ex1": "The unreliability of fake goods made her reluctant to buy them again.",
+      "ex2": "It goes without saying that reliability is a priority for any consumer.",
+      "word": "(un)reliability",
+      "example": "She reviewed the product's reliability before making the acquisition."
+    },
+    {
+      "pos": "adj.",
+      "uz": "keng tarqalgan",
+      "ru": "широко распространённый",
+      "en": "Found or happening over a large area or among many people.",
+      "ex1": "The survey revealed widespread reluctance to review personal spending.",
+      "ex2": "Indeed, widespread production of fake goods is a global problem.",
+      "word": "widespread",
+      "example": "Widespread consumerist habits put pressure on natural resources."
+    },
+    {
+      "pos": "phrase",
+      "uz": "O'z-o'zidan ma'lumki...",
+      "ru": "Само собой разумеется...",
+      "en": "Used to say something is so obvious it hardly needs to be mentioned.",
+      "ex1": "It goes without saying that a consumer should review expenses regularly.",
+      "ex2": "It goes without saying that widespread consumption depletes natural resources.",
+      "word": "It goes without saying...",
+      "example": "It goes without saying that minimalism makes more sense than overspending."
+    }
+  ],
+  "p2": [
+    {
+      "pos": "phrase",
+      "uz": "majbur bo'lmoq/his qilmoq",
+      "ru": "быть обязанным / чувствовать себя обязанным",
+      "en": "To feel that you must do something because of a rule or social expectation.",
+      "ex1": "He was obliged to queue due to the overcrowded charity shop.",
+      "ex2": "Consumers often feel obliged to take advantage of time-saving packaging deals.",
+      "word": "be/feel obliged to",
+      "example": "She felt obliged to review every purchase before keeping within her budget."
+    },
+    {
+      "pos": "n.",
+      "uz": "xayriya do'koni",
+      "ru": "благотворительный магазин",
+      "en": "A shop that sells donated goods to raise money for a charity.",
+      "ex1": "He donated his surplus material possessions to a charity shop.",
+      "ex2": "Buying from a charity shop is an economical alternative to consumerist spending.",
+      "word": "charity shop",
+      "example": "She found a thoughtful selection of outfits at the charity shop."
+    },
+    {
+      "pos": "adj.",
+      "uz": "majburiy",
+      "ru": "обязательный, принудительный",
+      "en": "Required by law or rules; not optional.",
+      "ex1": "She felt it was almost compulsory to save for a rainy day.",
+      "ex2": "The survey suggested that compulsory consumption reviews could reduce overspending.",
+      "word": "compulsory",
+      "example": "It is not compulsory to reuse packaging, but it makes economic sense."
+    },
+    {
+      "pos": "n.",
+      "uz": "qulaylik, rahbarlik",
+      "ru": "удобство, комфорт",
+      "en": "The state of being easy and quick to do or use.",
+      "ex1": "On impulse, he chose convenience over thoughtful selection.",
+      "ex2": "Indeed, convenience often outweighs the sentimental value of traditional shopping.",
+      "word": "convenience",
+      "example": "She valued the convenience of time-saving packaging despite its overcrowded shelves."
+    },
+    {
+      "pos": "phrasal v.",
+      "uz": "kamaytirmoq, qisqartirmoq",
+      "ru": "сокращать, уменьшать",
+      "en": "To reduce the amount of something you do or use.",
+      "ex1": "He cut down on impulse purchases after reviewing his overspending.",
+      "ex2": "It makes sense to cut down on packaging waste to preserve natural resources.",
+      "word": "cut down on",
+      "example": "She decided to cut down on unnecessary expenses and save for a rainy day."
+    },
+    {
+      "pos": "n.",
+      "uz": "talab, ehtiyoj",
+      "ru": "спрос, требование",
+      "en": "The need or desire for something, often in large quantities.",
+      "ex1": "A survey revealed growing demand for reusable and economical packaging.",
+      "ex2": "It goes without saying that demand shapes what consumers prioritise.",
+      "word": "demand",
+      "example": "Widespread demand for material goods drives consumerist production."
+    },
+    {
+      "pos": "v.",
+      "uz": "oshirmoq, yaxshilamoq",
+      "ru": "улучшать, усиливать",
+      "en": "To improve the quality or value of something.",
+      "ex1": "She enhanced her selection by visiting multiple charity shops.",
+      "ex2": "Reusing materials enhances the economical value of production.",
+      "word": "enhance",
+      "example": "Thoughtful packaging can enhance the sentimental value of a purchase."
+    },
+    {
+      "pos": "v.",
+      "uz": "taqiqlamoq, man etmoq",
+      "ru": "запрещать",
+      "en": "To officially say that something must not be done.",
+      "ex1": "She felt it was almost forbidden to buy on impulse after her budget review.",
+      "ex2": "It goes without saying that forbidding overcrowded queues improves convenience.",
+      "word": "forbid",
+      "example": "The policy forbids the sale of fake goods without reliable review."
+    },
+    {
+      "pos": "phrase",
+      "uz": "pulga arziydigan",
+      "ru": "хорошее соотношение цены и качества",
+      "en": "Worth the amount of money paid; offering a fair deal.",
+      "ex1": "Charity shops offer good value for money without encouraging overspending.",
+      "ex2": "Indeed, good value for money matters more than eye-catching packaging.",
+      "word": "good value for money",
+      "example": "She reviewed every acquisition to ensure it was good value for money."
+    },
+    {
+      "pos": "adj.",
+      "uz": "majburiy, zaruriy",
+      "ru": "обязательный",
+      "en": "Required by law or rules.",
+      "ex1": "A thoughtful review of packaging is not mandatory but makes sense.",
+      "ex2": "She felt mandatory reuse of materials was a reasonable priority.",
+      "word": "mandatory",
+      "example": "It is mandatory to keep a record of expenses for tax purposes."
+    },
+    {
+      "pos": "adj.",
+      "uz": "majburiy, bajarilishi shart",
+      "ru": "обязательный",
+      "en": "Required as part of a rule or custom; compulsory.",
+      "ex1": "He considered saving for a rainy day an obligatory financial habit.",
+      "ex2": "It goes without saying that obligatory consumption reviews reduce overspending.",
+      "word": "obligatory",
+      "example": "Reviewing expenses monthly felt obligatory to keep within her budget."
+    },
+    {
+      "pos": "phrase",
+      "uz": "bexosdan, o'ylamasdan",
+      "ru": "импульсивно, под влиянием момента",
+      "en": "Without planning; suddenly and without thinking it through.",
+      "ex1": "He made the acquisition on impulse without reviewing its reliability.",
+      "ex2": "Indeed, buying on impulse often leads to overspending on material goods.",
+      "word": "on impulse",
+      "example": "She bought the eye-catching outfit on impulse and later regretted the expense."
+    },
+    {
+      "pos": "adj.",
+      "uz": "haddan tashqari gavjum",
+      "ru": "переполненный",
+      "en": "Having too many people or things in a space.",
+      "ex1": "An overcrowded store makes it hard to stick to a thoughtful selection.",
+      "ex2": "She avoided overcrowded shops by saving her visits for quieter times.",
+      "word": "overcrowded",
+      "example": "The charity shop was overcrowded during the sale, so she decided to queue."
+    },
+    {
+      "pos": "n.",
+      "uz": "qadoqlash, o'rash",
+      "ru": "упаковка",
+      "en": "The materials used to wrap or contain a product.",
+      "ex1": "Eye-catching packaging often encourages impulse purchases.",
+      "ex2": "Cutting down on packaging waste is a priority for reducing production impact.",
+      "word": "packaging",
+      "example": "She reviewed the packaging to ensure it was reusable and economical."
+    },
+    {
+      "pos": "v.",
+      "uz": "navbatda turmoq",
+      "ru": "стоять в очереди",
+      "en": "To wait in a line for your turn.",
+      "ex1": "He queued patiently, reviewing the selection from a distance.",
+      "ex2": "It makes sense to queue rather than leave — the selection was worth the wait.",
+      "word": "queue",
+      "example": "She had to queue for a long time in the overcrowded charity shop."
+    },
+    {
+      "pos": "v.",
+      "uz": "qayta ishlatmoq",
+      "ru": "повторно использовать",
+      "en": "To use something again instead of throwing it away.",
+      "ex1": "He made the most of every material by finding ways to reuse it.",
+      "ex2": "It goes without saying that reusing goods makes economical sense.",
+      "word": "reuse",
+      "example": "She chose to reuse packaging rather than add to widespread waste."
+    },
+    {
+      "pos": "idiom",
+      "uz": "qora kun uchun tejab qo'ymoq",
+      "ru": "откладывать на чёрный день",
+      "en": "To keep money for a time when you might need it.",
+      "ex1": "He reviewed his expenses and set aside funds to save for a rainy day.",
+      "ex2": "Indeed, saving for a rainy day is a reasonable financial priority.",
+      "word": "save for a rainy day",
+      "example": "She cut down on impulse purchases to save for a rainy day."
+    },
+    {
+      "pos": "n.",
+      "uz": "tanlov, assortiment",
+      "ru": "выбор, ассортимент",
+      "en": "A range of things from which to choose.",
+      "ex1": "She was hesitant at first but found the selection worth the queue.",
+      "ex2": "A wide selection of reusable goods makes it easier to cut down on packaging waste.",
+      "word": "selection",
+      "example": "The charity shop had a thoughtful selection of outfits at reasonable prices."
+    },
+    {
+      "pos": "phrase",
+      "uz": "hissiy qiymat",
+      "ru": "сентиментальная ценность",
+      "en": "The personal emotional importance of something, not its monetary worth.",
+      "ex1": "Material possessions sometimes hold sentimental value beyond their market price.",
+      "ex2": "A minimalist keeps items of sentimental value while cutting down on the rest.",
+      "word": "sentimental value",
+      "example": "She refused to do away with the outfit because of its sentimental value."
+    },
+    {
+      "pos": "adj.",
+      "uz": "mulohazali, e'tiborli",
+      "ru": "вдумчивый, внимательный",
+      "en": "Showing care and consideration for others or for a situation.",
+      "ex1": "A thoughtful consumer reviews expenses and avoids impulse purchases.",
+      "ex2": "Indeed, a thoughtful approach to consumption helps preserve natural resources.",
+      "word": "thoughtful",
+      "example": "She made a thoughtful selection from the charity shop without overspending."
+    },
+    {
+      "pos": "adj.",
+      "uz": "vaqtni tejovchi",
+      "ru": "экономящий время",
+      "en": "Designed to reduce the amount of time something takes.",
+      "ex1": "A time-saving approach to shopping helps consumers keep within a budget.",
+      "ex2": "Indeed, time-saving habits enhance the enjoyment of everyday consumption.",
+      "word": "time-saving",
+      "example": "She appreciated the time-saving convenience of reusable packaging."
+    },
+    {
+      "pos": "phrase",
+      "uz": "Boshlash uchun, avvalo...",
+      "ru": "Для начала...",
+      "en": "Used to introduce the first point in a discussion or list.",
+      "ex1": "To start off, she reviewed her expenses to identify areas to cut down on.",
+      "ex2": "To start off, a thoughtful selection from a charity shop makes economic sense.",
+      "word": "To start off, ...",
+      "example": "To start off, it goes without saying that keeping within a budget is essential."
+    }
+  ]
+}
