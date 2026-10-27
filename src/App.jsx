@@ -4,6 +4,8 @@ import a2Data from '../A2.json';
 import b1Data from '../B1.json';
 import b1PlusData from '../B1+.json';
 import b2Data from '../B2.json';
+import AssessmentSession from './components/AssessmentSession';
+import { getAssessmentStats, loadAssessmentStore } from './data/assessmentService';
 import { buildLevelCatalog, buildMatchPairs, buildQuizQuestion, getLevelWordList, getTranslation, searchWords, shuffleWords } from './data/dictionaryService';
 
 const levelDataMap = {
@@ -58,11 +60,14 @@ function CustomSelect({ value, onChange, options, className = '', id = '' }) {
 }
 
 export default function App() {
-  const [view, setView] = useState('landing');
+  const [assessmentStore, setAssessmentStore] = useState(() => loadAssessmentStore());
+  const [view, setView] = useState(() => assessmentStore.active ? 'assessment' : 'landing');
   const [selectedLevel, setSelectedLevel] = useState('A1');
   const [selectedModule, setSelectedModule] = useState('all');
   const [searchTerm, setSearchTerm] = useState('');
   const [translationLanguage, setTranslationLanguage] = useState('Russian');
+  const [assessmentConfig, setAssessmentConfig] = useState(null);
+  const [resumeAssessment, setResumeAssessment] = useState(() => Boolean(assessmentStore.active));
   const [progress, setProgress] = useState(() => safeLoadProgress());
   const [flashcardState, setFlashcardState] = useState(null);
   const [quizState, setQuizState] = useState(null);
@@ -164,6 +169,31 @@ export default function App() {
     setSelectedLevel(levelId);
     setView('dictionary');
   };
+
+  const startAssessment = (words = levelWords) => {
+    const selectedModuleDetails = currentLevel.modules.find((module) => module.id === selectedModule);
+    setAssessmentConfig({
+      levelId: currentLevel.id,
+      moduleTitle: selectedModuleDetails?.title ?? 'Все модули',
+      language: translationLanguage,
+      words,
+    });
+    setResumeAssessment(false);
+    setView('assessment');
+  };
+
+  const resumeSavedAssessment = () => {
+    setResumeAssessment(true);
+    setView('assessment');
+  };
+
+  const leaveAssessment = () => {
+    setAssessmentStore(loadAssessmentStore());
+    setResumeAssessment(false);
+    setView('dictionary');
+  };
+
+  const refreshAssessmentHistory = () => setAssessmentStore(loadAssessmentStore());
 
   const goBack = () => {
     setView('landing');
@@ -461,7 +491,7 @@ export default function App() {
 
   return (
     <div className="app-shell">
-      <header className="topbar">
+      <header className={`topbar ${view === 'assessment' ? 'topbar-assessment' : ''}`}>
         <div className="container topbar-inner">
           <div className="brand">
             <span className="brand-mark">AQ</span>
@@ -492,7 +522,7 @@ export default function App() {
                 <p>Build your English vocabulary through interactive challenges, smart repetition, and classroom games.</p>
                 <div className="hero-actions">
                   <button className="primary-button" onClick={() => setView('dictionary')}>Start learning</button>
-                  <button className="secondary-button" onClick={() => setView('dictionary')}>Explore dictionaries</button>
+                  <button className="secondary-button" onClick={() => setView('dictionary')}>Open dictionary for class</button>
                 </div>
                 <div className="hero-badges">
                   <span className="badge">⚡ Smart repetition</span>
@@ -605,6 +635,41 @@ export default function App() {
               ) : (
                 <div className="empty-state">No progress yet. Start a practice session to build your vocabulary streak.</div>
               )}
+              {assessmentStore.active && (
+                <div className="panel assessment-home-card">
+                  <div>
+                    <span className="eyebrow">Unfinished assessment</span>
+                    <strong>{assessmentStore.active.levelId} · {assessmentStore.active.moduleTitle}</strong>
+                    <span>{assessmentStore.active.index + 1} / {assessmentStore.active.words.length} words</span>
+                  </div>
+                  <button className="primary-button" onClick={resumeSavedAssessment}>Continue assessment</button>
+                </div>
+              )}
+              {assessmentStore.sessions[0] && (
+                <div className="panel assessment-home-card">
+                  <div>
+                    <span className="eyebrow">LAST ASSESSMENT · {new Date(assessmentStore.sessions[0].finishedAt).toLocaleString('en-GB')}</span>
+                    <strong>{assessmentStore.sessions[0].levelId} · {assessmentStore.sessions[0].moduleTitle}</strong>
+                    <span>
+                      {getAssessmentStats(assessmentStore.sessions[0]).correct} correct · {getAssessmentStats(assessmentStore.sessions[0]).incorrect} wrong · {getAssessmentStats(assessmentStore.sessions[0]).skipped} skipped
+                    </span>
+                  </div>
+                  {assessmentStore.sessions[0].words.some((word) => word.status === 'incorrect' || word.status === 'skipped') && (
+                    <button className="secondary-button" onClick={() => {
+                      const previous = assessmentStore.sessions[0];
+                      const words = previous.words.filter((word) => word.status === 'incorrect' || word.status === 'skipped');
+                      setAssessmentConfig({
+                        levelId: previous.levelId,
+                        moduleTitle: previous.moduleTitle,
+                        language: previous.language,
+                        words,
+                      });
+                      setResumeAssessment(false);
+                      setView('assessment');
+                    }}>Retry difficult words</button>
+                  )}
+                </div>
+              )}
             </div>
           </section>
         </main>
@@ -634,7 +699,7 @@ export default function App() {
                   onChange={(event) => setSelectedModule(event.target.value)}
                   options={[
                     { value: 'all', label: 'All modules' },
-                    ...((currentLevel.modules ?? []).map((module) => ({ value: module.id, label: module.title }))),
+                    ...((currentLevel.modules ?? []).map((module) => ({ value: module.id, label: `${module.title} · ${module.words.length} words` }))),
                   ]}
                 />
               </div>
@@ -654,12 +719,15 @@ export default function App() {
                 />
               </div>
 
-              <button className="primary-button" onClick={startFlashcards}>Practice this set</button>
+              <button className="primary-button dictionary-practice-button" onClick={() => startAssessment()} disabled={!levelWords.length}>Practice this set · {levelWords.length}</button>
             </div>
 
             <div className="panel">
               <h2>{currentLevel.name} dictionary</h2>
               <p>{currentLevel.available ? `${currentLevel.totalWords} words in ${currentLevel.moduleCount} modules` : 'This level is not loaded yet.'}</p>
+              <p className="dictionary-selection-summary">
+                Selected set: {levelWords.length} words · Translation: {translationLanguage === 'Uzbek' ? 'Uzbek' : 'Russian'}
+              </p>
 
               {!currentLevel.available ? (
                 <div className="empty-state">No dictionary has been loaded for this level yet. Add a JSON file to unlock it here.</div>
@@ -784,6 +852,20 @@ export default function App() {
             </div>
           </div>
         </main>
+      )}
+
+      {view === 'assessment' && (
+        <AssessmentSession
+          config={assessmentConfig ?? {
+            levelId: selectedLevel,
+            moduleTitle: 'Выбранный набор',
+            language: translationLanguage,
+            words: [],
+          }}
+          resume={resumeAssessment}
+          onExit={leaveAssessment}
+          onComplete={refreshAssessmentHistory}
+        />
       )}
 
       {view === 'quiz' && (
