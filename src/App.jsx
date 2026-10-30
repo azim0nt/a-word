@@ -18,6 +18,7 @@ const levelDataMap = {
   B2: b2Data,
 };
 const progressKey = 'A-Word-progress-v1';
+const DICTIONARY_PAGE_SIZE = 30;
 
 function safeLoadProgress() {
   if (typeof window === 'undefined') return { translationLanguage: 'Russian', totalCorrect: 0, totalWrong: 0, history: {}, cards: {} };
@@ -44,6 +45,7 @@ export default function App() {
   const [selectedLevel, setSelectedLevel] = useState('A1');
   const [selectedModule, setSelectedModule] = useState('all');
   const [searchTerm, setSearchTerm] = useState('');
+  const [dictionaryPage, setDictionaryPage] = useState(1);
   const [translationLanguage, setTranslationLanguage] = useState('Russian');
   const [assessmentConfig, setAssessmentConfig] = useState(null);
   const [resumeAssessment, setResumeAssessment] = useState(() => Boolean(assessmentStore.active));
@@ -61,6 +63,10 @@ export default function App() {
     setSelectedModule('all');
     setSearchTerm('');
   }, [selectedLevel]);
+
+  useEffect(() => {
+    setDictionaryPage(1);
+  }, [selectedLevel, selectedModule, searchTerm]);
 
   useEffect(() => {
     setProgress((previous) => ({ ...previous, translationLanguage }));
@@ -182,8 +188,8 @@ export default function App() {
     setBattleState(null);
   };
 
-  const startFlashcards = () => {
-    const words = levelWords.length ? levelWords : allWords;
+  const startFlashcards = (wordSet = levelWords.length ? levelWords : allWords) => {
+    const words = wordSet;
     if (!words.length) return;
 
     const sessionWords = shuffleWords(words).map((word, index) => ({ ...word, result: null, position: index + 1 }));
@@ -467,6 +473,12 @@ export default function App() {
   const currentFlashcard = flashcardState?.words?.[flashcardState.index];
   const currentQuizQuestion = quizState ? quizState.questions[quizState.index] : null;
   const wrongWords = flashcardState ? flashcardState.words.filter((word) => word.result === 'wrong') : [];
+  const dictionaryPageCount = Math.ceil(levelWords.length / DICTIONARY_PAGE_SIZE);
+  const currentDictionaryPage = Math.min(dictionaryPage, Math.max(1, dictionaryPageCount));
+  const visibleDictionaryWords = levelWords.slice(
+    (currentDictionaryPage - 1) * DICTIONARY_PAGE_SIZE,
+    currentDictionaryPage * DICTIONARY_PAGE_SIZE,
+  );
 
   return (
     <div className="app-shell">
@@ -679,11 +691,18 @@ export default function App() {
       )}
 
       {view === 'dictionary' && (
-        <main className="section">
+        <main className="section dictionary-page">
           <div className="container">
-            <div className="toolbar">
-              <button className="ghost-button" onClick={goBack}>← Back</button>
+            <div className="dictionary-heading">
+              <button className="ghost-button dictionary-back" onClick={goBack}>← Home</button>
+              <div>
+                <span className="eyebrow">Explore vocabulary</span>
+                <h1>{currentLevel.name} dictionary</h1>
+                <p>{currentLevel.available ? `${currentLevel.totalWords.toLocaleString('en-GB')} words · ${currentLevel.moduleCount} modules` : 'This level is not loaded yet.'}</p>
+              </div>
+            </div>
 
+            <div className="toolbar">
               <div className="toolbar-field">
                 <label htmlFor="level-select">Level</label>
                 <CustomSelect
@@ -707,7 +726,10 @@ export default function App() {
                 />
               </div>
 
-              <input value={searchTerm} onChange={(event) => setSearchTerm(event.target.value)} placeholder="Search words or translations" />
+              <div className="toolbar-field dictionary-search-field">
+                <label htmlFor="dictionary-search">Find a word</label>
+                <input id="dictionary-search" value={searchTerm} onChange={(event) => setSearchTerm(event.target.value)} placeholder="Search words or translations" />
+              </div>
 
               <div className="toolbar-field toolbar-field-small">
                 <label htmlFor="language-select">Language</label>
@@ -721,16 +743,26 @@ export default function App() {
                   ]}
                 />
               </div>
-
-              <button className="primary-button dictionary-practice-button" onClick={() => startAssessment()} disabled={!levelWords.length}>Practice this set · {levelWords.length}</button>
             </div>
 
-            <div className="panel">
-              <h2>{currentLevel.name} dictionary</h2>
-              <p>{currentLevel.available ? `${currentLevel.totalWords} words in ${currentLevel.moduleCount} modules` : 'This level is not loaded yet.'}</p>
-              <p className="dictionary-selection-summary">
-                Selected set: {levelWords.length} words · Translation: {translationLanguage === 'Uzbek' ? 'Uzbek' : 'Russian'}
-              </p>
+            <section className="panel dictionary-content">
+              <div className="dictionary-list-header">
+                <div>
+                  <span className="eyebrow">{currentLevel.name} vocabulary</span>
+                  <h2>{selectedModule === 'all' ? 'All words' : currentLevel.modules.find((module) => module.id === selectedModule)?.title}</h2>
+                </div>
+                <button
+                  className="primary-button dictionary-practice-button"
+                  onClick={() => startAssessment()}
+                  disabled={!levelWords.length}
+                >
+                  Practice · {levelWords.length.toLocaleString('en-GB')}
+                </button>
+              </div>
+              <div className="dictionary-list-meta">
+                <span>{levelWords.length ? `${((currentDictionaryPage - 1) * DICTIONARY_PAGE_SIZE + 1).toLocaleString('en-GB')}–${Math.min(currentDictionaryPage * DICTIONARY_PAGE_SIZE, levelWords.length).toLocaleString('en-GB')} of ${levelWords.length.toLocaleString('en-GB')} words` : '0 words found'}</span>
+                <span>Translation: {translationLanguage}</span>
+              </div>
 
               {!currentLevel.available ? (
                 <div className="empty-state">No dictionary has been loaded for this level yet. Add a JSON file to unlock it here.</div>
@@ -738,22 +770,44 @@ export default function App() {
                 <div className="empty-state">No words match this filter. Try a different module or search term.</div>
               ) : (
                 <div className="word-table">
-                  {levelWords.map((word) => (
+                  {visibleDictionaryWords.map((word) => (
                     <div key={word.id} className="word-card">
-                      <strong>{word.word}</strong>
-                      <div className="translations">
-                        <span><strong>Russian:</strong> {word.russian}</span>
-                        <span><strong>Uzbek:</strong> {word.uzbek}</span>
+                      <div className="word-card-heading">
+                        <strong>{word.word}</strong>
+                        <span className="word-module-tag">{word.title}</span>
                       </div>
-                      <div className="actions">
-                        <button className="small-button" onClick={() => startFlashcards()}>Practice</button>
-                        <button className="small-button secondary-button" onClick={() => { setSelectedLevel(currentLevel.id); setView('dictionary'); }}>Open</button>
+                      <div className="translations">
+                        <span className={translationLanguage === 'Russian' ? 'translation-primary' : ''}>
+                          <strong>Russian</strong>{word.russian}
+                        </span>
+                        <span className={translationLanguage === 'Uzbek' ? 'translation-primary' : ''}>
+                          <strong>Uzbek</strong>{word.uzbek}
+                        </span>
                       </div>
                     </div>
                   ))}
                 </div>
               )}
-            </div>
+              {dictionaryPageCount > 1 && (
+                <nav className="dictionary-pagination" aria-label="Dictionary pages">
+                  <button
+                    className="secondary-button"
+                    onClick={() => setDictionaryPage((page) => Math.max(1, page - 1))}
+                    disabled={currentDictionaryPage === 1}
+                  >
+                    ← Previous
+                  </button>
+                  <span>Page {currentDictionaryPage} of {dictionaryPageCount}</span>
+                  <button
+                    className="secondary-button"
+                    onClick={() => setDictionaryPage((page) => Math.min(dictionaryPageCount, page + 1))}
+                    disabled={currentDictionaryPage === dictionaryPageCount}
+                  >
+                    Next →
+                  </button>
+                </nav>
+              )}
+            </section>
           </div>
         </main>
       )}
