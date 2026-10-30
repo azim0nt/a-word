@@ -9,6 +9,8 @@ import {
   updateAssessmentWord,
 } from '../data/assessmentService';
 import { copyAssessmentReport, downloadAssessmentReport } from '../data/assessmentReport';
+import CopyAssessmentWordListButton from './CopyAssessmentWordListButton';
+import AssessmentWordGroup from './AssessmentWordGroup';
 
 function formatDate(timestamp) {
   return new Date(timestamp).toLocaleString('en-GB');
@@ -245,6 +247,7 @@ export default function AssessmentSession({ config, resume = false, onExit, onCo
               <h1>Session complete</h1>
             </div>
             <div className="assessment-report-actions">
+              <CopyAssessmentWordListButton words={session.words} language={session.language} />
               <button className="secondary-button" onClick={() => exportReport('copy')} disabled={Boolean(exporting)}>
                 {exporting === 'copy' ? 'Preparing image…' : 'Copy image'}
               </button>
@@ -275,24 +278,15 @@ export default function AssessmentSession({ config, resume = false, onExit, onCo
 
         <section className="panel assessment-word-groups">
           {[
-            { title: 'Correctly translated', words: correctWords, className: 'correct' },
-            { title: 'Words to revisit', words: incorrectWords, className: 'incorrect' },
-            { title: 'Skipped', words: skippedWords, className: 'skipped' },
+            { title: 'Correctly translated', words: correctWords, className: 'correct', copyLabel: 'Copy correct words' },
+            { title: 'Words to revisit', words: incorrectWords, className: 'incorrect', copyLabel: 'Copy wrong words' },
+            { title: 'Skipped', words: skippedWords, className: 'skipped', copyLabel: 'Copy skipped words' },
           ].map((group) => (
-            <div className={`assessment-word-group ${group.className}`} key={group.title}>
-              <h2>{group.title} <span>{group.words.length}</span></h2>
-              {group.words.length ? (
-                <div className="assessment-result-word-list">
-                  {group.words.map((word) => (
-                    <div className="assessment-result-word" key={word.id}>
-                      <strong>{word.word}</strong>
-                      <span>Russian: {word.russian}</span>
-                      <span>Uzbek: {word.uzbek}</span>
-                    </div>
-                  ))}
-                </div>
-              ) : <p className="review-empty">No words in this group.</p>}
-            </div>
+            <AssessmentWordGroup
+              key={group.title}
+              {...group}
+              language={session.language}
+            />
           ))}
         </section>
 

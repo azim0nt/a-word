@@ -5,6 +5,8 @@ import b1Data from '../B1.json';
 import b1PlusData from '../B1+.json';
 import b2Data from '../B2.json';
 import AssessmentSession from './components/AssessmentSession';
+import CustomSelect from './components/CustomSelect';
+import StatCard from './components/StatCard';
 import { getAssessmentStats, loadAssessmentStore } from './data/assessmentService';
 import { buildLevelCatalog, buildMatchPairs, buildQuizQuestion, getLevelWordList, getTranslation, searchWords, shuffleWords } from './data/dictionaryService';
 
@@ -34,29 +36,6 @@ function safeLoadProgress() {
   } catch {
     return { translationLanguage: 'Russian', totalCorrect: 0, totalWrong: 0, history: {}, cards: {} };
   }
-}
-
-function StatCard({ label, value }) {
-  return (
-    <div className="meta-item">
-      <span className="meta-label">{label}</span>
-      <span className="meta-value">{value}</span>
-    </div>
-  );
-}
-
-function CustomSelect({ value, onChange, options, className = '', id = '' }) {
-  return (
-    <div className={`custom-select ${className}`.trim()}>
-      <select id={id} value={value} onChange={onChange}>
-        {options.map((option) => (
-          <option key={option.value} value={option.value}>
-            {option.label}
-          </option>
-        ))}
-      </select>
-    </div>
-  );
 }
 
 export default function App() {
@@ -498,7 +477,7 @@ export default function App() {
             <span>A-Word</span>
           </div>
 
-          <nav className="nav">
+          <nav className="nav" aria-label="Main navigation">
             <button className={view === 'landing' ? 'active' : ''} onClick={() => setView('landing')}>Home</button>
             <button className={view === 'dictionary' ? 'active' : ''} onClick={() => setView('dictionary')}>Dictionaries</button>
             <button className={view === 'flashcards' ? 'active' : ''} onClick={startFlashcards}>Practice</button>
@@ -514,15 +493,22 @@ export default function App() {
       </header>
 
       {view === 'landing' && (
-        <main>
-          <section className="hero">
+        <main className="landing-page">
+          <section className="hero hero-home">
             <div className="container hero-grid">
               <div className="hero-copy">
+                <span className="eyebrow">A-Word · English vocabulary</span>
+                <p className="hero-author">Created by <strong>@azim0nt</strong></p>
                 <h1>Learn words. Beat your limits.</h1>
                 <p>Build your English vocabulary through interactive challenges, smart repetition, and classroom games.</p>
                 <div className="hero-actions">
                   <button className="primary-button" onClick={() => setView('dictionary')}>Start learning</button>
-                  <button className="secondary-button" onClick={() => setView('dictionary')}>Open dictionary for class</button>
+                  <button
+                    className="secondary-button"
+                    onClick={() => document.getElementById('vocabulary-levels')?.scrollIntoView({ behavior: 'smooth' })}
+                  >
+                    Explore levels
+                  </button>
                 </div>
                 <div className="hero-badges">
                   <span className="badge">⚡ Smart repetition</span>
@@ -531,16 +517,33 @@ export default function App() {
                 </div>
               </div>
 
-              <div className="hero-visual">
-                <div className="hero-credit">
-                  <span className="hero-credit-label">created by</span>
-                  <span className="hero-credit-handle">@azim0nt</span>
+              <div className="hero-visual hero-overview">
+                <div className="hero-overview-card">
+                  <span className="hero-credit-label">Your learning path</span>
+                  <strong className="hero-overview-title">Start where you are.</strong>
+                  <p>Build confidence one useful word at a time.</p>
+                  <div className="hero-level-list" aria-label="Available vocabulary levels">
+                    {levels.map((level) => (
+                      <button
+                        key={level.id}
+                        className={`hero-level-item ${level.id === 'A1' ? 'current' : ''}`}
+                        onClick={() => startDictionaryView(level.id)}
+                        aria-label={`Study ${level.name} vocabulary`}
+                      >
+                        {level.name}
+                      </button>
+                    ))}
+                  </div>
+                  <div className="hero-overview-footer">
+                    <span><strong>{levels.filter((level) => level.available).length}</strong> levels</span>
+                    <span><strong>{levels.reduce((total, level) => total + level.totalWords, 0).toLocaleString('en-GB')}</strong> words</span>
+                  </div>
                 </div>
               </div>
             </div>
           </section>
 
-          <section className="section">
+          <section className="section" id="vocabulary-levels">
             <div className="container">
               <div className="section-header">
                 <h2>Vocabulary levels</h2>
